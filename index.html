@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Daily FCE Reading Practice</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <main class="app-shell">
+    <header class="page-header">
+      <h1>Daily FCE Reading Practice</h1>
+      <p>Read the passage carefully and choose the best answer for each question.</p>
+    </header>
+
+    <section class="toolbar" aria-label="Reading controls">
+      <button id="archiveButton" class="secondary-button" type="button">Reading Archive</button>
+      <div class="reading-nav">
+        <button id="previousButton" class="secondary-button" type="button">Previous Reading</button>
+        <button id="nextButton" class="secondary-button" type="button">Next Reading</button>
+      </div>
+    </section>
+
+    <p id="notice" class="notice" role="status" aria-live="polite"></p>
+
+    <section id="archivePanel" class="card archive-panel hidden" aria-label="Reading Archive">
+      <div class="section-heading">
+        <h2>Reading Archive</h2>
+        <button id="closeArchiveButton" class="text-button" type="button">Close</button>
+      </div>
+      <div id="archiveList" class="archive-list"></div>
+    </section>
+
+    <section class="card reading-card">
+      <div class="reading-meta">
+        <span id="readingDate"></span>
+        <span id="readingLevel"></span>
+      </div>
+      <h2 id="readingTitle"></h2>
+
+      <div class="vocab-preview">
+        <h3>Key Vocabulary</h3>
+        <ul id="vocabPreviewList"></ul>
+      </div>
+
+      <article id="passageText" class="passage-text"></article>
+    </section>
+
+    <section id="translationSection" class="card translation-card hidden">
+      <h2>Chinese Translation</h2>
+      <article id="translationText" class="translation-text"></article>
+    </section>
+
+    <section class="card quiz-card">
+      <div class="section-heading">
+        <h2>Questions</h2>
+        <span id="questionCount" class="small-label"></span>
+      </div>
+      <form id="quizForm">
+        <div id="questionsContainer"></div>
+        <div class="form-actions">
+          <button id="submitButton" class="primary-button" type="submit">Submit Answers</button>
+          <button id="tryAgainButton" class="secondary-button hidden" type="button">Try Again</button>
+        </div>
+      </form>
+      <p id="scoreResult" class="score-result hidden" role="status" aria-live="polite"></p>
+    </section>
+
+    <section id="reviewControls" class="review-controls hidden" aria-label="Review controls">
+      <button id="vocabToggleButton" class="primary-button" type="button">Review Vocabulary</button>
+      <button id="translationToggleButton" class="primary-button" type="button">Show Chinese Translation</button>
+    </section>
+
+    <section id="vocabularySection" class="card vocabulary-card hidden">
+      <h2>Vocabulary Review</h2>
+      <div id="vocabularyList" class="vocabulary-list"></div>
+    </section>
+  </main>
+
+  <script src="readings.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>
