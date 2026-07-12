@@ -1266,5 +1266,357 @@ A month later, the council agreed to let the community take over the lighthouse 
       }
     }
   ]
+},
+{
+  date: "2026-07-12",
+  title: "The Low-Carbon Lunch Challenge",
+  level: "FCE / B2",
+
+  vocabulary: [
+    {
+      word: "steep",
+      partOfSpeech: "adj.",
+      meaning: "陡峭的；急剧的；昂贵的",
+      example: "The price of imported fruit was too steep for the students' budget."
+    },
+    {
+      word: "chef",
+      partOfSpeech: "n.",
+      meaning: "厨师；主厨",
+      example: "A local chef came to give advice before the competition."
+    },
+    {
+      word: "emergency services",
+      partOfSpeech: "n.",
+      meaning: "应急服务机构",
+      example: "For a moment, the teacher thought they might need to call the emergency services."
+    },
+    {
+      word: "call back",
+      partOfSpeech: "phrase",
+      meaning: "回电话；叫回来",
+      example: "The teacher promised to call back the technician after lunch."
+    },
+    {
+      word: "running",
+      partOfSpeech: "n. / adj.",
+      meaning: "管理；运行；跑步；连续的",
+      example: "Mina was responsible for the running of the campus lunch event."
+    },
+    {
+      word: "take part",
+      partOfSpeech: "phrase",
+      meaning: "参加",
+      example: "At first, Noah did not want to take part in the challenge."
+    },
+    {
+      word: "combination",
+      partOfSpeech: "n.",
+      meaning: "结合；组合；数字密码",
+      example: "Their dish was a combination of noodles, vegetables and a light sauce."
+    },
+    {
+      word: "credit card",
+      partOfSpeech: "n.",
+      meaning: "信用卡",
+      example: "The students could not use a credit card to buy extra ingredients."
+    },
+    {
+      word: "emission",
+      partOfSpeech: "n.",
+      meaning: "排放；排放物",
+      example: "Each team had to explain how it reduced carbon emission."
+    },
+    {
+      word: "glasses",
+      partOfSpeech: "n.",
+      meaning: "眼镜",
+      example: "Noah pushed his glasses up and read the recipe again."
+    },
+    {
+      word: "promotion",
+      partOfSpeech: "n.",
+      meaning: "提升；推广；促销；宣传",
+      example: "The class made a short video for the promotion of the event."
+    },
+    {
+      word: "peak",
+      partOfSpeech: "n. / adj. / v.",
+      meaning: "顶峰；高峰时期；达到最高点",
+      example: "The kitchen became busiest at the peak of the lunch hour."
+    },
+    {
+      word: "secure",
+      partOfSpeech: "adj. / v.",
+      meaning: "安全的；牢固的；获得；保护",
+      example: "The builder checked that the temporary food stall was secure."
+    },
+    {
+      word: "builder",
+      partOfSpeech: "n.",
+      meaning: "建筑工人；营造商；创建者",
+      example: "A builder helped the students set up a wooden food stall."
+    },
+    {
+      word: "grow into",
+      partOfSpeech: "phrase",
+      meaning: "成长为；发展为",
+      example: "The small cooking activity began to grow into a campus tradition."
+    },
+    {
+      word: "emotion",
+      partOfSpeech: "n.",
+      meaning: "情感；情绪",
+      example: "Noah tried not to show his emotion when people laughed."
+    },
+    {
+      word: "attend",
+      partOfSpeech: "v.",
+      meaning: "参加；注意；照料",
+      example: "Many students came to attend the low-carbon lunch challenge."
+    },
+    {
+      word: "scar",
+      partOfSpeech: "n.",
+      meaning: "伤疤；创伤",
+      example: "Noah had a small scar on his hand from an accident years before."
+    },
+    {
+      word: "campus",
+      partOfSpeech: "n.",
+      meaning: "校园",
+      example: "The event was held in the centre of the school campus."
+    },
+    {
+      word: "minority",
+      partOfSpeech: "n.",
+      meaning: "少数；少数群体",
+      example: "A minority of students thought the rules were too strict."
+    },
+    {
+      word: "robbery",
+      partOfSpeech: "n.",
+      meaning: "抢劫；盗窃",
+      example: "People first thought the missing cash box might be a robbery."
+    },
+    {
+      word: "resource",
+      partOfSpeech: "n.",
+      meaning: "资源；资料；才智；财力",
+      example: "The students had to use every resource carefully."
+    },
+    {
+      word: "heat",
+      partOfSpeech: "n. / v.",
+      meaning: "热；高温；加热",
+      example: "The old cooker produced too much heat."
+    },
+    {
+      word: "frighten",
+      partOfSpeech: "v.",
+      meaning: "使惊吓；使惊恐",
+      example: "The smoke from the pan began to frighten the younger students."
+    },
+    {
+      word: "economical",
+      partOfSpeech: "adj.",
+      meaning: "经济的；节约的；实惠的",
+      example: "The winning meal had to be healthy, tasty and economical."
+    },
+    {
+      word: "majority",
+      partOfSpeech: "n.",
+      meaning: "多数；大多数",
+      example: "The majority of students voted for a vegetarian menu."
+    },
+    {
+      word: "glove",
+      partOfSpeech: "n.",
+      meaning: "手套",
+      example: "Noah put on a glove before lifting the hot pan."
+    },
+    {
+      word: "savoury",
+      partOfSpeech: "adj. / n.",
+      meaning: "咸味的；好吃的；咸味小吃",
+      example: "Their savoury pancakes became popular with the teachers."
+    },
+    {
+      word: "soap opera",
+      partOfSpeech: "n.",
+      meaning: "肥皂剧",
+      example: "The drama club filmed a funny promotion like a soap opera."
+    },
+    {
+      word: "episode",
+      partOfSpeech: "n.",
+      meaning: "一集；事件；经历",
+      example: "The smoke alarm became the most dramatic episode of the day."
+    },
+    {
+      word: "cooker",
+      partOfSpeech: "n.",
+      meaning: "厨灶；炉具",
+      example: "The old cooker was difficult to control."
+    },
+    {
+      word: "priest",
+      partOfSpeech: "n.",
+      meaning: "神父；牧师；祭司",
+      example: "The school priest helped judge the charity lunch."
+    },
+    {
+      word: "overtime",
+      partOfSpeech: "n. / adv.",
+      meaning: "加班；加时赛；在规定时间之外",
+      example: "The caretaker worked overtime to clean the hall."
+    },
+    {
+      word: "combine",
+      partOfSpeech: "v.",
+      meaning: "结合；联合",
+      example: "The students learned to combine taste, cost and environmental care."
+    }
+  ],
+
+  passage: `
+Noah had never enjoyed school events. He liked quiet lessons, clear instructions and time to think. Anything involving crowds, noise or public speaking made him nervous. So when his class teacher, Ms Patel, announced a Low-Carbon Lunch Challenge on campus, Noah immediately looked down at his notebook and hoped nobody would ask him to take part.
+
+The idea was simple. Each team had to prepare a healthy, savoury lunch that was economical, tasty and low in carbon emission. The meal had to use local ingredients, avoid waste and cost less than five pounds per person. At the end of the day, a local chef, the school priest and two student representatives would judge the dishes. The winning team would receive a small prize and help with the promotion of future environmental activities.
+
+The majority of the class became excited at once, but a minority complained that the rules were too strict. One student wanted imported fruit, but the price was so steep that it would use half the budget. Another suggested buying everything quickly with his father’s credit card, but Ms Patel refused. “This is not about spending more,” she said. “It is about learning to use every resource wisely.”
+
+Noah’s team consisted of three students: Mina, who was confident and good at running small events; Lucas, whose father was a builder and had lent them a secure wooden table for their food stall; and Noah, who knew a lot about recipes but hated being watched. Their plan was to combine local vegetables, noodles and a light sauce into a warm lunch bowl. It sounded simple, but the school kitchen was busier than anyone expected. At the peak of the lunch hour, students were everywhere, carrying pans, cutting vegetables and arguing about presentation.
+
+A young chef called Elena came round to help. She noticed Noah standing beside an old cooker, pushing his glasses up and reading the recipe for the third time. “You know what you’re doing,” she said. “You just need to trust yourself.”
+
+Noah wanted to believe her. He put on a glove and lifted a saucepan from the heat. But just as he added the sauce, the cooker suddenly became too hot. A cloud of smoke rose from the pan. Someone shouted, and a group of younger students moved back in fear. The noise seemed to frighten everyone more than the smoke itself.
+
+For one terrible moment, Ms Patel thought they might need to call the emergency services. Mina ran to open the windows, Lucas turned off the cooker, and Elena calmly covered the pan. Within seconds, the smoke began to disappear. Nobody was hurt, although Noah noticed the small scar on his hand from an old childhood burn and felt a wave of emotion rush through him. He wanted to walk away.
+
+Then something unexpected happened. Instead of laughing, his classmates helped. One student brought a clean pan. Another offered extra vegetables. The drama club, which had been filming a silly promotion video like an episode of a soap opera, stopped recording and helped clear the table. Even the caretaker, who had already worked overtime that week, came back to check that the kitchen was safe. Ms Patel promised to call back the technician later to inspect the cooker.
+
+Noah took a deep breath. “We can still finish,” he said quietly.
+
+The second attempt was better. This time, the sauce was lighter, the vegetables stayed crisp, and the noodles did not stick. When the judges tasted the dish, the chef smiled. “It is not perfect,” she said, “but it shows a good combination of flavour, cost and environmental thinking.”
+
+Noah’s team did not win first prize. However, they received a special mention for teamwork under pressure. More importantly, Noah stayed until the end, answered questions from other students and even explained why local vegetables could reduce emission. By the time the hall was cleaned, he no longer felt like someone hiding at the edge of campus life.
+
+A week later, Ms Patel asked whether he would help plan the next event. Noah hesitated, then nodded. The challenge had begun as an uncomfortable school activity, but it had started to grow into something more: a reminder that confidence does not always appear before we act. Sometimes, it comes after we decide not to run away.
+`,
+
+  translation: `
+诺亚从来不喜欢学校活动。他喜欢安静的课堂、清楚的指令和可以慢慢思考的时间。任何涉及人群、噪音或公开发言的事情都会让他紧张。所以，当班主任帕特尔老师宣布校园里要举办“低碳午餐挑战赛”时，诺亚立刻低头看着笔记本，希望没有人叫他参加。
+
+活动的想法很简单。每个小组都要准备一份健康、咸口、经济实惠、味道不错且碳排放较低的午餐。这份餐食必须使用本地食材，避免浪费，而且每个人的成本不能超过五英镑。活动结束时，一位当地厨师、学校牧师和两名学生代表会一起评判这些菜品。获胜小组会得到一个小奖品，并参与今后环保活动的宣传。
+
+班里大多数同学马上兴奋起来，但少数同学抱怨规则太严格。有个学生想用进口水果，但价格太贵，几乎会用掉一半预算。另一个学生建议直接用他父亲的信用卡快速购买所有东西，但帕特尔老师拒绝了。“这不是比谁花钱多，”她说，“而是学习如何明智地使用每一种资源。”
+
+诺亚所在的小组有三个人：米娜，她很自信，擅长管理小型活动；卢卡斯，他的父亲是建筑工人，借给他们一张牢固的木桌作为食物摊位；还有诺亚，他很懂食谱，但讨厌被别人盯着看。他们的计划是把本地蔬菜、面条和清淡的酱汁结合起来，做成一份热的午餐碗。听起来很简单，但学校厨房比大家想象的忙得多。在午餐高峰时段，学生们到处都是，有人端着锅，有人切蔬菜，还有人争论摆盘。
+
+一位名叫埃琳娜的年轻厨师过来帮忙。她注意到诺亚站在一个旧厨灶旁，推了推眼镜，第三次读着食谱。“你知道自己在做什么，”她说，“你只是需要相信自己。”
+
+诺亚想相信她。他戴上手套，把一个深煮锅从火上端起来。但就在他加入酱汁时，厨灶突然变得太热了。一团烟从锅里升了起来。有人喊了一声，一群低年级学生害怕地往后退。看起来，真正吓到大家的与其说是烟，不如说是周围的噪音。
+
+有那么可怕的一瞬间，帕特尔老师以为可能需要联系应急服务机构。米娜跑去打开窗户，卢卡斯关掉了厨灶，埃琳娜冷静地盖住了锅。几秒钟后，烟开始散去。没有人受伤，不过诺亚注意到了自己手上小时候烫伤留下的一小块伤疤，一阵强烈的情绪涌了上来。他想直接离开。
+
+然后，意想不到的事情发生了。同学们没有嘲笑他，而是开始帮忙。一个学生拿来了干净的锅。另一个学生提供了多余的蔬菜。戏剧社原本正在拍摄一段像肥皂剧一样夸张的宣传视频，这时也停止拍摄，过来帮忙清理桌面。甚至那位本周已经加班的管理员，也回来检查厨房是否安全。帕特尔老师答应午饭后给技术员回电话，让他来检查厨灶。
+
+诺亚深吸了一口气。“我们还能完成。”他小声说。
+
+第二次尝试好多了。这一次，酱汁更清淡，蔬菜保持了爽脆，面条也没有粘在一起。当评委们品尝这道菜时，那位厨师笑了。“它并不完美，”她说，“但是它体现了味道、成本和环保意识的良好结合。”
+
+诺亚的小组没有获得一等奖。不过，他们因为在压力下表现出的团队合作获得了特别提名。更重要的是，诺亚一直留到了最后，回答其他同学的问题，甚至解释了为什么使用本地蔬菜可以减少碳排放。等到大厅清理完时，他不再觉得自己只是躲在校园生活边缘的人。
+
+一周后，帕特尔老师问他是否愿意帮忙策划下一次活动。诺亚犹豫了一下，然后点了点头。这场挑战一开始只是一个让他不舒服的学校活动，但它已经开始发展成更重要的东西：它提醒他，自信并不总是在行动之前出现。有时候，自信是在我们决定不逃跑之后才出现的。
+`,
+
+  questions: [
+    {
+      question: "Why was Noah unwilling to take part in the Low-Carbon Lunch Challenge at first?",
+      options: {
+        A: "He disliked cooking and knew nothing about recipes.",
+        B: "He was afraid of public activities involving crowds and attention.",
+        C: "He thought the event would be too expensive for the school.",
+        D: "He wanted to attend a different event off campus."
+      },
+      answer: "B",
+      explanation: {
+        correct: "B是正确答案。文章开头说，Noah不喜欢人群、噪音和公开发言，这些都会让他紧张，所以他一开始不愿意参加。",
+        A: "A不对。文章后面明确说Noah knew a lot about recipes，说明他并不是不会做饭或不懂食谱。",
+        B: "B对。文章第一段说明他害怕crowds, noise or public speaking，因此不想参加校园活动。",
+        C: "C不对。活动预算确实有限，但这不是Noah不愿意参加的主要原因。",
+        D: "D不对。文章没有说Noah想参加校外的其他活动。"
+      }
+    },
+    {
+      question: "What was the main purpose of the lunch challenge?",
+      options: {
+        A: "To teach students how to prepare expensive restaurant dishes.",
+        B: "To encourage students to create low-cost meals with lower carbon emission.",
+        C: "To choose a new chef for the school kitchen.",
+        D: "To sell imported food during the peak lunch hour."
+      },
+      answer: "B",
+      explanation: {
+        correct: "B是正确答案。活动要求学生准备健康、经济实惠、味道好且低碳排放的午餐，因此核心目标是让学生学习低成本、低排放的饮食方案。",
+        A: "A不对。文章强调的是economical和local ingredients，不是昂贵餐厅菜。",
+        B: "B对。文章明确说每组要做healthy, savoury, economical and low in carbon emission的午餐。",
+        C: "C不对。厨师Elena只是来指导和评判，不是学校要选新厨师。",
+        D: "D不对。进口水果因为价格太高被否定，活动并不是为了销售进口食物。"
+      }
+    },
+    {
+      question: "What caused the most dramatic episode during the event?",
+      options: {
+        A: "A credit card was stolen in a robbery.",
+        B: "The drama club refused to stop filming.",
+        C: "The old cooker became too hot and smoke rose from the pan.",
+        D: "The priest cancelled the competition."
+      },
+      answer: "C",
+      explanation: {
+        correct: "C是正确答案。文章中最紧张的事件是旧厨灶突然过热，锅里冒烟，大家一度以为可能需要联系应急服务机构。",
+        A: "A不对。文章没有出现信用卡被盗或抢劫事件，credit card只是在预算讨论中被提到。",
+        B: "B不对。戏剧社原本在拍宣传视频，但后来停止拍摄并帮忙清理桌子。",
+        C: "C对。old cooker became too hot and smoke rose from the pan，这是当天最戏剧性的事件。",
+        D: "D不对。学校牧师是评委之一，并没有取消比赛。"
+      }
+    },
+    {
+      question: "How did Noah's classmates react after the smoke problem?",
+      options: {
+        A: "They laughed at him and left the kitchen.",
+        B: "They helped him by bringing tools, food and support.",
+        C: "They asked the emergency services to arrest him.",
+        D: "They forced him to pay with his credit card."
+      },
+      answer: "B",
+      explanation: {
+        correct: "B是正确答案。烟雾事件后，同学们没有嘲笑Noah，而是拿来干净的锅、提供蔬菜、帮助清理桌子，表现出支持。",
+        A: "A不对。文章特别说明Instead of laughing, his classmates helped。",
+        B: "B对。文章中多个细节说明同学们提供了实际帮助。",
+        C: "C不对。虽然一度可能要联系emergency services，但没有人被逮捕，也没有发生犯罪。",
+        D: "D不对。文章没有说Noah被迫用信用卡付款。"
+      }
+    },
+    {
+      question: "What is the main message of the passage?",
+      options: {
+        A: "Confidence can grow when people face difficulties instead of escaping them.",
+        B: "Cooking competitions are useful only for students who want to become chefs.",
+        C: "Environmental activities usually fail because they are too economical.",
+        D: "Students should avoid taking part in campus events."
+      },
+      answer: "A",
+      explanation: {
+        correct: "A是正确答案。全文讲述Noah从害怕校园活动，到经历小意外后仍坚持完成任务，最后愿意参与下一次活动，说明自信可以在面对困难后逐渐形成。",
+        A: "A对。文章最后明确说，自信有时是在我们决定不逃跑之后才出现的。",
+        B: "B不对。活动并不是只为未来厨师设计，而是让学生学习环保、合作和资源利用。",
+        C: "C不对。economical在文中是积极要求，表示经济实惠，不是失败原因。",
+        D: "D不对。文章恰恰鼓励学生参与校园活动，并从中成长。"
+      }
+    }
+  ]
 }
 ];
