@@ -1618,5 +1618,413 @@ A week later, Ms Patel asked whether he would help plan the next event. Noah hes
       }
     }
   ]
+},
+{
+  date: "2026-07-14",
+  title: "The Monsoon Test",
+  level: "FCE / B2",
+
+  vocabulary: [
+    {
+      word: "home page",
+      partOfSpeech: "phrase",
+      meaning: "主页；首页",
+      example: "The students put their video on the project home page."
+    },
+    {
+      word: "solar panel",
+      partOfSpeech: "phrase",
+      meaning: "太阳能电池板",
+      example: "A solar panel had been fixed to the roof of the garage."
+    },
+    {
+      word: "stir",
+      partOfSpeech: "v.",
+      meaning: "搅动；搅拌；激起",
+      example: "Mia stirred the sauce while the others prepared the camera."
+    },
+    {
+      word: "fence",
+      partOfSpeech: "n.",
+      meaning: "栅栏；篱笆；围栏",
+      example: "The old wooden fence fell during the storm."
+    },
+    {
+      word: "pride",
+      partOfSpeech: "n.",
+      meaning: "骄傲；自豪；自尊",
+      example: "Ravi felt pride when the team finally solved the problem."
+    },
+    {
+      word: "serious",
+      partOfSpeech: "adj.",
+      meaning: "严肃的；严重的；需认真对待的",
+      example: "At first, the damage looked serious."
+    },
+    {
+      word: "grate",
+      partOfSpeech: "v.",
+      meaning: "磨碎；擦碎；使人烦躁",
+      example: "Mia grated cheese over the vegetables."
+    },
+    {
+      word: "jewellery",
+      partOfSpeech: "n.",
+      meaning: "珠宝；首饰",
+      example: "Mrs Green thought she had lost a piece of jewellery."
+    },
+    {
+      word: "involved in",
+      partOfSpeech: "phrase",
+      meaning: "涉及；参与；包含在……中",
+      example: "Several students were involved in making the short film."
+    },
+    {
+      word: "delighted",
+      partOfSpeech: "adj.",
+      meaning: "高兴的；愉快的",
+      example: "The teacher was delighted with the final video."
+    },
+    {
+      word: "in theory",
+      partOfSpeech: "phrase",
+      meaning: "理论上",
+      example: "In theory, the solar system should have worked all day."
+    },
+    {
+      word: "suburb",
+      partOfSpeech: "n.",
+      meaning: "郊区；城外",
+      example: "The house stood in a quiet suburb near the school."
+    },
+    {
+      word: "sympathetic",
+      partOfSpeech: "adj.",
+      meaning: "同情的；有同情心的；赞同的",
+      example: "Mr Lee was sympathetic when the students explained their mistake."
+    },
+    {
+      word: "sprint",
+      partOfSpeech: "v. / n.",
+      meaning: "冲刺；短跑",
+      example: "Ravi had to sprint across the garden to save the camera."
+    },
+    {
+      word: "congratulations",
+      partOfSpeech: "n.",
+      meaning: "祝贺；贺词",
+      example: "The head teacher offered congratulations to the whole team."
+    },
+    {
+      word: "evidence",
+      partOfSpeech: "n.",
+      meaning: "证据；证明；根据",
+      example: "The video gave clear evidence of what had happened."
+    },
+    {
+      word: "heel",
+      partOfSpeech: "n.",
+      meaning: "脚后跟；鞋后跟",
+      example: "A blister had formed on Ravi's heel."
+    },
+    {
+      word: "advertisement",
+      partOfSpeech: "n.",
+      meaning: "广告；广告宣传；启事",
+      example: "Their short film looked more like an advertisement than a school project."
+    },
+    {
+      word: "human being",
+      partOfSpeech: "phrase",
+      meaning: "人；人类",
+      example: "The film reminded viewers that every human being makes mistakes."
+    },
+    {
+      word: "complain",
+      partOfSpeech: "v.",
+      meaning: "抱怨；投诉；埋怨",
+      example: "Some neighbours began to complain about the noise."
+    },
+    {
+      word: "blister",
+      partOfSpeech: "n.",
+      meaning: "水泡；疱",
+      example: "Ravi got a blister after running in wet shoes."
+    },
+    {
+      word: "characteristic",
+      partOfSpeech: "n. / adj.",
+      meaning: "特征；特点；典型的",
+      example: "Patience was not usually Ravi's strongest characteristic."
+    },
+    {
+      word: "script",
+      partOfSpeech: "n.",
+      meaning: "剧本；稿子；讲话稿",
+      example: "Leah rewrote the script after the storm."
+    },
+    {
+      word: "steak",
+      partOfSpeech: "n.",
+      meaning: "牛排；肉块；鱼排",
+      example: "Mr Lee grilled steak for the open day visitors."
+    },
+    {
+      word: "mild",
+      partOfSpeech: "adj.",
+      meaning: "温和的；清淡的；和善的",
+      example: "Mia made a mild sauce so everyone could eat it."
+    },
+    {
+      word: "stunning",
+      partOfSpeech: "adj.",
+      meaning: "极有魅力的；绝妙的；令人惊叹的",
+      example: "The sunset behind the solar house was stunning."
+    },
+    {
+      word: "jumper",
+      partOfSpeech: "n.",
+      meaning: "针织套衫；毛衣",
+      example: "Leah wore a yellow jumper during the interview."
+    },
+    {
+      word: "series",
+      partOfSpeech: "n.",
+      meaning: "一系列；连续；系列节目",
+      example: "The video was planned as the first episode in a series."
+    },
+    {
+      word: "path",
+      partOfSpeech: "n.",
+      meaning: "小路；路径；道路；途径",
+      example: "Rainwater covered the path to the garage."
+    },
+    {
+      word: "trolley",
+      partOfSpeech: "n.",
+      meaning: "手推车；台车",
+      example: "They used a trolley to carry lights and cameras."
+    },
+    {
+      word: "critical",
+      partOfSpeech: "adj.",
+      meaning: "关键的；严重的；批判的；审慎的",
+      example: "The next ten minutes were critical for the project."
+    },
+    {
+      word: "set up",
+      partOfSpeech: "phrase",
+      meaning: "建立；设立；安装；筹备",
+      example: "The team set up the camera near the fence."
+    },
+    {
+      word: "punishment",
+      partOfSpeech: "n.",
+      meaning: "惩罚；处罚",
+      example: "The teacher decided that punishment was not necessary."
+    },
+    {
+      word: "interview",
+      partOfSpeech: "n. / v.",
+      meaning: "采访；面试；面谈",
+      example: "Leah prepared questions for the interview with Mr Lee."
+    },
+    {
+      word: "grill",
+      partOfSpeech: "v. / n.",
+      meaning: "烧烤；盘问；烤架",
+      example: "Mr Lee planned to grill vegetables and steak for the visitors."
+    },
+    {
+      word: "demand",
+      partOfSpeech: "n. / v.",
+      meaning: "要求；需要；需求",
+      example: "The competition demanded clear evidence of teamwork."
+    },
+    {
+      word: "solution",
+      partOfSpeech: "n.",
+      meaning: "解决办法；解答",
+      example: "Ravi finally found a simple solution."
+    },
+    {
+      word: "stream",
+      partOfSpeech: "n. / v.",
+      meaning: "小溪；水流；流动",
+      example: "A stream of rainwater ran under the fence."
+    },
+    {
+      word: "monsoon",
+      partOfSpeech: "n.",
+      meaning: "季风；雨季降雨",
+      example: "The monsoon arrived earlier than expected."
+    },
+    {
+      word: "willing",
+      partOfSpeech: "adj.",
+      meaning: "愿意的；乐意的",
+      example: "The neighbours were willing to help after they understood the problem."
+    },
+    {
+      word: "garage",
+      partOfSpeech: "n.",
+      meaning: "车库；汽车修理厂",
+      example: "Most of the filming took place beside the garage."
+    },
+    {
+      word: "energetic",
+      partOfSpeech: "adj.",
+      meaning: "精力充沛的；积极的；充满活力的",
+      example: "Leah was energetic even after hours of filming."
+    }
+  ],
+
+  passage: `
+Ravi did not expect a school media project to become the most difficult day of his term. At first, it sounded simple. His technology class had to produce a short video about a solar-powered house in a quiet suburb near the school. The video would appear on the school home page and become the first episode in a series about practical environmental ideas.
+
+The house belonged to Mr Lee, a retired engineer who had fixed a solar panel to the roof of his garage. In theory, the panel produced enough electricity to power the lights, a small cooker and several garden tools. Mr Lee was delighted that students wanted to interview him, and he was willing to let them film in his garden during the school open day.
+
+Ravi was involved in the project because he was good with cameras, but he disliked being responsible for anything important. His friend Leah, who was energetic and confident, wrote the script. Mia, who loved food, planned a short cooking scene in which she would stir a mild sauce, grate cheese and help Mr Lee grill vegetables and steak for visitors. Their teacher, Mrs Adams, said the project demanded teamwork, clear evidence and a practical solution to a real problem.
+
+On the morning of filming, everything seemed perfect. Leah wore a bright yellow jumper and practised her interview questions. Ravi pushed a trolley across the garden path with the camera, lights and microphone. Mr Lee repaired a loose fence, while Mia arranged the food beside the outdoor grill. Even the sky looked stunning, with sunlight shining through pale clouds.
+
+Then the monsoon rain arrived.
+
+At first, it was only a light shower. Then water began to stream down the steep road behind the house. Within minutes, the garden path was wet, the fence shook in the wind, and the camera case almost slipped off the trolley. Ravi had to sprint across the garden to catch it. His shoe rubbed against his heel, and he could feel a painful blister forming, but there was no time to complain.
+
+The situation soon became more serious. Mrs Green, a neighbour who had come to watch the filming, suddenly cried that a small piece of jewellery was missing from her bag. A few younger students looked frightened. Someone said the word theft, and for a critical moment everyone became silent. Ravi felt his face grow hot. He knew that if people believed something had been stolen, the whole project might be stopped.
+
+Mrs Adams remained calm. She was sympathetic to Mrs Green but said that punishment should never come before evidence. She asked everyone to stand still while Ravi checked the video they had already recorded. Ravi was nervous, but he played back the film carefully. The camera showed Mrs Green putting her bag on a chair. A second later, a stream of rainwater pushed the chair slightly backwards. Then the missing jewellery fell from the open bag and landed under the grill table.
+
+There was no thief, only bad weather and an open bag.
+
+Mrs Green was embarrassed but grateful. She thanked Ravi, and several students gave him quiet congratulations. For the first time that day, Ravi felt a little pride. He was not the loudest person in the group, but his careful work had helped everyone.
+
+The team still had to solve the problem of the rain. Their original plan was impossible, and several neighbours began to complain that the filming equipment was blocking the narrow path. Leah suggested cancelling the video, but Ravi surprised himself by speaking up. “We can move everything into the garage,” he said. “The solar panel is above it, so we can still show how the system works.”
+
+It was not perfect, but it was a solution. Mr Lee helped set up the lights again. Mia moved the food indoors and used the cooker instead of the grill. Leah changed the script so the video became less like an advertisement and more like a real story about dealing with problems. She added one line that everyone liked: “A useful idea must work not only in sunshine, but also in rain.”
+
+By late afternoon, the filming was finished. The video showed the solar panel, the rain, the mistake with the jewellery and the way everyone worked together. Mrs Adams said it had one important characteristic that many school projects lacked: honesty. It showed that every human being makes mistakes, but people can still respond with patience.
+
+When the video appeared on the school home page a week later, Ravi watched it twice. He noticed the shaking fence, his wet shoes and the moment when he nearly dropped the camera. But he also noticed something else. He no longer looked like someone trying to hide. He looked like someone who had found a path through a difficult day.
+`,
+
+  translation: `
+拉维没有想到，一个学校媒体项目会变成这个学期最艰难的一天。起初，这件事听起来很简单。他所在的技术课需要制作一段短视频，介绍学校附近一个安静郊区里的太阳能住宅。这段视频会放在学校主页上，并成为一个关于实用环保创意系列节目的第一集。
+
+这栋房子属于李先生。他是一位退休工程师，把一块太阳能电池板安装在车库屋顶上。理论上，这块太阳能板产生的电力足够供应灯、小型厨灶和几件园艺工具使用。李先生很高兴学生们想采访他，也愿意让他们在学校开放日当天到他的花园里拍摄。
+
+拉维参与这个项目，是因为他擅长使用摄像机，但他不喜欢负责重要的事情。他的朋友莉娅精力充沛又自信，负责写剧本。米娅喜欢食物，她设计了一个简短的烹饪场景：她会搅拌一种清淡的酱汁，磨碎奶酪，并帮助李先生为参观者烧烤蔬菜和牛排。他们的老师亚当斯夫人说，这个项目要求团队合作、清楚的证据，以及对真实问题的实际解决办法。
+
+拍摄当天早上，一切似乎都很完美。莉娅穿着一件亮黄色针织套衫，练习采访问题。拉维推着一辆手推车，沿着花园小路运送摄像机、灯和麦克风。李先生在修理松动的栅栏，米娅则把食物摆在户外烤架旁。就连天空也很美，阳光从浅色云层中照下来，令人惊叹。
+
+然后，季风雨来了。
+
+起初，只是一场小阵雨。接着，雨水开始从房子后面那条陡峭的道路上流下来。几分钟之内，花园小路湿了，栅栏在风中摇晃，摄像机箱也差点从手推车上滑下来。拉维不得不冲过花园去接住它。他的鞋磨到了脚后跟，他能感觉到一个疼痛的水泡正在形成，但他没有时间抱怨。
+
+情况很快变得更严重。前来观看拍摄的邻居格林夫人突然喊道，她包里的一件小首饰不见了。几个低年级学生看起来受到了惊吓。有人说出了“偷窃”这个词，在一个关键的瞬间，所有人都沉默了。拉维觉得脸发热。他知道，如果大家相信真的有东西被偷了，整个项目可能会被叫停。
+
+亚当斯夫人保持了冷静。她同情格林夫人，但她说，惩罚绝不能先于证据。她让所有人站在原地不动，同时让拉维检查他们已经录下的视频。拉维很紧张，但他认真回放了录像。摄像机拍到，格林夫人把包放在椅子上。下一秒，一股雨水把椅子稍稍向后推了一点。然后，那件不见的首饰从打开的包里掉了出来，落在烤架桌下面。
+
+没有小偷，只有坏天气和一个没有合上的包。
+
+格林夫人有些尴尬，但也很感激。她向拉维道谢，几名学生也轻声向他表示祝贺。那一天，拉维第一次感到了一点自豪。他不是小组里声音最大的人，但他的细心工作帮助了所有人。
+
+这个团队还必须解决下雨的问题。他们原来的计划已经不可能继续了，几位邻居也开始抱怨拍摄设备挡住了狭窄的小路。莉娅建议取消视频拍摄，但拉维让自己都感到惊讶地开了口。“我们可以把所有东西搬进车库，”他说，“太阳能板就在车库上方，所以我们仍然可以展示这个系统是怎么工作的。”
+
+这并不完美，但这是一个解决办法。李先生帮忙重新安装灯光。米娅把食物搬到室内，改用厨灶而不是烤架。莉娅修改了剧本，让视频不再像一则广告，而更像一个关于如何处理问题的真实故事。她加了一句大家都喜欢的话：“一个有用的想法，不能只在晴天有效，也必须在雨中行得通。”
+
+到下午晚些时候，拍摄终于完成了。视频展示了太阳能电池板、雨、首饰事件中的误会，以及大家一起解决问题的过程。亚当斯夫人说，这个视频有一个很多学校项目缺少的重要特点：诚实。它说明，每个人都会犯错，但人们仍然可以用耐心来回应。
+
+一周后，视频出现在学校主页上。拉维看了两遍。他注意到了摇晃的栅栏、自己湿透的鞋子，还有他差点摔掉摄像机的瞬间。但他也注意到了另一件事。他看起来不再像一个想躲起来的人。他看起来像是一个在艰难的一天里找到出路的人。
+`,
+
+  questions: [
+    {
+      question: "What was the original purpose of the students' project?",
+      options: {
+        A: "To make a video about a solar-powered house for the school home page.",
+        B: "To sell jewellery during the school open day.",
+        C: "To complain about the monsoon weather in the suburb.",
+        D: "To interview students about their favourite TV series."
+      },
+      answer: "A",
+      explanation: {
+        correct: "A是正确答案。文章开头说明，学生们要制作一段关于太阳能住宅的短视频，并把它放在学校主页上。",
+        A: "A对。原文提到produce a short video about a solar-powered house，并且the video would appear on the school home page。",
+        B: "B不对。jewellery只是后来误会中提到的首饰，不是项目目的。",
+        C: "C不对。季风雨是拍摄过程中出现的突发情况，不是项目主题。",
+        D: "D不对。series指环保创意系列视频，不是采访学生最喜欢的电视剧。"
+      }
+    },
+    {
+      question: "Why did the situation become serious during the filming?",
+      options: {
+        A: "The solar panel stopped producing electricity forever.",
+        B: "Mrs Green believed that a piece of jewellery had disappeared.",
+        C: "Mr Lee refused to let the students use the garage.",
+        D: "Ravi forgot the whole script and ran away."
+      },
+      answer: "B",
+      explanation: {
+        correct: "B是正确答案。拍摄过程中，Mrs Green发现自己的首饰不见了，大家一度以为可能发生了偷窃，所以气氛变得严重。",
+        A: "A不对。文章没有说太阳能板永久坏掉。",
+        B: "B对。原文说Mrs Green cried that a small piece of jewellery was missing，这使情况变得紧张。",
+        C: "C不对。后来Mr Lee还帮助大家把设备搬进车库继续拍摄。",
+        D: "D不对。Ravi没有逃跑，反而通过查看视频帮助解决了问题。"
+      }
+    },
+    {
+      question: "How was the missing jewellery found?",
+      options: {
+        A: "A neighbour admitted taking it by mistake.",
+        B: "Ravi checked the video and saw it fall from Mrs Green's bag.",
+        C: "Mrs Adams searched every student's pocket.",
+        D: "It was discovered inside the solar panel."
+      },
+      answer: "B",
+      explanation: {
+        correct: "B是正确答案。Ravi回放已经录下的视频，发现雨水推动椅子后，首饰从Mrs Green打开的包里掉到了烤架桌下面。",
+        A: "A不对。没有邻居承认拿了首饰，因为根本没有人偷。",
+        B: "B对。视频提供了clear evidence，说明首饰是从包里掉出来的。",
+        C: "C不对。Mrs Adams没有搜学生口袋，而是强调punishment不能先于evidence。",
+        D: "D不对。首饰掉在grill table下面，不是在solar panel里面。"
+      }
+    },
+    {
+      question: "How did Ravi help the team continue after the rain ruined the original plan?",
+      options: {
+        A: "He suggested moving the filming into the garage.",
+        B: "He demanded that everyone stop working immediately.",
+        C: "He asked neighbours to complain to the school.",
+        D: "He changed the project into an advertisement for steak."
+      },
+      answer: "A",
+      explanation: {
+        correct: "A是正确答案。原计划无法继续时，Ravi提出把设备搬进车库，因为太阳能板就在车库上方，仍然可以展示系统如何工作。",
+        A: "A对。原文中Ravi说We can move everything into the garage。",
+        B: "B不对。Ravi没有要求大家停止，反而提出继续完成项目的方法。",
+        C: "C不对。邻居抱怨设备挡路，但Ravi并没有鼓励他们投诉。",
+        D: "D不对。Leah修改脚本，使视频不像广告，而更像真实故事。"
+      }
+    },
+    {
+      question: "What is the main message of the passage?",
+      options: {
+        A: "A perfect plan is more important than teamwork.",
+        B: "Mistakes and difficulties can become part of a stronger story.",
+        C: "Students should avoid outdoor filming during school projects.",
+        D: "Solar panels are useful only in sunny weather."
+      },
+      answer: "B",
+      explanation: {
+        correct: "B是正确答案。文章讲的是一次拍摄中遇到下雨、误会和计划改变，但学生们把这些困难变成了更真实、更有力量的视频内容。",
+        A: "A不对。文章强调的不是完美计划，而是团队合作和应对问题。",
+        B: "B对。视频最后因为展示了真实问题和解决过程而更有价值。",
+        C: "C不对。文章并不是说学生应该避免户外拍摄，而是说遇到困难时可以调整方案。",
+        D: "D不对。文中最后一句台词强调，有用的想法不能只在晴天有效，也要能在雨中发挥作用。"
+      }
+    }
+  ]
 }
 ];
