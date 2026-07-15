@@ -2026,5 +2026,409 @@ When the video appeared on the school home page a week later, Ravi watched it tw
       }
     }
   ]
+},
+{
+  date: "2026-07-15",
+  title: "The Delay at Gate 18",
+  level: "FCE / B2",
+
+  vocabulary: [
+    {
+      word: "sauce",
+      partOfSpeech: "n.",
+      meaning: "酱；调味汁",
+      example: "The ham sandwich had too much tomato sauce in it."
+    },
+    {
+      word: "link",
+      partOfSpeech: "n. / v.",
+      meaning: "链接；联系；连接",
+      example: "The professor sent Mina a link to the research site."
+    },
+    {
+      word: "wild",
+      partOfSpeech: "adj.",
+      meaning: "野生的；自然生长的；狂热的",
+      example: "The workshop was about observing wild animals safely."
+    },
+    {
+      word: "prescription",
+      partOfSpeech: "n.",
+      meaning: "药方；处方",
+      example: "Mina kept her flu prescription in her backpack."
+    },
+    {
+      word: "optimistic",
+      partOfSpeech: "adj.",
+      meaning: "乐观的",
+      example: "Her professor remained optimistic despite the delay."
+    },
+    {
+      word: "course",
+      partOfSpeech: "n.",
+      meaning: "课程；过程；路线；一道菜",
+      example: "Mina had joined a short research course during the summer."
+    },
+    {
+      word: "thrilled",
+      partOfSpeech: "adj.",
+      meaning: "非常兴奋的；极为激动的",
+      example: "She was thrilled when she was accepted for the workshop."
+    },
+    {
+      word: "weather forecast",
+      partOfSpeech: "n.",
+      meaning: "天气预报",
+      example: "The weather forecast warned of storms near the research site."
+    },
+    {
+      word: "professor",
+      partOfSpeech: "n.",
+      meaning: "教授；教员",
+      example: "Professor Harris was leading the wildlife research workshop."
+    },
+    {
+      word: "grown-up",
+      partOfSpeech: "adj. / n.",
+      meaning: "成熟的；成年的；大人",
+      example: "Mina tried to sound grown-up when she called the airline desk."
+    },
+    {
+      word: "intention",
+      partOfSpeech: "n.",
+      meaning: "意图；目的；打算",
+      example: "Her intention was to learn real research skills."
+    },
+    {
+      word: "flexible",
+      partOfSpeech: "adj.",
+      meaning: "灵活的；可变通的；柔韧的",
+      example: "The professor said the schedule would have to be flexible."
+    },
+    {
+      word: "shopping centre",
+      partOfSpeech: "phrase",
+      meaning: "购物中心",
+      example: "The airport shopping centre was full of delayed passengers."
+    },
+    {
+      word: "behaviour",
+      partOfSpeech: "n.",
+      meaning: "行为；举止；反应方式",
+      example: "The workshop focused on animal behaviour in natural settings."
+    },
+    {
+      word: "section",
+      partOfSpeech: "n.",
+      meaning: "部分；章节；区域；部门",
+      example: "Mina was responsible for the subtitle section of the video."
+    },
+    {
+      word: "book in",
+      partOfSpeech: "phrase",
+      meaning: "办理登记手续；预订；登记入住",
+      example: "The students had to book in at a hotel near the airport."
+    },
+    {
+      word: "hoodie",
+      partOfSpeech: "n.",
+      meaning: "连帽衫",
+      example: "A boy in a green hoodie sat beside Mina at the gate."
+    },
+    {
+      word: "fiction",
+      partOfSpeech: "n.",
+      meaning: "小说；虚构",
+      example: "Mina loved fiction, but this trip was about real research."
+    },
+    {
+      word: "in the wild",
+      partOfSpeech: "phrase",
+      meaning: "在自然环境下；在野外",
+      example: "Few students had ever seen these animals in the wild."
+    },
+    {
+      word: "jet lag",
+      partOfSpeech: "phrase",
+      meaning: "时差反应",
+      example: "A visiting student from Canada was suffering from jet lag."
+    },
+    {
+      word: "site",
+      partOfSpeech: "n.",
+      meaning: "地点；场地；网站；遗址",
+      example: "The research site was in a forest several hours away."
+    },
+    {
+      word: "boarding card",
+      partOfSpeech: "n.",
+      meaning: "登机卡；登船卡",
+      example: "Mina checked her boarding card again and again."
+    },
+    {
+      word: "employ",
+      partOfSpeech: "v.",
+      meaning: "雇用；使用；利用",
+      example: "The centre hoped to employ local guides in the future."
+    },
+    {
+      word: "subtitle",
+      partOfSpeech: "n. / v.",
+      meaning: "字幕；小标题；给……加字幕",
+      example: "Mina added an English subtitle to each interview clip."
+    },
+    {
+      word: "postgraduate",
+      partOfSpeech: "n. / adj.",
+      meaning: "研究生；大学毕业后的",
+      example: "Several postgraduate students helped organise the workshop."
+    },
+    {
+      word: "economy",
+      partOfSpeech: "n.",
+      meaning: "经济；节约；经济制度",
+      example: "The project also studied how wildlife tourism affected the local economy."
+    },
+    {
+      word: "mood",
+      partOfSpeech: "n.",
+      meaning: "情绪；心情；气氛",
+      example: "The delay changed the mood at the gate."
+    },
+    {
+      word: "get to know",
+      partOfSpeech: "phrase",
+      meaning: "逐渐了解",
+      example: "During the delay, Mina began to get to know the other students."
+    },
+    {
+      word: "debt",
+      partOfSpeech: "n.",
+      meaning: "债务；欠款；恩情",
+      example: "One student worried about leaving university with debt."
+    },
+    {
+      word: "promising",
+      partOfSpeech: "adj.",
+      meaning: "有希望的；有前途的",
+      example: "The professor called Mina's video idea promising."
+    },
+    {
+      word: "in touch",
+      partOfSpeech: "phrase",
+      meaning: "联系；接触",
+      example: "Mina had stayed in touch with the professor by email."
+    },
+    {
+      word: "ham",
+      partOfSpeech: "n.",
+      meaning: "火腿；火腿肉",
+      example: "She bought a ham sandwich from the airport café."
+    },
+    {
+      word: "century",
+      partOfSpeech: "n.",
+      meaning: "世纪；百年",
+      example: "The forest had been protected for nearly a century."
+    },
+    {
+      word: "vocational",
+      partOfSpeech: "adj.",
+      meaning: "职业的；职业技术的",
+      example: "Mina was taking a vocational media course."
+    },
+    {
+      word: "mobile",
+      partOfSpeech: "adj. / n.",
+      meaning: "可移动的；流动的；手机",
+      example: "Her mobile had only ten percent battery left."
+    },
+    {
+      word: "flu",
+      partOfSpeech: "n.",
+      meaning: "流感；流行性感冒",
+      example: "Mina had just recovered from the flu."
+    },
+    {
+      word: "catering",
+      partOfSpeech: "n.",
+      meaning: "饮食服务；餐饮供应",
+      example: "The airline offered free catering vouchers after the long delay."
+    },
+    {
+      word: "workshop",
+      partOfSpeech: "n.",
+      meaning: "讲习班；研讨会；作坊",
+      example: "The wildlife workshop was supposed to begin that afternoon."
+    },
+    {
+      word: "refuse",
+      partOfSpeech: "v.",
+      meaning: "拒绝；回绝",
+      example: "Mina refused to give up and go home."
+    },
+    {
+      word: "inhabitant",
+      partOfSpeech: "n.",
+      meaning: "居民；住户；栖居动物",
+      example: "The guide described each animal as an inhabitant of the forest."
+    },
+    {
+      word: "qualification",
+      partOfSpeech: "n.",
+      meaning: "资格；资历；学历；资格证书",
+      example: "The workshop could help Mina earn a useful qualification."
+    },
+    {
+      word: "research",
+      partOfSpeech: "n. / v.",
+      meaning: "研究；调查；探索",
+      example: "Mina wanted to learn how to do proper field research."
+    }
+  ],
+
+  passage: `
+Mina checked her boarding card for the fourth time and tried not to look worried. She was sitting at Gate 18, wearing a grey hoodie and holding a ham sandwich with too much tomato sauce. Around her, passengers filled every seat, and the airport shopping centre was crowded with people who had nowhere else to go.
+
+Mina was supposed to fly to Northmere Forest for a three-day wildlife research workshop. She had been thrilled when Professor Harris, a university professor she had stayed in touch with by email, invited her to attend. Mina was not a postgraduate student. She was only sixteen and taking a vocational media course, but she had made a short video about animal behaviour that the professor thought was promising.
+
+Her intention was simple: she wanted to learn how real researchers studied animals in the wild. She loved fiction, especially stories about brave explorers, but she knew that research was different. It required patience, evidence and careful observation. The workshop could also help her earn a small qualification, which might be useful when she applied for college later.
+
+Unfortunately, the weather forecast was getting worse. A storm was moving across the coast, and all flights to Northmere had been delayed. The mood at the gate changed from cheerful to tired. A businessman began to complain loudly. A grown-up with two young children asked whether the airline would provide catering. A visiting student from Canada, who was suffering from jet lag, fell asleep on his backpack.
+
+Mina felt disappointed, but she tried to stay optimistic. Professor Harris sent everyone a link to the workshop home page and wrote that the schedule would be flexible. If the group arrived late, they could begin with the online section and visit the research site the next morning.
+
+Then another problem appeared. Mina's mobile had only ten percent battery left, and her prescription for flu medicine was inside an online health app. She had just recovered from the flu, but the medicine instructions were important. She searched for a charging point, but every socket near the gate was being used.
+
+A boy in a green hoodie noticed her problem. “You can use my power bank,” he said. His name was Leo, and he was also going to the workshop. He was interested in the local economy and wanted to know whether wildlife tourism really helped the inhabitants of small forest towns. During the long delay, Mina began to get to know him.
+
+They talked about money, study and the future. Leo said his older sister had left university with a lot of debt, so he was unsure whether he wanted to follow the same path. Mina admitted that she also worried about money. She hoped to employ her video skills one day, but she did not yet know how. Leo laughed and said, “Maybe this workshop is our first small step.”
+
+Two hours later, the flight was cancelled. The airline asked the students to book in at a hotel near the airport. Some passengers were angry, but Professor Harris appeared on a video call and refused to let the day be wasted. “Researchers often lose their plans,” she said. “The important thing is how they respond.”
+
+She asked the students to begin the first task immediately. Each pair had to make a two-minute mobile video about an animal that could live in Northmere Forest. Since they were still in the airport, they had to use pictures, interviews and imagination carefully. The video also needed subtitles for younger students who would watch it later.
+
+Mina and Leo chose the pine marten, a small wild animal that had returned to some forests after nearly a century. They recorded a short interview with Professor Harris, wrote a script, added a clear subtitle to each section and explained why every inhabitant of a forest had a link to the wider environment.
+
+By evening, their video was finished. It was not perfect, but it was clear, thoughtful and surprisingly lively. Professor Harris said it showed the right research attitude: flexible, careful and curious.
+
+The next morning, when the group finally reached Northmere Forest, Mina stepped off the bus feeling tired but ready. The delay had not ruined the workshop. In a strange way, it had begun it. She had learned that research was not only about reaching a distant site. It was also about noticing what was around her, asking better questions and refusing to stop when the first plan failed.
+`,
+
+  translation: `
+米娜第四次检查自己的登机卡，努力不让自己显得太担心。她坐在18号登机口，穿着一件灰色连帽衫，手里拿着一个番茄酱放得太多的火腿三明治。她周围，乘客坐满了每一个座位，机场购物中心里也挤满了无处可去的人。
+
+米娜本来要飞往诺斯米尔森林，参加一个为期三天的野生动物研究讲习班。当哈里斯教授邀请她参加时，她非常兴奋。哈里斯教授是一位大学教授，米娜一直通过邮件和他保持联系。米娜并不是研究生。她只有十六岁，正在学习一门职业媒体课程，但她制作过一段关于动物行为的短视频，教授认为那个作品很有前途。
+
+她的目的很简单：她想学习真正的研究者如何观察野外动物。她喜欢小说，尤其喜欢关于勇敢探险者的故事，但她知道研究和小说不同。研究需要耐心、证据和仔细观察。这个讲习班还可能帮助她获得一项小资格证书，将来申请大学时也许会有用。
+
+不幸的是，天气预报变得越来越糟。一场风暴正穿过海岸，所有飞往诺斯米尔的航班都延误了。登机口的气氛从轻松变得疲惫。一位商人大声抱怨起来。一位带着两个小孩的大人询问航空公司是否会提供餐饮服务。一名来自加拿大的访问学生因为时差反应，趴在背包上睡着了。
+
+米娜感到失望，但她努力保持乐观。哈里斯教授给每个人发来了讲习班主页的链接，并写道，日程会灵活调整。如果小组到得晚，他们可以先从线上部分开始，第二天早上再去研究地点。
+
+接着，另一个问题出现了。米娜的手机只剩百分之十的电量，而她的流感药处方在一个线上健康应用里。她刚刚从流感中恢复过来，但药物说明很重要。她寻找充电口，可登机口附近的每一个插座都有人在用。
+
+一个穿绿色连帽衫的男孩注意到了她的问题。“你可以用我的充电宝。”他说。他叫利奥，也要去参加这个讲习班。他对当地经济很感兴趣，想了解野生动物旅游是否真的能帮助森林小镇的居民。在漫长的延误过程中，米娜开始逐渐了解他。
+
+他们聊到了钱、学习和未来。利奥说，他姐姐大学毕业时欠了很多债，所以他不确定自己是否想走同样的路。米娜承认，她也担心钱的问题。她希望有一天能利用自己的视频技能谋生，但还不知道该怎么做。利奥笑着说：“也许这个讲习班就是我们的第一个小台阶。”
+
+两个小时后，航班取消了。航空公司要求学生们到机场附近的酒店办理入住。一些乘客很生气，但哈里斯教授通过视频电话出现，并拒绝让这一天白白浪费。“研究者经常会失去原有计划，”她说，“重要的是他们如何回应。”
+
+她要求学生们立即开始第一个任务。每两个人要制作一段两分钟的手机视频，介绍一种可能生活在诺斯米尔森林里的动物。由于他们仍在机场，他们必须谨慎地使用图片、采访和想象力。视频还需要为以后观看的低年级学生添加字幕。
+
+米娜和利奥选择了松貂，这是一种小型野生动物，在将近一个世纪之后重新回到了一些森林。他们录制了一段对哈里斯教授的简短采访，写了脚本，为每个部分加上清楚的字幕，并解释了森林里的每一种栖居动物都和更广阔的环境有联系。
+
+到了晚上，他们的视频完成了。它并不完美，但清楚、有思考，而且出人意料地生动。哈里斯教授说，它体现了正确的研究态度：灵活、细致、好奇。
+
+第二天早上，当小组终于到达诺斯米尔森林时，米娜下车时虽然疲惫，却已经准备好了。这场延误并没有毁掉讲习班。奇怪的是，它反而开启了讲习班。她明白了，研究并不只是到达某个遥远的地点。研究也意味着注意身边的事物，提出更好的问题，并且在第一个计划失败时拒绝停下来。
+`,
+
+  questions: [
+    {
+      question: "What does Mina’s invitation to the workshop suggest about her?",
+      options: {
+        A: "She had already become a professional wildlife researcher.",
+        B: "Her earlier media work had shown real potential.",
+        C: "She was invited mainly because she knew Professor Harris personally.",
+        D: "She wanted to leave her vocational course immediately."
+      },
+      answer: "B",
+      explanation: {
+        correct: "B是正确答案。Mina虽然只有16岁，也不是postgraduate student，但她做过关于animal behaviour的视频，而且Professor Harris认为这个作品promising。这说明她之前的媒体作品显示出潜力。",
+        A: "A不对。这个选项有迷惑性，因为Mina确实要参加research workshop，但文章明确说她不是专业研究者，也不是研究生。",
+        B: "B对。文章说她正在读vocational media course，并且她做的视频被教授认为promising，所以她是因为作品潜力受到关注。",
+        C: "C不对。她和Professor Harris通过邮件保持联系，但文章没有说她是因为私人关系被邀请。关键原因是她的视频作品。",
+        D: "D不对。文章没有说她想离开职业课程。相反，她的视频技能正是来自这个vocational media course。"
+      }
+    },
+    {
+      question: "Why does the writer describe the passengers at Gate 18 in such detail?",
+      options: {
+        A: "To show that the delay created pressure and inconvenience for many people.",
+        B: "To suggest that Mina was the only passenger who stayed calm.",
+        C: "To explain why the airline decided to cancel the workshop.",
+        D: "To show that airports are usually better places for research than forests."
+      },
+      answer: "A",
+      explanation: {
+        correct: "A是正确答案。作者写商人抱怨、带孩子的大人询问餐饮、加拿大学生因jet lag睡着，是为了表现航班延误带来的不便和现场气氛变化，而不只是Mina一个人的问题。",
+        A: "A对。这些细节共同表现出机场等待区的压力、疲惫和混乱，为后面Professor Harris把延误变成学习任务做铺垫。",
+        B: "B不对。Mina并不是唯一冷静的人，她也感到失望和担心，只是努力保持optimistic。",
+        C: "C不对。航空公司取消的是flight，不是workshop；workshop后来以另一种方式开始了。",
+        D: "D不对。文章不是说机场比森林更适合研究，而是说研究态度可以在意外情况下得到训练。"
+      }
+    },
+    {
+      question: "What can we infer from Professor Harris’s response after the flight was cancelled?",
+      options: {
+        A: "She believed real research should stop when travel plans fail.",
+        B: "She wanted the students to practise adapting to unexpected situations.",
+        C: "She was more interested in airport videos than wildlife research.",
+        D: "She thought the students were not ready to visit the forest site."
+      },
+      answer: "B",
+      explanation: {
+        correct: "B是正确答案。Professor Harris说研究者经常会失去原有计划，重要的是如何回应。她让学生在机场开始任务，说明她想训练学生灵活应对变化的研究能力。",
+        A: "A不对。她没有让研究停止，反而马上安排了新的任务。",
+        B: "B对。这个选项概括了她的教育意图：让学生学会flexible地处理意外情况。",
+        C: "C不对。机场视频只是临时任务，目的仍然是训练research attitude，而不是把重点改成机场本身。",
+        D: "D不对。航班取消是天气原因，不是因为学生不具备去森林研究地点的能力。"
+      }
+    },
+    {
+      question: "What is the main effect of Mina’s conversation with Leo?",
+      options: {
+        A: "It makes Mina realise that other students also connect the workshop with their future choices.",
+        B: "It proves that Leo is more interested in money than in wildlife.",
+        C: "It shows that Mina no longer needs Professor Harris’s guidance.",
+        D: "It persuades Mina to give up media and study economics instead."
+      },
+      answer: "A",
+      explanation: {
+        correct: "A是正确答案。Mina和Leo谈到钱、学习、未来、debt和career，这让Mina看到这个workshop不只是一次自然观察活动，也和年轻人的未来选择有关。",
+        A: "A对。Leo担心大学债务，Mina也担心如何使用自己的视频技能谋生，两人的谈话把workshop和未来发展联系起来。",
+        B: "B不对。Leo关注local economy和debt，但这并不说明他只关心钱。他的问题和野生动物旅游是否帮助当地居民有关。",
+        C: "C不对。Professor Harris仍然是指导者，她后来安排任务并评价学生作品。",
+        D: "D不对。Mina没有放弃media，也没有决定改学economy。她仍然用视频技能完成了任务。"
+      }
+    },
+    {
+      question: "Which title best expresses the meaning of the passage?",
+      options: {
+        A: "A Journey That Started Before Arrival",
+        B: "The Problem with Vocational Courses",
+        C: "Why Weather Forecasts Cannot Be Trusted",
+        D: "A Professor Who Changed Her Mind"
+      },
+      answer: "A",
+      explanation: {
+        correct: "A是正确答案。文章的核心不是航班延误本身，而是Mina在还没有到达research site之前，就已经通过机场任务开始学习真正的research attitude。因此“A Journey That Started Before Arrival”最能概括全文。",
+        A: "A对。Mina还没到森林，但学习已经开始了；这和文章最后一段“She had learned that research was not only about reaching a distant site”相呼应。",
+        B: "B不对。文章没有批评vocational courses，反而说明Mina的媒体课程帮助她获得机会。",
+        C: "C不对。weather forecast只是造成延误的背景，不是文章要表达的核心。",
+        D: "D不对。Professor Harris没有改变主意。她一直在引导学生把突发情况变成学习机会。"
+      }
+    }
+  ]
 }
 ];
