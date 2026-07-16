@@ -2430,5 +2430,355 @@ The next morning, when the group finally reached Northmere Forest, Mina stepped 
       }
     }
   ]
+},
+{
+  date: "2026-07-16",
+  title: "The Last-Minute Venue",
+  level: "FCE / B2",
+
+  vocabulary: [
+    {
+      word: "shutter",
+      partOfSpeech: "n. / v.",
+      meaning: "百叶窗；快门；关上百叶窗；停业",
+      example: "The sound of the camera shutter made Leo nervous."
+    },
+    {
+      word: "plot",
+      partOfSpeech: "n. / v.",
+      meaning: "情节；阴谋；小块土地；计划",
+      example: "The film had a simple plot about two sisters saving an old theatre."
+    },
+    {
+      word: "department",
+      partOfSpeech: "n.",
+      meaning: "部门；系；处",
+      example: "The drama department had spent weeks preparing the film."
+    },
+    {
+      word: "sunburnt",
+      partOfSpeech: "adj.",
+      meaning: "晒黑的；晒伤的",
+      example: "After a day outside, several students looked sunburnt."
+    },
+    {
+      word: "remarkable",
+      partOfSpeech: "adj.",
+      meaning: "非凡的；不同寻常的；引人注目的",
+      example: "Her calm reaction under pressure was remarkable."
+    },
+    {
+      word: "cost",
+      partOfSpeech: "n. / v.",
+      meaning: "成本；费用；代价；需付费",
+      example: "Changing the venue would cost more than the students expected."
+    },
+    {
+      word: "wood",
+      partOfSpeech: "n.",
+      meaning: "木材；木头；树林",
+      example: "The old stage was made of dark wood."
+    },
+    {
+      word: "similar",
+      partOfSpeech: "adj.",
+      meaning: "类似的；相似的",
+      example: "The new location had a similar shape to the original theatre."
+    },
+    {
+      word: "hood",
+      partOfSpeech: "n.",
+      meaning: "风帽；罩；面罩",
+      example: "Leo pulled up the hood of his jacket when the wind grew cold."
+    },
+    {
+      word: "endangered",
+      partOfSpeech: "adj.",
+      meaning: "濒危的；有灭绝危险的",
+      example: "The charity supported endangered birds in the region."
+    },
+    {
+      word: "sausage",
+      partOfSpeech: "n.",
+      meaning: "香肠；腊肠",
+      example: "A volunteer sold sausage rolls to raise money."
+    },
+    {
+      word: "cash",
+      partOfSpeech: "n.",
+      meaning: "现金；资金",
+      example: "They had very little cash left for extra equipment."
+    },
+    {
+      word: "crawl",
+      partOfSpeech: "v. / n.",
+      meaning: "爬行；缓慢移动；自由泳",
+      example: "Leo had to crawl under the stage to find the cable."
+    },
+    {
+      word: "cheerful",
+      partOfSpeech: "adj.",
+      meaning: "快乐的；令人愉快的",
+      example: "Maya stayed cheerful even when the plan changed."
+    },
+    {
+      word: "guarantee",
+      partOfSpeech: "v. / n.",
+      meaning: "保证；担保；确保；保修单",
+      example: "No one could guarantee that the new venue would be quiet."
+    },
+    {
+      word: "surgery",
+      partOfSpeech: "n.",
+      meaning: "外科手术；诊所；外科",
+      example: "Leo had missed last year’s festival because of knee surgery."
+    },
+    {
+      word: "flatmate",
+      partOfSpeech: "n.",
+      meaning: "合住公寓者；同公寓房客",
+      example: "His flatmate helped carry the camera bags."
+    },
+    {
+      word: "region",
+      partOfSpeech: "n.",
+      meaning: "区域；地区；行政区",
+      example: "The festival invited young filmmakers from across the region."
+    },
+    {
+      word: "venue",
+      partOfSpeech: "n.",
+      meaning: "场地；会场；集合地点",
+      example: "The old theatre was supposed to be the main venue."
+    },
+    {
+      word: "distinctive",
+      partOfSpeech: "adj.",
+      meaning: "独特的；有特色的",
+      example: "The building had a distinctive blue door."
+    },
+    {
+      word: "philosophy",
+      partOfSpeech: "n.",
+      meaning: "哲学；人生哲学；思想体系",
+      example: "Maya’s philosophy was that problems often improve a story."
+    },
+    {
+      word: "put on",
+      partOfSpeech: "phrase",
+      meaning: "上演；穿上；安排；提供",
+      example: "The students wanted to put on a short film event."
+    },
+    {
+      word: "location",
+      partOfSpeech: "n.",
+      meaning: "地点；位置；场所",
+      example: "They needed a location that looked old but was safe."
+    },
+    {
+      word: "agency",
+      partOfSpeech: "n.",
+      meaning: "机构；代理；中介；服务机构",
+      example: "A local arts agency helped them contact the hall manager."
+    },
+    {
+      word: "climate",
+      partOfSpeech: "n.",
+      meaning: "气候；环境气氛；风气",
+      example: "The story was also about the changing climate."
+    },
+    {
+      word: "vandalism",
+      partOfSpeech: "n.",
+      meaning: "故意毁坏公共财产的行为",
+      example: "The theatre had been closed after an act of vandalism."
+    },
+    {
+      word: "decade",
+      partOfSpeech: "n.",
+      meaning: "十年",
+      example: "The theatre had been empty for almost a decade."
+    },
+    {
+      word: "engineering",
+      partOfSpeech: "n.",
+      meaning: "工程；工程学",
+      example: "An engineering student checked whether the platform was safe."
+    },
+    {
+      word: "communication skills",
+      partOfSpeech: "phrase",
+      meaning: "沟通能力；交流能力",
+      example: "The crisis tested everyone’s communication skills."
+    },
+    {
+      word: "silk",
+      partOfSpeech: "n.",
+      meaning: "丝绸；丝线；丝织物",
+      example: "The main actress wore a blue silk scarf."
+    },
+    {
+      word: "lecturer",
+      partOfSpeech: "n.",
+      meaning: "讲师；讲课者；演讲者",
+      example: "Their film lecturer arrived just as the argument began."
+    }
+  ],
+
+  passage: `
+Leo had promised himself that this year would be different. Last summer, he had missed the regional youth film festival because of knee surgery. This time, he was determined to take part, even if he had to move more slowly than everyone else. His flatmate, Sam, joked that Leo treated every camera bag as if it contained glass, but Leo did not mind. He cared about details.
+
+The project came from the drama department at Northbridge College. A group of students wanted to put on a short film event to raise money for a charity that protected endangered birds in the region. Their film had a simple plot: two sisters try to save an old theatre before it is destroyed. The story also touched on the changing climate, because in the film the sisters argue that old buildings can be repaired instead of replaced.
+
+The original venue was perfect. It was an empty theatre with dark wood seats, faded red curtains and a distinctive blue door. It had been closed for almost a decade, but it still looked beautiful on camera. When Leo first heard the camera shutter echo through the hall, he felt that the place itself was part of the story.
+
+Then, two days before the festival, everything changed. Someone broke into the theatre at night and damaged part of the stage. It was a small act of vandalism, but serious enough for the owner to refuse permission for filming. No one could guarantee that the building was safe.
+
+The news arrived during lunch. Some students were outside selling sausage rolls to raise extra cash, and others were painting signs in the sun. By the time the lecturer, Ms Graham, called everyone together, half the group looked sunburnt and exhausted. The mood quickly turned from cheerful to angry.
+
+“We cannot cancel,” said Maya, the student director. “People have bought tickets.”
+
+“We may have to,” said Ms Graham. “Safety comes first.”
+
+Leo stayed quiet. He understood both sides. His knee still hurt if he stood too long, and he knew that ignoring danger was foolish. But he also knew how much work the group had done. The film was not just an assignment. For many students, it was the first time they had created something that felt public and real.
+
+An arts agency helped them find another possible location: an old railway waiting room near the market. It was smaller than the theatre, but it had a similar shape, high windows and a wooden platform that could look like a stage if filmed carefully. The problem was the cost. They had very little cash left, and renting extra lights would be expensive.
+
+Maya’s philosophy was simple: use the problem. “If the location is rougher, the film can become more honest,” she said. “The sisters are trying to save something damaged. So are we.”
+
+Not everyone agreed. One actor complained that the new room looked too plain. Another worried that the sound would be poor. The engineering student, Aisha, said she needed to check the platform before anyone stood on it. Sam pulled up the hood of his jacket and whispered to Leo, “This is turning into a disaster.”
+
+But it did not become one. Aisha checked the platform. Leo had to crawl under it to pass a cable through a gap, which made his knee ache, but he found a safer route for the wires. Maya replaced the expensive lights with desk lamps and pale fabric. The actress added a blue silk scarf, which gave the final scene a surprisingly strong visual focus.
+
+What saved the project was not perfect equipment but communication skills. Students who had barely spoken before began explaining what they needed clearly and quickly. The actors described where they wanted to move. The camera team explained what could and could not be seen. Ms Graham listened instead of giving orders.
+
+On the night of the festival, the film was not as smooth as planned. The sound changed in one scene, and a shadow crossed the wall at the wrong moment. But the audience stayed silent until the final shot. Then they began to clap.
+
+Afterwards, Ms Graham said something Leo remembered for weeks. “A perfect plan can produce an ordinary film,” she said. “But a difficult day can produce a remarkable one.”
+
+Leo looked at the tired faces around him and felt proud. The film had not hidden its problems. It had turned them into part of the story. For the first time, he understood that making art was not about controlling everything. It was about finding meaning when control disappeared.
+`,
+
+  translation: `
+利奥曾向自己保证，今年一定会不一样。去年夏天，他因为膝盖手术错过了地区青年电影节。这一次，他下定决心要参加，即使自己必须比别人行动得慢一些。他的合租室友山姆开玩笑说，利奥对待每一个摄像包都像里面装着玻璃一样小心，但利奥并不介意。他在乎细节。
+
+这个项目来自诺斯布里奇学院的戏剧系。一群学生想举办一次短片放映活动，为一个保护该地区濒危鸟类的慈善组织筹款。他们的电影情节很简单：两姐妹试图在一座旧剧院被拆毁前拯救它。故事也涉及气候变化，因为在电影中，两姐妹认为旧建筑可以被修复，而不是被替换。
+
+原来的场地非常理想。那是一座空剧院，有深色木质座椅、褪色的红幕布，还有一扇独特的蓝色门。它已经关闭了将近十年，但在镜头里仍然很美。利奥第一次听到相机快门声在大厅里回响时，觉得这个地方本身就是故事的一部分。
+
+然而，在电影节前两天，一切都变了。有人夜里闯进剧院，损坏了部分舞台。这只是一起小规模的破坏公物事件，但已经严重到让剧院主人拒绝继续允许拍摄。没有人能保证这栋建筑是安全的。
+
+消息是在午饭时传来的。有些学生正在外面卖香肠卷，为活动多筹一点现金；另一些学生则在太阳下画标牌。等讲师格雷厄姆女士把大家召集到一起时，队里一半人看上去都晒伤了，而且疲惫不堪。气氛很快从愉快变成了愤怒。
+
+“我们不能取消，”学生导演玛雅说，“大家已经买票了。”
+
+“也许我们必须取消，”格雷厄姆女士说，“安全第一。”
+
+利奥保持沉默。他理解双方的想法。他的膝盖如果站太久仍然会痛，所以他知道无视危险是愚蠢的。但他也知道这个小组付出了多少努力。这部电影不只是一次作业。对很多学生来说，这是他们第一次创造出一种真正公开、真正现实的作品。
+
+一个艺术机构帮他们找到了另一个可能的地点：市场附近的一间旧铁路候车室。它比剧院小，但形状相似，有高高的窗户，还有一个木质平台。如果拍摄得当，它可以看起来像一个舞台。问题是费用。他们剩下的现金很少，租额外灯光会很贵。
+
+玛雅的人生哲学很简单：利用问题。“如果这个地点更粗糙，那电影可以变得更真实，”她说，“两姐妹正在努力拯救受损的东西。我们也是。”
+
+并不是所有人都同意。一个演员抱怨说新房间看起来太普通。另一个演员担心声音会不好。工程专业的学生艾莎说，在任何人站到平台上之前，她需要先检查它。山姆拉起夹克的风帽，对利奥低声说：“这要变成灾难了。”
+
+但它并没有变成灾难。艾莎检查了平台。利奥不得不爬到平台下面，把一根电缆从缝隙中穿过去，这让他的膝盖隐隐作痛，但他为电线找到了一条更安全的线路。玛雅用台灯和浅色布料代替了昂贵的灯光。女演员加了一条蓝色丝巾，让最后一场戏出人意料地有了强烈的视觉焦点。
+
+真正拯救这个项目的不是完美的设备，而是沟通能力。以前几乎没说过话的学生开始清楚而迅速地说明自己的需要。演员们描述自己想往哪里移动。摄影组解释哪些地方能拍到，哪些地方不能拍到。格雷厄姆女士则选择倾听，而不是直接下命令。
+
+电影节当晚，这部电影并没有计划中那么顺利。有一场戏的声音发生了变化，还有一个影子在错误的时刻掠过墙面。但观众一直安静地看到最后一个镜头。随后，他们开始鼓掌。
+
+之后，格雷厄姆女士说了一句话，利奥记了好几个星期。她说：“完美的计划可能只能拍出一部普通的电影。但艰难的一天，可能会成就一部非凡的电影。”
+
+利奥看着周围一张张疲惫的脸，感到自豪。这部电影没有掩盖自己的问题。它把问题变成了故事的一部分。利奥第一次明白，艺术创作并不是要控制一切，而是在失去控制时找到意义。
+`,
+
+  questions: [
+    {
+      question: "What does Leo’s careful treatment of the camera bags suggest about him?",
+      options: {
+        A: "He is nervous because he has no interest in the film project.",
+        B: "He values responsibility and notices small practical details.",
+        C: "He wants to avoid working with the drama department.",
+        D: "He believes equipment matters more than people."
+      },
+      answer: "B",
+      explanation: {
+        correct: "B是正确答案。Leo小心对待摄像包，并且文章说he cared about details，这说明他重视责任，也注意实际细节。",
+        A: "A不对。Leo确实有些谨慎，但不是因为对项目没有兴趣。相反，他很想参加今年的电影节。",
+        B: "B对。这个选项概括了Leo的性格特点：认真、负责、重视细节。",
+        C: "C不对。Leo并没有想避免和戏剧系合作，他本身就在这个项目中承担摄像相关工作。",
+        D: "D不对。虽然他重视设备，但文章后面强调真正拯救项目的是communication skills，而不是设备本身。"
+      }
+    },
+    {
+      question: "Why is the vandalism at the theatre important to the story?",
+      options: {
+        A: "It creates a crisis that forces the students to rethink their whole plan.",
+        B: "It proves that the theatre owner never supported young filmmakers.",
+        C: "It gives the students a chance to investigate a criminal case.",
+        D: "It shows that old buildings should always be closed."
+      },
+      answer: "A",
+      explanation: {
+        correct: "A是正确答案。剧院遭到破坏后，原场地无法继续使用，学生们不得不临时寻找新地点并调整拍摄方案，这推动了故事发展。",
+        A: "A对。vandalism是整篇文章的转折点，使项目从原本顺利的计划变成一次临场应变。",
+        B: "B不对。剧院主人拒绝继续拍摄是出于安全考虑，文章没有说他一开始就反对学生。",
+        C: "C不对。学生没有去调查刑事案件，重点是如何解决项目危机。",
+        D: "D不对。文章并没有主张旧建筑都应该关闭，反而通过电影表达旧建筑可以被修复和重新利用。"
+      }
+    },
+    {
+      question: "What does Maya mean when she says they should “use the problem”?",
+      options: {
+        A: "They should pretend the problem has not happened.",
+        B: "They should turn the imperfect situation into part of the film’s meaning.",
+        C: "They should blame the theatre owner for the extra cost.",
+        D: "They should remove the damaged-building idea from the plot."
+      },
+      answer: "B",
+      explanation: {
+        correct: "B是正确答案。Maya认为新地点虽然粗糙，但能让电影更真实，因为电影中的人物也在拯救受损的东西。她想把现实困难转化为故事意义。",
+        A: "A不对。Maya不是假装问题不存在，而是正面利用问题。",
+        B: "B对。这个选项准确说明了她的创作思路：把不完美变成表达的一部分。",
+        C: "C不对。文章没有说Maya想责怪剧院主人或讨论费用责任。",
+        D: "D不对。她并没有删除受损建筑的情节，反而让现实情况和电影情节更加呼应。"
+      }
+    },
+    {
+      question: "What mainly helps the students complete the project in the new location?",
+      options: {
+        A: "They find a venue that is more expensive but much more professional.",
+        B: "They depend on the lecturer to make every decision for them.",
+        C: "They communicate clearly and adjust their roles to the new conditions.",
+        D: "They guarantee that the final film will have no technical mistakes."
+      },
+      answer: "C",
+      explanation: {
+        correct: "C是正确答案。文章明确说拯救项目的不是完美设备，而是communication skills。学生们开始清楚表达需求，互相解释限制并调整方案。",
+        A: "A不对。新场地并不更专业，而且费用仍是问题。",
+        B: "B不对。Ms Graham选择倾听而不是直接下命令，说明不是她一个人做所有决定。",
+        C: "C对。清晰沟通和角色调整是项目最终完成的关键。",
+        D: "D不对。最终影片仍有声音和影子等问题，并不是没有技术错误。"
+      }
+    },
+    {
+      question: "Which idea best expresses the message Leo learns by the end?",
+      options: {
+        A: "Artistic work can gain meaning from how people respond to difficulties.",
+        B: "A successful film must hide every problem that happened during filming.",
+        C: "Good equipment is the only guarantee of a remarkable result.",
+        D: "Public projects should be cancelled whenever plans change."
+      },
+      answer: "A",
+      explanation: {
+        correct: "A是正确答案。文章最后说，Leo明白艺术创作不是控制一切，而是在失去控制时找到意义。也就是说，困难本身可以通过人的回应变成作品意义的一部分。",
+        A: "A对。这个选项概括了Leo最后的领悟，也是全文主旨。",
+        B: "B不对。影片没有隐藏问题，而是把问题转化成故事的一部分。",
+        C: "C不对。文章明确强调不是完美设备，而是沟通、调整和应对困难成就了作品。",
+        D: "D不对。文章恰恰说明计划改变时不一定要取消，可以重新寻找路径。"
+      }
+    }
+  ]
 }
 ];
