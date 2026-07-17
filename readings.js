@@ -2780,5 +2780,395 @@ Leo looked at the tired faces around him and felt proud. The film had not hidden
       }
     }
   ]
+},
+{
+  date: "2026-07-17",
+  title: "The Missing Chessboard",
+  level: "FCE / B2",
+
+  vocabulary: [
+    {
+      word: "thoughtful",
+      partOfSpeech: "adj.",
+      meaning: "深思的；体贴的；考虑周到的",
+      example: "A thoughtful plan helped the students avoid confusion."
+    },
+    {
+      word: "chess",
+      partOfSpeech: "n.",
+      meaning: "国际象棋",
+      example: "The charity event included a chess tournament."
+    },
+    {
+      word: "bat",
+      partOfSpeech: "n.",
+      meaning: "球棒；球拍；蝙蝠",
+      example: "The table tennis bat was missing from the sports box."
+    },
+    {
+      word: "suit",
+      partOfSpeech: "n. / v.",
+      meaning: "西装；套装；适合",
+      example: "Mr Cole arrived in a dark suit to open the event."
+    },
+    {
+      word: "racket",
+      partOfSpeech: "n.",
+      meaning: "球拍；喧闹声",
+      example: "The badminton racket was placed beside the door."
+    },
+    {
+      word: "solicitor",
+      partOfSpeech: "n.",
+      meaning: "事务律师；法务官",
+      example: "A local solicitor helped the students check the charity rules."
+    },
+    {
+      word: "propose",
+      partOfSpeech: "v.",
+      meaning: "提议；计划；求婚",
+      example: "Nina proposed a games day to raise money."
+    },
+    {
+      word: "wet",
+      partOfSpeech: "adj.",
+      meaning: "湿的；潮湿的；有雨的",
+      example: "The field was too wet for outdoor games."
+    },
+    {
+      word: "charity",
+      partOfSpeech: "n.",
+      meaning: "慈善机构；慈善",
+      example: "The money would go to a local children’s charity."
+    },
+    {
+      word: "fear",
+      partOfSpeech: "n. / v.",
+      meaning: "害怕；担忧；恐惧",
+      example: "Nina’s greatest fear was that the event would fail."
+    },
+    {
+      word: "variety",
+      partOfSpeech: "n.",
+      meaning: "多样化；种类；变化",
+      example: "The event offered a variety of games."
+    },
+    {
+      word: "emphasize",
+      partOfSpeech: "v.",
+      meaning: "强调；重视",
+      example: "The teacher emphasized that honesty mattered more than winning."
+    },
+    {
+      word: "sailing",
+      partOfSpeech: "n.",
+      meaning: "帆船运动；航行",
+      example: "A sailing club donated a beginner lesson as a prize."
+    },
+    {
+      word: "destination",
+      partOfSpeech: "n.",
+      meaning: "目的地；终点",
+      example: "The kindergarten hoped to visit a lakeside destination."
+    },
+    {
+      word: "struggle",
+      partOfSpeech: "v. / n.",
+      meaning: "努力；挣扎；奋斗",
+      example: "Nina struggled to stay calm when the prize disappeared."
+    },
+    {
+      word: "guilty",
+      partOfSpeech: "adj.",
+      meaning: "内疚的；有罪的",
+      example: "Tom looked guilty when everyone searched the hall."
+    },
+    {
+      word: "revise",
+      partOfSpeech: "v.",
+      meaning: "修改；复习；改变",
+      example: "The team had to revise the timetable after the rain."
+    },
+    {
+      word: "outskirts",
+      partOfSpeech: "n.",
+      meaning: "市郊；边缘地带",
+      example: "The kindergarten was on the outskirts of the town."
+    },
+    {
+      word: "scientific",
+      partOfSpeech: "adj.",
+      meaning: "科学的；严谨的",
+      example: "Nina used a scientific approach to solve the problem."
+    },
+    {
+      word: "bare",
+      partOfSpeech: "adj.",
+      meaning: "光秃秃的；赤裸的；仅有的",
+      example: "The kindergarten playground was bare and grey."
+    },
+    {
+      word: "cheer up",
+      partOfSpeech: "phrase",
+      meaning: "振作起来；高兴起来",
+      example: "The games day was meant to cheer up the children."
+    },
+    {
+      word: "antique",
+      partOfSpeech: "adj. / n.",
+      meaning: "古董的；古老的；古董",
+      example: "An antique chessboard was offered as the main display item."
+    },
+    {
+      word: "society",
+      partOfSpeech: "n.",
+      meaning: "社会；协会；社团",
+      example: "The school games society helped organise the tournament."
+    },
+    {
+      word: "prospectus",
+      partOfSpeech: "n.",
+      meaning: "简介；说明书",
+      example: "The charity prospectus explained how the money would be used."
+    },
+    {
+      word: "manager",
+      partOfSpeech: "n.",
+      meaning: "经理；管理者；主教练",
+      example: "The leisure centre manager allowed them to use the hall."
+    },
+    {
+      word: "annoy",
+      partOfSpeech: "v.",
+      meaning: "使恼怒；打扰",
+      example: "The repeated changes began to annoy the volunteers."
+    },
+    {
+      word: "reaction",
+      partOfSpeech: "n.",
+      meaning: "反应；反响",
+      example: "Nina watched Tom’s reaction carefully."
+    },
+    {
+      word: "tournament",
+      partOfSpeech: "n.",
+      meaning: "锦标赛；联赛",
+      example: "The chess tournament attracted more people than expected."
+    },
+    {
+      word: "kindergarten",
+      partOfSpeech: "n.",
+      meaning: "幼儿园",
+      example: "The event raised money for a kindergarten playground."
+    },
+    {
+      word: "seminar",
+      partOfSpeech: "n.",
+      meaning: "研讨会；培训会",
+      example: "The students had learned planning skills in a school seminar."
+    },
+    {
+      word: "outfit",
+      partOfSpeech: "n.",
+      meaning: "全套服装；团队；装备",
+      example: "Nina wore a simple outfit because she expected to move tables."
+    },
+    {
+      word: "curly",
+      partOfSpeech: "adj.",
+      meaning: "卷曲的；有鬈发的",
+      example: "A boy with curly hair helped carry the prizes."
+    },
+    {
+      word: "slope",
+      partOfSpeech: "n.",
+      meaning: "斜坡；坡地",
+      example: "Rainwater ran down the slope behind the sports hall."
+    },
+    {
+      word: "fed up",
+      partOfSpeech: "phrase",
+      meaning: "厌烦的；极其不满的",
+      example: "Some volunteers became fed up with the last-minute changes."
+    },
+    {
+      word: "to start with",
+      partOfSpeech: "phrase",
+      meaning: "首先；一开始",
+      example: "To start with, Nina thought the event would be easy."
+    },
+    {
+      word: "announce",
+      partOfSpeech: "v.",
+      meaning: "宣布；公布",
+      example: "The head teacher announced the final amount raised."
+    },
+    {
+      word: "financial",
+      partOfSpeech: "adj.",
+      meaning: "财政的；财务的；金融的",
+      example: "The kindergarten needed financial help to repair its playground."
+    },
+    {
+      word: "reliable",
+      partOfSpeech: "adj.",
+      meaning: "可靠的；可信的",
+      example: "Nina wanted reliable information before blaming anyone."
+    },
+    {
+      word: "give away",
+      partOfSpeech: "phrase",
+      meaning: "赠送；泄露；暴露",
+      example: "They planned to give away small prizes at the end."
+    }
+  ],
+
+  passage: `
+To start with, Nina thought the charity games day would be simple. Her school games society would put on a small tournament, sell snacks, give away a few prizes and raise money for a kindergarten on the outskirts of town. The kindergarten had a bare, grey playground, and its teachers wanted to build a safer outdoor area to cheer up the children.
+
+Nina had first heard about the problem during a school seminar on community projects. The speaker had emphasized that good charity work should be practical, not just emotional. So Nina proposed an event that would combine fun with a clear financial purpose. The money would help the kindergarten repair the ground, buy wood for benches and create a gentle slope for children who used small wheelchairs.
+
+The leisure centre manager agreed to lend them the hall. A local solicitor checked the charity rules, and Nina wrote a short prospectus explaining exactly where the money would go. She wanted everything to be reliable. Her greatest fear was that people would think the students were careless with money.
+
+The day before the event, heavy rain made the outdoor field too wet to use, so Nina had to revise the plan. The football game was cancelled, and indoor activities took its place. There would be a chess tournament, table tennis with a bat, badminton with a racket and a quiet corner for younger children. A sailing club even donated a beginner sailing lesson as the main prize, although the winner would have to travel to a lakeside destination later in the summer.
+
+By lunchtime, the hall was noisy but cheerful. Mr Cole, the head teacher, arrived in a dark suit to open the event. Nina wore a practical outfit and carried a clipboard. A boy with curly hair sold sausage rolls, while another volunteer displayed an antique chessboard that had been lent by a retired teacher. It was not for sale, but it made the chess table look special.
+
+For the first hour, everything went well. Then the antique chessboard disappeared.
+
+At first, Nina thought someone had simply moved it. But after ten minutes of searching, the volunteers began to panic. One parent said the word theft. A few younger students looked frightened. Tom, the boy with curly hair, suddenly became very quiet and stared at the floor. His reaction made two volunteers suspicious.
+
+Nina struggled to stay calm. She was annoyed, but she remembered what the solicitor had said: never accuse anyone without facts. Instead of letting fear guide her, she tried to take a scientific approach. She asked everyone involved in the chess table to describe exactly what they had done.
+
+Tom looked guilty, but his story was simple. He had noticed rainwater coming under the side door and running down a small slope in the floor. He had moved the chessboard to protect it, then rushed to help a child who had fallen near the table tennis area. After that, he had forgotten where he had put it.
+
+Nina asked where he had gone next. Tom pointed towards a storage room. Inside, behind a stack of sports mats, Nina found the antique chessboard wrapped carefully in a towel. Tom had not stolen it. He had tried to protect it.
+
+The room became quiet when Nina carried the board back. She announced what had happened and made sure everyone heard the truth. Then she thanked Tom publicly. He still looked embarrassed, but some children clapped, and his face slowly relaxed.
+
+The event continued. The chess tournament reached a tense final, the badminton players made a terrible racket, and the younger children decorated paper bats and boats. By the end of the afternoon, the school had raised more money than expected.
+
+When Mr Cole announced the total, Nina felt proud but also thoughtful. She had learned that planning an event was not only about schedules, posters and prizes. It was also about how people reacted when something went wrong. A careless word could hurt someone. A patient question could save them.
+
+Later, the kindergarten sent photographs of the new playground. There were wooden benches, a smooth path and a small painted ship pointing towards an imaginary sailing destination. Nina looked at the pictures for a long time. The games day had not been perfect, but perhaps that was why it had mattered.
+`,
+
+  translation: `
+一开始，尼娜以为这次慈善游戏日会很简单。学校游戏社团将举办一个小型锦标赛，卖些小吃，赠送一些奖品，并为镇郊的一所幼儿园筹款。那所幼儿园的操场光秃秃、灰蒙蒙的，老师们想修建一个更安全的户外区域，让孩子们开心起来。
+
+尼娜第一次听说这个问题，是在学校一次关于社区项目的研讨会上。演讲者强调，好的慈善工作应该是实际的，而不只是情绪上的感动。因此，尼娜提议办一场既有趣又有明确财务目标的活动。筹到的钱将帮助幼儿园修整地面，购买木材做长椅，并为使用小轮椅的孩子修一段平缓的斜坡。
+
+休闲中心经理同意把大厅借给他们。一位当地事务律师帮他们检查慈善规则，尼娜还写了一份简短说明，清楚解释每一笔钱会用在哪里。她希望一切都可靠。她最担心的是，人们会认为学生们在处理钱方面不够谨慎。
+
+活动前一天，大雨使室外场地太湿，无法使用，所以尼娜不得不修改计划。足球赛取消了，室内活动取而代之。活动包括国际象棋锦标赛、用球拍打乒乓球、用球拍打羽毛球，还有一个给低龄儿童准备的安静角落。一家帆船俱乐部甚至捐出了一节初级帆船课作为主要奖品，不过获胜者要在夏天晚些时候去湖边目的地参加。
+
+到了午饭时，大厅里虽然吵闹，却很愉快。校长科尔先生穿着一套深色西装来为活动开幕。尼娜穿着方便行动的衣服，拿着写字板。一个卷发男孩在卖香肠卷，另一名志愿者则展示一副由退休教师借出的古董棋盘。它并不出售，但让国际象棋桌显得很特别。
+
+第一个小时，一切都很顺利。然后，那副古董棋盘不见了。
+
+起初，尼娜以为只是有人把它挪到了别处。但找了十分钟之后，志愿者们开始慌张起来。一位家长说出了“偷窃”这个词。几个低龄学生看起来受到了惊吓。那个卷发男孩汤姆突然变得非常安静，低头盯着地板。他的反应让两名志愿者起了疑心。
+
+尼娜努力保持冷静。她很恼火，但她记得事务律师说过的话：没有事实之前，绝不能指责任何人。她没有让恐惧引导自己，而是试着采用一种严谨的方法。她请每一个参与国际象棋桌布置的人准确描述自己做过的事。
+
+汤姆看起来很内疚，但他的叙述很简单。他注意到雨水从侧门下面流进来，并沿着地面上的一段小坡往下流。他把棋盘挪走，是为了保护它。随后，他又赶去帮助一个在乒乓球区附近摔倒的孩子。之后，他就忘了自己把棋盘放在哪里。
+
+尼娜问他之后去了哪里。汤姆指向储藏室。尼娜走进去，在一堆运动垫后面，发现那副古董棋盘被仔细地包在一条毛巾里。汤姆没有偷它。他是在努力保护它。
+
+当尼娜把棋盘拿回大厅时，房间安静了下来。她宣布了事情的经过，并确保每个人都听到了真相。然后，她当众感谢了汤姆。他看起来仍然很尴尬，但一些孩子鼓起掌来，他的表情也慢慢放松下来。
+
+活动继续进行。国际象棋锦标赛进入了紧张的决赛，打羽毛球的人制造出很大的喧闹声，低龄孩子们则装饰纸做的球拍和小船。到下午结束时，学校筹到的钱比预期还多。
+
+当科尔先生宣布总金额时，尼娜感到自豪，但也陷入了思考。她明白，策划一场活动并不只是安排时间表、海报和奖品。它也关乎在人们遇到问题时会如何反应。一句轻率的话可能会伤害一个人。一个耐心的问题却可能帮助一个人。
+
+后来，幼儿园寄来了新操场的照片。那里有木制长椅、一条平整的小路，还有一艘画出来的小船，指向一个想象中的帆船目的地。尼娜看着这些照片看了很久。这次游戏日并不完美，但也许正因为如此，它才真正有意义。
+`,
+
+  questions: [
+    {
+      question: "What does Nina’s preparation for the charity event suggest about her?",
+      options: {
+        A: "She is mainly interested in winning praise from teachers.",
+        B: "She wants the project to be useful, transparent and carefully organised.",
+        C: "She believes charity work should depend mostly on emotion.",
+        D: "She is confident that nothing unexpected will happen."
+      },
+      answer: "B",
+      explanation: {
+        correct: "B是正确答案。Nina请经理借场地、找事务律师检查规则、写prospectus说明资金用途，说明她重视实用性、透明度和组织性。",
+        A: "A不对。文章没有表现她主要是为了得到老师表扬，她的重点是帮助kindergarten。",
+        B: "B对。她的准备工作都围绕可靠、清楚和实际帮助展开。",
+        C: "C不对。研讨会强调charity work应该practical, not just emotional，Nina也接受了这个思路。",
+        D: "D不对。她后来确实遇到了雨天和棋盘失踪等问题，文章并没有说她以为一切绝不会出错。"
+      }
+    },
+    {
+      question: "Why does the writer mention the solicitor’s advice during the missing chessboard incident?",
+      options: {
+        A: "To show why Nina avoids making an unfair accusation.",
+        B: "To suggest that the solicitor is responsible for finding the chessboard.",
+        C: "To prove that a crime has definitely taken place.",
+        D: "To explain why the tournament has to be cancelled."
+      },
+      answer: "A",
+      explanation: {
+        correct: "A是正确答案。solicitor提醒过没有事实不能指责任何人，这影响了Nina处理危机的方式，使她没有因为Tom的反应就怀疑他偷东西。",
+        A: "A对。这个细节说明Nina为什么选择先问问题、查事实，而不是直接责怪Tom。",
+        B: "B不对。事务律师没有参与寻找棋盘，只是之前提供过规则建议。",
+        C: "C不对。结果证明没有发生盗窃，Tom只是把棋盘移走保护起来。",
+        D: "D不对。活动没有取消，反而在误会澄清后继续进行。"
+      }
+    },
+    {
+      question: "What makes Tom look suspicious at first?",
+      options: {
+        A: "He refuses to explain why he came to the event.",
+        B: "He is the only person who knows the value of the chessboard.",
+        C: "He suddenly becomes quiet and appears guilty when the board is missing.",
+        D: "He tries to give away the chessboard as a prize."
+      },
+      answer: "C",
+      explanation: {
+        correct: "C是正确答案。文章说棋盘失踪后，Tom突然安静下来、盯着地板，看起来guilty，因此志愿者开始怀疑他。",
+        A: "A不对。Tom没有拒绝说明自己为什么来参加活动，他是志愿者之一。",
+        B: "B不对。文章没有说只有Tom知道棋盘价值。",
+        C: "C对。他的reaction让别人误以为他有问题，但这只是表象。",
+        D: "D不对。棋盘不是奖品，也不是Tom要赠送的东西。"
+      }
+    },
+    {
+      question: "What is the real reason Tom moved the antique chessboard?",
+      options: {
+        A: "He wanted to hide it because he was annoyed with the volunteers.",
+        B: "He was protecting it from rainwater and then forgot where he had put it.",
+        C: "He planned to sell it to raise more cash for the kindergarten.",
+        D: "He thought the chess tournament would be better without it."
+      },
+      answer: "B",
+      explanation: {
+        correct: "B是正确答案。Tom看到雨水从侧门流入，担心棋盘受潮，于是把它移到储藏室，后来又去帮助摔倒的孩子，因此忘记了位置。",
+        A: "A不对。Tom没有因为恼怒而藏棋盘，他的动机是保护它。",
+        B: "B对。这个选项准确概括了事情的真实原因。",
+        C: "C不对。棋盘不是用来出售筹钱的，文章明确说It was not for sale。",
+        D: "D不对。棋盘让棋桌显得特别，Tom并没有认为比赛不需要它。"
+      }
+    },
+    {
+      question: "What does Nina learn from the games day?",
+      options: {
+        A: "A successful event depends only on raising as much money as possible.",
+        B: "People should trust their first reaction when something goes wrong.",
+        C: "Careful and patient judgement can matter as much as practical planning.",
+        D: "Children’s charity events should avoid tournaments and prizes."
+      },
+      answer: "C",
+      explanation: {
+        correct: "C是正确答案。Nina不仅学会了活动策划，也明白出问题时人的反应很重要：轻率的话会伤人，耐心的问题能帮助人。",
+        A: "A不对。虽然筹款成功很重要，但文章主旨不只是筹到钱。",
+        B: "B不对。文章恰恰说明不能相信第一反应，因为Tom看起来guilty但实际上是在保护棋盘。",
+        C: "C对。这是Nina最后的核心领悟，也是全文主旨。",
+        D: "D不对。活动中的比赛和奖品整体上是成功的，文章没有否定这些形式。"
+      }
+    }
+  ]
 }
 ];
