@@ -3170,5 +3170,361 @@ Later, the kindergarten sent photographs of the new playground. There were woode
       }
     }
   ]
+},
+{
+  date: "2026-07-20",
+  title: "The Tour That Told the Truth",
+  level: "FCE / B2",
+
+  vocabulary: [
+    {
+      word: "publicity",
+      partOfSpeech: "n.",
+      meaning: "宣传；广告宣传；公众关注",
+      example: "The students used social media for publicity."
+    },
+    {
+      word: "extraordinary",
+      partOfSpeech: "adj.",
+      meaning: "非凡的；意想不到的；不平常的",
+      example: "Alex wanted the tour to sound extraordinary."
+    },
+    {
+      word: "conservative",
+      partOfSpeech: "adj.",
+      meaning: "保守的；守旧的",
+      example: "The school board preferred a conservative plan."
+    },
+    {
+      word: "stroll",
+      partOfSpeech: "v. / n.",
+      meaning: "散步；溜达；闲逛",
+      example: "Visitors would stroll through the old streets."
+    },
+    {
+      word: "thriller",
+      partOfSpeech: "n.",
+      meaning: "惊险小说；惊险电影；惊险剧",
+      example: "His poster made the town sound like a thriller."
+    },
+    {
+      word: "brand-new",
+      partOfSpeech: "adj.",
+      meaning: "崭新的",
+      example: "The school lent him a brand-new tablet."
+    },
+    {
+      word: "calorie",
+      partOfSpeech: "n.",
+      meaning: "卡路里；热量单位",
+      example: "The café put calorie information beside each cake."
+    },
+    {
+      word: "take it easy",
+      partOfSpeech: "phrase",
+      meaning: "放松；别着急；从容一点",
+      example: "The tour guide told Alex to take it easy."
+    },
+    {
+      word: "public",
+      partOfSpeech: "adj. / n.",
+      meaning: "公共的；公开的；公众",
+      example: "The tour was open to the public."
+    },
+    {
+      word: "rely on",
+      partOfSpeech: "phrase",
+      meaning: "依靠；信赖",
+      example: "Alex could not rely on exciting words alone."
+    },
+    {
+      word: "tour guide",
+      partOfSpeech: "n.",
+      meaning: "导游",
+      example: "A local tour guide helped the students improve the route."
+    },
+    {
+      word: "boil",
+      partOfSpeech: "v.",
+      meaning: "烧开；煮沸；沸腾",
+      example: "Volunteers boiled water for tea."
+    },
+    {
+      word: "construction",
+      partOfSpeech: "n.",
+      meaning: "建设；建筑；施工；结构",
+      example: "Construction work blocked part of the old street."
+    },
+    {
+      word: "crime",
+      partOfSpeech: "n.",
+      meaning: "犯罪；罪行",
+      example: "The old newspaper story was about a crime that never happened."
+    },
+    {
+      word: "tablet",
+      partOfSpeech: "n.",
+      meaning: "平板电脑；药片；碑",
+      example: "Alex kept the route map on his tablet."
+    },
+    {
+      word: "deny",
+      partOfSpeech: "v.",
+      meaning: "否认；拒绝承认；拒绝给予",
+      example: "He could not deny that the poster was misleading."
+    },
+    {
+      word: "radical",
+      partOfSpeech: "adj.",
+      meaning: "根本的；彻底的；激进的；全新的",
+      example: "The guide suggested a radical change to the tour."
+    },
+    {
+      word: "refund",
+      partOfSpeech: "n. / v.",
+      meaning: "退款；退还",
+      example: "One visitor asked for a refund."
+    },
+    {
+      word: "inspire",
+      partOfSpeech: "v.",
+      meaning: "激励；鼓舞；启发",
+      example: "The final tour inspired younger students."
+    },
+    {
+      word: "head teacher",
+      partOfSpeech: "n.",
+      meaning: "校长",
+      example: "The head teacher asked Alex to apologise."
+    },
+    {
+      word: "apology",
+      partOfSpeech: "n.",
+      meaning: "道歉；赔不是；辩解",
+      example: "Alex gave a public apology before the tour restarted."
+    },
+    {
+      word: "catalogue",
+      partOfSpeech: "n.",
+      meaning: "目录；目录簿；一系列记录",
+      example: "The museum catalogue helped them check the facts."
+    },
+    {
+      word: "fortnight",
+      partOfSpeech: "n.",
+      meaning: "两星期",
+      example: "They had a fortnight to revise the whole project."
+    },
+    {
+      word: "board",
+      partOfSpeech: "n. / v.",
+      meaning: "公告板；董事会；木板；登上交通工具",
+      example: "A notice about the tour was placed on the school board."
+    },
+    {
+      word: "secondary school",
+      partOfSpeech: "phrase",
+      meaning: "中学；中等学校",
+      example: "Alex was a student at a local secondary school."
+    },
+    {
+      word: "folk",
+      partOfSpeech: "adj. / n.",
+      meaning: "民间的；民俗的；人们",
+      example: "The tour included an old folk song from the town."
+    },
+    {
+      word: "natural",
+      partOfSpeech: "adj.",
+      meaning: "自然的；天然的；正常的",
+      example: "The guide wanted the students to speak in a natural way."
+    },
+    {
+      word: "storey",
+      partOfSpeech: "n.",
+      meaning: "楼层",
+      example: "The three-storey mill stood beside the river."
+    },
+    {
+      word: "developing",
+      partOfSpeech: "adj.",
+      meaning: "发展中的",
+      example: "The money would support a school in a developing region."
+    },
+    {
+      word: "vary",
+      partOfSpeech: "v.",
+      meaning: "变化；不同；使多样化",
+      example: "The stories on the tour varied in tone and subject."
+    },
+    {
+      word: "let down",
+      partOfSpeech: "phrase",
+      meaning: "使失望；辜负；放下",
+      example: "Alex felt he had let down the visitors."
+    },
+    {
+      word: "take off",
+      partOfSpeech: "phrase",
+      meaning: "起飞；开始流行；脱下",
+      example: "The new version of the tour began to take off online."
+    }
+  ],
+
+  passage: `
+Alex had always liked telling stories, but he had not yet learned the difference between a good story and a misleading one. He was fifteen, a student at Millbrook Secondary School, and the youngest member of the history club. When the club decided to create a public walking tour of the town, Alex immediately offered to handle the publicity.
+
+The purpose of the tour was simple. The students wanted to raise money for a partner school in a developing region, where a new library was being planned. Visitors would pay a small fee, stroll through Millbrook’s older streets and learn how the town had changed over time. The head teacher supported the idea, and the school board allowed the students to put posters near the entrance.
+
+Alex wanted the project to take off quickly. Using a brand-new tablet borrowed from the media room, he designed a poster with dark colours and dramatic words: “Secrets, Crime and the Extraordinary Truth Behind Millbrook.” It looked like the advertisement for a thriller. Within two days, the publicity had worked. Tickets sold faster than anyone expected.
+
+Mrs Warren, the club’s teacher, looked worried. She was not exactly conservative, but she believed history should be handled carefully. “Are you sure we can promise all this?” she asked.
+
+Alex smiled. “People like mystery.”
+
+“That may be true,” she said, “but they also rely on us to tell the truth.”
+
+On the morning of the tour, Alex realised she had been right. The first group included parents, younger students, two visitors from another town and a local tour guide called Mr Singh, who had offered to help. Some people expected hidden crimes, secret passages and shocking discoveries. In fact, most of Millbrook’s history was quieter. There was an old folk song about the river, a three-storey mill that had once employed hundreds of people, and a street where construction work now blocked part of the original route.
+
+The first stop went badly. Alex tried to make a story about a missing necklace sound like a major crime, but Mr Singh gently interrupted him. “The museum catalogue says the necklace was later found in a kitchen drawer,” he said. “That makes it a family misunderstanding, not a crime.”
+
+A few visitors laughed. One man asked if he could get a refund because the tour was not what the poster had promised. Alex felt his face burn. He wanted to deny that he had done anything wrong, but he could not. The poster had exaggerated the tour. He had let down the people who trusted him.
+
+The head teacher, who had joined the group, asked everyone to take a short break at a café. Volunteers boiled water for tea, and the café owner served small cakes with calorie information beside them. Alex expected a lecture, but Mr Singh simply sat next to him and said, “Take it easy. You made a mistake, not a disaster.”
+
+“I wanted it to sound extraordinary,” Alex said.
+
+“Then show people why ordinary things matter,” Mr Singh replied. “That is harder, but it is better.”
+
+The club had a fortnight before the second tour. This time, Alex made a radical change. Instead of trying to create mystery, he helped revise the route so that each stop explained a real link between past and present. At the mill, visitors learned how work had changed. By the river, they heard the folk song and discussed natural flood patterns. At the old market, they compared prices from a century ago with modern shopping habits. The stories varied, but they all showed how people’s lives had been connected.
+
+Alex also wrote an apology and placed it on the school board and the tour home page. He explained that the first publicity had promised too much and that the new tour would focus on truthful stories. Some students thought the apology would damage ticket sales. Surprisingly, the opposite happened. People respected the honesty.
+
+On the day of the second tour, Alex spoke more calmly. He no longer tried to make every event sound like a thriller. Mr Singh walked at the back and only helped when needed. At the end, a visitor said, “I thought this would be less exciting than the first version. But actually, it made me see the town differently.”
+
+That evening, the head teacher announced that the project had raised enough money to buy the first set of books for the partner school. Alex felt proud, but also quieter than before. He had learned that stories could inspire people without tricking them. Good publicity might bring an audience once, but reliable storytelling could make them come back.
+`,
+
+  translation: `
+亚历克斯一直喜欢讲故事，但他还没有真正明白，一个好故事和一个误导人的故事之间有什么区别。他十五岁，是米尔布鲁克中学的学生，也是历史社团里年龄最小的成员。当社团决定制作一条面向公众的本镇步行导览路线时，亚历克斯马上主动提出负责宣传。
+
+这次导览的目的很简单。学生们想为一个发展中地区的合作学校筹款，那里正在筹建一座新图书馆。参观者支付少量费用后，可以在米尔布鲁克的老街区散步，了解这座小镇如何随时间变化。校长支持这个想法，学校董事会也允许学生们在入口附近张贴海报。
+
+亚历克斯希望这个项目能迅速火起来。他用媒体教室借来的崭新平板电脑设计了一张海报，使用了深色背景和夸张的文字：“秘密、犯罪与米尔布鲁克背后的非凡真相。”它看起来像一部惊险电影的广告。两天之内，宣传就起了作用，门票卖得比任何人预想得都快。
+
+社团老师沃伦夫人看起来有些担心。她并不算特别保守，但她认为历史应该被谨慎对待。“你确定我们能承诺这些内容吗？”她问。
+
+亚历克斯笑了笑。“人们喜欢神秘感。”
+
+“也许是这样，”她说，“但他们也信赖我们会讲真话。”
+
+导览当天早上，亚历克斯意识到她是对的。第一组参观者包括家长、低年级学生、两名外地游客和一位名叫辛格的当地导游，他主动提出帮忙。有些人期待听到隐藏的罪案、秘密通道和惊人的发现。事实上，米尔布鲁克的大部分历史都要安静得多。这里有一首关于河流的民歌，一座曾雇佣过数百人的三层旧磨坊，还有一条因为施工而挡住原路线一部分的街道。
+
+第一站进行得很糟糕。亚历克斯试图把一个丢失项链的故事讲成重大犯罪事件，但辛格先生温和地打断了他。“博物馆目录里写着，那条项链后来在厨房抽屉里找到了，”他说，“所以这是一场家庭误会，不是犯罪。”
+
+几个游客笑了起来。一位男士问他能否退款，因为这次导览并不是海报中承诺的样子。亚历克斯觉得自己的脸发烫。他想否认自己做错了什么，但他做不到。那张海报确实夸大了导览内容。他辜负了信任他的人。
+
+参加导览的校长请大家到咖啡馆短暂休息。志愿者烧水泡茶，咖啡馆老板端上小蛋糕，并在旁边标明了卡路里信息。亚历克斯以为自己会挨一顿训，但辛格先生只是坐到他旁边说：“别太紧张。你只是犯了一个错误，不是制造了一场灾难。”
+
+“我只是想让它听起来非凡一点。”亚历克斯说。
+
+辛格先生回答：“那就让人们看到，普通的事物为什么重要。这更难，但也更好。”
+
+距离第二次导览还有两个星期。亚历克斯这次做出了彻底改变。他不再试图制造神秘感，而是帮助修改路线，让每一站都解释过去和现在之间真实的联系。在旧磨坊，参观者了解工作方式如何变化；在河边，他们听那首民歌，并讨论自然洪水规律；在旧市场，他们把一个世纪前的价格与现代购物习惯作比较。每个故事的语气和主题都不同，但它们都说明了人们的生活是如何相互连接的。
+
+亚历克斯还写了一封道歉信，贴在学校公告板和导览网页首页上。他解释说，第一次宣传承诺过多，而新版导览会专注于真实故事。有些学生认为这封道歉会影响票务销售。令人意外的是，结果正好相反。人们尊重这种诚实。
+
+第二次导览那天，亚历克斯讲得更加平静。他不再试图把每一件事都讲得像惊险小说一样。辛格先生走在队伍后面，只在需要时提供帮助。结束时，一位参观者说：“我原以为这会比第一版无聊。但实际上，它让我用不同的眼光看到了这座小镇。”
+
+那天晚上，校长宣布，这个项目已经筹到了足够的钱，可以为合作学校购买第一批图书。亚历克斯感到自豪，但也比以前沉静了许多。他明白了，故事可以激励人，而不必欺骗人。好的宣传也许只能带来一次观众，但可靠的讲述才能让他们再次回来。
+`,
+
+  questions: [
+    {
+      question: "What is Alex’s main mistake at the beginning of the project?",
+      options: {
+        A: "He chooses a route that is too difficult for visitors to follow.",
+        B: "He makes the tour sound more dramatic than the facts support.",
+        C: "He refuses to use modern technology for the publicity.",
+        D: "He forgets to explain the financial purpose of the tour."
+      },
+      answer: "B",
+      explanation: {
+        correct: "B是正确答案。Alex为了吸引关注，把普通的地方历史包装成thriller式的宣传，暗示有秘密和犯罪，但事实并没有那么戏剧化。",
+        A: "A不对。路线后来确实因construction需要调整，但这不是他一开始的主要错误。",
+        B: "B对。文章核心冲突来自宣传夸大，poster promised too much。",
+        C: "C不对。Alex使用了brand-new tablet设计宣传，并没有拒绝技术。",
+        D: "D不对。文章说明筹款目标是为发展中地区学校买书，财务目的并没有完全被忘记。"
+      }
+    },
+    {
+      question: "Why is Mr Singh important to Alex’s development?",
+      options: {
+        A: "He teaches Alex that truthful ordinary stories can still be meaningful.",
+        B: "He helps Alex invent more exciting crimes for the second tour.",
+        C: "He persuades the head teacher to cancel the project.",
+        D: "He shows Alex how to avoid giving an apology."
+      },
+      answer: "A",
+      explanation: {
+        correct: "A是正确答案。Mr Singh指出Alex讲错了项链故事，也告诉他普通事物本身也有意义。这推动Alex从夸张宣传转向真实讲述。",
+        A: "A对。Mr Singh的作用是引导Alex理解真实故事的价值。",
+        B: "B不对。他没有鼓励Alex编造更多犯罪故事，反而纠正了夸张叙述。",
+        C: "C不对。项目没有取消，后来还成功了。",
+        D: "D不对。Alex后来写了apology，Mr Singh并没有让他逃避道歉。"
+      }
+    },
+    {
+      question: "What effect does Alex’s apology have?",
+      options: {
+        A: "It damages the project because visitors lose all interest.",
+        B: "It makes the tour seem less reliable than before.",
+        C: "It helps rebuild trust because people respect the honesty.",
+        D: "It forces the school board to refund every ticket."
+      },
+      answer: "C",
+      explanation: {
+        correct: "C是正确答案。虽然有些学生担心道歉会影响售票，但结果相反。人们尊重诚实，说明道歉帮助重建了信任。",
+        A: "A不对。人们没有完全失去兴趣，第二次导览反而继续进行。",
+        B: "B不对。道歉使项目更可靠，而不是更不可靠。",
+        C: "C对。文章明确说People respected the honesty。",
+        D: "D不对。文章没有说学校董事会退还所有门票。"
+      }
+    },
+    {
+      question: "How does the second tour differ from the first one?",
+      options: {
+        A: "It avoids history and focuses only on entertainment.",
+        B: "It uses more shocking language to attract a larger public.",
+        C: "It connects local places with real changes in people’s lives.",
+        D: "It removes all variety so that the tour becomes easier to control."
+      },
+      answer: "C",
+      explanation: {
+        correct: "C是正确答案。第二次导览不再追求神秘和刺激，而是通过磨坊、河流、市场等地点展示过去与现在的真实联系。",
+        A: "A不对。第二次导览更重视真实历史，而不是回避历史。",
+        B: "B不对。Alex不再使用thriller式的夸张语言。",
+        C: "C对。第二次导览的重点是link between past and present。",
+        D: "D不对。文章说stories varied，说明故事仍然多样，只是更真实。"
+      }
+    },
+    {
+      question: "Which idea best expresses the message of the passage?",
+      options: {
+        A: "Publicity is successful only when it hides ordinary facts.",
+        B: "A good story should attract attention without giving up truth.",
+        C: "Young people should rely on adults to correct all their mistakes.",
+        D: "Historical tours are valuable only when they include crime stories."
+      },
+      answer: "B",
+      explanation: {
+        correct: "B是正确答案。全文讲Alex从夸张宣传到真实讲述的转变，说明好的故事可以吸引人，但不能牺牲事实和信任。",
+        A: "A不对。文章批评的正是为了宣传而隐藏或夸大普通事实。",
+        B: "B对。这是全文主旨：故事可以inspire people without tricking them。",
+        C: "C不对。成年人确实帮助了Alex，但他也主动修改、道歉和成长。",
+        D: "D不对。文章说明普通历史也可以有意义，不需要依赖crime故事。"
+      }
+    }
+  ]
 }
 ];
