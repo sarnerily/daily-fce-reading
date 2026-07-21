@@ -3526,5 +3526,371 @@ That evening, the head teacher announced that the project had raised enough mone
       }
     }
   ]
+},
+{
+  date: "2026-07-21",
+  title: "The Gallery by the Shore",
+  level: "FCE / B2",
+
+  vocabulary: [
+    {
+      word: "academic",
+      partOfSpeech: "adj. / n.",
+      meaning: "学术的；学校的；大学的；学者",
+      example: "Mara was confident in academic subjects but nervous in practical work."
+    },
+    {
+      word: "tie",
+      partOfSpeech: "n. / v.",
+      meaning: "领带；联系；平局；绑；系",
+      example: "She wore her brother's tie to look more serious."
+    },
+    {
+      word: "gallery",
+      partOfSpeech: "n.",
+      meaning: "画廊；美术馆；走廊；楼座",
+      example: "The gallery stood near the shore."
+    },
+    {
+      word: "ecology",
+      partOfSpeech: "n.",
+      meaning: "生态；生态学",
+      example: "The exhibition connected art with ecology."
+    },
+    {
+      word: "traffic lights",
+      partOfSpeech: "phrase",
+      meaning: "交通灯；红绿灯",
+      example: "The children painted old traffic lights as symbols of city pollution."
+    },
+    {
+      word: "get engaged",
+      partOfSpeech: "phrase",
+      meaning: "订婚",
+      example: "The gallery manager had recently got engaged to a composer."
+    },
+    {
+      word: "wage",
+      partOfSpeech: "n.",
+      meaning: "工资；薪水",
+      example: "Mara needed the summer wage to pay for her course materials."
+    },
+    {
+      word: "celebrity",
+      partOfSpeech: "n.",
+      meaning: "名人；名流",
+      example: "A local celebrity agreed to attend the opening."
+    },
+    {
+      word: "keep up",
+      partOfSpeech: "phrase",
+      meaning: "保持；坚持；跟上；不落后",
+      example: "Mara struggled to keep up when everyone began asking questions."
+    },
+    {
+      word: "vacancy",
+      partOfSpeech: "n.",
+      meaning: "空缺；职位空缺",
+      example: "She applied for a vacancy at the gallery."
+    },
+    {
+      word: "gymnastics",
+      partOfSpeech: "n.",
+      meaning: "体操；体操训练",
+      example: "A group of younger children performed simple gymnastics beside the paintings."
+    },
+    {
+      word: "teens",
+      partOfSpeech: "n.",
+      meaning: "十几岁青少年",
+      example: "The project was designed for local teens."
+    },
+    {
+      word: "composer",
+      partOfSpeech: "n.",
+      meaning: "作曲者；作曲家",
+      example: "The composer wrote music inspired by waves and birds."
+    },
+    {
+      word: "breathe",
+      partOfSpeech: "v.",
+      meaning: "呼吸；透气；低声说",
+      example: "Mara told herself to breathe slowly before speaking."
+    },
+    {
+      word: "artistic",
+      partOfSpeech: "adj.",
+      meaning: "艺术的",
+      example: "She did not think of herself as an artistic person."
+    },
+    {
+      word: "electrician",
+      partOfSpeech: "n.",
+      meaning: "电工；电气技师",
+      example: "An electrician was called when the lights failed."
+    },
+    {
+      word: "shore",
+      partOfSpeech: "n.",
+      meaning: "海岸；河岸；湖滨",
+      example: "The gallery windows faced the shore."
+    },
+    {
+      word: "optician",
+      partOfSpeech: "n.",
+      meaning: "眼镜商；验光师；眼镜店",
+      example: "The optician next door lent Mara a small magnifying glass."
+    },
+    {
+      word: "pyjamas",
+      partOfSpeech: "n.",
+      meaning: "睡衣裤",
+      example: "One child arrived in pyjamas for the morning workshop."
+    },
+    {
+      word: "settle",
+      partOfSpeech: "v.",
+      meaning: "解决；确定；定居；使平静",
+      example: "Mara helped settle the argument before it grew worse."
+    },
+    {
+      word: "bang",
+      partOfSpeech: "n. / v.",
+      meaning: "砰的一声；猛敲；砰然关上",
+      example: "There was a loud bang, and the gallery lights went out."
+    },
+    {
+      word: "murder",
+      partOfSpeech: "n. / v.",
+      meaning: "谋杀；凶杀；困难的事",
+      example: "A boy joked that the blackout felt like the beginning of a murder story."
+    },
+    {
+      word: "candidate",
+      partOfSpeech: "n.",
+      meaning: "候选人；申请人；考生",
+      example: "Mara was one of three candidates for the summer job."
+    },
+    {
+      word: "go on",
+      partOfSpeech: "phrase",
+      meaning: "继续；进行；发生",
+      example: "The manager wanted the opening to go on despite the problem."
+    },
+    {
+      word: "fiance",
+      partOfSpeech: "n.",
+      meaning: "未婚夫",
+      example: "The manager's fiance was the composer who had written the music."
+    },
+    {
+      word: "trousers",
+      partOfSpeech: "n.",
+      meaning: "裤子",
+      example: "Mara tore her trousers while carrying a wooden frame."
+    },
+    {
+      word: "stitch",
+      partOfSpeech: "v. / n.",
+      meaning: "缝补；缝合；针脚",
+      example: "Her grandmother helped stitch the torn trousers."
+    },
+    {
+      word: "fortune",
+      partOfSpeech: "n.",
+      meaning: "命运；运气；大笔钱",
+      example: "The job would not bring a fortune, but it mattered to Mara."
+    },
+    {
+      word: "look after",
+      partOfSpeech: "phrase",
+      meaning: "照料；照顾；照管",
+      example: "Mara was asked to look after the younger visitors."
+    },
+    {
+      word: "Yours faithfully",
+      partOfSpeech: "phrase",
+      meaning: "你忠实的；正式书信结尾用语",
+      example: "She ended her application letter with Yours faithfully."
+    },
+    {
+      word: "polite",
+      partOfSpeech: "adj.",
+      meaning: "有礼貌的；客气的",
+      example: "Mara tried to stay polite even when visitors complained."
+    },
+    {
+      word: "at once",
+      partOfSpeech: "phrase",
+      meaning: "立刻；马上；同时",
+      example: "When the lights failed, three people spoke at once."
+    },
+    {
+      word: "limited",
+      partOfSpeech: "adj.",
+      meaning: "有限的；受限制的",
+      example: "The gallery had limited money for the summer programme."
+    },
+    {
+      word: "check in",
+      partOfSpeech: "phrase",
+      meaning: "登记；报到；入住；值机",
+      example: "Visitors had to check in at the front desk."
+    },
+    {
+      word: "symptom",
+      partOfSpeech: "n.",
+      meaning: "症状；征兆",
+      example: "Mara's headache was more a symptom of stress than illness."
+    }
+  ],
+
+  passage: `
+Mara was good at academic work, but she had never been confident outside the classroom. She could write essays, revise facts and answer questions in exams, yet practical situations made her nervous. So when she saw a summer vacancy at the Shore Gallery, she almost walked past the notice.
+
+The job was not grand. The wage was limited, and the gallery could not promise regular hours. Still, Mara needed money for her course books, and the advertisement said the assistant would help with an exhibition called Art and Ecology. She liked the idea of working near the sea, so that evening she wrote a careful application letter. She ended it with Yours faithfully, printed it twice and checked every line before sending it.
+
+A week later, she was invited for an interview. She arrived in a dark jacket, borrowed trousers and her brother's tie, which she had tied badly. On the way, she caught the trousers on a broken wooden frame and tore them near the knee. Her grandmother made three quick stitches while telling her to breathe and stop treating every problem like a disaster.
+
+At the gallery, Mara met the other two candidates. One was cheerful and artistic; the other had worked in a café and knew how to speak to visitors. Mara felt she could not keep up with either of them. The manager, Clara, was polite but direct. She explained that the gallery had limited money, so the assistant would have to do several things at once: check in visitors, look after children, answer questions and help with simple displays.
+
+The exhibition was designed for local teens. Paintings of seabirds hung beside photographs of rubbish collected from the shore. A small room showed how traffic lights, plastic signs and old cables had been turned into sculptures about city life and ecology. There was also music by Clara's fiance, a composer who had recently become a minor celebrity after writing music for a television drama. Clara mentioned, smiling, that they had got engaged only two months earlier.
+
+On Mara's first trial morning, the gallery was busier than expected. A group of children arrived for a workshop, including one sleepy boy still wearing blue pyjamas under his coat. Another child asked whether the composer had written music for a murder thriller. Mara smiled and explained that the music was about tides, birds and wind. The boy looked disappointed but listened.
+
+Then the trouble began.
+
+There was a loud bang from the back room, and the lights in half the gallery went out. Three adults began speaking at once. A parent demanded a refund. The sleepy boy said, rather dramatically, that it was just like the start of a murder story. Clara tried to call an electrician, but his phone went to voicemail. Outside, rain darkened the windows, and the shore disappeared behind grey mist.
+
+Mara felt a headache rising behind her eyes. It was not a serious symptom, she knew, only stress. Still, for a moment she wanted to leave. She was only a candidate, not even an employee yet. Why should she be responsible?
+
+Then she noticed the children. They were not frightened; they were excited. They had gathered near a dark corner where a sculpture of a bat hung above a mirror. Without the electric lights, the shape looked mysterious but beautiful. Mara suddenly understood something: the blackout did not have to end the event.
+
+She asked everyone to move closer to the windows, where the natural light was stronger. The optician from the shop next door lent her a small magnifying glass so children could examine shells and feathers. Mara asked the gymnastics group, who had come to perform later, to create slow movements inspired by waves. Clara opened the shutters to let in more light. Gradually, the room settled.
+
+When the electrician finally called back, Clara told him to take his time. The opening could go on.
+
+By the afternoon, the blackout had become the most memorable part of the exhibition. Visitors said the darker rooms made them notice sound, shape and movement in a new way. The composer, who arrived late, laughed and said he wished he had planned it. Clara did not offer Mara the job at once, but when the day ended, she said, “You did something more useful than answering questions. You helped people stay curious.”
+
+Two days later, Mara received an email. She had not earned a fortune, but she had got the job. More importantly, she had learned that confidence was not the absence of fear. It was the ability to keep thinking while fear was present. For someone who had always trusted books more than people, that felt like the beginning of a different kind of education.
+`,
+
+  translation: `
+玛拉擅长文化课学习，但她在课堂之外从来不太自信。她会写论文，会复习知识点，也会在考试中回答问题，可是一遇到实际场合就容易紧张。所以，当她在海岸美术馆看到一则暑期职位空缺时，她几乎直接走了过去。
+
+这份工作并不体面。工资有限，美术馆也不能保证固定工时。不过，玛拉需要钱买课程用书，而且招聘广告上说，助理将协助一个名为“艺术与生态”的展览。她喜欢在海边工作的想法，于是那天晚上，她认真写了一封申请信。她用 Yours faithfully 作为结尾，打印了两份，逐行检查后才寄出。
+
+一周后，她被邀请参加面试。她穿着深色外套、借来的裤子，还系着哥哥的领带，虽然领带系得很糟。路上，她的裤子被一只破旧木框勾住，膝盖附近撕开了。祖母一边帮她快速缝了三针，一边让她好好呼吸，不要把每个问题都当成灾难。
+
+在美术馆里，玛拉见到了另外两名候选人。一个人开朗又有艺术感，另一个人在咖啡馆工作过，知道如何和参观者说话。玛拉觉得自己完全跟不上她们。经理克拉拉很有礼貌，但也很直接。她解释说，美术馆经费有限，所以助理必须同时做几件事：为参观者登记，照看孩子，回答问题，并协助简单的展陈工作。
+
+这个展览是为当地青少年设计的。海鸟画作旁边挂着从海岸收集来的垃圾照片。一个小房间展示了交通灯、塑料标牌和旧电缆如何被改造成关于城市生活和生态的雕塑。展览里还播放着克拉拉未婚夫创作的音乐。他是一名作曲家，最近因为给一部电视剧写音乐而成了一位小有名气的人。克拉拉笑着提到，他们两个月前才订婚。
+
+玛拉试工的第一个上午，美术馆比预想中更忙。一群孩子来参加工作坊，其中有个睡眼惺忪的男孩，外套里面还穿着蓝色睡衣。另一个孩子问那位作曲家是不是给谋杀惊悚片写过音乐。玛拉笑了笑，解释说这段音乐写的是潮汐、鸟和风。那个男孩有点失望，但还是听了下去。
+
+然后麻烦来了。
+
+后屋传来“砰”的一声巨响，美术馆一半区域的灯都灭了。三个成年人同时开始说话。一位家长要求退款。那个困倦的男孩相当戏剧化地说，这简直像谋杀故事的开头。克拉拉试图打电话给电工，但电话转到了语音信箱。窗外，雨让玻璃变暗，海岸也消失在灰色雾气里。
+
+玛拉感到眼后开始隐隐作痛。她知道这并不是严重症状，只是压力。但有那么一刻，她想直接离开。她只是候选人，甚至还不是正式员工。她为什么要负责？
+
+然后，她注意到了孩子们。他们并没有害怕，反而兴奋起来。他们聚在一个昏暗角落附近，那里有一只蝙蝠形状的雕塑悬在镜子上方。没有电灯时，那个形状看起来神秘却很美。玛拉忽然明白，停电并不一定意味着活动结束。
+
+她请大家靠近窗户，因为那里自然光更强。隔壁眼镜店的验光师借给她一个小放大镜，让孩子们观察贝壳和羽毛。玛拉请原本稍后要表演的体操小组做出受海浪启发的缓慢动作。克拉拉打开百叶窗，让更多光线进来。渐渐地，房间安静下来。
+
+当电工终于回电话时，克拉拉告诉他不用着急。开幕活动可以继续进行。
+
+到了下午，停电反而成了这次展览中最令人难忘的部分。参观者说，昏暗的房间让他们用新的方式注意到了声音、形状和动作。那位迟到的作曲家笑着说，他真希望这是自己计划好的。克拉拉没有立刻把工作给玛拉，但在这一天结束时，她说：“你做的事情比回答问题更有用。你帮助人们保持了好奇心。”
+
+两天后，玛拉收到了一封邮件。她没有赚到一大笔钱，但她得到了这份工作。更重要的是，她明白了，自信并不是没有恐惧，而是在恐惧仍然存在时继续思考的能力。对一个过去一直更信任书本而不是人的人来说，这像是一种不同教育的开始。
+`,
+
+  questions: [
+    {
+      question: "What is Mara’s main reason for applying to the gallery?",
+      options: {
+        A: "She wants to become a celebrity artist as quickly as possible.",
+        B: "She needs the money and is attracted by the exhibition theme.",
+        C: "She has always preferred practical work to academic study.",
+        D: "She wants to prove that the other candidates are unsuitable."
+      },
+      answer: "B",
+      explanation: {
+        correct: "B是正确答案。Mara申请这份工作，一方面是因为需要钱买课程用书，另一方面是因为她被Art and Ecology这个展览主题吸引。",
+        A: "A不对。文章没有说Mara想成为名人艺术家，她甚至不认为自己很artistic。",
+        B: "B对。文章明确说她needed money for her course books，也liked the idea of working near the sea和展览主题。",
+        C: "C不对。Mara擅长academic work，实际场合反而让她紧张。",
+        D: "D不对。Mara并不是为了证明别人不合适，她对其他候选人反而感到不自信。"
+      }
+    },
+    {
+      question: "Why does the writer include the incident with Mara’s torn trousers?",
+      options: {
+        A: "To show that Mara is careless about how she looks.",
+        B: "To suggest that Mara’s family does not support her.",
+        C: "To show how easily small problems make Mara anxious.",
+        D: "To explain why she decides not to attend the interview."
+      },
+      answer: "C",
+      explanation: {
+        correct: "C是正确答案。裤子被撕破本身不是大事，但祖母提醒她不要把每个问题都当成灾难，说明Mara容易被实际问题弄得紧张。",
+        A: "A不对。Mara借衣服、系领带，说明她在意面试形象。",
+        B: "B不对。祖母帮她缝裤子并安慰她，说明家人支持她。",
+        C: "C对。这个细节为后面她在停电危机中学会冷静处理问题做铺垫。",
+        D: "D不对。她最后仍然去了面试，并且开始试工。"
+      }
+    },
+    {
+      question: "What changes Mara’s reaction to the blackout?",
+      options: {
+        A: "She realises the children are curious rather than frightened.",
+        B: "The electrician arrives at once and repairs the lights.",
+        C: "Clara tells her that she has already got the job.",
+        D: "The composer explains that the blackout was planned."
+      },
+      answer: "A",
+      explanation: {
+        correct: "A是正确答案。Mara原本想离开，但她注意到孩子们不是害怕，而是对昏暗角落里的雕塑感到兴奋和好奇，于是她改变了处理方式。",
+        A: "A对。这个发现让她意识到停电不一定是失败，反而可以变成新的体验。",
+        B: "B不对。电工没有立刻到达，只是后来回电话。",
+        C: "C不对。Clara当天没有马上给她工作，只是在活动结束后肯定了她。",
+        D: "D不对。作曲家后来开玩笑说希望这是自己计划好的，但停电并不是事先安排。"
+      }
+    },
+    {
+      question: "How does Mara help the event continue?",
+      options: {
+        A: "She replaces the exhibition with a lecture on electricity.",
+        B: "She turns the darker space into a different way of experiencing the art.",
+        C: "She asks all visitors to leave and return another day.",
+        D: "She blames the electrician for failing to answer the phone."
+      },
+      answer: "B",
+      explanation: {
+        correct: "B是正确答案。Mara利用窗边自然光、放大镜、蝙蝠雕塑和体操动作，让停电后的空间变成一种新的艺术体验。",
+        A: "A不对。她没有把展览改成电学讲座。",
+        B: "B对。她没有否认问题，而是把问题转化为观看展览的新方式。",
+        C: "C不对。活动没有取消，opening could go on。",
+        D: "D不对。她没有责怪电工，而是先处理现场。"
+      }
+    },
+    {
+      question: "What does Mara learn by the end of the passage?",
+      options: {
+        A: "Confidence means never feeling fear in public situations.",
+        B: "Academic success is more useful than any practical skill.",
+        C: "People can act effectively even while feeling afraid.",
+        D: "A gallery job is valuable only if it brings a fortune."
+      },
+      answer: "C",
+      explanation: {
+        correct: "C是正确答案。文章最后明确说，自信不是没有恐惧，而是在恐惧存在时仍能继续思考。这正是Mara通过这次经历学到的东西。",
+        A: "A不对。文章并没有说自信等于没有恐惧，而是说恐惧存在时也能行动。",
+        B: "B不对。Mara原本擅长academic work，但这次学到的是课堂外的实际能力。",
+        C: "C对。这个选项概括了Mara的成长。",
+        D: "D不对。她没有赚到fortune，但这份经历仍然很有价值。"
+      }
+    }
+  ]
 }
 ];
