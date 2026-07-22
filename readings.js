@@ -3892,5 +3892,407 @@ Two days later, Mara received an email. She had not earned a fortune, but she ha
       }
     }
   ]
+},
+{
+  date: "2026-07-22",
+  title: "The Square Before the Match",
+  level: "FCE / B2",
+
+  vocabulary: [
+    {
+      word: "fare",
+      partOfSpeech: "n.",
+      meaning: "费用；车费；船费；飞机票价",
+      example: "The bus fare had recently increased."
+    },
+    {
+      word: "stress",
+      partOfSpeech: "n. / v.",
+      meaning: "压力；紧张；强调",
+      example: "The crowded station caused a lot of stress for commuters."
+    },
+    {
+      word: "take a course",
+      partOfSpeech: "phrase",
+      meaning: "选课；修一门课程",
+      example: "Ethan decided to take a course in urban design."
+    },
+    {
+      word: "cloudy",
+      partOfSpeech: "adj.",
+      meaning: "多云的；阴云密布的；不清澈的",
+      example: "It was a cloudy afternoon when Ethan first visited the square."
+    },
+    {
+      word: "take after",
+      partOfSpeech: "phrase",
+      meaning: "在外貌或性格方面像某位亲人",
+      example: "Ethan was said to take after his grandmother."
+    },
+    {
+      word: "tense",
+      partOfSpeech: "adj.",
+      meaning: "紧张的；焦虑不安的",
+      example: "The meeting became tense when complaints were mentioned."
+    },
+    {
+      word: "commute",
+      partOfSpeech: "n. / v.",
+      meaning: "上下班路程；通勤",
+      example: "Many people used the square during their daily commute."
+    },
+    {
+      word: "motorist",
+      partOfSpeech: "n.",
+      meaning: "驾车者；开车的人",
+      example: "Motorists often complained about pedestrians crossing too slowly."
+    },
+    {
+      word: "chart",
+      partOfSpeech: "n. / v.",
+      meaning: "图表；用图表表示；记录",
+      example: "Ethan made a chart showing how people crossed the square."
+    },
+    {
+      word: "bride",
+      partOfSpeech: "n.",
+      meaning: "新娘",
+      example: "A bride had to cross the square on her way to the town hall."
+    },
+    {
+      word: "blame",
+      partOfSpeech: "v. / n.",
+      meaning: "责备；把……归咎于；责任",
+      example: "Some people tried to blame the students for the confusion."
+    },
+    {
+      word: "unique",
+      partOfSpeech: "adj.",
+      meaning: "独一无二的；独特的；罕见的",
+      example: "The square had a unique mixture of buses, shoppers and football fans."
+    },
+    {
+      word: "special effect",
+      partOfSpeech: "phrase",
+      meaning: "特殊效果",
+      example: "The bright signs looked like a special effect from a film."
+    },
+    {
+      word: "leather",
+      partOfSpeech: "n. / adj.",
+      meaning: "皮革；皮革的",
+      example: "The bride was wearing pale leather shoes."
+    },
+    {
+      word: "appearance",
+      partOfSpeech: "n.",
+      meaning: "外表；出现；出场",
+      example: "The appearance of the square changed completely on match days."
+    },
+    {
+      word: "serve",
+      partOfSpeech: "v.",
+      meaning: "服务；提供；接待",
+      example: "Volunteers served water near the station entrance."
+    },
+    {
+      word: "population",
+      partOfSpeech: "n.",
+      meaning: "人口；种群",
+      example: "The town's population doubled in the summer tourist season."
+    },
+    {
+      word: "laptop",
+      partOfSpeech: "n.",
+      meaning: "笔记本电脑",
+      example: "Ethan kept his notes and maps on his laptop."
+    },
+    {
+      word: "conservation",
+      partOfSpeech: "n.",
+      meaning: "保护；保存",
+      example: "The project also considered conservation of the old market trees."
+    },
+    {
+      word: "luggage",
+      partOfSpeech: "n.",
+      meaning: "行李",
+      example: "Out-of-town visitors dragged luggage across the square."
+    },
+    {
+      word: "chemistry",
+      partOfSpeech: "n.",
+      meaning: "化学；物质的化学性质",
+      example: "A chemistry teacher explained why wet plaster could break easily."
+    },
+    {
+      word: "check out",
+      partOfSpeech: "phrase",
+      meaning: "查看；核实；结账离开",
+      example: "Ethan went back to check out the damaged water tap."
+    },
+    {
+      word: "call centre",
+      partOfSpeech: "n.",
+      meaning: "电话服务中心",
+      example: "The council call centre received several complaints."
+    },
+    {
+      word: "domestic",
+      partOfSpeech: "adj.",
+      meaning: "国内的；家庭的",
+      example: "The station brought both domestic tourists and local commuters."
+    },
+    {
+      word: "out-of-town",
+      partOfSpeech: "adj.",
+      meaning: "外地的；城外的",
+      example: "Out-of-town fans arrived early for the match."
+    },
+    {
+      word: "in fact",
+      partOfSpeech: "phrase",
+      meaning: "实际上；其实",
+      example: "In fact, the students had not caused the leak."
+    },
+    {
+      word: "architect",
+      partOfSpeech: "n.",
+      meaning: "建筑师；设计师",
+      example: "The course was led by a local architect."
+    },
+    {
+      word: "pedestrian",
+      partOfSpeech: "n. / adj.",
+      meaning: "行人；步行者；行人的",
+      example: "The new plan gave pedestrians more space."
+    },
+    {
+      word: "staff",
+      partOfSpeech: "n.",
+      meaning: "全体职工；员工",
+      example: "Station staff helped guide visitors."
+    },
+    {
+      word: "dynamic",
+      partOfSpeech: "adj.",
+      meaning: "有活力的；动态的；发展变化的",
+      example: "The square was more dynamic than Ethan had expected."
+    },
+    {
+      word: "plaster",
+      partOfSpeech: "n. / v.",
+      meaning: "灰泥；熟石膏；创可贴；抹灰",
+      example: "A plaster model of the square was displayed in the library."
+    },
+    {
+      word: "theoretical",
+      partOfSpeech: "adj.",
+      meaning: "理论的；理论上的",
+      example: "The course was not just theoretical."
+    },
+    {
+      word: "article",
+      partOfSpeech: "n.",
+      meaning: "文章；论文；物品；条款；冠词",
+      example: "Ethan later wrote an article about the project."
+    },
+    {
+      word: "appeal",
+      partOfSpeech: "n. / v.",
+      meaning: "吸引力；呼吁；上诉；有吸引力",
+      example: "The plan had more appeal after the students simplified it."
+    },
+    {
+      word: "shade",
+      partOfSpeech: "n. / v.",
+      meaning: "阴凉处；阴影；遮挡光线",
+      example: "Older visitors waited in the shade under the trees."
+    },
+    {
+      word: "vandal",
+      partOfSpeech: "n.",
+      meaning: "故意破坏公物者",
+      example: "A vandal had damaged the tap during the night."
+    },
+    {
+      word: "tap",
+      partOfSpeech: "n. / v.",
+      meaning: "水龙头；轻敲；开发；利用",
+      example: "Water was leaking from a broken tap near the station wall."
+    },
+    {
+      word: "event",
+      partOfSpeech: "n.",
+      meaning: "事件；活动；比赛项目",
+      example: "The football event brought thousands of people into town."
+    },
+    {
+      word: "stadium",
+      partOfSpeech: "n.",
+      meaning: "体育场；体育馆",
+      example: "The stadium stood ten minutes from the station."
+    },
+    {
+      word: "occupation",
+      partOfSpeech: "n.",
+      meaning: "职业；日常活动；占用；占领",
+      example: "Ethan was unsure whether design could become his future occupation."
+    },
+    {
+      word: "term",
+      partOfSpeech: "n.",
+      meaning: "学期；术语；期限；条款",
+      example: "The project began in the final school term."
+    }
+  ],
+
+  passage: `
+During the final term of school, Ethan decided to take a course called Design for Daily Life. He chose it partly because his grandmother had once been an architect, and everyone in his family said he took after her. Ethan was good at drawing plans, but he did not yet know whether design could become his future occupation.
+
+At first, the course sounded theoretical. Students discussed public spaces, pedestrian safety and conservation of old trees in town centres. Then their teacher, Mr Bell, gave them a real task: they had to study Station Square before a football event at the nearby stadium and suggest one small improvement.
+
+Station Square was not beautiful, but it was important. During the week, office workers crossed it on their commute. At weekends, out-of-town visitors arrived with luggage, domestic tourists looked for cafés, and motorists grew impatient near the traffic lights. On match days, the population of the square seemed to double within an hour.
+
+Ethan visited the square on a cloudy Thursday afternoon with his laptop and a notebook. He counted pedestrians, recorded bus fare complaints and drew a chart showing where people slowed down. The square was more dynamic than it looked from a map. An elderly couple waited in the shade under a tree; station staff tried to serve water from a public tap; a bride in pale leather shoes crossed carefully towards the town hall while football fans hurried around her.
+
+The scene gave Ethan an idea. Instead of proposing a large and expensive rebuilding project, he designed a simple walking line on the ground. It would guide people from the station entrance to the stadium road, leaving a calmer side path for slower pedestrians. To make the idea easier to understand, his group made a plaster model of the square for display in the library. They added tiny figures, trees and bright arrows. Under the lights, the arrows looked almost like a special effect.
+
+The model had immediate appeal. Mr Bell liked it, and the council agreed to test the walking line for one afternoon. Ethan felt proud, but he also became tense. A test in a classroom was one thing; a test with real crowds was another.
+
+The afternoon of the football event began badly. By three o'clock, the council call centre had received several complaints. One motorist said the new line was confusing. A shop owner said it made the square look childish. Then water began spreading across part of the pavement near the public tap. People stepped around it, the walking line disappeared under dirty water, and several visitors blamed the students.
+
+Ethan wanted to argue, but Mr Bell told him to check out the problem before answering. Near the wall, they found that the tap had been damaged. A small sign beside it had also been scratched. In fact, a vandal had broken it during the night, long before the students arrived. The water had run under the display board and softened part of the plaster model, which had been placed too close to the wall.
+
+A chemistry teacher who was passing by explained that wet plaster loses strength quickly. That was useful, but it did not solve the practical problem. The square was crowded, people were irritated, and the test seemed to be failing.
+
+Then Ethan noticed something that was not on his chart. Most people were not ignoring the walking line; they were using it until the water forced them away. The problem was not the idea itself, but its position. He asked the staff to move two temporary boards and redirect the line slightly towards the row of trees. It was not a perfect solution, but it gave pedestrians a dry route and kept them away from the waiting motorists.
+
+By the end of the afternoon, the square was still noisy. Nobody would call the test a complete success. However, fewer people were stopping in the middle of the road, and the bride who had crossed earlier returned with her new husband and said, laughing, that the second route was much better for anyone in difficult shoes.
+
+A week later, Ethan wrote an article about the experiment for the school website. He did not claim that his design was unique or brilliant. Instead, he wrote that real design was not about making a place look impressive. It was about watching carefully when people used it, accepting blame only when it was fair, and changing a plan when facts demanded it.
+
+The article surprised Mr Bell. “This is better than your first chart,” he said. “You have stopped drawing an ideal square and started understanding a real one.”
+
+For Ethan, that mattered more than praise. The project had not made him certain about his future occupation, but it had shown him what design could serve: not perfect appearances, but ordinary people trying to move through an imperfect place.
+`,
+
+  translation: `
+在学校最后一个学期，伊桑选修了一门叫作“日常生活设计”的课程。他选择这门课，部分原因是他的祖母曾经是一名建筑师，而且家里人都说他很像祖母。伊桑擅长画设计图，但他还不知道设计能不能成为自己未来的职业。
+
+一开始，这门课听起来很理论化。学生们讨论公共空间、行人安全，以及市中心老树的保护。后来，老师贝尔先生给他们布置了一个真实任务：他们要在附近体育场举办足球活动之前，研究车站广场，并提出一个小小的改进方案。
+
+车站广场并不漂亮，但很重要。工作日里，上班族会在通勤途中穿过这里。周末，外地游客拖着行李到达，本地游客寻找咖啡馆，开车的人在红绿灯附近变得不耐烦。比赛日时，广场上的人数似乎会在一小时之内翻倍。
+
+一个多云的星期四下午，伊桑带着笔记本电脑和记事本来到广场。他数经过的行人，记录关于公交车费的抱怨，并画了一张图表，标出人们在哪些地方会慢下来。这个广场比地图上看起来更有变化。一对老夫妇在树荫下等人；车站工作人员试图从一个公共水龙头处给人们提供饮水；一位穿着浅色皮鞋的新娘小心地穿过广场前往市政厅，而足球迷们匆匆从她身边绕过。
+
+这一幕给了伊桑一个想法。他没有提出大规模、昂贵的重建工程，而是设计了一条简单的地面步行线。它会引导人们从车站入口走向通往体育场的道路，同时给行动较慢的行人留出一条更安静的侧边小路。为了让这个想法更容易理解，他的小组为图书馆展示做了一个广场的石膏模型。他们加上了小人、树和明亮的箭头。在灯光下，那些箭头看起来几乎像电影里的特殊效果。
+
+这个模型立刻很有吸引力。贝尔先生喜欢它，市政会也同意在一个下午试行这条步行线。伊桑感到自豪，但也变得紧张起来。在教室里测试是一回事，在真实人群中测试就是另一回事了。
+
+足球比赛活动当天下午，一开始就不顺利。到三点钟，市政会电话服务中心已经收到了几起投诉。一位开车的人说新线让人困惑。一位店主说它让广场看起来很幼稚。接着，公共水龙头附近的一部分人行道开始有水蔓延。人们绕开水走，步行线被脏水盖住，几名游客开始责怪学生。
+
+伊桑想争辩，但贝尔先生让他先去查清问题再回应。在墙边，他们发现水龙头已经被损坏了。旁边的一块小牌子也被划坏了。实际上，一个破坏公物的人在夜里就把它弄坏了，远在学生们到达之前。水流到展示板下面，还泡软了放得离墙太近的石膏模型的一部分。
+
+一位路过的化学老师解释说，湿石膏很快会失去强度。这条信息有用，但并不能解决眼前的实际问题。广场上人很多，大家很烦躁，这次测试看起来像是要失败了。
+
+然后，伊桑注意到一件图表上没有显示出来的事情。大多数人并不是无视步行线；他们一直在使用它，直到水迫使他们离开。问题不在于这个想法本身，而在于它的位置。他请工作人员移动两块临时指示牌，把路线稍微改向那排树。这个办法并不完美，但它给行人提供了一条干燥的路线，也让他们避开了正在等待的车辆。
+
+到下午结束时，广场仍然很吵。没有人会说这次测试完全成功。不过，停在道路中间的人变少了，那位早些时候穿过广场的新娘和她的新婚丈夫回来时笑着说，对于穿不好走的鞋的人来说，第二条路线好多了。
+
+一周后，伊桑为学校网站写了一篇关于这次实验的文章。他没有声称自己的设计独一无二或十分出色。相反，他写道，真正的设计不是让一个地方看起来令人印象深刻，而是在真实的人使用它时仔细观察，只在公平的时候接受指责，并在事实要求时改变计划。
+
+这篇文章让贝尔先生感到惊讶。“这比你第一张图表更好，”他说，“你不再只是画一个理想中的广场，而是开始理解一个真实的广场了。”
+
+对伊桑来说，这比表扬更重要。这个项目并没有让他完全确定自己未来的职业，但它让他看到了设计能够服务什么：不是完美的外表，而是那些试图穿过一个不完美地方的普通人。
+`,
+
+  questions: [
+    {
+      question: "Which aspect of Station Square most influences Ethan’s final understanding of design?",
+      options: {
+        A: "Its unusual appearance when shown as a plaster model.",
+        B: "The way different groups use it for different purposes.",
+        C: "The fact that it is close to a stadium and a town hall.",
+        D: "The complaints about bus fares and domestic tourism."
+      },
+      answer: "B",
+      explanation: {
+        correct: "B是正确答案。Ethan最后明白，设计不是追求好看的外表，而是服务普通人在真实空间中的行动。Station Square之所以重要，是因为通勤者、游客、行人、司机、工作人员、新娘、球迷等不同人群都在使用它。",
+        A: "A有迷惑性。石膏模型确实吸引人，但它只是早期展示方式，不是Ethan最终理解设计的关键。",
+        B: "B对。文章多次展示不同人群如何使用广场，最后也强调design服务ordinary people。",
+        C: "C有一定关联。体育场和市政厅制造了复杂场景，但仅说位置接近它们，不足以概括Ethan的最终认识。",
+        D: "D不对。车费抱怨和游客只是他观察到的细节，不是最终理解的核心。"
+      }
+    },
+    {
+      question: "Why does the writer include the bride crossing the square?",
+      options: {
+        A: "To add a romantic event that is separate from the main design problem.",
+        B: "To suggest that formal clothing can make public spaces harder to use.",
+        C: "To show that Ethan’s first route was designed especially for weddings.",
+        D: "To prove that the square should be closed to football fans."
+      },
+      answer: "B",
+      explanation: {
+        correct: "B是正确答案。新娘穿着皮鞋小心穿过广场，后来又说第二条路线对穿难走鞋的人更好。这不是无关浪漫细节，而是说明公共空间要考虑具体身体状态和实际行走困难。",
+        A: "A不对。bride不是为了增加浪漫情节，而是帮助展示行人需求的多样性。",
+        B: "B对。这个细节让Ethan看到，pedestrian并不是一个抽象概念，不同人的移动需求不同。",
+        C: "C不对。Ethan的路线不是专门为婚礼设计的。",
+        D: "D不对。文章没有主张排除球迷，而是在寻找人群共存的路线。"
+      }
+    },
+    {
+      question: "What is the main reason the walking-line test seems to fail at first?",
+      options: {
+        A: "The idea is too theoretical for people to understand.",
+        B: "The council call centre gives the wrong information to visitors.",
+        C: "A damaged tap changes how people can move through the square.",
+        D: "Motorists refuse to obey the traffic lights near the station."
+      },
+      answer: "C",
+      explanation: {
+        correct: "C是正确答案。测试一开始出问题，不是因为路线本身完全失败，而是因为水龙头被破坏，水覆盖了部分步行线，迫使人们绕行。",
+        A: "A有迷惑性，因为课程一开始被描述为theoretical，但实际测试的问题不是理论太抽象。",
+        B: "B不对。call centre只是接收投诉，并没有给游客错误信息。",
+        C: "C对。破损的tap造成水流，直接改变了行人的移动路线。",
+        D: "D不对。文中提到motorists不耐烦和投诉，但没有说他们不遵守交通灯。"
+      }
+    },
+    {
+      question: "How does Ethan’s use of the chart change during the story?",
+      options: {
+        A: "He learns that a chart can describe movement, but cannot replace watching people directly.",
+        B: "He decides that charts are useless and stops collecting information.",
+        C: "He uses the chart to prove that all complaints are unfair.",
+        D: "He turns the chart into a special effect for the public display."
+      },
+      answer: "A",
+      explanation: {
+        correct: "A是正确答案。Ethan一开始依靠chart记录人流，但后来发现图表上没有显示出关键现象：人们其实愿意使用路线，只是被水迫使离开。这说明图表有用，但不能替代现场观察。",
+        A: "A对。这个选项抓住了Ethan从数据记录到真实观察的变化。",
+        B: "B不对。文章没有否定图表，只是说明它不够完整。",
+        C: "C不对。Ethan没有用图表证明所有投诉都不公平，他承认需要调整方案。",
+        D: "D不对。像special effect的是模型上的箭头，不是chart本身。"
+      }
+    },
+    {
+      question: "What does Mr Bell probably value most in Ethan’s article?",
+      options: {
+        A: "Its claim that Ethan’s design is unique.",
+        B: "Its refusal to mention the problems during the test.",
+        C: "Its movement from ideal planning to practical understanding.",
+        D: "Its detailed explanation of plaster and chemistry."
+      },
+      answer: "C",
+      explanation: {
+        correct: "C是正确答案。Mr Bell说Ethan已经不再画理想中的广场，而是开始理解真实广场。这说明他最看重的是Ethan从理想设计转向实际理解的成长。",
+        A: "A不对。Ethan明确没有声称自己的设计unique or brilliant。",
+        B: "B不对。文章并没有回避问题，反而分析了测试中的失败与调整。",
+        C: "C对。这个选项概括了Mr Bell评价的重点。",
+        D: "D有迷惑性。plaster和chemistry确实出现了，但只是事件细节，不是文章真正价值所在。"
+      }
+    }
+  ]
 }
 ];
