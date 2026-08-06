@@ -4294,5 +4294,385 @@ For Ethan, that mattered more than praise. The project had not made him certain 
       }
     }
   ]
+},
+{
+  date: "2026-08-05",
+  title: "The Room of Ordinary Things",
+  level: "FCE / B2",
+
+  vocabulary: [
+    {
+      word: "living room",
+      partOfSpeech: "phrase",
+      meaning: "客厅；起居室",
+      example: "The interview took place in Mr Karim's living room."
+    },
+    {
+      word: "civilization",
+      partOfSpeech: "n.",
+      meaning: "文明；文化",
+      example: "Their assignment asked what civilization meant in daily life."
+    },
+    {
+      word: "illegal",
+      partOfSpeech: "adj.",
+      meaning: "不合法的；非法的",
+      example: "Painting graffiti on the bridge was illegal."
+    },
+    {
+      word: "beef",
+      partOfSpeech: "n.",
+      meaning: "牛肉；抱怨；牢骚",
+      example: "Mr Karim served a small beef pie with tea."
+    },
+    {
+      word: "climate change",
+      partOfSpeech: "phrase",
+      meaning: "气候变化",
+      example: "The valley had changed because of climate change."
+    },
+    {
+      word: "cut out",
+      partOfSpeech: "phrase",
+      meaning: "删去；切去；裁剪；停止",
+      example: "Felix wanted to cut out the quieter parts of the interview."
+    },
+    {
+      word: "ashamed",
+      partOfSpeech: "adj.",
+      meaning: "羞愧的；惭愧的；尴尬的",
+      example: "Anna felt ashamed when she realised she had judged too quickly."
+    },
+    {
+      word: "discount",
+      partOfSpeech: "n. / v.",
+      meaning: "折扣；打折；低估",
+      example: "The shop gave students a discount on display materials."
+    },
+    {
+      word: "dust",
+      partOfSpeech: "n. / v.",
+      meaning: "灰尘；尘土；擦灰",
+      example: "There was dust on the old photographs."
+    },
+    {
+      word: "atmosphere",
+      partOfSpeech: "n.",
+      meaning: "大气；空气；气氛；氛围",
+      example: "The room had a calm and thoughtful atmosphere."
+    },
+    {
+      word: "congestion",
+      partOfSpeech: "n.",
+      meaning: "交通拥堵；堵塞",
+      example: "Traffic congestion made the village road noisy in summer."
+    },
+    {
+      word: "ring",
+      partOfSpeech: "n. / v.",
+      meaning: "戒指；铃声；打电话；响起",
+      example: "An old phone began to ring during the interview."
+    },
+    {
+      word: "tune",
+      partOfSpeech: "n. / v.",
+      meaning: "曲子；曲调；调音；调整",
+      example: "Mr Karim played a folk tune on a small instrument."
+    },
+    {
+      word: "assignment",
+      partOfSpeech: "n.",
+      meaning: "作业；任务；分派",
+      example: "The exhibition was part of a school assignment."
+    },
+    {
+      word: "genuine",
+      partOfSpeech: "adj.",
+      meaning: "真正的；真实的；诚恳的",
+      example: "Anna wanted the exhibition to feel genuine."
+    },
+    {
+      word: "graffiti",
+      partOfSpeech: "n.",
+      meaning: "涂鸦",
+      example: "The graffiti under the bridge became part of their story."
+    },
+    {
+      word: "afford",
+      partOfSpeech: "v.",
+      meaning: "负担得起；提供；给予",
+      example: "Some families could not afford the higher bus fare."
+    },
+    {
+      word: "particular",
+      partOfSpeech: "adj.",
+      meaning: "特定的；特别的；讲究的",
+      example: "Anna was interested in one particular photograph."
+    },
+    {
+      word: "advice",
+      partOfSpeech: "n.",
+      meaning: "建议；忠告；意见",
+      example: "Mr Karim's advice changed the way Anna edited the film."
+    },
+    {
+      word: "decoration",
+      partOfSpeech: "n.",
+      meaning: "装饰品；装潢；装饰",
+      example: "The wall decoration had been made by his former students."
+    },
+    {
+      word: "salary",
+      partOfSpeech: "n.",
+      meaning: "薪金；薪水",
+      example: "Anna's mother worried that arts jobs had a low salary."
+    },
+    {
+      word: "aggressive",
+      partOfSpeech: "adj.",
+      meaning: "咄咄逼人的；有进取心的；激进的",
+      example: "Felix's questions sounded too aggressive."
+    },
+    {
+      word: "fossil fuel",
+      partOfSpeech: "phrase",
+      meaning: "化石燃料",
+      example: "The old buses still ran on fossil fuel."
+    },
+    {
+      word: "discipline",
+      partOfSpeech: "n. / v.",
+      meaning: "纪律；自律；训练；学科；管教",
+      example: "Martial arts had taught Mr Karim discipline."
+    },
+    {
+      word: "crisp",
+      partOfSpeech: "adj. / n.",
+      meaning: "凉爽干燥的；脆的；薯片",
+      example: "The morning air in the valley was crisp."
+    },
+    {
+      word: "valley",
+      partOfSpeech: "n.",
+      meaning: "山谷；谷地",
+      example: "The village lay in a narrow valley."
+    },
+    {
+      word: "tutor",
+      partOfSpeech: "n. / v.",
+      meaning: "导师；家庭教师；辅导",
+      example: "Mr Karim had once worked as a martial arts tutor."
+    },
+    {
+      word: "accuse",
+      partOfSpeech: "v.",
+      meaning: "指责；控告",
+      example: "Some villagers were quick to accuse the teenagers."
+    },
+    {
+      word: "pension",
+      partOfSpeech: "n.",
+      meaning: "养老金；退休金",
+      example: "Mr Karim lived mainly on his pension."
+    },
+    {
+      word: "content",
+      partOfSpeech: "n. / adj.",
+      meaning: "内容；含量；满意的；满足的",
+      example: "Anna changed the content of the exhibition after the interview."
+    },
+    {
+      word: "patient",
+      partOfSpeech: "adj. / n.",
+      meaning: "有耐心的；病人",
+      example: "A patient listener often understands more than a quick judge."
+    },
+    {
+      word: "homesick",
+      partOfSpeech: "adj.",
+      meaning: "思乡的；想家的",
+      example: "One boy wrote on the wall because he felt homesick."
+    },
+    {
+      word: "bring up",
+      partOfSpeech: "phrase",
+      meaning: "提出；养育；教养",
+      example: "Anna decided to bring up the question of blame."
+    },
+    {
+      word: "curious",
+      partOfSpeech: "adj.",
+      meaning: "好奇的；求知的；奇特的",
+      example: "The children were curious about the old photographs."
+    },
+    {
+      word: "goods",
+      partOfSpeech: "n.",
+      meaning: "商品；货品；私人物品",
+      example: "Old shop goods were displayed beside family photos."
+    },
+    {
+      word: "martial arts",
+      partOfSpeech: "phrase",
+      meaning: "武术",
+      example: "Mr Karim had taught martial arts for forty years."
+    }
+  ],
+
+  passage: `
+Anna's history teacher gave the class an assignment with a strange title: What Does Civilization Look Like at Home? At first, most students laughed. They expected to study ancient cities, written laws and famous buildings, not people's kitchens or living rooms. But the teacher explained that civilization was not only found in museums. It could also be seen in how people treated neighbours, shared stories and solved problems.
+
+Anna was curious about the idea, but she was also tired. Her family had recently moved from the city to a village in a narrow valley, and she still felt homesick. The morning air was crisp and clean, but the buses were slow, the road was often full of congestion, and she missed the noisy atmosphere of her old street. Her mother said the move would be better in the long term, but Anna was not convinced.
+
+For the assignment, Anna joined Felix, a confident student who wanted their exhibition to win a school prize. He suggested making a dramatic video about climate change, fossil fuel and illegal graffiti on the bridge near the village entrance. "We need something strong," he said. "People remember anger."
+
+Their teacher told them to interview Mr Karim, a retired martial arts tutor who lived above an old shop. His living room was full of ordinary things: dusty photographs, a cracked tea set, a ring that had belonged to his wife, old shop goods, and a wall decoration made by children he had taught. There was even a small radio that played the same gentle tune every hour.
+
+Felix looked disappointed. "This is not exciting," he whispered.
+
+But Mr Karim heard him and smiled. "Not every important thing arrives with noise."
+
+He served tea and a small beef pie, then began to talk. He had come to the valley as a young man and opened a martial arts club because he believed discipline could help teenagers who were angry or lost. For decades, the club gave young people a safe place to train. Now Mr Karim lived mostly on his pension, and he could no longer afford to keep the old hall open.
+
+Felix became impatient. His questions grew aggressive. He wanted Mr Karim to accuse the bus company, the council or the teenagers who had painted the bridge. But Mr Karim refused to simplify the story. The buses were old and used fossil fuel, he said, but they were also the only transport some families could afford. The graffiti was illegal, but one particular boy had written on the wall after arriving from another country and feeling deeply homesick. "He was ashamed afterwards," Mr Karim said. "I asked him to come back and paint something better."
+
+Anna leaned forward. "Did he?"
+
+Mr Karim pointed to a photograph on the wall. It showed the same bridge, now covered with a colourful picture of birds flying over the valley. The boy had designed it with other students. "People wanted to blame him," Mr Karim said. "But blame is easy. Repair is harder."
+
+When Anna and Felix left, Felix still wanted to make the film sharper. He suggested they cut out the part about the homesick boy and focus on the illegal graffiti, traffic problems and pollution. "That will have more impact," he said.
+
+Anna hesitated. Her mother had given her similar advice about school projects: be clear, choose strong points, do not include everything. But this felt different. If they removed the difficult parts, the exhibition would be simpler, but not genuine. It would turn real people into examples in an argument.
+
+That evening, Anna edited the video on her laptop. She included the dust on the photographs, the tune from the radio, the ring on the table, the crowded road outside and Mr Karim's patient voice. She also included the graffiti, but not as proof that young people were careless. Instead, she used it to show how one mistake could become a public artwork when someone offered advice instead of only punishment.
+
+On the day of the exhibition, some visitors found the video less dramatic than Felix had hoped. There were no villains, no easy answers and no angry ending. But people stayed to watch. A grandmother asked whether Mr Karim still needed help with the old hall. A local shop offered a discount on paint. Two students asked if they could restart the martial arts club once a week.
+
+Felix said nothing for a while. Then he admitted that the quiet parts had worked better than he expected.
+
+Anna did not win the top prize, but she did not mind. For the first time since moving to the valley, she felt less like a visitor. She understood that civilization was not only about grand buildings or perfect systems. Sometimes, it was a living room where someone kept old memories safe, a patient question before an accusation, and the choice to repair what others wanted to throw away.
+`,
+
+  translation: `
+安娜的历史老师给全班布置了一个题目很奇怪的作业：文明在家中是什么样子？一开始，大多数学生都笑了。他们以为自己会研究古代城市、成文法律和著名建筑，而不是人们的厨房或客厅。但老师解释说，文明并不只存在于博物馆里。它也可以体现在人们如何对待邻居、分享故事和解决问题上。
+
+安娜对这个想法很好奇，但她也很疲惫。她家最近从城市搬到一个狭窄山谷里的村庄，她仍然很想家。清晨的空气凉爽干燥，但公交车很慢，道路经常拥堵，她想念旧街道那种吵闹的气氛。妈妈说，从长远看，搬家会更好，但安娜并不确定。
+
+为了完成作业，安娜和费利克斯组成一组。费利克斯很自信，希望他们的展览能赢得学校奖项。他建议拍一段有冲击力的视频，讲气候变化、化石燃料，以及村口桥上的非法涂鸦。“我们需要强烈一点的东西，”他说，“人们会记住愤怒。”
+
+老师让他们采访卡里姆先生。卡里姆先生是一位退休的武术老师，住在一家旧商店楼上。他的客厅里摆满了普通的东西：落满灰尘的照片、一个有裂纹的茶具、妻子留下的一枚戒指、旧商店里的货品，还有一件由他曾经教过的孩子们做的墙面装饰。那里甚至还有一台小收音机，每个小时都会播放同一支柔和的曲子。
+
+费利克斯看起来有些失望。“这并不刺激。”他低声说。
+
+但卡里姆先生听见了，笑了笑。“并不是每件重要的事都会带着噪音出现。”
+
+他端上茶和一小块牛肉派，然后开始讲述。他年轻时来到这个山谷，并开办了一家武术俱乐部，因为他相信自律能帮助那些愤怒或迷茫的青少年。几十年来，这个俱乐部给年轻人提供了一个安全训练的地方。如今，卡里姆先生主要靠养老金生活，已经无力继续维持那座旧训练馆。
+
+费利克斯变得不耐烦了。他的问题越来越咄咄逼人。他希望卡里姆先生指责公交公司、市政会，或者那些在桥上涂鸦的青少年。但卡里姆先生拒绝把故事简单化。他说，公交车确实很旧，也使用化石燃料，但对一些家庭来说，那也是他们唯一负担得起的交通工具。涂鸦确实是非法的，但其中有一个男孩是在从另一个国家来到这里后，因为非常想家，才在墙上写字的。“他后来很羞愧，”卡里姆先生说，“我让他回来，画一些更好的东西。”
+
+安娜向前倾了倾身子。“他回来了吗？”
+
+卡里姆先生指了指墙上的一张照片。照片里还是那座桥，但桥上已经画满了彩色的鸟，它们正飞过山谷。那个男孩和其他学生一起设计了这幅画。“人们想责备他，”卡里姆先生说，“但是责备很容易。修复更难。”
+
+安娜和费利克斯离开后，费利克斯仍然想把影片做得更尖锐。他建议他们删掉那个想家男孩的部分，重点讲非法涂鸦、交通问题和污染。“那样更有冲击力。”他说。
+
+安娜犹豫了。她妈妈曾经给过她类似的关于学校项目的建议：要清楚，选择有力的重点，不要什么都放进去。但这一次感觉不同。如果他们删掉那些复杂的部分，展览会更简单，但就不真实了。它会把真实的人变成一个论点里的例子。
+
+那天晚上，安娜在笔记本电脑上剪辑视频。她保留了照片上的灰尘、收音机里的曲调、桌上的戒指、窗外拥堵的道路，以及卡里姆先生耐心的声音。她也保留了涂鸦，但不是把它作为年轻人粗心的证据。相反，她用它说明，当有人给出建议而不是只有惩罚时，一个错误也可能变成一件公共艺术作品。
+
+展览当天，有些参观者觉得这段视频没有费利克斯希望的那么戏剧化。里面没有坏人，没有简单答案，也没有愤怒的结尾。但人们停下来认真观看。一位祖母问卡里姆先生是否还需要人帮忙整理旧训练馆。一家本地商店表示可以给油漆打折。两名学生问他们是否可以每周重新开一次武术俱乐部。
+
+费利克斯沉默了一会儿。随后他承认，那些安静的部分比他预想的更有效。
+
+安娜没有赢得最高奖，但她并不在意。自从搬到山谷以来，她第一次觉得自己不再像一个外来者。她明白了，文明并不只是宏伟建筑或完美制度。有时候，文明是一间保存着旧记忆的客厅，是在指责之前提出一个耐心的问题，也是选择修复那些别人想要丢弃的东西。
+`,
+
+  questions: [
+    {
+      question: "What does Felix misunderstand at the beginning of the project?",
+      options: {
+        A: "He thinks a powerful exhibition must make the issue look simple and dramatic.",
+        B: "He believes Mr Karim is too poor to have anything useful to say.",
+        C: "He assumes that climate change has nothing to do with the valley.",
+        D: "He thinks Anna is unwilling to work on the assignment."
+      },
+      answer: "A",
+      explanation: {
+        correct: "A是正确答案。Felix一开始追求强烈、愤怒、戏剧性的内容，希望突出非法涂鸦、交通和污染问题。他误以为有力量的表达必须简单而刺激。",
+        A: "A对。这个选项概括了Felix的核心误解：他把impact等同于drama和anger。",
+        B: "B不对。他失望的是Mr Karim的客厅看起来不刺激，不是因为他认为Mr Karim贫穷就没有价值。",
+        C: "C不对。Felix反而想把climate change放进视频里。",
+        D: "D不对。Anna对题目curious，也参与了采访和剪辑。"
+      }
+    },
+    {
+      question: "Why is Mr Karim’s living room important to the story?",
+      options: {
+        A: "It proves that the past is more important than present social problems.",
+        B: "It gives Anna a way to connect personal memory with public issues.",
+        C: "It offers clear evidence that all graffiti should be punished severely.",
+        D: "It shows that ordinary homes are unsuitable for school research."
+      },
+      answer: "B",
+      explanation: {
+        correct: "B是正确答案。Mr Karim的客厅里有照片、戒指、旧货品、装饰和音乐，这些普通物件引出了青年、交通、涂鸦、社区修复等公共议题。",
+        A: "A不对。文章不是说过去比现实问题重要，而是把过去记忆和现实问题连接起来。",
+        B: "B对。living room让Anna看到文明可以存在于个人记忆和日常关系中。",
+        C: "C不对。Mr Karim恰恰反对只用惩罚处理涂鸦。",
+        D: "D不对。文章说明普通家庭空间也可以成为理解社会问题的入口。"
+      }
+    },
+    {
+      question: "What is the effect of the homesick boy’s story?",
+      options: {
+        A: "It excuses illegal graffiti completely.",
+        B: "It makes the bridge story more complicated and human.",
+        C: "It proves that the village has no real traffic problems.",
+        D: "It gives Felix the angry ending he wanted."
+      },
+      answer: "B",
+      explanation: {
+        correct: "B是正确答案。男孩的故事没有否认涂鸦是illegal，但它让读者看到行为背后的思乡、羞愧和修复过程，使问题不再是简单的坏人故事。",
+        A: "A不对。文章没有说非法涂鸦完全可以被原谅。Mr Karim承认它是illegal，但选择引导修复。",
+        B: "B对。这个故事增加了复杂性和人情味。",
+        C: "C不对。交通拥堵和公交问题仍然存在。",
+        D: "D不对。这个故事削弱了Felix想要的愤怒式结尾。"
+      }
+    },
+    {
+      question: "Why does Anna decide not to cut out the quieter parts of the interview?",
+      options: {
+        A: "She wants the video to be longer than Felix planned.",
+        B: "She realises that removing complexity would make the exhibition less truthful.",
+        C: "She is afraid Mr Karim will refuse to watch the final video.",
+        D: "She wants to avoid mentioning climate change."
+      },
+      answer: "B",
+      explanation: {
+        correct: "B是正确答案。Anna意识到，如果删掉复杂、安静的部分，视频会更简单，但不再genuine。她不想把真实的人变成论点里的工具。",
+        A: "A不对。她的目的不是让视频更长，而是让它更真实。",
+        B: "B对。这个选项抓住了Anna剪辑时的真正判断。",
+        C: "C不对。文章没有说她担心Mr Karim拒绝观看。",
+        D: "D不对。视频仍然涉及交通、化石燃料和气候变化，只是不把它们处理成简单控诉。"
+      }
+    },
+    {
+      question: "Which response best shows that Anna’s exhibition has succeeded?",
+      options: {
+        A: "Visitors immediately agree on who should be blamed.",
+        B: "People begin asking how they can help repair the old hall.",
+        C: "Felix becomes more aggressive in his questions.",
+        D: "The school gives Anna the top prize."
+      },
+      answer: "B",
+      explanation: {
+        correct: "B是正确答案。Anna的展览没有靠愤怒取胜，而是让人愿意留下观看，并开始询问如何帮助旧训练馆。这说明它激发了真实行动。",
+        A: "A不对。展览的成功不在于让大家找到责怪对象，而是避免简单指责。",
+        B: "B对。观众主动提出帮助，说明视频产生了实际影响。",
+        C: "C不对。Felix后来反而承认安静部分有效，而不是更咄咄逼人。",
+        D: "D不对。Anna没有获得最高奖，但这并不意味着展览失败。"
+      }
+    }
+  ]
 }
 ];
