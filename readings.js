@@ -4674,5 +4674,421 @@ Anna did not win the top prize, but she did not mind. For the first time since m
       }
     }
   ]
+},
+{
+  date: "2026-08-06",
+  title: "Behind the Red Curtain",
+  level: "FCE / B2",
+
+  vocabulary: [
+    {
+      word: "miserable",
+      partOfSpeech: "adj.",
+      meaning: "悲惨的；痛苦的；难受的",
+      example: "Leo felt miserable when the first visitors began to complain."
+    },
+    {
+      word: "realistic",
+      partOfSpeech: "adj.",
+      meaning: "实际的；实事求是的；逼真的",
+      example: "The manager asked for a more realistic plan."
+    },
+    {
+      word: "display",
+      partOfSpeech: "n. / v.",
+      meaning: "展示；陈列；显示；表现",
+      example: "Old costumes were put on display near the entrance."
+    },
+    {
+      word: "effect",
+      partOfSpeech: "n.",
+      meaning: "影响；效果；作用",
+      example: "The broken lights had an unexpected effect on the tour."
+    },
+    {
+      word: "advantage",
+      partOfSpeech: "n.",
+      meaning: "优势；优点；有利条件",
+      example: "Leo tried to turn the problem into an advantage."
+    },
+    {
+      word: "shallow",
+      partOfSpeech: "adj.",
+      meaning: "浅的；肤浅的",
+      example: "The director disliked shallow stories about famous people."
+    },
+    {
+      word: "sweatshirt",
+      partOfSpeech: "n.",
+      meaning: "长袖运动衫",
+      example: "Leo wore a grey sweatshirt while helping backstage."
+    },
+    {
+      word: "pork",
+      partOfSpeech: "n.",
+      meaning: "猪肉",
+      example: "The café sold pork sandwiches during the interval."
+    },
+    {
+      word: "slipper",
+      partOfSpeech: "n.",
+      meaning: "拖鞋",
+      example: "A pair of old slippers had been left in the dressing room."
+    },
+    {
+      word: "damage",
+      partOfSpeech: "n. / v.",
+      meaning: "损坏；破坏；损害",
+      example: "The portrait suffered minor damage during the tour."
+    },
+    {
+      word: "timetable",
+      partOfSpeech: "n.",
+      meaning: "时间表；时刻表；预定计划",
+      example: "Leo created a timetable for each group of visitors."
+    },
+    {
+      word: "divorce",
+      partOfSpeech: "n. / v.",
+      meaning: "离婚；分离；脱离",
+      example: "The old actor had continued working after a painful divorce."
+    },
+    {
+      word: "portrait",
+      partOfSpeech: "n.",
+      meaning: "肖像；画像；描绘",
+      example: "A portrait of the theatre's first actor hung near the stairs."
+    },
+    {
+      word: "dominate",
+      partOfSpeech: "v.",
+      meaning: "支配；控制；占据优势",
+      example: "One volunteer tried to dominate every decision."
+    },
+    {
+      word: "fattening",
+      partOfSpeech: "adj.",
+      meaning: "容易使人发胖的",
+      example: "The pork sandwiches were delicious but rather fattening."
+    },
+    {
+      word: "theatre",
+      partOfSpeech: "n.",
+      meaning: "剧院；戏院；剧场",
+      example: "The old theatre stood at the edge of the district."
+    },
+    {
+      word: "wander",
+      partOfSpeech: "v.",
+      meaning: "闲逛；漫步；迷路；走神",
+      example: "Visitors were not allowed to wander backstage alone."
+    },
+    {
+      word: "dispose of",
+      partOfSpeech: "phrase",
+      meaning: "处理；清除；丢掉；处置",
+      example: "The staff had to dispose of broken furniture safely."
+    },
+    {
+      word: "cut off",
+      partOfSpeech: "phrase",
+      meaning: "切断；中断；使隔绝",
+      example: "A power failure cut off the sound system."
+    },
+    {
+      word: "make money",
+      partOfSpeech: "phrase",
+      meaning: "赚钱；挣钱",
+      example: "The tour was meant to make money for repairs."
+    },
+    {
+      word: "button",
+      partOfSpeech: "n.",
+      meaning: "纽扣；按钮",
+      example: "A loose button on an old coat caught the portrait frame."
+    },
+    {
+      word: "intelligent",
+      partOfSpeech: "adj.",
+      meaning: "聪明的；智能的",
+      example: "The director said Leo had made an intelligent choice."
+    },
+    {
+      word: "dressing room",
+      partOfSpeech: "n.",
+      meaning: "化装间；更衣室",
+      example: "The smallest dressing room was opened for the visitors."
+    },
+    {
+      word: "bald",
+      partOfSpeech: "adj.",
+      meaning: "秃顶的；光秃的",
+      example: "A bald retired actor told stories about the theatre."
+    },
+    {
+      word: "bear something in mind",
+      partOfSpeech: "phrase",
+      meaning: "记住某事；把某事放在心上",
+      example: "Leo had to bear safety rules in mind."
+    },
+    {
+      word: "findings",
+      partOfSpeech: "n.",
+      meaning: "调查结果；研究结论",
+      example: "His findings showed that visitors cared more about stories than luxury."
+    },
+    {
+      word: "brand",
+      partOfSpeech: "n.",
+      meaning: "品牌；类型；牌子",
+      example: "The theatre wanted a clear brand, but not a false one."
+    },
+    {
+      word: "optional",
+      partOfSpeech: "adj.",
+      meaning: "可选择的；选修的",
+      example: "The backstage tour was optional for ticket holders."
+    },
+    {
+      word: "outrageous",
+      partOfSpeech: "adj.",
+      meaning: "骇人的；无法容忍的；令人震惊的",
+      example: "Some people thought the ticket price was outrageous."
+    },
+    {
+      word: "district",
+      partOfSpeech: "n.",
+      meaning: "地区；区域；行政区",
+      example: "The theatre was in an old market district."
+    },
+    {
+      word: "enthusiastic",
+      partOfSpeech: "adj.",
+      meaning: "热情的；热心的",
+      example: "Mina was enthusiastic about attracting young visitors."
+    },
+    {
+      word: "tourist",
+      partOfSpeech: "n.",
+      meaning: "游客；旅游者",
+      example: "One tourist expected a professional museum experience."
+    },
+    {
+      word: "apologize",
+      partOfSpeech: "v.",
+      meaning: "道歉；表示歉意",
+      example: "Leo had to apologize when the tour started late."
+    },
+    {
+      word: "loyal",
+      partOfSpeech: "adj.",
+      meaning: "忠诚的；忠实的",
+      example: "The theatre still had a few loyal supporters."
+    },
+    {
+      word: "run-down",
+      partOfSpeech: "adj.",
+      meaning: "破败的；失修的；衰败的",
+      example: "The building looked run-down from the outside."
+    },
+    {
+      word: "concerned",
+      partOfSpeech: "adj.",
+      meaning: "担心的；忧虑的；关切的",
+      example: "The manager was concerned about visitor safety."
+    },
+    {
+      word: "rush hour",
+      partOfSpeech: "n.",
+      meaning: "上下班高峰期",
+      example: "The first group arrived late because of rush hour traffic."
+    },
+    {
+      word: "minor",
+      partOfSpeech: "adj.",
+      meaning: "较小的；不严重的；次要的",
+      example: "The damage to the portrait was minor."
+    },
+    {
+      word: "routine",
+      partOfSpeech: "n. / adj.",
+      meaning: "常规；日常程序；例行的",
+      example: "The safety check was supposed to be routine."
+    },
+    {
+      word: "out of order",
+      partOfSpeech: "phrase",
+      meaning: "出故障的；不正常的；不合适的",
+      example: "The lift was out of order on the morning of the tour."
+    },
+    {
+      word: "tour",
+      partOfSpeech: "n. / v.",
+      meaning: "参观；游览；旅游；巡回演出",
+      example: "Leo designed a backstage tour for local families."
+    },
+    {
+      word: "deadline",
+      partOfSpeech: "n.",
+      meaning: "最后期限；截止日期",
+      example: "The repair application had a strict deadline."
+    }
+  ],
+
+  passage: `
+From the outside, the Kingsley Theatre looked almost miserable. Its red doors had lost most of their paint, one upstairs window was cracked, and a notice beside the entrance warned that the lift was out of order. Most people in the district walked past without looking up.
+
+Leo did not. He had loved the theatre since he was small, when his grandmother took him there to see a winter play. Now the building was run-down, and the council had given its staff a deadline: if they could not show that the theatre still served the community, funding for repairs would be cut off.
+
+Leo’s class was asked to help. Their assignment was to design one public event that could make money and attract new visitors. Mina, the most enthusiastic student in the group, wanted something bright and modern. “We need a brand,” she said. “Something that makes the theatre look alive again.”
+
+She proposed an optional backstage tour with costumes, old posters and a display of theatre photographs. Leo liked the idea, but he was more realistic. The theatre was not a theme park. The lights were unreliable, the dressing rooms were narrow, and some areas were unsafe. “We can’t promise too much,” he said. “We need to bear that in mind.”
+
+Mina rolled her eyes. “You always worry.”
+
+Perhaps she was right. Leo had a routine of checking everything twice. He checked the timetable, the visitor route, the fire doors and even the café menu, where pork sandwiches were described as “traditional theatre food”. He suggested adding fruit because the sandwiches looked rather fattening. Everyone laughed, but the café manager agreed.
+
+On the morning of the tour, rush hour traffic delayed the first group. A tourist from another city complained that the ticket price was outrageous for such an old building. A family asked for a discount because the lift was broken. Leo felt tense, but he apologized and explained that the tour would avoid the stairs whenever possible.
+
+Then the sound system failed. A loose wire cut off the music in the main hall, and the planned special introduction no longer worked. Mina looked close to panic. “This is a disaster,” she whispered.
+
+Before Leo could answer, a bald man in a brown coat stepped forward. He was Mr Hale, a retired actor and one of the theatre’s most loyal supporters. “If the machine will not speak,” he said, “I will.”
+
+He led the visitors into the first dressing room, where a pair of old slippers stood under a chair and a velvet jacket hung beside the mirror. “I wore that jacket in a comedy after my divorce,” he said. “The play was terrible, but it reminded me that laughter could return.” The visitors became quiet. It was not the dramatic display Mina had planned, but it had a different effect.
+
+As the group moved on, a child wandered too close to a portrait on the wall. Leo reached out to guide him back, but the child’s sleeve caught a loose button on an old costume. The costume pulled sideways and knocked the portrait frame against the wall. There was a sharp sound. The tourist who had complained earlier immediately accused the theatre of being unsafe.
+
+Leo’s face went hot. He wanted to defend the theatre at once, but Mr Hale touched his arm. “Check first,” he said.
+
+The damage was minor: a small scratch on the frame, not the painting itself. Still, Leo admitted that the costume should not have been placed so close to the portrait. He moved it away and asked a volunteer to dispose of the broken piece of frame carefully. Then he spoke to the group. “I’m sorry. This building has problems. But part of today’s tour is to show why those problems are worth fixing.”
+
+That honesty changed the atmosphere. Visitors began asking questions instead of making complaints. Why had the theatre been allowed to become so run-down? How much would repairs cost? Could local families help? Mr Hale answered with stories, and Leo added the findings from his class survey: most young people in the district had never entered the theatre, but many said they would come if events felt welcoming rather than formal.
+
+By the end, the tour was nothing like the one on Mina’s plan. There had been no music, no perfect lighting and no smooth timetable. Yet visitors stayed longer than expected. The tourist who had complained bought two postcards. “Not because the place is comfortable,” she said, “but because it is real.”
+
+A week later, the council agreed to give the theatre three more months to raise repair money. It was not a victory, only an advantage. But Leo understood something important. A good public event does not have to hide every crack. Sometimes, if people are intelligent and honest about what needs repair, the cracks become the reason others decide to care.
+`,
+
+  translation: `
+从外面看，金斯利剧院几乎显得很悲惨。红色大门上的油漆已经掉得差不多了，楼上一扇窗户裂开了，入口旁边还有一张告示，提醒大家电梯出了故障。这个地区的大多数人经过时，甚至不会抬头看一眼。
+
+但利奥不会。他从小就喜欢这座剧院，因为小时候祖母曾带他来这里看过一场冬季戏剧。如今，这栋建筑已经破败不堪，市政会也给剧院工作人员下了最后期限：如果他们不能证明剧院仍然服务于社区，维修资金就会被切断。
+
+利奥所在的班级被请来帮忙。他们的任务是设计一个公共活动，既能筹钱，又能吸引新的参观者。小组里最热情的学生米娜想要一些明亮、现代的东西。“我们需要一个品牌，”她说，“让这座剧院重新看起来有生命力。”
+
+她提议开设一个可选择参加的幕后参观项目，内容包括戏服、旧海报和剧院照片展示。利奥喜欢这个想法，但他更实际一些。这座剧院不是主题公园。灯光并不可靠，化装间很窄，有些区域也不安全。“我们不能承诺太多，”他说，“这一点必须记住。”
+
+米娜翻了个白眼。“你总是在担心。”
+
+也许她说得没错。利奥有一种把每件事检查两遍的习惯。他检查时间表、参观路线、防火门，甚至检查咖啡馆菜单。菜单上把猪肉三明治描述为“传统剧院食品”。利奥建议增加水果，因为那些三明治看起来很容易让人发胖。大家都笑了，但咖啡馆经理同意了。
+
+参观当天上午，高峰期交通耽误了第一组人。一名来自外地的游客抱怨说，这样一座旧建筑收这个票价简直离谱。一家人因为电梯坏了，要求打折。利奥感到紧张，但他道了歉，并解释说参观路线会尽可能避开楼梯。
+
+接着，音响系统坏了。主厅里一根松动的电线切断了音乐，原计划中的特别开场也无法进行。米娜看起来快要慌了。“这是一场灾难。”她低声说。
+
+利奥还没来得及回答，一个穿棕色外套的秃顶男人走上前来。他是黑尔先生，一位退休演员，也是这座剧院最忠实的支持者之一。“如果机器不能说话，”他说，“那我来说。”
+
+他带参观者走进第一间化装间。那里有一双旧拖鞋放在椅子下面，一件天鹅绒外套挂在镜子旁边。“离婚后，我曾穿着那件外套演过一出喜剧，”他说，“那出戏很糟糕，但它提醒我，笑声是可以回来的。”参观者安静了下来。这并不是米娜原先计划的戏剧化展示，但它产生了另一种效果。
+
+当一行人继续往前走时，一个孩子走得太靠近墙上的一幅肖像。利奥伸手想把他引回来，但孩子的袖子勾住了一件旧戏服上松开的纽扣。戏服被拉偏，撞得肖像画框碰到墙上，发出尖锐的声音。之前抱怨过的那名游客立刻指责剧院不安全。
+
+利奥的脸发热。他想马上替剧院辩解，但黑尔先生碰了碰他的胳膊。“先检查。”他说。
+
+损坏很轻微：只是画框上有一道小划痕，画本身没有受损。尽管如此，利奥承认，那件戏服不该放得离肖像那么近。他把它挪开，并请一名志愿者小心处理掉画框上断裂的小碎片。然后他对大家说：“很抱歉。这座建筑确实有问题。但今天参观的一部分意义，就是让大家看到为什么这些问题值得修复。”
+
+这种诚实改变了现场气氛。参观者开始提问，而不是抱怨。为什么剧院会破败成这样？维修需要多少钱？本地家庭能不能帮忙？黑尔先生用故事回答，利奥则补充了他们班级调查的结果：这个地区的大多数年轻人从没进过这座剧院，但很多人说，如果活动让人觉得友好而不是拘谨，他们愿意来。
+
+到最后，这次参观和米娜计划中的完全不一样。没有音乐，没有完美灯光，也没有顺畅的时间表。然而，参观者停留的时间比预想更久。那位曾经抱怨的游客买了两张明信片。“不是因为这里舒服，”她说，“而是因为它真实。”
+
+一周后，市政会同意再给剧院三个月时间筹集维修资金。这还不是胜利，只是一个有利条件。但利奥明白了一件重要的事。一个好的公共活动不必隐藏每一道裂缝。有时候，如果人们聪明而诚实地说明什么需要修复，这些裂缝反而会成为别人决定关心它的原因。
+`,
+
+  questions: [
+    {
+      question: "What is the main tension between Leo and Mina when they plan the tour?",
+      options: {
+        A: "Leo wants the event to be honest about the theatre's limits, while Mina wants it to appear more exciting.",
+        B: "Leo wants to close the theatre, while Mina wants to turn it into a modern shopping centre.",
+        C: "Leo believes tourists should pay more, while Mina thinks the tour should be free.",
+        D: "Leo is interested only in food, while Mina is interested only in old portraits."
+      },
+      answer: "A",
+      explanation: {
+        correct: "A是正确答案。Leo强调realistic和安全限制，认为不能承诺过多；Mina则更关注brand、活力和吸引人。这构成了两人计划参观活动时的主要分歧。",
+        A: "A对。这个选项准确概括了两人的不同思路：诚实面对限制与营造更强吸引力之间的 tension。",
+        B: "B不对。Leo并不想关闭剧院，Mina也没有提出把它改成购物中心。",
+        C: "C不对。票价和折扣确实出现，但不是Leo和Mina之间的核心矛盾。",
+        D: "D不对。食物和肖像只是细节，不是两人分歧的本质。"
+      }
+    },
+    {
+      question: "Why does Mr Hale’s story about the old jacket matter?",
+      options: {
+        A: "It replaces a technical display with a personal memory that makes the theatre feel meaningful.",
+        B: "It proves that the planned sound system was unnecessary from the beginning.",
+        C: "It shows that divorce always helps actors become better performers.",
+        D: "It distracts visitors from noticing any safety problems in the building."
+      },
+      answer: "A",
+      explanation: {
+        correct: "A是正确答案。音响坏了后，Mr Hale用自己的经历讲述旧戏服的意义，让参观从技术展示转向真实记忆，这改变了参观气氛。",
+        A: "A对。这个故事让游客感到剧院不是一堆旧物，而是承载人的经历和情感的地方。",
+        B: "B不对。音响系统原本是计划的一部分，不能说从一开始就完全没必要。",
+        C: "C不对。Mr Hale提到divorce只是个人经历背景，不是说离婚一定让演员更好。",
+        D: "D不对。故事不是为了掩盖安全问题，后文Leo反而诚实承认剧院有问题。"
+      }
+    },
+    {
+      question: "How does Leo’s response to the damaged portrait show his development?",
+      options: {
+        A: "He stops trying to defend the theatre blindly and deals with the problem honestly.",
+        B: "He decides that visitors should no longer be allowed backstage.",
+        C: "He blames the child in order to protect the theatre's reputation.",
+        D: "He hides the damage because it is only minor."
+      },
+      answer: "A",
+      explanation: {
+        correct: "A是正确答案。Leo一开始想马上辩解，但听从Mr Hale的提醒先检查，再承认布置不当并道歉，说明他学会了用诚实和责任处理问题。",
+        A: "A对。这个选项体现了Leo从紧张防御到成熟应对的变化。",
+        B: "B不对。他没有取消幕后参观，而是调整现场安全安排。",
+        C: "C不对。Leo没有责怪孩子，而是承认戏服不该放得太靠近肖像。",
+        D: "D不对。虽然damage是minor，但他没有隐藏，而是公开说明。"
+      }
+    },
+    {
+      question: "What changes the visitors’ attitude during the tour?",
+      options: {
+        A: "They are offered a large discount and free pork sandwiches.",
+        B: "They begin to see the theatre’s problems as reasons to help rather than reasons to complain.",
+        C: "They are told that the council has already paid for all repairs.",
+        D: "They discover that the building is actually in perfect condition."
+      },
+      answer: "B",
+      explanation: {
+        correct: "B是正确答案。Leo诚实说明建筑有问题，但也说明这些问题值得修复。之后游客从抱怨转向提问和关心，这说明态度发生了变化。",
+        A: "A不对。折扣和食物并没有改变游客态度。",
+        B: "B对。游客后来询问维修成本、本地家庭能否帮忙，并停留更久，说明他们开始关心剧院。",
+        C: "C不对。市政会只是后来给了三个月时间，并没有已经支付全部维修费。",
+        D: "D不对。剧院确实run-down，并不是完美状态。"
+      }
+    },
+    {
+      question: "Which idea best reflects the meaning of the passage?",
+      options: {
+        A: "Old places can gain support when people present their problems truthfully.",
+        B: "A public event succeeds only if the timetable is followed perfectly.",
+        C: "Visitors are interested only in comfortable buildings and modern equipment.",
+        D: "A strong brand should hide anything that looks damaged."
+      },
+      answer: "A",
+      explanation: {
+        correct: "A是正确答案。全文讲Leo如何从担心剧院缺点暴露，到明白诚实呈现问题反而能激发人们关心和支持。",
+        A: "A对。文章最后说，一个好的公共活动不必隐藏裂缝，诚实说明需要修复的地方可能让别人决定关心。",
+        B: "B不对。参观当天时间表并不顺利，但活动仍然产生效果。",
+        C: "C不对。游客最后正是因为剧院真实而留下印象，并非只看重舒适和设备。",
+        D: "D不对。文章反对用brand掩盖问题，强调诚实比包装更重要。"
+      }
+    }
+  ]
 }
 ];
