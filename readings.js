@@ -5090,5 +5090,377 @@ A week later, the council agreed to give the theatre three more months to raise 
       }
     }
   ]
+},
+{
+  date: "2026-08-07",
+  title: "The Bracelet at Passport Control",
+  level: "FCE / B2",
+
+  vocabulary: [
+    {
+      word: "low",
+      partOfSpeech: "adj. / adv. / n.",
+      meaning: "低的；低于通常的；不足的；低处",
+      example: "Lara began the trip with low confidence."
+    },
+    {
+      word: "passport control",
+      partOfSpeech: "phrase",
+      meaning: "护照检查处",
+      example: "The problem started at passport control."
+    },
+    {
+      word: "annual",
+      partOfSpeech: "adj.",
+      meaning: "每年的；年度的",
+      example: "The orchestra was preparing for its annual trip."
+    },
+    {
+      word: "trip",
+      partOfSpeech: "n. / v.",
+      meaning: "旅行；绊倒；使跌倒",
+      example: "The trip was supposed to be simple and well organised."
+    },
+    {
+      word: "alike",
+      partOfSpeech: "adj. / adv.",
+      meaning: "相像的；相似地；同样地",
+      example: "The two violin cases looked almost alike."
+    },
+    {
+      word: "responsible",
+      partOfSpeech: "adj.",
+      meaning: "有责任的；负责的；可信任的",
+      example: "Lara was responsible for passports and equipment."
+    },
+    {
+      word: "witness",
+      partOfSpeech: "n. / v.",
+      meaning: "目击者；见证人；见证；当场看到",
+      example: "A café worker was the only witness to what happened."
+    },
+    {
+      word: "personality",
+      partOfSpeech: "n.",
+      meaning: "性格；人格；魅力；特色",
+      example: "Lara had a quiet personality, but she noticed details."
+    },
+    {
+      word: "household",
+      partOfSpeech: "n. / adj.",
+      meaning: "家庭；一家人；家用的",
+      example: "Each student stayed with a local household."
+    },
+    {
+      word: "engineer",
+      partOfSpeech: "n. / v.",
+      meaning: "工程师；技师；设计制造",
+      example: "The host father was an engineer who loved music."
+    },
+    {
+      word: "novelist",
+      partOfSpeech: "n.",
+      meaning: "小说家",
+      example: "A famous novelist was invited as a guest speaker."
+    },
+    {
+      word: "pocket",
+      partOfSpeech: "n. / v.",
+      meaning: "口袋；衣袋；把……放进口袋",
+      example: "Lara kept the spare tickets in her coat pocket."
+    },
+    {
+      word: "orchestra",
+      partOfSpeech: "n.",
+      meaning: "管弦乐队",
+      example: "The school orchestra had been invited to perform abroad."
+    },
+    {
+      word: "error",
+      partOfSpeech: "n.",
+      meaning: "错误；差错",
+      example: "A small spelling error caused trouble at the border."
+    },
+    {
+      word: "equipment",
+      partOfSpeech: "n.",
+      meaning: "设备；装备；器材",
+      example: "The musical equipment filled half the coach."
+    },
+    {
+      word: "fit",
+      partOfSpeech: "v. / adj. / n.",
+      meaning: "适合；安装；健康的；适宜的；匹配",
+      example: "One cello case did not fit under the coach seats."
+    },
+    {
+      word: "collection",
+      partOfSpeech: "n.",
+      meaning: "收藏品；收集物；一批",
+      example: "The town hall displayed a collection of old instruments."
+    },
+    {
+      word: "sign in",
+      partOfSpeech: "phrase",
+      meaning: "签到；登记；报到",
+      example: "All students had to sign in before rehearsal."
+    },
+    {
+      word: "rehearse",
+      partOfSpeech: "v.",
+      meaning: "排练；排演；背诵",
+      example: "The orchestra had only one hour to rehearse."
+    },
+    {
+      word: "guest",
+      partOfSpeech: "n.",
+      meaning: "客人；宾客；特邀嘉宾",
+      example: "The novelist was the special guest at the concert."
+    },
+    {
+      word: "civil",
+      partOfSpeech: "adj.",
+      meaning: "公民的；民用的；文明的；有礼貌的",
+      example: "The teacher reminded everyone to remain civil during the confusion."
+    },
+    {
+      word: "mechanic",
+      partOfSpeech: "n.",
+      meaning: "技工；机修工",
+      example: "A mechanic checked the coach before they left the station."
+    },
+    {
+      word: "turn up",
+      partOfSpeech: "phrase",
+      meaning: "出现；到来；调高；被发现",
+      example: "The missing bracelet finally turned up in a music folder."
+    },
+    {
+      word: "tutorial",
+      partOfSpeech: "n.",
+      meaning: "教程；个别辅导；辅导材料",
+      example: "Lara had watched a tutorial on organising group travel."
+    },
+    {
+      word: "make up your mind",
+      partOfSpeech: "phrase",
+      meaning: "下定决心；作出决定",
+      example: "The trip helped Lara make up her mind about her gap year."
+    },
+    {
+      word: "drama",
+      partOfSpeech: "n.",
+      meaning: "戏剧；戏剧性事件；激动",
+      example: "There was more drama off stage than during the concert."
+    },
+    {
+      word: "put up with",
+      partOfSpeech: "phrase",
+      meaning: "忍受；容忍",
+      example: "The students had to put up with delays and confusion."
+    },
+    {
+      word: "bracelet",
+      partOfSpeech: "n.",
+      meaning: "手镯；手链",
+      example: "The guest speaker believed her bracelet had been stolen."
+    },
+    {
+      word: "theft",
+      partOfSpeech: "n.",
+      meaning: "偷窃；盗窃罪",
+      example: "The word theft made everyone suddenly quiet."
+    },
+    {
+      word: "talent",
+      partOfSpeech: "n.",
+      meaning: "才能；天资；人才",
+      example: "Lara had a talent for staying calm under pressure."
+    },
+    {
+      word: "passport",
+      partOfSpeech: "n.",
+      meaning: "护照；通行证；凭证",
+      example: "One passport number had been copied incorrectly."
+    },
+    {
+      word: "fine",
+      partOfSpeech: "adj. / n. / v.",
+      meaning: "好的；晴朗的；细小的；罚款；处以罚款",
+      example: "The concert was not perfect, but it was fine in the end."
+    },
+    {
+      word: "health care",
+      partOfSpeech: "phrase",
+      meaning: "医疗保健；医疗卫生",
+      example: "The host family worked in health care."
+    },
+    {
+      word: "hill",
+      partOfSpeech: "n.",
+      meaning: "小山；斜坡",
+      example: "The concert hall stood at the top of a hill."
+    },
+    {
+      word: "arrival",
+      partOfSpeech: "n.",
+      meaning: "到达；抵达；到达者",
+      example: "Their late arrival left little time to prepare."
+    },
+    {
+      word: "gap year",
+      partOfSpeech: "phrase",
+      meaning: "空缺年；间隔年",
+      example: "Lara was considering a gap year before university."
+    }
+  ],
+
+  passage: `
+I did not expect our annual orchestra trip to teach me more about responsibility than music. Before we left, I thought responsibility meant remembering lists: passports, tickets, equipment, rehearsal times and emergency phone numbers. By the end of the trip, I understood that lists are useful, but they do not solve every problem.
+
+My name is Lara, and I was the student coordinator for our school orchestra’s visit to St Elian, a small city across the border. I had a quiet personality and usually preferred to sit at the back with my laptop, so people were surprised when I volunteered. The truth was less impressive: I wanted something interesting to write about in my university application, and I was trying to make up my mind about whether to take a gap year.
+
+The trip began with low confidence and a crowded coach. The musical equipment took up more space than expected, and one cello case did not fit under the seats. A mechanic checked the coach twice before we left, while our music teacher reminded everyone to keep their passport in a safe pocket. I had watched a tutorial on group travel the night before, so I felt prepared.
+
+That feeling did not last.
+
+At passport control, an officer found an error in our group list. One student’s passport number had been copied wrongly, and because two violin cases looked almost alike, his bag had also been placed with another household’s luggage. The delay was minor, but it made everyone tense. Our arrival at St Elian was nearly an hour late, and we had to go straight to the concert hall on a hill above the city.
+
+The hall was beautiful. In the entrance there was a collection of old instruments, including a tiny silver trumpet and a wooden flute used by local shepherds. Each student had to sign in before rehearsal, but the guest speaker had not arrived. She was Marian Bell, a novelist who had written a book about young musicians during wartime. Our teacher was concerned because Marian was also supposed to introduce our concert.
+
+Then came the bracelet incident.
+
+Marian finally arrived just as we began to rehearse. She was friendly but clearly tired after a long train journey. She took off a silver bracelet and placed it beside her notes. Ten minutes later, it was gone. Someone said it might be theft, and the word moved around the hall faster than any tune we had played.
+
+The atmosphere changed at once. A few students looked towards the local volunteers who had helped carry our equipment. Marian asked everyone to remain civil, but I could see she was upset. I wanted to disappear. I was responsible for the sign-in desk, the bags and the schedule. If something valuable had gone missing, had I failed?
+
+A café worker became the most important witness. She remembered seeing a sheet of music slide off Marian’s table when the window was opened. I checked the floor, then the folders. The bracelet finally turned up inside a folder of second-violin parts. It had fallen between the pages and been carried to the stage with the music.
+
+Marian apologized immediately to the volunteers. She said she should never have allowed the word theft to dominate the room before anyone had checked the facts. I respected her for that. It is not easy for adults to apologize in front of teenagers.
+
+Afterwards, she changed her introduction to the concert. Instead of reading from her prepared speech, she talked about errors, witnesses and the stories people create when they are nervous. “Music,” she said, “does not remove confusion. It gives people a way to listen through it.”
+
+The concert itself was fine, though not perfect. One trumpet came in too early, and our final piece was slower than we had rehearsed. But the audience stayed with us. My host household, whose parents both worked in health care, said the performance felt genuine because everyone had put up with the same difficult day.
+
+On the journey home, I realised I had more talent for organisation than I had thought. Not because everything had gone smoothly, but because I had kept thinking when it did not. I still had not made a final decision about my gap year, but one idea had become clear: I wanted to do something that involved people, travel and the small dramas that turn up when no one has planned for them.
+`,
+
+  translation: `
+我原本没有想到，我们管弦乐队的年度旅行会让我学到比音乐更多的关于责任的东西。出发之前，我以为责任就是记住各种清单：护照、车票、设备、排练时间和紧急电话号码。旅行结束时，我才明白，清单很有用，但它们并不能解决所有问题。
+
+我叫拉拉，是我们学校管弦乐队前往圣埃利安访问演出的学生协调员。圣埃利安是一座边境另一侧的小城。我性格安静，通常更愿意坐在后排摆弄笔记本电脑，所以当我主动报名时，大家都很惊讶。真实原因其实没那么了不起：我想在大学申请材料里写一点有意思的经历，同时我也在犹豫，是否要在上大学前休一个空缺年。
+
+这次旅行一开始就信心不足，车上也很拥挤。音乐设备占的空间比预想更多，一个大提琴盒甚至放不进座位下面。出发前，一名机修工把车检查了两遍，音乐老师提醒大家把护照放在安全的口袋里。前一天晚上，我看过一个关于团队旅行组织的教程，所以我觉得自己已经准备好了。
+
+这种感觉并没有持续多久。
+
+在护照检查处，一名工作人员发现我们的团队名单里有一个错误。一名学生的护照号码被抄错了，而且因为两个小提琴盒看起来几乎一样，他的包也被放到了另一个寄宿家庭的行李中。延误不算严重，但让所有人都紧张起来。我们抵达圣埃利安时晚了将近一个小时，只能直接去位于城市上方一座小山上的音乐厅。
+
+音乐厅很美。入口处有一批旧乐器收藏品，包括一把很小的银色小号和一支当地牧羊人曾经用过的木笛。每个学生都必须在排练前签到，但特邀嘉宾还没有到。她叫玛丽安·贝尔，是一位小说家，写过一本关于战时青年音乐家的书。我们的老师很担心，因为玛丽安原本还要为我们的音乐会做开场介绍。
+
+接着，手链事件发生了。
+
+玛丽安终于在我们开始排练时赶到了。她很友好，但显然在长途火车旅行后很疲惫。她摘下一条银手链，放在自己的讲稿旁边。十分钟后，手链不见了。有人说可能是盗窃，“盗窃”这个词在大厅里传播得比我们演奏过的任何曲子都快。
+
+气氛立刻变了。有几个学生看向那些帮我们搬设备的当地志愿者。玛丽安请大家保持文明和礼貌，但我能看出她很不安。我只想消失。我负责签到台、行李和日程安排。如果有贵重物品不见了，是不是说明我失败了？
+
+一名咖啡馆工作人员成了最重要的目击者。她记得，窗户打开时，玛丽安桌上的一张乐谱滑落了下来。我检查了地面，又检查了文件夹。最后，那条手链出现在第二小提琴声部的乐谱夹里。它掉进了纸页之间，然后随着乐谱被一起带到了舞台上。
+
+玛丽安立刻向志愿者道歉。她说，在任何人查清事实之前，她不应该让“盗窃”这个词支配整个房间。我因此很尊重她。成年人当着青少年的面道歉，并不容易。
+
+之后，她改变了音乐会的开场介绍。她没有照着准备好的讲稿念，而是谈起错误、目击者，以及人们在紧张时会制造出的故事。“音乐，”她说，“并不能消除混乱。它给人们一种在混乱中继续倾听的方式。”
+
+音乐会本身还不错，虽然并不完美。有一支小号进得太早，最后一首曲子也比我们排练时慢了一些。但观众一直认真听着。我的寄宿家庭父母都在医疗保健行业工作，他们说这场演出让人觉得真诚，因为所有人都共同忍受了同一个困难的一天。
+
+回程路上，我意识到，自己比想象中更有组织能力。不是因为一切都很顺利，而是因为当事情不顺利时，我仍然在继续思考。我还没有最终决定是否要休空缺年，但有一个想法变得清楚了：我想做一些和人、旅行以及那些没有人事先计划到的小小戏剧性事件有关的事情。
+`,
+
+  questions: [
+    {
+      question: "What does Lara learn about responsibility during the trip?",
+      options: {
+        A: "It is mainly about preparing detailed lists before problems happen.",
+        B: "It means preventing adults from making mistakes.",
+        C: "It involves staying useful when plans and lists are no longer enough.",
+        D: "It depends on having a confident and outgoing personality."
+      },
+      answer: "C",
+      explanation: {
+        correct: "C是正确答案。Lara一开始以为责任就是记住清单，但经历护照、行李、手链等问题后，她明白责任还包括在计划失效时继续判断和行动。",
+        A: "A有迷惑性。清单确实重要，但文章开头和结尾都说明，责任不只是准备清单。",
+        B: "B不对。Lara没有阻止成年人犯错，Marian自己也承认了判断过快的问题。",
+        C: "C对。这概括了Lara的真正成长。",
+        D: "D不对。Lara性格安静，但仍然能承担责任。文章并没有说外向性格是负责的条件。"
+      }
+    },
+    {
+      question: "Why is the error at passport control important in the passage?",
+      options: {
+        A: "It creates the first sign that even careful preparation can fail.",
+        B: "It proves that the orchestra should not travel abroad again.",
+        C: "It shows that Lara forgot to bring her own passport.",
+        D: "It explains why the guest speaker later loses her bracelet."
+      },
+      answer: "A",
+      explanation: {
+        correct: "A是正确答案。护照检查处的错误是第一个打破Lara准备感的事件，让她意识到即使看过教程、做了准备，也会出现意外。",
+        A: "A对。这个事件在结构上为后面的混乱作铺垫。",
+        B: "B不对。文章没有否定出国演出，只是展现旅行中的复杂性。",
+        C: "C不对。出错的是一名学生的passport number，不是Lara忘带护照。",
+        D: "D不对。手链事件和护照错误没有因果关系，只是同一次旅行中的另一个意外。"
+      }
+    },
+    {
+      question: "What makes the bracelet incident more serious than a simple lost object?",
+      options: {
+        A: "It happens just before the orchestra has finished its concert.",
+        B: "It quickly changes how people look at the local volunteers.",
+        C: "It causes the concert to be cancelled immediately.",
+        D: "It reveals that Marian had brought the wrong speech."
+      },
+      answer: "B",
+      explanation: {
+        correct: "B是正确答案。手链不见后，有人说可能是theft，几个学生看向当地志愿者，说明这个事件很快影响了人与人之间的信任。",
+        A: "A不对。事情发生在排练时，不是在音乐会结束前。",
+        B: "B对。真正严重的不是手链本身，而是怀疑和指责开始出现。",
+        C: "C不对。音乐会没有取消。",
+        D: "D不对。Marian改变了介绍内容，但不是因为带错讲稿。"
+      }
+    },
+    {
+      question: "How does Marian’s apology affect the meaning of the day?",
+      options: {
+        A: "It shows that adults can model responsibility by correcting their own reactions.",
+        B: "It proves that the students were responsible for the missing bracelet.",
+        C: "It makes Lara realise that music is less important than travel documents.",
+        D: "It allows everyone to pretend that nothing uncomfortable happened."
+      },
+      answer: "A",
+      explanation: {
+        correct: "A是正确答案。Marian承认自己不该让theft这个词过早支配现场，并向志愿者道歉，这让责任不再只是学生的任务，也成为成年人示范判断和修正的过程。",
+        A: "A对。她的道歉体现了成熟的责任感。",
+        B: "B不对。手链只是掉进乐谱夹里，并不是学生造成的盗窃。",
+        C: "C不对。文章没有贬低音乐，反而通过Marian的话说明音乐能帮助人们在混乱中倾听。",
+        D: "D不对。道歉并不是假装事情没发生，而是正视并修正不公平的怀疑。"
+      }
+    },
+    {
+      question: "Which sentence best describes the style and purpose of this passage?",
+      options: {
+        A: "It is mainly a comic story about a badly organised school concert.",
+        B: "It is a personal reflection on how unexpected problems can reveal what responsibility means.",
+        C: "It is a travel guide explaining how to pass through passport control smoothly.",
+        D: "It is a review of a novelist’s speech at an orchestra performance."
+      },
+      answer: "B",
+      explanation: {
+        correct: "B是正确答案。全文用第一人称回忆一次管弦乐队旅行，重点不是旅游攻略或音乐评论，而是Lara通过多个意外理解责任的含义。",
+        A: "A不对。文章有一些混乱和小戏剧，但整体不是喜剧故事，也不是强调组织很糟糕。",
+        B: "B对。这准确概括了文章体裁和目的。",
+        C: "C不对。passport control只是其中一个事件，不是文章目的。",
+        D: "D不对。Marian的讲话很重要，但文章不是演讲评论。"
+      }
+    }
+  ]
 }
 ];
