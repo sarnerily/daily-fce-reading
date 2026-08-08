@@ -5462,5 +5462,353 @@ On the journey home, I realised I had more talent for organisation than I had th
       }
     }
   ]
+},
+{
+  date: "2026-08-08",
+  title: "What We Heard at North Gate",
+  level: "FCE / B2",
+
+  vocabulary: [
+    {
+      word: "baseball",
+      partOfSpeech: "n.",
+      meaning: "棒球；棒球运动",
+      example: "The village children played baseball on a field behind the school."
+    },
+    {
+      word: "depressing",
+      partOfSpeech: "adj.",
+      meaning: "令人沮丧的；令人消沉的",
+      example: "Their first video made the village look rather depressing."
+    },
+    {
+      word: "global",
+      partOfSpeech: "adj.",
+      meaning: "全球的；全世界的；整体的",
+      example: "The students wanted to connect a rural story with global questions."
+    },
+    {
+      word: "character",
+      partOfSpeech: "n.",
+      meaning: "性格；人物；角色；特色",
+      example: "The village had more character than the students first realised."
+    },
+    {
+      word: "position",
+      partOfSpeech: "n.",
+      meaning: "位置；立场；职位",
+      example: "Mira changed her position after listening to the villagers."
+    },
+    {
+      word: "outgoing",
+      partOfSpeech: "adj.",
+      meaning: "外向的；友好的；爱交际的",
+      example: "Theo was outgoing and enjoyed interviewing strangers."
+    },
+    {
+      word: "hunt",
+      partOfSpeech: "v. / n.",
+      meaning: "寻找；搜寻；打猎",
+      example: "The team began a hurried hunt for the missing camera accessory."
+    },
+    {
+      word: "casual",
+      partOfSpeech: "adj.",
+      meaning: "随意的；非正式的；临时的",
+      example: "The best interview came from a casual conversation near the food stall."
+    },
+    {
+      word: "jazz",
+      partOfSpeech: "n.",
+      meaning: "爵士乐",
+      example: "A local jazz group played after the school orchestra."
+    },
+    {
+      word: "light",
+      partOfSpeech: "n. / adj. / v.",
+      meaning: "光；灯；明亮的；浅色的；点燃",
+      example: "The evening light made the old platform look beautiful."
+    },
+    {
+      word: "carry out",
+      partOfSpeech: "phrase",
+      meaning: "执行；实施；进行；完成",
+      example: "The students had to carry out interviews during the weekend."
+    },
+    {
+      word: "architecture",
+      partOfSpeech: "n.",
+      meaning: "建筑学；建筑风格；建筑结构",
+      example: "An expert explained the architecture of the village hall."
+    },
+    {
+      word: "classical",
+      partOfSpeech: "adj.",
+      meaning: "古典的；经典的；传统的",
+      example: "The programme included both classical music and jazz."
+    },
+    {
+      word: "encourage",
+      partOfSpeech: "v.",
+      meaning: "鼓励；激励；促进",
+      example: "The teacher wanted to encourage students to ask better questions."
+    },
+    {
+      word: "humorous",
+      partOfSpeech: "adj.",
+      meaning: "幽默的；诙谐的",
+      example: "The farmer gave a humorous answer about village life."
+    },
+    {
+      word: "current affairs",
+      partOfSpeech: "n.",
+      meaning: "时事",
+      example: "The article was written for the school's current affairs platform."
+    },
+    {
+      word: "camping",
+      partOfSpeech: "n.",
+      meaning: "露营；野营",
+      example: "The fieldwork weekend included one night of camping."
+    },
+    {
+      word: "leisure",
+      partOfSpeech: "n.",
+      meaning: "闲暇；休闲",
+      example: "The report explored how rural teenagers spent their leisure time."
+    },
+    {
+      word: "platform",
+      partOfSpeech: "n.",
+      meaning: "平台；讲台；舞台；月台",
+      example: "The final report was published on the school platform."
+    },
+    {
+      word: "efficient",
+      partOfSpeech: "adj.",
+      meaning: "高效的；效率高的",
+      example: "Their schedule looked efficient but left no time for real listening."
+    },
+    {
+      word: "ingredient",
+      partOfSpeech: "n.",
+      meaning: "原料；成分；要素",
+      example: "Local honey was the secret ingredient in the cakes."
+    },
+    {
+      word: "anxious",
+      partOfSpeech: "adj.",
+      meaning: "焦虑的；担心的；渴望的",
+      example: "Mira felt anxious when their first plan began to fail."
+    },
+    {
+      word: "gig",
+      partOfSpeech: "n.",
+      meaning: "现场演出；临时工作",
+      example: "The jazz gig attracted more people than expected."
+    },
+    {
+      word: "accessory",
+      partOfSpeech: "n.",
+      meaning: "附件；配件；装饰配件",
+      example: "A small camera accessory went missing before the evening event."
+    },
+    {
+      word: "rural",
+      partOfSpeech: "adj.",
+      meaning: "乡村的；农村的；有乡村特色的",
+      example: "The project focused on a rural village called North Gate."
+    },
+    {
+      word: "gate",
+      partOfSpeech: "n.",
+      meaning: "大门；闸门；登机门",
+      example: "The village was called North Gate because of an old stone gate."
+    },
+    {
+      word: "stage",
+      partOfSpeech: "n. / v.",
+      meaning: "舞台；阶段；举办；上演",
+      example: "The village platform became a small stage for the concert."
+    },
+    {
+      word: "machine",
+      partOfSpeech: "n.",
+      meaning: "机器；机械装置",
+      example: "The ticket machine stopped working just before the event began."
+    },
+    {
+      word: "expert",
+      partOfSpeech: "n. / adj.",
+      meaning: "专家；行家；熟练的",
+      example: "An architecture expert challenged the students' first idea."
+    },
+    {
+      word: "poem",
+      partOfSpeech: "n.",
+      meaning: "诗；韵文",
+      example: "A girl read a poem about the old railway line."
+    },
+    {
+      word: "seat belt",
+      partOfSpeech: "phrase",
+      meaning: "安全带",
+      example: "Everyone had to wear a seat belt on the minibus."
+    },
+    {
+      word: "disappointing",
+      partOfSpeech: "adj.",
+      meaning: "令人失望的；令人扫兴的",
+      example: "The first version of the film was disappointing."
+    }
+  ],
+
+  passage: `
+The following article appeared on Riverstone School's current affairs platform after a weekend fieldwork trip.
+
+When our media teacher, Ms Bell, announced that we were going to North Gate, most of us imagined a relaxing weekend of camping, interviews and video editing. North Gate is a rural village two hours from our town, known for an old stone gate, a closed railway platform and a small hall built in a style that architecture students often visit. Our task was to carry out a short investigation into how young people in rural places spend their leisure time.
+
+Theo, the most outgoing member of our group, immediately had a plan. He wanted to make a film about global changes destroying village life. His opening shot would show a broken ticket machine, an empty baseball field and a low grey sky. "It will be depressing," he said, "but powerful."
+
+I was not sure. My name is Mira, and I was responsible for writing the article to go with the film. I was anxious about disagreeing with Theo because he had more experience and a stronger personality. Still, his position seemed too simple. Before we had even spoken to anyone, he had already decided what the village meant.
+
+The first day appeared to support his idea. Our minibus arrived late because one student forgot to fasten his seat belt and the driver refused to leave until everyone did. When we reached North Gate, the old ticket machine was out of use, the station platform was covered in weeds, and the baseball field behind the school was empty. The weather was cold, and the light was flat and pale. Theo filmed everything with satisfaction.
+
+Then we met Dr Evans, an expert in rural architecture who had come to study the village hall. She watched our first clips and gave us a look that was not unfriendly, but was certainly not encouraging.
+
+"You are hunting for decline," she said. "That is different from investigating a place."
+
+Her comment annoyed Theo, but it stayed with me. That evening, the village held its annual music night on the old railway platform. The event began with a classical quartet from the local school. After that, a jazz group played a lively gig, and a girl in a bright jacket read a humorous poem about tourists who thought every sheep was interesting. People laughed for nearly a minute.
+
+The atmosphere did not fit Theo's film.
+
+During the break, our efficient timetable fell apart. A camera accessory went missing, and we spent twenty minutes searching for it behind benches and bags. While we were hunting for it, I began a casual conversation with a boy named Sam, who was selling cakes made with honey from his parents' farm. He said the secret ingredient was patience, because the bees worked on their own schedule.
+
+Sam told me that the empty baseball field was not a sign that nobody cared. In fact, the team used it on Sundays, but many players also helped their families on Saturdays. The broken machine was not ignored either; the council had ordered a part, but delivery was slow. "People from outside think nothing happens here," he said. "They don't see the work before something starts again."
+
+The next morning, we changed the film. We kept the station platform, the ticket machine and the grey sky, but we added the concert, the poem, the cakes and the baseball players arriving after church. We also interviewed Dr Evans about why old buildings should not be treated like museum pieces. "A village is not valuable because it looks perfect," she said. "It is valuable because people keep finding uses for it."
+
+The final article was not as dramatic as Theo had first wanted. It did not pretend that rural life was easy. Some teenagers did leave North Gate, and transport was a real problem. But the report also showed energy, humour and choice. It suggested that leisure in a rural place might be less visible, but not less meaningful.
+
+Ms Bell said the first version of our film had been clear but shallow. The second was less neat, yet more truthful. That sounded disappointing at first, because students like neat conclusions. But perhaps the main character of our report was not Theo, or me, or even Sam. It was North Gate itself: a place that looked quiet from the road, but sounded very different once we stopped trying to speak for it.
+`,
+
+  translation: `
+以下文章发表于里弗斯通学校的时事平台，内容来自一次周末实地调研。
+
+当媒体课老师贝尔女士宣布我们要去北门村时，大多数人都以为这会是一个轻松的周末：露营、采访、剪视频。北门村是一个乡村村庄，离我们镇有两个小时车程。它以一座古老石门、一座关闭的铁路站台，以及一座常被建筑学学生参观的小礼堂而闻名。我们的任务是进行一次简短调查，了解乡村地区的年轻人如何度过闲暇时间。
+
+西奥是我们小组里最外向的人，他马上有了计划。他想拍一部关于全球变化如何摧毁村庄生活的影片。开头镜头会拍一个坏掉的售票机器、一片空荡荡的棒球场和低沉灰暗的天空。“这会很沮丧，”他说，“但会很有力量。”
+
+我不太确定。我叫米拉，负责为影片配写文章。我很焦虑，不太敢反对西奥，因为他经验更多，性格也更强势。不过，他的立场似乎太简单了。我们甚至还没跟任何人说话，他就已经决定了这个村庄意味着什么。
+
+第一天的情况似乎支持了他的想法。我们的中巴车晚到了，因为有一名学生忘记系安全带，司机坚持等每个人都系好才出发。到达北门村时，旧售票机器已经不能使用，车站站台长满了杂草，学校后面的棒球场空无一人。天气很冷，光线平淡而苍白。西奥满意地拍下了这一切。
+
+然后我们遇到了埃文斯博士。她是研究乡村建筑的专家，来到这里是为了考察村礼堂。她看了我们的第一批片段，然后看了我们一眼。那眼神并不算不友好，但显然也不是鼓励。
+
+“你们是在寻找衰败，”她说，“这和调查一个地方不是一回事。”
+
+她的话让西奥很恼火，但我一直记着。那天晚上，村里在旧铁路站台上举办年度音乐之夜。活动以当地学校的古典四重奏开场。之后，一个爵士乐队进行了现场演出，一位穿亮色外套的女孩朗读了一首幽默诗，内容是嘲笑那些以为每只羊都有趣的游客。人们笑了将近一分钟。
+
+这种气氛并不适合西奥原本的影片。
+
+中场休息时，我们高效的时间表彻底乱了。一个摄像机配件不见了，我们花了二十分钟在长椅和包后面寻找它。就在我们寻找时，我和一个叫萨姆的男孩随意聊了起来。他正在卖用父母农场蜂蜜做的蛋糕。他说，秘密原料是耐心，因为蜜蜂按自己的节奏工作。
+
+萨姆告诉我，那片空棒球场并不说明没人关心它。事实上，球队星期天会使用那里，只是许多队员星期六要帮家里干活。坏掉的机器也不是没人管；市政会已经订购了零件，只是送货很慢。“外面来的人以为什么都没发生，”他说，“他们看不到一件事重新开始之前的那些工作。”
+
+第二天早上，我们修改了影片。我们保留了车站站台、售票机器和灰色天空，但加入了音乐会、诗、蛋糕，以及礼拜后陆续到来的棒球队员。我们还采访了埃文斯博士，请她解释为什么旧建筑不应该被当成博物馆展品。“一个村庄的价值不在于它看起来完美，”她说，“而在于人们不断为它找到新的用途。”
+
+最终的文章没有西奥最初想要的那样戏剧化。它没有假装乡村生活很容易。有些青少年确实会离开北门村，交通也确实是问题。但这篇报道也呈现了活力、幽默和选择。它说明，乡村地区的闲暇活动也许不那么显眼，但并不因此缺少意义。
+
+贝尔女士说，我们第一版影片清楚，但肤浅。第二版不那么整齐，却更真实。起初，这听起来有点令人失望，因为学生总喜欢整齐的结论。但也许，我们这篇报道的主角并不是西奥，不是我，甚至也不是萨姆。主角是北门村本身：一个从路上看很安静的地方；但当我们不再急着替它说话时，它听起来完全不同。
+`,
+
+  questions: [
+    {
+      question: "What is the main weakness in Theo's original plan for the film?",
+      options: {
+        A: "It depends on dramatic images before the group has understood the village.",
+        B: "It ignores the fact that global change can affect rural places.",
+        C: "It focuses too much on music and not enough on current affairs.",
+        D: "It gives too much attention to baseball rather than architecture."
+      },
+      answer: "A",
+      explanation: {
+        correct: "A是正确答案。Theo在采访任何人之前，就决定把村庄拍成衰败、沮丧的样子。他的问题不是关注全球变化本身，而是先有结论，再去寻找符合结论的画面。",
+        A: "A对。这个选项抓住了逻辑问题：他先决定意义，再选择证据。",
+        B: "B不对。全球变化确实可能影响乡村，这不是他的错误。错误在于把复杂地方简单化。",
+        C: "C不对。第一版影片并没有过多关注音乐；音乐反而是后来改变他们看法的因素。",
+        D: "D不对。棒球和建筑都只是材料，不是原计划的根本问题。"
+      }
+    },
+    {
+      question: "Why does Dr Evans say the students are “hunting for decline”?",
+      options: {
+        A: "She thinks they are deliberately looking for signs that support a negative story.",
+        B: "She believes they should stop filming and study architecture instead.",
+        C: "She is angry because they have damaged the village hall.",
+        D: "She wants them to make a humorous film about tourists."
+      },
+      answer: "A",
+      explanation: {
+        correct: "A是正确答案。Dr Evans看出学生们只在寻找破旧机器、空球场、灰天空这类能证明“衰败”的证据，而不是开放地调查这个地方。",
+        A: "A对。hunt在这里不是普通寻找，而是带着预设去搜寻符合自己观点的材料。",
+        B: "B有迷惑性，因为她是architecture expert，但她并不是让他们放弃媒体项目去学建筑。",
+        C: "C不对。学生没有损坏村礼堂。",
+        D: "D不对。幽默诗是后来活动中的内容，不是Dr Evans的要求。"
+      }
+    },
+    {
+      question: "What is the logical role of Sam's explanation about the baseball field and ticket machine?",
+      options: {
+        A: "It proves that the village has no real problems.",
+        B: "It offers alternative explanations for details the group had misread.",
+        C: "It shows that leisure activities are less important than farm work.",
+        D: "It confirms Theo's view that nothing works in North Gate."
+      },
+      answer: "B",
+      explanation: {
+        correct: "B是正确答案。Theo把空球场和坏机器理解为衰败证据，但Sam解释说球场星期天会用，机器也已经在等零件。这改变了这些细节的意义。",
+        A: "A不对。村庄仍然有交通等真实问题，并不是没有问题。",
+        B: "B对。Sam不是否定事实，而是提供新的解释框架。",
+        C: "C不对。他并没有说休闲不重要，而是说明乡村生活安排不同。",
+        D: "D不对。他的解释恰恰削弱了Theo的单一负面判断。"
+      }
+    },
+    {
+      question: "How does the group's final report differ from the first version?",
+      options: {
+        A: "It removes all negative details to make North Gate look perfect.",
+        B: "It becomes less dramatic but gives a more balanced account of the village.",
+        C: "It changes from a current affairs report into a music review.",
+        D: "It argues that rural teenagers have more leisure time than city teenagers."
+      },
+      answer: "B",
+      explanation: {
+        correct: "B是正确答案。最终报道没有否认交通困难和青年离开等问题，但也加入了音乐、诗、蛋糕、棒球和当地人的解释，因此更平衡。",
+        A: "A不对。报道仍然保留了灰天、坏机器、交通问题等负面内容。",
+        B: "B对。它不再追求单一戏剧性，而是呈现复杂真实。",
+        C: "C不对。音乐只是材料之一，文章仍然是关于乡村生活和青年休闲的时事报道。",
+        D: "D不对。文章没有比较城乡青少年的休闲时间多少。"
+      }
+    },
+    {
+      question: "What does the final sentence suggest about good reporting?",
+      options: {
+        A: "Reporters should speak confidently for places that seem quiet.",
+        B: "A place becomes interesting only when outsiders add drama to it.",
+        C: "Listening can reveal meanings that a prepared storyline would miss.",
+        D: "The most efficient report is usually the most truthful one."
+      },
+      answer: "C",
+      explanation: {
+        correct: "C是正确答案。最后一句说，当他们不再急着替北门村说话时，它听起来完全不同。这说明好的报道不是把预设故事套上去，而是通过倾听发现原本被忽略的意义。",
+        A: "A不对。文章恰恰批评替别人下结论、替地方说话的做法。",
+        B: "B不对。北门村本身就有character，不需要外来者添加戏剧性。",
+        C: "C对。这是全文对报道方法的核心认识。",
+        D: "D不对。高效时间表后来乱了，但这反而带来了更真实的采访。efficient不等于truthful。"
+      }
+    }
+  ]
 }
 ];
