@@ -5810,5 +5810,419 @@ Ms Bell said the first version of our film had been clear but shallow. The secon
       }
     }
   ]
+},
+{
+  date: "2026-08-10",
+  title: "The One-Meter Gate",
+  level: "FCE / B2",
+
+  vocabulary: [
+    {
+      word: "meter",
+      partOfSpeech: "n.",
+      meaning: "米；仪表；公尺；韵律",
+      example: "The gate was less than one meter wide."
+    },
+    {
+      word: "shorts",
+      partOfSpeech: "n.",
+      meaning: "短裤",
+      example: "Sam arrived in shorts because the hall was too hot."
+    },
+    {
+      word: "solo",
+      partOfSpeech: "adj. / n.",
+      meaning: "独自的；独唱的；独奏；单人表演",
+      example: "The ceremony began with a violin solo."
+    },
+    {
+      word: "organized",
+      partOfSpeech: "adj.",
+      meaning: "有组织的；有条理的；安排周密的",
+      example: "The event looked organized from the outside."
+    },
+    {
+      word: "yours sincerely",
+      partOfSpeech: "phrase",
+      meaning: "谨启；正式书信结尾用语",
+      example: "Mia ended her letter with yours sincerely."
+    },
+    {
+      word: "flour",
+      partOfSpeech: "n.",
+      meaning: "面粉",
+      example: "A bag of flour split open in the kitchen."
+    },
+    {
+      word: "come up with",
+      partOfSpeech: "phrase",
+      meaning: "想出；提出；提供",
+      example: "The students had to come up with a better route."
+    },
+    {
+      word: "observation",
+      partOfSpeech: "n.",
+      meaning: "观察；观测；评论",
+      example: "Mia's most useful observation came after the ceremony."
+    },
+    {
+      word: "career",
+      partOfSpeech: "n.",
+      meaning: "职业；事业；生涯",
+      example: "The project made Mia think seriously about a career in journalism."
+    },
+    {
+      word: "biography",
+      partOfSpeech: "n.",
+      meaning: "传记；传记作品",
+      example: "The guidebook included a short biography of the centre's founder."
+    },
+    {
+      word: "guidebook",
+      partOfSpeech: "n.",
+      meaning: "旅行指南；参观指南",
+      example: "The students wrote a guidebook for visitors."
+    },
+    {
+      word: "rescue",
+      partOfSpeech: "v. / n.",
+      meaning: "援救；营救；解救",
+      example: "The rescue was simple but embarrassing."
+    },
+    {
+      word: "bacon",
+      partOfSpeech: "n.",
+      meaning: "培根",
+      example: "The café sold bacon rolls to visitors."
+    },
+    {
+      word: "ceremony",
+      partOfSpeech: "n.",
+      meaning: "仪式；典礼；礼仪",
+      example: "A politician attended the opening ceremony."
+    },
+    {
+      word: "ending",
+      partOfSpeech: "n.",
+      meaning: "结尾；结束；结局",
+      example: "Mia changed the ending of her article."
+    },
+    {
+      word: "experiment",
+      partOfSpeech: "n. / v.",
+      meaning: "实验；试验；尝试",
+      example: "The new walking route began as an experiment."
+    },
+    {
+      word: "walking",
+      partOfSpeech: "n. / adj.",
+      meaning: "步行；行走；散步的",
+      example: "The centre advertised a new walking tour."
+    },
+    {
+      word: "depression",
+      partOfSpeech: "n.",
+      meaning: "沮丧；消沉；抑郁症；经济萧条；洼地",
+      example: "The town had suffered during the economic depression."
+    },
+    {
+      word: "decorate",
+      partOfSpeech: "v.",
+      meaning: "装饰；装修；粉刷；授予勋章",
+      example: "Volunteers helped decorate the old hall."
+    },
+    {
+      word: "drug",
+      partOfSpeech: "n.",
+      meaning: "药物；毒品",
+      example: "A visitor needed a prescribed drug during the tour."
+    },
+    {
+      word: "highlight",
+      partOfSpeech: "v. / n.",
+      meaning: "突出；强调；最精彩的部分",
+      example: "Mia wanted to highlight a problem nobody had noticed."
+    },
+    {
+      word: "air conditioning",
+      partOfSpeech: "n.",
+      meaning: "空调系统；空气调节系统",
+      example: "The air conditioning stopped working before the guests arrived."
+    },
+    {
+      word: "geology",
+      partOfSpeech: "n.",
+      meaning: "地质学；地质情况",
+      example: "The centre displayed maps about local geology."
+    },
+    {
+      word: "economic",
+      partOfSpeech: "adj.",
+      meaning: "经济的；经济上的；有利可图的",
+      example: "The centre was expected to bring economic benefits."
+    },
+    {
+      word: "distance",
+      partOfSpeech: "n.",
+      meaning: "距离；远处；间距",
+      example: "The distance from the bus stop to the centre was longer than expected."
+    },
+    {
+      word: "consumer",
+      partOfSpeech: "n.",
+      meaning: "消费者；顾客；用户",
+      example: "The survey asked what visitors expected as consumers."
+    },
+    {
+      word: "retire",
+      partOfSpeech: "v.",
+      meaning: "退休；退职；退出比赛",
+      example: "The founder had retired ten years earlier."
+    },
+    {
+      word: "present",
+      partOfSpeech: "adj. / v. / n.",
+      meaning: "目前的；出席的；颁发；呈现；礼物",
+      example: "Several former workers were present at the ceremony."
+    },
+    {
+      word: "developed",
+      partOfSpeech: "adj.",
+      meaning: "发达的；先进的；成熟的",
+      example: "The town hoped to become more developed through tourism."
+    },
+    {
+      word: "come across",
+      partOfSpeech: "phrase",
+      meaning: "偶然遇见；碰上；被理解",
+      example: "Mia came across an old letter in the archive room."
+    },
+    {
+      word: "pick up",
+      partOfSpeech: "phrase",
+      meaning: "捡起；接人；学会；恢复；好转",
+      example: "The driver came to pick up visitors at the station."
+    },
+    {
+      word: "terrified",
+      partOfSpeech: "adj.",
+      meaning: "非常害怕的；恐惧的",
+      example: "A child looked terrified when the lights went out."
+    },
+    {
+      word: "jacket",
+      partOfSpeech: "n.",
+      meaning: "夹克衫；短上衣；书套",
+      example: "Mia carried her notebook in her jacket pocket."
+    },
+    {
+      word: "chop",
+      partOfSpeech: "v. / n.",
+      meaning: "切碎；剁碎；砍；削减",
+      example: "The cook had to chop vegetables for the café."
+    },
+    {
+      word: "reporter",
+      partOfSpeech: "n.",
+      meaning: "记者；通讯员",
+      example: "Mia hoped to become a reporter one day."
+    },
+    {
+      word: "politician",
+      partOfSpeech: "n.",
+      meaning: "政治家；政客",
+      example: "A local politician gave a speech at the ceremony."
+    },
+    {
+      word: "wheelchair",
+      partOfSpeech: "n.",
+      meaning: "轮椅",
+      example: "The old gate was too narrow for a wheelchair."
+    },
+    {
+      word: "soundtrack",
+      partOfSpeech: "n.",
+      meaning: "电影原声；配乐；声迹",
+      example: "The video used a cheerful soundtrack."
+    },
+    {
+      word: "plain",
+      partOfSpeech: "adj.",
+      meaning: "清楚的；简单的；坦白的；朴素的",
+      example: "The problem became plain when Elsa reached the gate."
+    },
+    {
+      word: "choir",
+      partOfSpeech: "n.",
+      meaning: "唱诗班；合唱团",
+      example: "The school choir sang before the speeches."
+    },
+    {
+      word: "text",
+      partOfSpeech: "n. / v.",
+      meaning: "文本；短信；发短信",
+      example: "Elsa sent Mia a text after the visit."
+    }
+  ],
+
+  passage: `
+This article was first written for the student magazine at Hillview School.
+
+When I was asked to report on the opening of the Ridge Museum, I expected an easy story. The old building had once been a small factory, then a storage room, and finally nothing at all. Now it had been cleaned, decorated and turned into a local history centre. The ceremony would include a choir, a violin solo, a speech by a local politician and a short film with a cheerful soundtrack. It sounded organized, positive and simple.
+
+I was wrong about the simple part.
+
+My name is Mia, and I am hoping for a career as a reporter. My teacher suggested that I write about the museum because it connected several subjects: economic change, local geology, family history and tourism. The museum guidebook included a short biography of Daniel Reed, an engineer who had built the factory in 1928 and later retired in the same town. During the economic depression, the factory had provided work for dozens of families. The museum was supposed to show how a developed community could remember its past while planning for the future.
+
+The opening day began badly. The air conditioning failed before nine o'clock, and the hall became warm. Sam, the student filming assistant, arrived in shorts and a thin jacket because he had expected to be outside. In the café, a bag of flour split open while the cook was preparing bacon rolls, and someone had to chop vegetables on a table covered in white dust. None of this seemed serious, but it made everyone tense.
+
+At ten, the guests arrived. Several were former factory workers. One had brought a photograph of herself standing beside a machine. Another carried a letter ending with yours sincerely, written by Daniel Reed to her father. I came across it in the archive room later and found it more moving than any official speech.
+
+The politician spoke first. He said the museum would attract tourists, support local shops and create new economic energy. As a reporter, I wrote that down. As a local student, I wondered whether the sentence had been used at every ceremony in every small town.
+
+Then came the walking tour.
+
+The guidebook described the route as "short and comfortable", but that was only true for some visitors. The distance from the bus stop to the museum was longer than it looked on the map, and the final gate was less than one meter wide. At first, nobody noticed. The choir was singing, the cameras were recording, and everyone was focused on the speeches.
+
+Then Elsa arrived.
+
+Elsa was a retired geography teacher who used a wheelchair. A volunteer had promised to pick her up from the station, but the car was late, so she arrived after the ceremony had begun. When she reached the old gate, her wheelchair would not pass through. For a few seconds, people stared as if the gate had personally insulted them. A child looked terrified, perhaps because the adults suddenly became silent.
+
+There was no dramatic rescue. Two volunteers opened a side door, moved several boxes and helped Elsa enter through the café. She was calm and even made a joke about preferring the smell of bacon to the smell of old stone. But the problem was plain: the museum had been designed for visitors in general, not for all visitors in particular.
+
+That observation changed my article.
+
+I had planned to write a bright report about music, speeches and local pride. Instead, I began asking different questions. Who had tested the route? Had anyone carried out an experiment with visitors of different ages and needs? Was the museum treating people as real citizens or only as consumers? The manager looked uncomfortable but answered honestly. They had measured doors and written safety rules, but they had not invited wheelchair users to test the route before the opening.
+
+Later, Elsa sent me a text: "Do not make me the sad part of your story. Make the gate the useful part."
+
+So I did. I changed the ending. I wrote that the highlight of the day was not the ceremony, the soundtrack or the politician's speech. It was the moment when a one-meter gate showed a mistake that could still be corrected. The museum staff promised to come up with a new entrance plan and present it within a month. They also asked Elsa to help review the design.
+
+Some readers said the article was too serious for an opening ceremony. Perhaps it was. But local history is not only about what we display behind glass. It is also about who is present, who is missing, and what we are willing to change once we notice the difference.
+`,
+
+  translation: `
+这篇文章最初写给希尔维尤学校的学生杂志。
+
+当我被要求报道里奇博物馆开幕时，我以为这会是一篇轻松的报道。这座旧建筑曾经是一家小工厂，后来变成仓库，最后被闲置。如今，它被清理、装饰，并改造成了一座地方历史中心。开幕仪式会有合唱团、小提琴独奏、本地政治家的讲话，以及一段配有轻快原声音乐的短片。它听起来安排得井井有条，积极而简单。
+
+我错在以为它简单。
+
+我叫米娅，希望将来成为一名记者。老师建议我写这座博物馆，因为它连接了几个主题：经济变化、当地地质、家族历史和旅游业。博物馆参观指南里有一篇丹尼尔·里德的简短传记。他是一名工程师，1928年建造了这家工厂，后来在同一座镇上退休。经济萧条时期，这家工厂曾为几十个家庭提供工作。博物馆原本想展示，一个发达社区如何在规划未来的同时记住过去。
+
+开幕日一开始就不顺利。九点前，空调系统坏了，大厅变得很热。学生拍摄助手萨姆穿着短裤和一件薄夹克到了，因为他以为自己会在户外工作。咖啡馆里，厨师准备培根卷时，一袋面粉裂开了，有人不得不在铺满白色粉末的桌子上切蔬菜。这些事都不算严重，但让每个人都有些紧张。
+
+十点，客人们到了。其中几位是从前的工厂工人。一位带来了一张自己站在机器旁边的照片。另一位带来了一封信，信的结尾写着 yours sincerely，那是丹尼尔·里德写给她父亲的。后来我在档案室里偶然看到这封信，发现它比任何官方讲话都更打动人。
+
+政治家先讲话。他说，博物馆将吸引游客、支持本地商店，并创造新的经济活力。作为记者，我把这句话记了下来。作为本地学生，我怀疑这句话是不是在每一座小镇的每一次仪式上都被用过。
+
+接着，步行参观开始了。
+
+参观指南把路线描述为“短而舒适”，但这只对部分参观者成立。从公交站到博物馆的距离比地图上看起来要远，而且最后那道门不到一米宽。起初，没有人注意到这一点。合唱团在唱歌，摄像机在录制，所有人都把注意力放在讲话上。
+
+然后，埃尔莎到了。
+
+埃尔莎是一位退休地理老师，使用轮椅出行。一名志愿者原本答应去车站接她，但车迟到了，所以她在仪式已经开始后才到达。当她来到那道旧门前时，轮椅无法通过。有几秒钟，人们盯着那道门，好像它亲自冒犯了大家似的。一个孩子看起来很害怕，也许是因为成年人突然安静了下来。
+
+事情没有什么戏剧化的营救。两名志愿者打开侧门，搬开几个箱子，帮助埃尔莎从咖啡馆进入。她很冷静，甚至开玩笑说，自己宁愿闻培根味，也不想闻旧石头味。但问题已经很清楚了：博物馆是为一般意义上的参观者设计的，而不是为所有具体的参观者设计的。
+
+这个观察改变了我的文章。
+
+我原本计划写一篇明亮的报道，讲音乐、讲话和地方自豪感。相反，我开始提出不同的问题。谁测试过这条路线？有没有对不同年龄和不同需求的参观者进行过试验？博物馆把人们看作真实的公民，还是仅仅看作消费者？经理看起来有些不自在，但回答得很诚实。他们测量过门，写过安全规则，但在开幕前并没有邀请轮椅使用者来测试路线。
+
+后来，埃尔莎给我发来一条短信：“不要把我写成你故事里悲伤的部分。把那道门写成有用的部分。”
+
+所以我照做了。我改了文章的结尾。我写道，那天最值得注意的部分不是仪式，不是配乐，也不是政治家的讲话。而是那道一米宽的门显示出一个仍然可以纠正的错误。博物馆工作人员承诺会想出新的入口方案，并在一个月内提交。他们还邀请埃尔莎帮助审查设计。
+
+有些读者说，这篇文章对于一场开幕仪式来说太严肃了。也许是这样。但地方历史并不只是我们放在玻璃后面展示的东西。它也关乎谁在场，谁缺席，以及当我们注意到差异之后，愿意改变什么。
+`,
+
+  questions: [
+    {
+      question: "Why does Mia describe the broken air conditioning, flour accident and bacon rolls before the main problem appears?",
+      options: {
+        A: "To suggest that the museum staff were completely careless from the start.",
+        B: "To create a contrast between an organized public image and the messy reality behind it.",
+        C: "To show that the café was more important than the museum displays.",
+        D: "To explain why Elsa was unable to enter through the main gate."
+      },
+      answer: "B",
+      explanation: {
+        correct: "B是正确答案。空调坏了、面粉洒了、培根卷准备混乱，这些细节并不是主问题，但它们先打破了“开幕式井井有条”的表面形象，为后面更重要的入口问题做铺垫。",
+        A: "A不对。工作人员不是完全粗心，后面经理也诚实回应并愿意改进。",
+        B: "B对。这些细节形成表面正式与后台混乱之间的对比。",
+        C: "C不对。咖啡馆不是核心，它只是展示现场真实复杂性的一个场景。",
+        D: "D不对。Elsa不能进入的直接原因是gate太窄，不是空调或食物问题。"
+      }
+    },
+    {
+      question: "What does Mia’s reaction to the politician’s speech suggest?",
+      options: {
+        A: "She is beginning to question official language that sounds too general.",
+        B: "She believes economic benefits are impossible for small museums.",
+        C: "She dislikes all politicians and refuses to report their words.",
+        D: "She thinks the ceremony should focus only on geology."
+      },
+      answer: "A",
+      explanation: {
+        correct: "A是正确答案。Mia记下了政治家的话，但同时怀疑这种句子是否在很多小镇仪式上都被使用过。这说明她开始意识到官方语言可能过于通用，缺少具体观察。",
+        A: "A对。这个选项抓住了她作为reporter逐渐形成的批判性观察。",
+        B: "B不对。她没有否认博物馆可能带来economic benefits，只是怀疑套话式表达。",
+        C: "C不对。她并没有拒绝记录政治家的话，而是记录后继续思考。",
+        D: "D不对。geology只是博物馆主题之一，不是她认为唯一应该关注的内容。"
+      }
+    },
+    {
+      question: "What is the deeper significance of Elsa’s difficulty at the gate?",
+      options: {
+        A: "It proves that the museum should not welcome tourists.",
+        B: "It reveals a gap between planning for average visitors and including real individuals.",
+        C: "It shows that walking tours should always be cancelled.",
+        D: "It suggests that the guidebook was deliberately dishonest."
+      },
+      answer: "B",
+      explanation: {
+        correct: "B是正确答案。Elsa的轮椅无法通过大门，暴露出博物馆虽然为“普通游客”做了安排，却没有真正考虑具体人的不同需求。",
+        A: "A不对。文章不是反对游客，而是强调更包容的设计。",
+        B: "B对。这是文章最核心的逻辑：general visitors和real particular visitors之间有差距。",
+        C: "C不对。问题不是步行参观必须取消，而是路线和入口需要重新设计。",
+        D: "D不对。guidebook说路线短而舒适，但不一定是故意撒谎，而是基于不完整的测试。"
+      }
+    },
+    {
+      question: "Why does Elsa tell Mia to make the gate “the useful part” of the story?",
+      options: {
+        A: "She wants Mia to ignore her experience completely.",
+        B: "She wants the article to focus on a correctable design problem rather than pity.",
+        C: "She wants the museum to be punished in public.",
+        D: "She wants the ceremony to be remembered only as a failure."
+      },
+      answer: "B",
+      explanation: {
+        correct: "B是正确答案。Elsa不希望自己被写成悲伤对象，而希望那道门成为推动改进的关键。这体现了她把问题转化为行动机会的态度。",
+        A: "A不对。她不是让Mia忽略自己的经历，而是要求换一种写法。",
+        B: "B对。她希望文章关注可以修正的design problem，而不是制造同情。",
+        C: "C不对。文章没有要求惩罚博物馆，工作人员后来也承诺改进。",
+        D: "D不对。她不是要把仪式定义为失败，而是让问题变得有用。"
+      }
+    },
+    {
+      question: "Which statement best describes how Mia’s article changes?",
+      options: {
+        A: "It changes from a simple celebration report into a question about who public history is for.",
+        B: "It changes from a museum review into a complaint about food and air conditioning.",
+        C: "It changes from a biography of Daniel Reed into a guidebook for tourists.",
+        D: "It changes from a report about accessibility into an attack on local politics."
+      },
+      answer: "A",
+      explanation: {
+        correct: "A是正确答案。Mia原本想写音乐、讲话和地方自豪感，后来转向追问谁能进入博物馆、谁被排除在外，以及公共历史应该服务谁。",
+        A: "A对。这个选项最准确地概括了文章视角的变化。",
+        B: "B不对。食物和空调只是背景细节，不是文章最终重点。",
+        C: "C不对。biography和guidebook只是材料，文章没有变成这两种文本。",
+        D: "D不对。文章有对政治套话的怀疑，但核心不是攻击政治，而是讨论公共空间与包容性。"
+      }
+    }
+  ]
 }
 ];
