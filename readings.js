@@ -6224,5 +6224,401 @@ Some readers said the article was too serious for an opening ceremony. Perhaps i
       }
     }
   ]
+},
+{
+  date: "2026-08-11",
+  title: "The Photograph on the Wall",
+  level: "FCE / B2",
+
+  vocabulary: [
+    {
+      word: "adolescent",
+      partOfSpeech: "n. / adj.",
+      meaning: "青少年；青春期的",
+      example: "The exhibition was planned by a group of adolescents."
+    },
+    {
+      word: "do without",
+      partOfSpeech: "phrase",
+      meaning: "没有……也设法对付过去；将就",
+      example: "The group had to do without expensive lighting."
+    },
+    {
+      word: "salad",
+      partOfSpeech: "n.",
+      meaning: "沙拉；混合色拉",
+      example: "The café prepared a vegetarian salad for visitors."
+    },
+    {
+      word: "above all",
+      partOfSpeech: "phrase",
+      meaning: "首先；尤其是；最重要的是",
+      example: "Above all, the project needed to be honest."
+    },
+    {
+      word: "alternative",
+      partOfSpeech: "adj. / n.",
+      meaning: "可替代的；可供选择的；替代方案",
+      example: "The students looked for an alternative to the old poster."
+    },
+    {
+      word: "selfish",
+      partOfSpeech: "adj.",
+      meaning: "自私的",
+      example: "Lena later realised it was unfair to call Mrs Grey selfish."
+    },
+    {
+      word: "vegetarian",
+      partOfSpeech: "n. / adj.",
+      meaning: "素食者；素食的",
+      example: "The food table included vegetarian sandwiches."
+    },
+    {
+      word: "elderly",
+      partOfSpeech: "adj. / n.",
+      meaning: "年纪较大的；老人",
+      example: "Several elderly residents came to see the photographs."
+    },
+    {
+      word: "destroy",
+      partOfSpeech: "v.",
+      meaning: "破坏；毁灭；摧毁",
+      example: "The storm had destroyed part of the old beach café."
+    },
+    {
+      word: "attack",
+      partOfSpeech: "n. / v.",
+      meaning: "攻击；抨击；袭击；批评",
+      example: "Some students felt Mrs Grey's comments were an attack."
+    },
+    {
+      word: "slippery",
+      partOfSpeech: "adj.",
+      meaning: "滑的；滑得难以站稳的",
+      example: "The path beside the car park became slippery after rain."
+    },
+    {
+      word: "sunbathe",
+      partOfSpeech: "v.",
+      meaning: "晒太阳；沐日光浴",
+      example: "The old photograph showed people sunbathing near the sea wall."
+    },
+    {
+      word: "generation",
+      partOfSpeech: "n.",
+      meaning: "一代；一代人；产生",
+      example: "The exhibition tried to connect one generation with another."
+    },
+    {
+      word: "proof",
+      partOfSpeech: "n.",
+      meaning: "证据；证明",
+      example: "Lena wanted proof before changing the display."
+    },
+    {
+      word: "promote",
+      partOfSpeech: "v.",
+      meaning: "促进；推广；提倡",
+      example: "The event was meant to promote healthier summer activities."
+    },
+    {
+      word: "promise",
+      partOfSpeech: "n. / v.",
+      meaning: "承诺；保证；希望；有可能",
+      example: "The poster made a promise the exhibition could not fully keep."
+    },
+    {
+      word: "dentist",
+      partOfSpeech: "n.",
+      meaning: "牙医；牙科诊所",
+      example: "A local dentist gave advice about sugary drinks."
+    },
+    {
+      word: "outdoors",
+      partOfSpeech: "adv. / n.",
+      meaning: "在户外；户外；野外",
+      example: "The students wanted young people to spend more time outdoors."
+    },
+    {
+      word: "sale",
+      partOfSpeech: "n.",
+      meaning: "出售；销售；大减价",
+      example: "The health shop held a sale during the exhibition."
+    },
+    {
+      word: "antibiotic",
+      partOfSpeech: "n. / adj.",
+      meaning: "抗生素；抗生的",
+      example: "The dentist warned that antibiotics could not solve every health problem."
+    },
+    {
+      word: "car park",
+      partOfSpeech: "n.",
+      meaning: "停车场",
+      example: "The accident happened near the car park entrance."
+    },
+    {
+      word: "biology",
+      partOfSpeech: "n.",
+      meaning: "生物学；生理",
+      example: "Lena's biology teacher helped check the health information."
+    },
+    {
+      word: "factor",
+      partOfSpeech: "n.",
+      meaning: "因素；要素；因子",
+      example: "Weather was one factor the students had not considered."
+    },
+    {
+      word: "thin",
+      partOfSpeech: "adj.",
+      meaning: "薄的；细的；瘦的；稀少的",
+      example: "The poster showed a very thin girl on a beach towel."
+    },
+    {
+      word: "exhibition",
+      partOfSpeech: "n.",
+      meaning: "展览；展览会",
+      example: "The exhibition was held in the community hall."
+    },
+    {
+      word: "competitive",
+      partOfSpeech: "adj.",
+      meaning: "竞争的；有竞争力的；好胜的",
+      example: "The students became too competitive about visitor numbers."
+    },
+    {
+      word: "positive",
+      partOfSpeech: "adj.",
+      meaning: "积极的；正面的；肯定的；阳性的",
+      example: "They wanted to create a positive image of teenagers."
+    },
+    {
+      word: "notice",
+      partOfSpeech: "v. / n.",
+      meaning: "注意到；通知；布告",
+      example: "Lena began to notice what older visitors were really saying."
+    },
+    {
+      word: "relieved",
+      partOfSpeech: "adj.",
+      meaning: "感到宽慰的；放心的",
+      example: "Lena felt relieved when Mrs Grey agreed to speak."
+    },
+    {
+      word: "pleased",
+      partOfSpeech: "adj.",
+      meaning: "高兴的；满意的",
+      example: "The visitors were pleased with the final version."
+    },
+    {
+      word: "image",
+      partOfSpeech: "n.",
+      meaning: "形象；图像；影像；意象",
+      example: "The problem began with one image on the wall."
+    },
+    {
+      word: "widow",
+      partOfSpeech: "n.",
+      meaning: "寡妇；遗孀",
+      example: "Mrs Grey was a widow whose husband appeared in the photograph."
+    },
+    {
+      word: "butter",
+      partOfSpeech: "n. / v.",
+      meaning: "黄油；给……涂黄油",
+      example: "A volunteer spread butter on bread for the food table."
+    },
+    {
+      word: "gaze",
+      partOfSpeech: "v. / n.",
+      meaning: "凝视；注视",
+      example: "Mrs Grey stood still and gazed at the old photograph."
+    },
+    {
+      word: "issue",
+      partOfSpeech: "n. / v.",
+      meaning: "问题；议题；期号；发表；发行",
+      example: "The real issue was not the photo itself but how it was used."
+    },
+    {
+      word: "resign",
+      partOfSpeech: "v.",
+      meaning: "辞职；辞去",
+      example: "Tom threatened to resign from the committee."
+    },
+    {
+      word: "alcohol",
+      partOfSpeech: "n.",
+      meaning: "酒精；含酒精饮料",
+      example: "The event did not allow alcohol."
+    },
+    {
+      word: "pessimistic",
+      partOfSpeech: "adj.",
+      meaning: "悲观的",
+      example: "Lena was pessimistic about solving the disagreement."
+    }
+  ],
+
+  passage: `
+The following feature article appeared in a local youth magazine.
+
+When Lena joined the committee for the Summer Outdoors Exhibition, she thought the idea was excellent. The project was planned by adolescents, but it was not only for adolescents. Its purpose was to promote healthier summer habits among the whole town: more walking, more fresh air, less alcohol, fewer sugary drinks and, above all, a more positive image of young people.
+
+The exhibition was to be held in the community hall beside the beach. There would be old photographs, biology displays about sun safety, a short talk by a dentist, and a food table with salad, fruit and vegetarian sandwiches. The health shop next door even promised a sale on reusable water bottles. It sounded useful, cheerful and simple.
+
+It was not simple.
+
+The committee became competitive almost immediately. Tom wanted a dramatic poster that would attract attention online. He chose an old black-and-white image of people sunbathing near the sea wall in the 1960s, then placed beside it a modern photograph of a very thin girl sitting alone on a beach towel. Across the top he wrote: ARE WE HEALTHIER NOW?
+
+Lena was not sure about the poster, but she did not oppose it strongly. She liked Tom, and he was good at getting things done. Besides, they had little money and had to do without professional design help. The poster was shared widely, and visitor numbers looked promising.
+
+The trouble began on the opening morning. An elderly woman named Mrs Grey came into the hall, holding an umbrella and walking slowly because the path near the car park was slippery after rain. She stopped in front of the poster and gazed at the older photograph for a long time.
+
+"That is my husband," she said at last.
+
+Nobody spoke.
+
+Her husband, who had died ten years earlier, was one of the young men in the sunbathing photograph. Mrs Grey was a widow, and the image had been copied from a local archive. The committee had permission to use it, but they had never asked who was in it or how their families might feel. Mrs Grey said the poster made her husband's generation look careless and the modern girl look unhappy. "You are using both of them to win an argument," she said. "That may be clever, but it is not kind."
+
+Tom reacted badly. He said Mrs Grey was attacking the exhibition and being selfish. He argued that the image made an important issue visible: young people were under pressure to look perfect, while older people often pretended the past was healthier than it really was. "We need proof that people notice the problem," he said. "The poster gives us that."
+
+For a while, Lena agreed with part of his argument. The poster had made people stop and think. But as she watched Mrs Grey, she began to feel uneasy. The real issue was not whether the poster was effective. It was whether being effective was enough.
+
+The day became more difficult. A child slipped near the entrance, although he was not hurt. The dentist had to explain twice that antibiotics do not cure every illness. Someone complained that the vegetarian food had too much butter on the bread. A biology teacher pointed out that one display made sunbathing sound dangerous in all cases, when the message should have been about careful exposure, not fear. Each problem was small, but together they showed that the exhibition was making promises it had not fully examined.
+
+By lunchtime, Tom was furious and threatened to resign from the committee. Lena felt pessimistic. She had wanted the town to see teenagers as organized and responsible; instead, everyone seemed to be arguing beside a table of warm salad.
+
+Then Mrs Grey offered an alternative. She did not ask them to remove the old photograph. Instead, she asked to add a short text beside it. She wrote about her husband as a young lifeguard who loved the sea, but also about how little people understood skin damage at the time. She admitted that every generation had its blind spots. The modern photograph stayed too, but the caption was changed. It no longer suggested that one girl could represent all young people.
+
+The effect was immediate. Visitors spent longer reading. Some elderly residents shared memories of summer jobs, while teenagers spoke about body image, climate, cost and safety outdoors. The exhibition became less competitive and more thoughtful.
+
+At the end of the day, Lena was relieved, though not exactly pleased with herself. She had learned that a positive image of young people could not be built by destroying other people's memories. A good public project needed more than energy and strong messages. It needed listening, proof, and the courage to change when someone showed that your clever idea had hurt more than it had helped.
+`,
+
+  translation: `
+以下特写文章发表于一本本地青年杂志。
+
+莉娜加入“夏日户外展览”委员会时，觉得这个想法非常好。这个项目由青少年策划，但并不只是面向青少年。它的目标是促进全镇形成更健康的夏季习惯：多走路，多呼吸新鲜空气，少喝酒，少喝含糖饮料，最重要的是，为年轻人建立一种更积极的形象。
+
+展览将在海滩旁的社区大厅举行。那里会有老照片、生物学方面关于防晒的展示、一位牙医的简短讲座，还有提供沙拉、水果和素食三明治的食物桌。隔壁健康用品店甚至承诺会打折出售可重复使用的水瓶。这听起来有用、愉快，而且简单。
+
+但它并不简单。
+
+委员会几乎立刻变得很有竞争意识。汤姆想要一张能在网上吸引注意的戏剧化海报。他选了一张20世纪60年代人们在海堤旁晒太阳的黑白老照片，又在旁边放了一张现代照片：一个很瘦的女孩独自坐在沙滩巾上。海报上方写着：我们现在更健康了吗？
+
+莉娜对这张海报并不确定，但她没有强烈反对。她喜欢汤姆，而且他很会把事情推进下去。再说，他们经费很少，没有专业设计师也必须设法对付过去。海报被广泛转发，参观人数看起来很有希望。
+
+麻烦在开幕当天早上开始。一位名叫格雷夫人的年长女性走进大厅。她拿着伞，走得很慢，因为下雨后停车场附近的小路很滑。她停在海报前，长久地凝视那张老照片。
+
+“那是我的丈夫。”她最后说。
+
+没有人说话。
+
+她的丈夫十年前去世，是那张晒太阳老照片里的年轻男子之一。格雷夫人是一位寡妇，那张照片是从本地档案馆复制来的。委员会确实得到了使用许可，但他们从没问过照片里的人是谁，也没想过他们的家人会有什么感受。格雷夫人说，这张海报让她丈夫那一代人显得粗心，也让现代女孩显得不快乐。“你们在利用他们两个人来赢得一个论点，”她说，“这也许很聪明，但并不善良。”
+
+汤姆反应很糟。他说格雷夫人是在攻击展览，而且很自私。他认为，这张图片让一个重要问题变得可见：年轻人承受着必须看起来完美的压力，而老年人常常假装过去比现在更健康。“我们需要证明人们注意到了这个问题，”他说，“这张海报做到了。”
+
+有一会儿，莉娜同意他的一部分说法。海报确实让人停下来思考。但她看着格雷夫人时，开始感到不安。真正的问题不是这张海报是否有效，而是“有效”是否就足够了。
+
+这一天变得更加困难。一个孩子在入口附近滑倒了，虽然没有受伤。牙医不得不解释两遍，抗生素并不能治疗所有疾病。有人抱怨素食食物中面包上的黄油太多。一位生物老师指出，有一块展板让晒太阳听起来在任何情况下都很危险，而正确的信息应该是谨慎接受日照，而不是制造恐惧。每个问题都不大，但它们合在一起说明，这个展览承诺了很多自己并没有充分想清楚的东西。
+
+到了午饭时，汤姆非常愤怒，并威胁要退出委员会。莉娜感到悲观。她原本希望全镇看到青少年是有组织、有责任感的；结果，大家却好像都在一桌温热的沙拉旁边争论。
+
+这时，格雷夫人提出了一个替代方案。她没有要求他们撤掉老照片。相反，她要求在照片旁边加一段简短文字。她写了自己的丈夫年轻时作为救生员热爱大海的故事，也写到当时人们对皮肤损伤了解很少。她承认，每一代人都有自己的盲点。现代女孩的照片也保留了下来，但说明文字被改了。它不再暗示一个女孩可以代表所有年轻人。
+
+效果立刻出现了。参观者停留更久，认真阅读。几位年长居民分享了暑期工作的回忆，而青少年则谈起身体形象、气候、费用和户外安全。展览变得不再那么争强好胜，而是更有思考。
+
+当天结束时，莉娜感到宽慰，虽然她并不完全为自己感到满意。她明白了，年轻人的积极形象不能靠破坏别人的记忆来建立。一个好的公共项目，需要的不只是活力和强有力的信息。它还需要倾听、证据，以及当别人指出你的聪明想法伤害大于帮助时，愿意改变的勇气。
+`,
+
+  questions: [
+    {
+      question: "What is the main problem with Tom's poster?",
+      options: {
+        A: "It uses a strong contrast without considering the people represented in the photographs.",
+        B: "It fails to attract enough attention before the exhibition opens.",
+        C: "It gives inaccurate medical advice about antibiotics and sun safety.",
+        D: "It makes older visitors seem more positive than adolescents."
+      },
+      answer: "A",
+      explanation: {
+        correct: "A是正确答案。Tom的海报通过过去和现在的强烈对比吸引注意，但没有考虑照片中的真实人物及其家属感受。这正是Mrs Grey指出的问题。",
+        A: "A对。这个选项准确抓住了海报的伦理问题：它有效，但把人当成论证工具。",
+        B: "B不对。海报转发很广，visitor numbers looked promising，说明它吸引了注意。",
+        C: "C有迷惑性。展览中确实有抗生素和防晒信息的问题，但那不是海报的主要问题。",
+        D: "D不对。海报并不是让老年人更积极，而是把老一代和现代年轻人都简化了。"
+      }
+    },
+    {
+      question: "Why is Lena partly persuaded by Tom at first?",
+      options: {
+        A: "She believes Mrs Grey has no right to comment on the display.",
+        B: "She can see that the poster has made people notice a real issue.",
+        C: "She wants Tom to resign from the committee before the exhibition ends.",
+        D: "She thinks a positive image of teenagers requires ignoring older people."
+      },
+      answer: "B",
+      explanation: {
+        correct: "B是正确答案。Lena并不是完全支持Tom，但她承认海报确实让人停下来思考，说明它在传播效果上有一定作用。",
+        A: "A不对。Lena没有认为Mrs Grey无权评论；她后来正是认真听取了Mrs Grey的意见。",
+        B: "B对。原文说For a while, Lena agreed with part of his argument，因为海报确实让人notice the problem。",
+        C: "C不对。Tom威胁resign是在后面，Lena并不希望他离开。",
+        D: "D不对。文章最后明确否定了靠破坏别人记忆来建立青少年形象的做法。"
+      }
+    },
+    {
+      question: "What do the smaller problems during the exhibition mainly show?",
+      options: {
+        A: "The committee's whole aim of promoting outdoor health is pointless.",
+        B: "The exhibition has not fully tested the messages and promises it is making.",
+        C: "Visitors are determined to attack adolescent organizers unfairly.",
+        D: "The food table is more important than the photographic display."
+      },
+      answer: "B",
+      explanation: {
+        correct: "B是正确答案。孩子滑倒、抗生素解释、防晒信息不准确、黄油太多等小问题共同说明，展览提出了健康、积极、户外等理念，但没有充分检查这些信息如何落实。",
+        A: "A不对。项目目标并非毫无意义，只是执行中存在不成熟之处。",
+        B: "B对。这些细节在逻辑上支持一个判断：展览的promise没有经过充分检验。",
+        C: "C不对。游客并不是一心攻击学生，很多反馈是合理的。",
+        D: "D不对。食物问题只是众多小问题之一，不是核心。"
+      }
+    },
+    {
+      question: "How does Mrs Grey's alternative change the exhibition?",
+      options: {
+        A: "It removes the disagreement by taking down every difficult image.",
+        B: "It turns a simple comparison into a more complex conversation between generations.",
+        C: "It proves that the older generation was healthier than young people today.",
+        D: "It shifts the exhibition away from health and towards commercial sales."
+      },
+      answer: "B",
+      explanation: {
+        correct: "B是正确答案。Mrs Grey没有要求撤掉照片，而是增加背景说明，使老照片和现代照片不再是简单对立，而成为代际之间关于记忆、健康和身体形象的对话。",
+        A: "A不对。照片没有全部撤掉，old photograph和modern photograph都保留了。",
+        B: "B对。她的替代方案让展览从简单对比变成更有层次的讨论。",
+        C: "C不对。她承认每一代人都有blind spots，并不是证明老一代更健康。",
+        D: "D不对。sale只是水瓶打折，与展览改变的核心无关。"
+      }
+    },
+    {
+      question: "Which statement best reflects the passage's central idea?",
+      options: {
+        A: "A public message should be judged not only by its impact but also by its fairness.",
+        B: "A competitive committee is always better at attracting visitors.",
+        C: "Health exhibitions should avoid emotional images completely.",
+        D: "Young people should let elderly residents make all public decisions."
+      },
+      answer: "A",
+      explanation: {
+        correct: "A是正确答案。全文核心是：Tom的海报有效，但不公平地利用了他人的记忆和形象。最后Lena明白，公共项目既要有影响力，也要倾听和负责。",
+        A: "A对。这个选项准确概括了文章的价值判断：impact不够，还要fairness。",
+        B: "B不对。competitive让委员会一开始过度追求效果，反而造成问题。",
+        C: "C不对。文章不是说不能使用情感图像，而是说使用时要有背景、证据和尊重。",
+        D: "D不对。Mrs Grey提供了重要修正，但文章并不是说所有决定都应由老年人来做。"
+      }
+    }
+  ]
 }
 ];
