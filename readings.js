@@ -6620,5 +6620,429 @@ At the end of the day, Lena was relieved, though not exactly pleased with hersel
       }
     }
   ]
+},
+{
+  date: "2026-08-12",
+  title: "The Programme That Changed Its Headline",
+  level: "FCE / B2",
+
+  vocabulary: [
+    {
+      word: "channel",
+      partOfSpeech: "n.",
+      meaning: "电视台；频道；途径；通道",
+      example: "A local channel invited the students to make a short programme."
+    },
+    {
+      word: "invasion",
+      partOfSpeech: "n.",
+      meaning: "入侵；涌入；侵犯；干扰",
+      example: "Residents disliked the sudden invasion of cameras and visitors."
+    },
+    {
+      word: "facility",
+      partOfSpeech: "n.",
+      meaning: "设施；设备；功能",
+      example: "The town's sports facility had been damaged by the storm."
+    },
+    {
+      word: "social",
+      partOfSpeech: "adj.",
+      meaning: "社会的；社交的",
+      example: "The students wanted to show the social side of travel."
+    },
+    {
+      word: "worrying",
+      partOfSpeech: "adj.",
+      meaning: "令人担忧的",
+      example: "The amount of litter on the beach was worrying."
+    },
+    {
+      word: "litter",
+      partOfSpeech: "n. / v.",
+      meaning: "垃圾；杂物；乱扔垃圾",
+      example: "Tourists had left litter near the old harbour."
+    },
+    {
+      word: "pollute",
+      partOfSpeech: "v.",
+      meaning: "污染；弄脏",
+      example: "Plastic bottles can pollute the sea."
+    },
+    {
+      word: "sensitive",
+      partOfSpeech: "adj.",
+      meaning: "敏感的；体恤的；易受影响的",
+      example: "The topic was sensitive because many families depended on tourism."
+    },
+    {
+      word: "get away",
+      partOfSpeech: "phrase",
+      meaning: "离开；逃脱；外出度假",
+      example: "Nina wanted to get away from the city for a few days."
+    },
+    {
+      word: "headline",
+      partOfSpeech: "n.",
+      meaning: "标题；新闻摘要",
+      example: "The original headline made the town sound like a disaster."
+    },
+    {
+      word: "admire",
+      partOfSpeech: "v.",
+      meaning: "钦佩；欣赏",
+      example: "Nina began to admire the residents' patience."
+    },
+    {
+      word: "up-to-date",
+      partOfSpeech: "adj.",
+      meaning: "最新的；现代化的",
+      example: "The team needed up-to-date information before filming."
+    },
+    {
+      word: "backpacking",
+      partOfSpeech: "n.",
+      meaning: "背包旅行",
+      example: "The programme was first planned as a guide to budget backpacking."
+    },
+    {
+      word: "infection",
+      partOfSpeech: "n.",
+      meaning: "感染；传染病",
+      example: "A small cut could become an infection if it was not cleaned."
+    },
+    {
+      word: "rush",
+      partOfSpeech: "n. / v.",
+      meaning: "匆忙；急速行进；猛冲",
+      example: "The students made mistakes because they were in a rush."
+    },
+    {
+      word: "budget",
+      partOfSpeech: "n. / adj.",
+      meaning: "预算；廉价的；节省开支",
+      example: "Their budget was too small for luxury hotels."
+    },
+    {
+      word: "by accident",
+      partOfSpeech: "phrase",
+      meaning: "偶然；意外地",
+      example: "Nina found the old notebook by accident."
+    },
+    {
+      word: "express",
+      partOfSpeech: "v. / adj. / n.",
+      meaning: "表达；特快的；快递服务",
+      example: "The residents wanted to express a different view of the town."
+    },
+    {
+      word: "snowboarding",
+      partOfSpeech: "n.",
+      meaning: "单板滑雪",
+      example: "The original series had included an episode about snowboarding."
+    },
+    {
+      word: "programme",
+      partOfSpeech: "n.",
+      meaning: "节目；方案；计划",
+      example: "The students produced a programme for young travellers."
+    },
+    {
+      word: "luxury",
+      partOfSpeech: "n.",
+      meaning: "奢侈；豪华；奢侈品",
+      example: "The project was about travel without luxury."
+    },
+    {
+      word: "hurricane",
+      partOfSpeech: "n.",
+      meaning: "飓风；猛烈的东西",
+      example: "A hurricane had damaged part of the coast the previous year."
+    },
+    {
+      word: "cost of living",
+      partOfSpeech: "phrase",
+      meaning: "生活费用",
+      example: "The rising cost of living affected both tourists and residents."
+    },
+    {
+      word: "mathematics",
+      partOfSpeech: "n.",
+      meaning: "数学；运算；计算",
+      example: "Leo used mathematics to compare travel costs."
+    },
+    {
+      word: "entertainment",
+      partOfSpeech: "n.",
+      meaning: "娱乐；娱乐节目；招待",
+      example: "The channel wanted more entertainment and fewer serious interviews."
+    },
+    {
+      word: "lifestyle",
+      partOfSpeech: "n.",
+      meaning: "生活方式",
+      example: "The final film questioned what a cheap travel lifestyle really meant."
+    },
+    {
+      word: "cast",
+      partOfSpeech: "n. / v.",
+      meaning: "演员表；角色分配；投射；选派演员",
+      example: "The students joked that the town itself had become the main cast."
+    },
+    {
+      word: "public transport",
+      partOfSpeech: "phrase",
+      meaning: "公共交通",
+      example: "They agreed to travel only by public transport."
+    },
+    {
+      word: "diving",
+      partOfSpeech: "n.",
+      meaning: "潜水；跳水",
+      example: "A diving club had lost equipment in the storm."
+    },
+    {
+      word: "chore",
+      partOfSpeech: "n.",
+      meaning: "家务活；杂事；事务",
+      example: "Cleaning the beach sounded like a chore, but it changed the story."
+    },
+    {
+      word: "congratulate",
+      partOfSpeech: "v.",
+      meaning: "祝贺；道贺",
+      example: "The teacher congratulated the team on changing direction."
+    },
+    {
+      word: "musical",
+      partOfSpeech: "adj. / n.",
+      meaning: "音乐的；悦耳的；音乐剧",
+      example: "The closing scene used a musical performance by local children."
+    },
+    {
+      word: "undergraduate",
+      partOfSpeech: "n.",
+      meaning: "本科生",
+      example: "One undergraduate helped them check the facts."
+    },
+    {
+      word: "urban",
+      partOfSpeech: "adj.",
+      meaning: "城市的；都市的",
+      example: "The students brought urban ideas about travel to a small coastal town."
+    },
+    {
+      word: "standard of living",
+      partOfSpeech: "phrase",
+      meaning: "生活水平",
+      example: "Tourism had raised the standard of living for some families."
+    },
+    {
+      word: "threaten",
+      partOfSpeech: "v.",
+      meaning: "威胁；危及；预示可能发生",
+      example: "Bad publicity could threaten the town's recovery."
+    },
+    {
+      word: "rob",
+      partOfSpeech: "v.",
+      meaning: "抢劫；掠夺；盗取",
+      example: "Someone wrongly suggested that a visitor had tried to rob the café."
+    },
+    {
+      word: "literature",
+      partOfSpeech: "n.",
+      meaning: "文学；文献；资料",
+      example: "The library displayed literature about the town's history."
+    },
+    {
+      word: "furious",
+      partOfSpeech: "adj.",
+      meaning: "狂怒的；暴怒的",
+      example: "The café owner was furious about the false rumour."
+    },
+    {
+      word: "cottage",
+      partOfSpeech: "n.",
+      meaning: "小屋；村舍",
+      example: "The students stayed in a small cottage near the harbour."
+    }
+  ],
+
+  passage: `
+The following article was written by Nina Ward for a school media project.
+
+When Channel 8 invited our class to produce one episode of Young Routes, we thought we understood the assignment. The series was meant to help teenagers travel cheaply and responsibly. Earlier episodes had covered snowboarding on a budget, backpacking between small towns and using public transport instead of flying. Our episode would be about getting away to the coast without spending money on luxury.
+
+That was the idea, at least.
+
+Four of us were chosen as the student team. Leo, who loved mathematics, worked out travel costs. Amira, an undergraduate volunteer from the media college, checked that our information was up-to-date. Sam filmed. I wrote the script. The channel gave us a simple instruction: make it useful, but keep it light. In other words, they wanted information, but also entertainment.
+
+We chose Port Bell, a coastal town three hours from the city. It had a cheap campsite, a youth facility near the harbour and a row of painted cottages that looked perfect on camera. A year earlier, however, a hurricane had damaged the beach path, the diving club and several cafés. Tourism had helped the town's standard of living in the past, but it had also brought litter, noise and a seasonal invasion of visitors. The issue was sensitive.
+
+At first, we ignored the sensitive part.
+
+Our opening headline was: “A Perfect Budget Escape”. We filmed ourselves arriving by express bus, laughing as we struggled with our bags, and trying a salad from the market. We calculated that the whole trip could cost less than a day at an urban theme park. It was efficient, cheerful and almost completely useless.
+
+The first sign came from Mrs Carter, who ran a café near the harbour. She watched us film outside her door and asked whether we planned to show the bins overflowing behind the car park.
+
+“We're focusing on travel tips,” Sam said.
+
+Mrs Carter’s face hardened. “Travel tips for whom?”
+
+I thought she was being unfair. We were adolescents making a school programme, not politicians. But later that afternoon, I came across an old notebook by accident in the town library. It was part of a literature display about Port Bell after the hurricane. Local teenagers had written short pieces about the months after the storm: the rush for clean water, the fear of infection from broken drains, and the boring chores of carrying wood, cleaning sand and sorting donations.
+
+One line stayed with me: “Visitors admire the sea, but they rarely ask what it took not to leave.”
+
+That sentence made our film look embarrassingly thin.
+
+The next morning, we changed our plan. Instead of presenting Port Bell as an easy escape, we asked residents what young travellers should know before arriving. Mrs Carter was still furious about our first attitude, but she agreed to speak. She explained that she did not hate tourists. In fact, tourism paid wages and kept cafés open. But visitors who treated the town as a cheap background for social media could pollute the beach, block public transport and threaten the recovery local people had worked for.
+
+Then came the bag incident.
+
+During filming, a customer shouted that his wallet had disappeared. Someone said he had been robbed. The word moved through the café at once, and two people glanced at a group of local boys near the door. Mrs Carter stopped everyone. “No one accuses anyone until we check,” she said.
+
+The wallet was found five minutes later under a chair. It had fallen when the customer took off his backpack. No one had tried to rob him. The accusation had arrived faster than the proof.
+
+We kept that scene in the programme, though Channel 8 first asked us to cut it. They said it was too serious for a travel episode. Amira disagreed. “If the programme is about responsible travel,” she said, “then this is exactly the point.”
+
+Our final episode had a different cast from the one we expected. Port Bell itself became the main character: not a perfect holiday picture, but a place where people were still rebuilding. We included a musical performance by children at the harbour facility, a beach clean-up that felt less like a chore once residents joined us, and a short interview with the diving instructor whose equipment had been lost in the hurricane.
+
+At the end, we changed the headline to: “Before You Get Away, Look Around.”
+
+Our teacher congratulated us, although she admitted the episode was less funny than Channel 8 had hoped. I did not mind. The programme still gave budget advice, but it no longer pretended that cheap travel was only about saving money. It was also about noticing whose home you were entering, what damage you might add, and whether your lifestyle depends on other people doing the work you never see.
+`,
+
+  translation: `
+以下文章是尼娜·沃德为学校媒体项目写的一篇稿件。
+
+当第8频道邀请我们班制作一期《年轻路线》节目时，我们以为自己很清楚这个任务。这个系列节目旨在帮助青少年以便宜而负责任的方式旅行。之前几期讲过如何用较低预算去单板滑雪，如何在小城之间背包旅行，以及如何使用公共交通而不是坐飞机。我们这一期要讲的是：怎样不花钱享受奢华，也能去海边度假。
+
+至少，最初的想法是这样。
+
+我们四个人被选为学生小组。喜欢数学的利奥负责计算旅行费用。来自媒体学院的本科生志愿者阿米拉负责检查我们的信息是否最新。萨姆负责拍摄。我负责写脚本。电视台给了我们一个简单要求：内容要有用，但风格要轻松。换句话说，他们既想要信息，也想要娱乐性。
+
+我们选择了波特贝尔，一座距离城市三小时车程的海滨小镇。那里有便宜的营地，港口附近有一处青年设施，还有一排彩色小屋，在镜头里看起来很完美。然而，一年前，一场飓风损坏了海滩小路、潜水俱乐部和几家咖啡馆。过去，旅游业确实提高了小镇一些家庭的生活水平，但它也带来了垃圾、噪音和季节性的游客涌入。这个问题很敏感。
+
+一开始，我们忽略了敏感的部分。
+
+我们的开场标题是：“一次完美的低预算逃离”。我们拍了自己乘特快大巴到达、背着包手忙脚乱大笑、在市场上尝试沙拉的镜头。我们计算出，整趟旅行花费可能比在城市主题公园玩一天还少。它高效、愉快，而且几乎完全没用。
+
+第一个提醒来自卡特夫人。她在港口附近经营一家咖啡馆。她看着我们在门外拍摄，问我们是否打算拍一下停车场后面那些装满垃圾的垃圾桶。
+
+“我们主要关注旅行建议。”萨姆说。
+
+卡特夫人的脸沉了下来。“给谁的旅行建议？”
+
+我当时觉得她有点不公平。我们只是做学校节目的青少年，又不是政治家。但那天下午晚些时候，我在镇图书馆偶然看到一本旧笔记本。它是关于飓风后波特贝尔的文学资料展的一部分。本地青少年曾在里面写下风暴之后几个月的经历：抢水、担心破损排水系统导致感染，以及搬木头、清沙子、整理捐赠物资这些乏味的杂事。
+
+其中一句话让我一直忘不了：“游客欣赏大海，却很少问我们为了不离开这里付出了什么。”
+
+这句话让我意识到，我们的影片显得尴尬地单薄。
+
+第二天早上，我们改变了计划。我们不再把波特贝尔呈现成一次轻松逃离，而是询问当地居民：年轻游客来之前应该知道什么。卡特夫人仍然对我们最初的态度很愤怒，但她同意接受采访。她解释说，自己并不讨厌游客。事实上，旅游业支付工资，也让咖啡馆能够继续经营。但如果游客只把小镇当成社交媒体上的廉价背景，他们就可能污染海滩、堵塞公共交通，并威胁到当地人努力实现的恢复。
+
+接着，包的事件发生了。
+
+拍摄过程中，一名顾客喊道，自己的钱包不见了。有人说他被抢了。“抢劫”这个词立刻在咖啡馆里传开，两个人看向门口附近的一群本地男孩。卡特夫人制止了所有人。“没有查清之前，不许指责任何人。”她说。
+
+五分钟后，钱包在椅子下面找到了。它是在那名顾客取下背包时掉下去的。没有人抢他。指责比证据来得更快。
+
+我们把这一幕保留在节目里，虽然第8频道一开始要求我们删掉。他们说这对一集旅行节目来说太严肃了。阿米拉不同意。“如果这个节目讲的是负责任的旅行，”她说，“那这正是重点。”
+
+我们最终的节目拥有了和预想不同的“演员表”。波特贝尔本身成了主角：它不是一张完美的度假照片，而是一个仍在重建的地方。我们加入了孩子们在港口设施里的音乐表演，一场海滩清洁活动。起初，那只是杂事，但当居民们加入之后，它就不再像杂事了。我们还采访了那位在飓风中丢失设备的潜水教练。
+
+最后，我们把标题改成：“在你离开之前，请先看看周围。”
+
+老师祝贺了我们，虽然她承认，这一集没有第8频道希望的那么好笑。我并不介意。这个节目仍然提供了预算旅行建议，但它不再假装低成本旅行只关乎省钱。它也关乎注意到你正在进入谁的家，你可能增加什么伤害，以及你的生活方式是否依赖于别人做那些你从未看见的工作。
+`,
+
+  questions: [
+    {
+      question: "In the first four paragraphs, what contrast does the writer mainly set up?",
+      options: {
+        A: "The students' wish to make an entertaining travel guide and the town's more complicated reality.",
+        B: "The channel's interest in public transport and the students' preference for luxury travel.",
+        C: "The attractions of urban holidays and the disadvantages of backpacking.",
+        D: "The cost of visiting Port Bell and the cost of producing a television programme."
+      },
+      answer: "A",
+      explanation: {
+        correct: "A是正确答案。这道题模仿 FCE Part 5 的 opening function / contrast 题。前几段表面上是轻松旅行节目，但很快引出飓风、垃圾、旅游入侵和地方恢复等复杂现实。",
+        A: "A对。学生想做轻松、有娱乐性的旅行节目，但Port Bell并不只是廉价度假背景。",
+        B: "B不对。学生并不偏好luxury travel，节目本身就是budget travel。",
+        C: "C不对。文章没有主要比较城市旅行和背包旅行的优劣。",
+        D: "D不对。预算计算出现了，但不是开头建立的主要对比。"
+      }
+    },
+    {
+      question: "Which sentence best fits the meaning of the paragraph after Mrs Carter asks, “Travel tips for whom?”",
+      options: {
+        A: "It makes Nina realise that advice can look useful while ignoring the people most affected by it.",
+        B: "It proves that Mrs Carter is against all visitors coming to Port Bell.",
+        C: "It shows that the students need to make the programme more humorous.",
+        D: "It suggests that travel programmes should avoid giving practical information."
+      },
+      answer: "A",
+      explanation: {
+        correct: "A是正确答案。这道题接近 FCE Part 6 的句子功能题。Mrs Carter的问题不是反对旅行建议本身，而是逼学生思考：这些建议到底服务谁，是否忽略了当地居民。",
+        A: "A对。这个句子准确概括了该段的逻辑功能。",
+        B: "B不对。她后来明确说自己并不讨厌游客。",
+        C: "C不对。问题不是节目不够幽默，而是视角太单一。",
+        D: "D不对。最终节目仍然提供budget advice，只是加入了责任意识。"
+      }
+    },
+    {
+      question: "What is the effect of the notebook sentence, “Visitors admire the sea, but they rarely ask what it took not to leave”?",
+      options: {
+        A: "It gives Nina evidence that residents see tourism only as an invasion.",
+        B: "It forces Nina to see recovery work that her original film had left invisible.",
+        C: "It persuades Nina that Port Bell is too depressing for a travel programme.",
+        D: "It makes Nina decide to focus only on literature instead of filming."
+      },
+      answer: "B",
+      explanation: {
+        correct: "B是正确答案。这道题考 inference + textual effect。那句话使Nina意识到游客只看到海景，却看不到居民留下来、重建生活所付出的劳动。",
+        A: "A有迷惑性。居民确实担心旅游入侵，但并不是只把旅游看成invasion。",
+        B: "B对。它改变了Nina对影片的理解，让她看见原来被隐藏的恢复劳动。",
+        C: "C不对。Nina没有放弃旅行节目，而是让节目变得更完整。",
+        D: "D不对。literature display只是她获得认识转变的材料来源，不是最终主题。"
+      }
+    },
+    {
+      question: "Why is the wallet incident included in the programme?",
+      options: {
+        A: "It adds drama to make the episode more entertaining for the channel.",
+        B: "It shows how quickly visitors may suspect local people without proof.",
+        C: "It proves that Port Bell has become dangerous since the hurricane.",
+        D: "It allows the students to warn tourists not to carry backpacks."
+      },
+      answer: "B",
+      explanation: {
+        correct: "B是正确答案。这道题考事件作用。钱包事件不是为了增加戏剧性，而是说明在旅游关系中，外来者的怀疑可能很快落到本地人身上，甚至早于证据出现。",
+        A: "A不对。Channel 8觉得这段太严肃，想删掉，并不是因为它适合娱乐效果。",
+        B: "B对。accusation arrived faster than proof 是这段的核心。",
+        C: "C不对。最后证明没有抢劫，不能说明小镇危险。",
+        D: "D不对。背包只是钱包掉落的原因之一，不是节目要给出的旅游安全建议。"
+      }
+    },
+    {
+      question: "Which option best matches the final message of the article?",
+      options: {
+        A: "Budget travel is valuable only when it avoids places damaged by storms.",
+        B: "Responsible travel means saving money while also noticing the lives behind a destination.",
+        C: "Entertainment programmes should remove serious scenes to keep viewers relaxed.",
+        D: "Young travellers should depend on television channels to choose their lifestyle."
+      },
+      answer: "B",
+      explanation: {
+        correct: "B是正确答案。这道题是 FCE Part 5 常见的 global meaning 题。文章最后明确指出，低成本旅行不只是省钱，还要注意自己进入的是别人的家园、可能造成什么影响，以及自己看不见的劳动。",
+        A: "A不对。文章没有说应避开受灾地区，而是说要更负责任地进入这些地方。",
+        B: "B对。这个选项准确概括了全文主旨。",
+        C: "C不对。学生正是保留了严肃场景，才让节目更真实。",
+        D: "D不对。文章没有说年轻人应依赖电视台选择生活方式，反而表现学生修正电视台娱乐化要求。"
+      }
+    }
+  ]
 }
 ];
