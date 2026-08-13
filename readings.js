@@ -7044,5 +7044,411 @@ Our teacher congratulated us, although she admitted the episode was less funny t
       }
     }
   ]
+},
+{
+  date: "2026-08-13",
+  title: "The Club That Almost Closed",
+  level: "FCE / B2",
+
+  vocabulary: [
+    {
+      word: "scared",
+      partOfSpeech: "adj.",
+      meaning: "害怕的；担心的",
+      example: "Jonas was scared that the club would close."
+    },
+    {
+      word: "amazed",
+      partOfSpeech: "adj.",
+      meaning: "大为惊奇的",
+      example: "The students were amazed by how many people came."
+    },
+    {
+      word: "ambitious",
+      partOfSpeech: "adj.",
+      meaning: "有雄心的；费力的",
+      example: "Their plan was ambitious for such a small club."
+    },
+    {
+      word: "draw",
+      partOfSpeech: "v. / n.",
+      meaning: "画；拉；吸引；推断；平局",
+      example: "Mia used bright posters to draw attention."
+    },
+    {
+      word: "pet",
+      partOfSpeech: "n.",
+      meaning: "宠物",
+      example: "A local pet shelter joined the open day."
+    },
+    {
+      word: "grow out of",
+      partOfSpeech: "phrase",
+      meaning: "因长大而不再适合；产生于",
+      example: "Jonas thought he had grown out of the club."
+    },
+    {
+      word: "club",
+      partOfSpeech: "n.",
+      meaning: "俱乐部；社团",
+      example: "The Green Skills Club met every Friday."
+    },
+    {
+      word: "ability",
+      partOfSpeech: "n.",
+      meaning: "能力；才能",
+      example: "Sara had the ability to calm people down."
+    },
+    {
+      word: "employee",
+      partOfSpeech: "n.",
+      meaning: "雇员；员工",
+      example: "An employee from the garden centre gave advice."
+    },
+    {
+      word: "punish",
+      partOfSpeech: "v.",
+      meaning: "惩罚；处罚",
+      example: "The teacher did not want to punish anyone without checking the facts."
+    },
+    {
+      word: "significant",
+      partOfSpeech: "adj.",
+      meaning: "重要的；意义重大的；显著的",
+      example: "The missing receipt became more significant than anyone expected."
+    },
+    {
+      word: "sugar",
+      partOfSpeech: "n.",
+      meaning: "糖",
+      example: "The cake had less sugar than usual."
+    },
+    {
+      word: "messy",
+      partOfSpeech: "adj.",
+      meaning: "凌乱的；难以应付的",
+      example: "The preparation became messy after the rain started."
+    },
+    {
+      word: "receipt",
+      partOfSpeech: "n.",
+      meaning: "收据",
+      example: "Jonas could not find the receipt for the donated plants."
+    },
+    {
+      word: "warn",
+      partOfSpeech: "v.",
+      meaning: "警告；提醒",
+      example: "The nurse warned students not to touch broken glass."
+    },
+    {
+      word: "injection",
+      partOfSpeech: "n.",
+      meaning: "注射；投入",
+      example: "The club needed an injection of money and new ideas."
+    },
+    {
+      word: "tip",
+      partOfSpeech: "n.",
+      meaning: "建议；小费；顶端",
+      example: "The gardener gave them a useful tip about watering herbs."
+    },
+    {
+      word: "keyword",
+      partOfSpeech: "n.",
+      meaning: "关键词；主题词",
+      example: "The keyword on the poster was sustainable."
+    },
+    {
+      word: "support",
+      partOfSpeech: "v. / n.",
+      meaning: "支持；帮助；证实",
+      example: "Local families came to support the open day."
+    },
+    {
+      word: "sustainable",
+      partOfSpeech: "adj.",
+      meaning: "可持续的；不破坏环境的",
+      example: "The club promoted sustainable habits."
+    },
+    {
+      word: "all of a sudden",
+      partOfSpeech: "phrase",
+      meaning: "突然",
+      example: "All of a sudden, the lights went out."
+    },
+    {
+      word: "checked",
+      partOfSpeech: "adj. / v.",
+      meaning: "有方格图案的；检查过的",
+      example: "Sara wore a checked shirt on the open day."
+    },
+    {
+      word: "require",
+      partOfSpeech: "v.",
+      meaning: "需要；要求",
+      example: "The school rules required clear records of all donations."
+    },
+    {
+      word: "cap",
+      partOfSpeech: "n.",
+      meaning: "帽子；盖子；上限",
+      example: "Jonas wore a blue cap while carrying boxes."
+    },
+    {
+      word: "pop",
+      partOfSpeech: "v. / n.",
+      meaning: "突然出现；砰地响；流行音乐；汽水",
+      example: "A balloon popped during the speech."
+    },
+    {
+      word: "hand luggage",
+      partOfSpeech: "n.",
+      meaning: "手提行李",
+      example: "A visitor used an old hand luggage case to carry seedlings."
+    },
+    {
+      word: "housework",
+      partOfSpeech: "n.",
+      meaning: "家务劳动",
+      example: "The club argued that recycling should not feel like extra housework."
+    },
+    {
+      word: "cake",
+      partOfSpeech: "n.",
+      meaning: "蛋糕",
+      example: "Parents brought cake for the visitors."
+    },
+    {
+      word: "terrifying",
+      partOfSpeech: "adj.",
+      meaning: "可怕的；令人害怕的",
+      example: "The noise from the falling shelf was terrifying."
+    },
+    {
+      word: "reserve",
+      partOfSpeech: "v. / n.",
+      meaning: "预订；保留；储备",
+      example: "They had reserved a table for the seed exchange."
+    },
+    {
+      word: "thermometer",
+      partOfSpeech: "n.",
+      meaning: "温度计",
+      example: "A thermometer showed that the greenhouse was too hot."
+    },
+    {
+      word: "browse",
+      partOfSpeech: "v.",
+      meaning: "浏览；随便看看",
+      example: "Visitors could browse the plant labels before choosing seeds."
+    },
+    {
+      word: "donate",
+      partOfSpeech: "v.",
+      meaning: "捐赠；赠送",
+      example: "The garden centre agreed to donate herbs."
+    },
+    {
+      word: "breeze",
+      partOfSpeech: "n.",
+      meaning: "微风；轻而易举的事",
+      example: "A cool breeze came through the open door."
+    },
+    {
+      word: "prefer",
+      partOfSpeech: "v.",
+      meaning: "更喜欢；偏好",
+      example: "Some students preferred a simple workshop to a large event."
+    },
+    {
+      word: "approve",
+      partOfSpeech: "v.",
+      meaning: "赞同；批准",
+      example: "The head teacher had to approve the new plan."
+    },
+    {
+      word: "impressive",
+      partOfSpeech: "adj.",
+      meaning: "令人印象深刻的",
+      example: "The final display was simple but impressive."
+    },
+    {
+      word: "in favour of",
+      partOfSpeech: "phrase",
+      meaning: "赞同；支持",
+      example: "Most students were in favour of keeping the club open."
+    },
+    {
+      word: "training",
+      partOfSpeech: "n.",
+      meaning: "训练；培训",
+      example: "The volunteers received basic safety training."
+    }
+  ],
+
+  passage: `
+Jonas had planned to leave the Green Skills Club quietly at the end of term. He had joined it when he was twelve, back when planting beans in old yoghurt pots seemed exciting. Now he was fifteen, and he felt he had grown out of it. Other students were joining sports teams, music groups or business competitions. The club, with its messy cupboard of seeds, broken tools and faded posters, seemed childish.
+
+Then the school announced that the club might close.
+
+The reason was not dramatic. The school needed the room for exam training sessions, and the head teacher said any club that wanted to keep its space had to prove it still served a significant purpose. Jonas was not surprised. He was almost relieved, until Sara, the club's youngest member, asked him to help save it.
+
+Sara was thirteen, wore a checked shirt almost every Friday, and had an unusual ability to make adults listen. She was ambitious in a quiet way. Her idea was to hold an open day called Sustainable Saturday, where visitors could browse seed boxes, learn simple recycling tips, donate unused tools and see how small habits could reduce waste at home. The keyword, she said, should be practical.
+
+Jonas wanted to warn her that practical did not always draw a crowd. People liked impressive events, not advice that sounded like extra housework. But Sara had already asked the head teacher to approve the plan, and several students were in favour of trying. Jonas agreed to help, though mostly because he felt guilty.
+
+Preparation was more complicated than Sara expected. The garden centre promised to donate herbs, but the school rules required a receipt for everything that entered the building. A biology teacher lent them a thermometer for the greenhouse. A nurse gave safety training and warned them not to let children touch broken pots. Parents offered cake, including one made with less sugar. Someone reserved a table for a local pet shelter, which planned to show how old towels and boxes could be reused.
+
+By Friday afternoon, the club room looked almost alive again. Jonas, wearing a blue cap, carried trays of plants from the car park. Sara checked the labels. A garden centre employee explained how to keep herbs alive through winter. For the first time in months, Jonas wondered whether leaving the club might not be as easy as he had thought.
+
+Then the receipt disappeared.
+
+It was the receipt for the donated herbs. Without it, the school could not officially record the donation. The employee insisted she had handed it to Jonas. Jonas searched his pockets, the seed boxes and even an old hand luggage case used to store gloves. Nothing.
+
+All of a sudden, a shelf near the window collapsed. A balloon popped, children screamed, and several clay pots crashed onto the floor. The sound was terrifying, though nobody was hurt. Soil covered the table, water ran under the chairs, and the missing receipt became even more serious. A teacher said they might have to cancel the open day for safety reasons.
+
+Sara looked scared but did not panic. She asked everyone to stop moving until the glass had been swept away. Then she checked the shelf. It had not been fixed properly after being moved the previous week. "So we do not punish anyone," she said. "We fix the shelf and write down what happened."
+
+Jonas stared at her. He had expected tears, or anger, or at least blame. Instead, she sounded like someone much older.
+
+The receipt turned up by accident twenty minutes later. It had stuck to the bottom of a cake box, where a little butter had held it in place. The discovery was so silly that everyone laughed, even the employee. A breeze came through the open door, and the room suddenly felt less like a disaster.
+
+The next day was not perfect. Some visitors preferred to browse quietly rather than join the workshops. One child asked whether the club was mainly about making adults do more housework. A few older students came only for cake. But the herb table was busy, the pet shelter collected three bags of towels, and parents asked for tips they could actually use.
+
+At the end of the open day, the head teacher did not congratulate them with a long speech. She simply said that the club could keep the room if it shared it with the exam group twice a week. It was a compromise, but it was enough.
+
+Jonas stayed after everyone had gone. The room was still messy, but it no longer looked childish. It looked used. He realised that he had mistaken quiet usefulness for failure. The club did not need to be impressive in the way a competition was impressive. It needed to support people who wanted to begin with small things and continue long enough for them to matter.
+
+When Sara asked whether he was still leaving, Jonas looked at the seed boxes and shook his head.
+
+"Not yet," he said. "I think I still have something to learn here."
+`,
+
+  translation: `
+乔纳斯原本打算在学期结束时悄悄离开“绿色技能社”。他十二岁时加入了这个社团，那时候，用旧酸奶盒种豆子对他来说还很有趣。现在他十五岁了，觉得自己已经长大，不再适合这样的活动。其他同学都在参加运动队、音乐社团或商业竞赛。而这个社团，只有一柜子乱糟糟的种子、坏工具和褪色海报，看起来很幼稚。
+
+然后，学校宣布这个社团可能要关闭。
+
+原因并不戏剧化。学校需要把这间教室用于考试培训，校长说，任何想保留活动空间的社团，都必须证明自己仍然具有重要意义。乔纳斯并不惊讶。他甚至几乎松了一口气，直到社团里年龄最小的成员萨拉请他帮忙挽救社团。
+
+萨拉十三岁，几乎每个星期五都穿一件格子衬衫，而且有一种少见的能力：她能让成年人认真听她说话。她有一种安静的雄心。她的想法是举办一个名为“可持续星期六”的开放日，让参观者浏览种子盒，学习简单的回收小窍门，捐赠不用的工具，并看看一些小习惯如何减少家庭浪费。她说，关键词应该是“实用”。
+
+乔纳斯想提醒她，实用的东西并不总能吸引人。人们喜欢令人印象深刻的活动，而不是听起来像额外家务的建议。但萨拉已经请校长批准这个计划，而且几个学生也支持尝试一下。乔纳斯同意帮忙，不过主要是因为他有些内疚。
+
+准备工作比萨拉预想的复杂得多。园艺中心答应捐赠香草植物，但学校规定，进入校内的所有捐赠物品都必须有收据。生物老师借给他们一个温度计，用来测温室温度。护士进行了安全培训，并提醒他们不要让孩子碰破花盆。家长们提供了蛋糕，其中有一个糖分较少。有人为本地宠物收容所预留了一张桌子，收容所计划展示旧毛巾和纸箱如何被重新利用。
+
+到星期五下午，社团教室看起来几乎重新有了生气。乔纳斯戴着蓝色帽子，从停车场搬来一盘盘植物。萨拉检查标签。园艺中心的一名员工解释如何让香草安全过冬。几个月以来，乔纳斯第一次开始怀疑，离开这个社团也许没有自己想象的那么容易。
+
+然后，收据不见了。
+
+那是捐赠香草植物的收据。没有它，学校就无法正式记录这笔捐赠。那名员工坚持说自己已经把收据交给了乔纳斯。乔纳斯翻了自己的口袋、种子盒，甚至翻了用来装手套的旧手提行李箱。什么都没有。
+
+突然，窗边的一个架子塌了。一个气球“砰”地爆了，孩子们尖叫起来，几个陶土花盆摔到地上。声音很吓人，不过没有人受伤。泥土铺满桌面，水流到椅子下面，而那张不见的收据显得更加重要了。一位老师说，出于安全考虑，他们可能不得不取消开放日。
+
+萨拉看起来很害怕，但没有慌乱。她让所有人先别动，等玻璃碎片清理干净。然后她检查了架子。这个架子上周被移动后并没有固定好。她说：“所以我们不惩罚任何人。我们修好架子，把发生的事记录下来。”
+
+乔纳斯盯着她。他原以为她会哭，会生气，至少会责怪别人。但她听起来像一个成熟得多的人。
+
+二十分钟后，那张收据偶然出现了。它粘在一个蛋糕盒底部，一点黄油把它粘住了。这个发现太滑稽了，大家都笑了，连那名员工也笑了。一阵微风从敞开的门吹进来，房间突然不再像灾难现场了。
+
+第二天并不完美。有些参观者更喜欢自己安静浏览，而不是参加工作坊。一个孩子问，这个社团是不是主要就是让成年人做更多家务。几个高年级学生只是为了蛋糕而来。但香草桌很忙，宠物收容所收到了三袋毛巾，家长们也询问了他们真正能使用的小窍门。
+
+开放日结束时，校长没有发表长篇祝贺讲话。她只是说，如果社团每周把教室和考试小组共享两次，就可以继续保留这间教室。这是一个折中方案，但已经足够了。
+
+所有人离开后，乔纳斯留了下来。房间仍然凌乱，但它不再显得幼稚。它看起来像是一个真正被使用的地方。他意识到，自己之前把安静的有用误认为失败。这个社团不需要像比赛那样令人印象深刻。它需要支持那些愿意从小事开始，并坚持到这些小事产生意义的人。
+
+当萨拉问他是否仍然要离开时，乔纳斯看着那些种子盒，摇了摇头。
+
+“暂时不走了，”他说，“我觉得我在这里还有东西要学。”
+`,
+
+  questions: [
+    {
+      question: "What is Jonas’s attitude to the Green Skills Club at the beginning of the passage?",
+      options: {
+        A: "He is proud of its long history but worried about its future.",
+        B: "He believes it is useful but too expensive for the school.",
+        C: "He is angry that younger students have changed its purpose.",
+        D: "He feels it no longer suits who he thinks he has become."
+      },
+      answer: "D",
+      explanation: {
+        correct: "D是正确答案。这道题考人物态度。Jonas觉得自己已经grow out of这个社团，认为它幼稚、安静、不如其他活动有吸引力，所以D最准确。",
+        A: "A不对。他一开始并不为社团历史感到骄傲，反而准备离开。",
+        B: "B不对。社团是否昂贵不是他的主要想法。",
+        C: "C不对。他没有因为低年级学生改变社团目的而生气。",
+        D: "D对。这个选项概括了他一开始的自我定位：他觉得自己长大了，不再属于这里。"
+      }
+    },
+    {
+      question: "Why does the writer include so many details about receipts, thermometers, safety training and donated herbs?",
+      options: {
+        A: "To show that even a small practical project requires responsibility and organisation.",
+        B: "To suggest that school rules make meaningful activities impossible.",
+        C: "To prove that adults are more interested in paperwork than students are.",
+        D: "To make the open day seem more impressive than it really is."
+      },
+      answer: "A",
+      explanation: {
+        correct: "A是正确答案。这道题考段落细节作用。这些细节说明，看似普通的开放日并不只是摆摊，而是涉及记录、安全、资源、规则和实际管理。",
+        A: "A对。这些细节让读者看到小项目背后的责任。",
+        B: "B不对。学校规则带来麻烦，但并没有使活动不可能。",
+        C: "C不对。文章没有把成年人写成只关心文书工作的人。",
+        D: "D不对。这些细节恰恰让项目显得真实，而不是浮夸。"
+      }
+    },
+    {
+      question: "What can we infer from Sara’s reaction after the shelf collapses?",
+      options: {
+        A: "She is no longer interested in saving the club.",
+        B: "She believes someone must be punished to satisfy the school.",
+        C: "She understands that solving the problem matters more than blaming someone.",
+        D: "She is mainly worried that the missing receipt will make her look careless."
+      },
+      answer: "C",
+      explanation: {
+        correct: "C是正确答案。这道题考推理。Sara虽然scared，但她先让大家停止移动，检查架子，然后说不惩罚任何人，而是修好并记录。这体现了成熟的责任感。",
+        A: "A不对。她没有放弃社团。",
+        B: "B不对。她明确说we do not punish anyone。",
+        C: "C对。她把重点放在安全、事实和修复上。",
+        D: "D不对。收据很重要，但她此刻最先处理的是安全问题。"
+      }
+    },
+    {
+      question: "What is the effect of the receipt finally being found under the cake box?",
+      options: {
+        A: "It proves that the garden centre employee made a false accusation.",
+        B: "It releases the tension by showing the problem was ordinary rather than dishonest.",
+        C: "It makes the school cancel the event for safety reasons.",
+        D: "It shows that the club should stop accepting donations."
+      },
+      answer: "B",
+      explanation: {
+        correct: "B是正确答案。这道题考事件作用。收据粘在蛋糕盒底部，说明问题不是偷窃或严重失职，而是一次混乱中的小意外，所以大家笑了，气氛缓和。",
+        A: "A不对。employee只是说自己交给了Jonas，并不是恶意指责。",
+        B: "B对。这个发现把紧张局面变成了可以处理的普通错误。",
+        C: "C不对。活动没有取消。",
+        D: "D不对。捐赠仍然是活动的一部分。"
+      }
+    },
+    {
+      question: "Which sentence best expresses what Jonas learns by the end?",
+      options: {
+        A: "A club is successful only when it can compete with bigger school activities.",
+        B: "Growing up means leaving behind quiet and practical interests.",
+        C: "An impressive event matters more than one that people actually use.",
+        D: "Small useful actions can be worth supporting even when they look ordinary."
+      },
+      answer: "D",
+      explanation: {
+        correct: "D是正确答案。这道题考全文主旨。Jonas最后意识到，社团不需要像竞赛那样impressive，它的价值在于支持人们从小事做起，并坚持到这些小事产生意义。",
+        A: "A不对。文章否定了“必须像竞赛一样显眼”这种想法。",
+        B: "B不对。Jonas原本这么想，但最后改变了。",
+        C: "C不对。文章强调实际有用比表面 impressive 更重要。",
+        D: "D对。这个选项准确概括了Jonas最后的认识。"
+      }
+    }
+  ]
 }
 ];
