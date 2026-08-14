@@ -7450,5 +7450,385 @@ When Sara asked whether he was still leaving, Jonas looked at the seed boxes and
       }
     }
   ]
+},
+{
+  date: "2026-08-14",
+  title: "The Festival That Changed Its Route",
+  level: "FCE / B2",
+
+  vocabulary: [
+    {
+      word: "costume",
+      partOfSpeech: "n.",
+      meaning: "服装；戏服；演出服",
+      example: "The students wore historical costumes during the festival."
+    },
+    {
+      word: "hand in",
+      partOfSpeech: "phrase",
+      meaning: "交上；提交",
+      example: "Maya had to hand in the final plan before Friday."
+    },
+    {
+      word: "sore throat",
+      partOfSpeech: "n.",
+      meaning: "嗓子痛",
+      example: "Maya had a sore throat on the morning of the event."
+    },
+    {
+      word: "drought",
+      partOfSpeech: "n.",
+      meaning: "旱灾；干旱",
+      example: "The village had suffered from a long drought."
+    },
+    {
+      word: "restaurant",
+      partOfSpeech: "n.",
+      meaning: "餐馆；餐厅",
+      example: "A small restaurant provided soup for the volunteers."
+    },
+    {
+      word: "anger",
+      partOfSpeech: "n. / v.",
+      meaning: "愤怒；使生气",
+      example: "The sudden change caused anger among some visitors."
+    },
+    {
+      word: "thunderstorm",
+      partOfSpeech: "n.",
+      meaning: "雷暴；雷雨",
+      example: "A thunderstorm was predicted for the afternoon."
+    },
+    {
+      word: "golf",
+      partOfSpeech: "n.",
+      meaning: "高尔夫球运动",
+      example: "The old golf course had once used too much water."
+    },
+    {
+      word: "automatic",
+      partOfSpeech: "adj.",
+      meaning: "自动的",
+      example: "The automatic gate stopped working during the storm."
+    },
+    {
+      word: "innocent",
+      partOfSpeech: "adj.",
+      meaning: "无辜的；清白的；天真的",
+      example: "An innocent volunteer was blamed for the missing key."
+    },
+    {
+      word: "lane",
+      partOfSpeech: "n.",
+      meaning: "小巷；车道；胡同",
+      example: "The festival route passed through a narrow lane."
+    },
+    {
+      word: "achievement",
+      partOfSpeech: "n.",
+      meaning: "成就；成绩；完成",
+      example: "Saving the festival felt like a real achievement."
+    },
+    {
+      word: "record",
+      partOfSpeech: "n. / v.",
+      meaning: "记录；录制；记载",
+      example: "The students recorded interviews with older residents."
+    },
+    {
+      word: "legal",
+      partOfSpeech: "adj.",
+      meaning: "合法的；法律上的",
+      example: "They had to check whether the road closure was legal."
+    },
+    {
+      word: "hiking",
+      partOfSpeech: "n.",
+      meaning: "徒步旅行；远足",
+      example: "The revised route included a short hiking path."
+    },
+    {
+      word: "sniff",
+      partOfSpeech: "v. / n.",
+      meaning: "嗅；闻；抽鼻子",
+      example: "Maya sniffed because her cold had not fully gone."
+    },
+    {
+      word: "historical",
+      partOfSpeech: "adj.",
+      meaning: "历史的；与历史有关的",
+      example: "The festival was designed to present local historical stories."
+    },
+    {
+      word: "physical",
+      partOfSpeech: "adj.",
+      meaning: "身体的；实物的；物理的",
+      example: "The hiking route was too physical for some elderly visitors."
+    },
+    {
+      word: "capable",
+      partOfSpeech: "adj.",
+      meaning: "有能力的；足以胜任的",
+      example: "Maya was more capable than she believed."
+    },
+    {
+      word: "slim",
+      partOfSpeech: "adj.",
+      meaning: "苗条的；纤细的；微小的",
+      example: "There was only a slim chance of keeping the original plan."
+    },
+    {
+      word: "political",
+      partOfSpeech: "adj.",
+      meaning: "政治的；政党的",
+      example: "Some residents thought the water issue had become political."
+    },
+    {
+      word: "injured",
+      partOfSpeech: "adj.",
+      meaning: "受伤的",
+      example: "No one was injured when the display fell."
+    },
+    {
+      word: "make sure",
+      partOfSpeech: "phrase",
+      meaning: "确保；务必；确定",
+      example: "Maya had to make sure every visitor could follow the new route."
+    },
+    {
+      word: "assistant",
+      partOfSpeech: "n.",
+      meaning: "助手；助理",
+      example: "Her assistant checked the signs near the temple."
+    },
+    {
+      word: "temple",
+      partOfSpeech: "n.",
+      meaning: "庙宇；寺院",
+      example: "The oldest temple in the village was part of the tour."
+    },
+    {
+      word: "set out",
+      partOfSpeech: "phrase",
+      meaning: "出发；着手做；陈述；规划",
+      example: "The students set out to create a festival about local memory."
+    },
+    {
+      word: "demanding",
+      partOfSpeech: "adj.",
+      meaning: "要求高的；费力的",
+      example: "The new route was less demanding than the old one."
+    },
+    {
+      word: "advertising",
+      partOfSpeech: "n.",
+      meaning: "广告；广告活动",
+      example: "The advertising made the festival sound easier than it was."
+    },
+    {
+      word: "pollution",
+      partOfSpeech: "n.",
+      meaning: "污染；污染物",
+      example: "The exhibition also explained water pollution."
+    },
+    {
+      word: "modest",
+      partOfSpeech: "adj.",
+      meaning: "谦虚的；适度的；不太大的",
+      example: "The final festival was modest but meaningful."
+    },
+    {
+      word: "in charge",
+      partOfSpeech: "phrase",
+      meaning: "负责；主管",
+      example: "Maya was in charge of the student volunteers."
+    },
+    {
+      word: "predict",
+      partOfSpeech: "v.",
+      meaning: "预测；预言",
+      example: "The weather service predicted a thunderstorm."
+    },
+    {
+      word: "effective",
+      partOfSpeech: "adj.",
+      meaning: "有效的；生效的",
+      example: "The simpler signs were more effective than the colourful posters."
+    },
+    {
+      word: "hedge",
+      partOfSpeech: "n.",
+      meaning: "树篱；围栏；保护手段",
+      example: "A hedge hid the entrance to the old lane."
+    },
+    {
+      word: "press",
+      partOfSpeech: "n. / v.",
+      meaning: "新闻界；报刊；按压；敦促",
+      example: "The local press wanted a dramatic story about failure."
+    },
+    {
+      word: "abolish",
+      partOfSpeech: "v.",
+      meaning: "废除；取消",
+      example: "The council had once planned to abolish the village festival."
+    }
+  ],
+
+  passage: `
+The following report was written for a local student newspaper.
+
+When Maya agreed to be in charge of the Riverwell Heritage Festival, she imagined a pleasant weekend of costumes, music and local stories. The village had held the festival for more than thirty years, but the council had nearly abolished it after visitor numbers fell. This year, a group of students set out to make it feel alive again.
+
+Maya was proud of the idea, though not completely confident. She was capable in class, but public events made her nervous. She had to hand in the final plan by Friday, and the advertising had already promised a "gentle historical walk for everyone". That phrase would later cause more trouble than anyone expected.
+
+The original route began at the old temple, passed through a narrow lane behind a hedge, crossed the dry riverbed and ended at a former golf course that had become a nature area. The plan sounded attractive. It linked local history with the recent drought and explained how the village had changed its use of water. There would also be a small exhibition about pollution, old farming tools and the record of rainfall kept by the school since 1952.
+
+On paper, everything seemed clear. In practice, the walk was more demanding than the poster suggested. The lane was uneven, the riverbed was full of loose stones, and the path beside the golf course was too physical for some elderly visitors. Maya noticed this during a test walk, but by then the leaflets had already been printed. Her assistant, Noah, said there was only a slim chance of changing the route in time.
+
+Then the weather changed everything.
+
+On Saturday morning, Maya woke up with a sore throat and a cold. She kept sniffing during the volunteer meeting and sounded less confident than she felt. By midday, the sky had turned dark, and the weather service predicted a thunderstorm. Soon afterwards, the automatic gate beside the old lane stopped working, trapping two boxes of costumes and a speaker system behind it.
+
+The first visitors were already arriving. Some wore historical hats. A restaurant owner brought soup for the volunteers. A reporter from the local press came looking for a cheerful story, though Maya suspected he would prefer a disaster. When people discovered that the original route might be closed, anger spread quickly. One man claimed the students had misled the public. Another said the festival was becoming political because the drought display criticised wasteful water use.
+
+In the middle of this, a volunteer called Ella was blamed for losing the gate key. She looked close to tears. Maya wanted to solve the problem fast, but Noah quietly reminded her to check before accusing anyone. They searched the sign-in table and found the key in a plastic box under the raincoats. Ella was innocent; she had placed it there earlier to keep it dry.
+
+That small mistake changed Maya's mood. She realised that everyone was in a rush to find someone to blame, including herself. The real problem was not one missing key. It was that the festival had promised an easy experience but prepared a difficult one.
+
+Maya gathered the volunteers. Instead of trying to rescue the original route, she made a simpler plan. The walk would stay near the village square. Visitors would see the temple from outside, listen to recorded memories from older residents, and view the drought exhibition in the school hall. Those who wanted hiking could join a short optional walk later, after the storm had passed and only if the path was safe. Noah would make sure the signs were changed immediately.
+
+It was a modest solution, and at first some people were disappointed. But it worked. The school hall stayed dry. The recordings made the past feel close, especially when an elderly woman described carrying water during an earlier drought. Children tried on costumes without having to walk through mud. No one was injured, and the smaller route allowed visitors to ask better questions.
+
+By late afternoon, the thunderstorm had passed. The reporter from the press asked Maya whether she felt the day had been a failure. She looked at the crowded hall, the wet coats hanging by the door and Ella laughing with two visitors near the temple model.
+
+"No," she said. "The original plan failed. The festival did not."
+
+The next week, Maya wrote a report for the council. She did not hide the problems. She explained that advertising must match reality, that legal permission for a path is not the same as practical access, and that an effective public event should be judged by who can take part, not only by how impressive the route looks on a map.
+
+The council congratulated the students on saving the festival, but Maya knew the real achievement was quieter. She had learned that leadership was not about pressing ahead with a beautiful plan. It was about noticing when that plan no longer served people, and being brave enough to change it.
+`,
+
+  translation: `
+以下报道写给一份本地学生报纸。
+
+当玛雅同意负责里弗韦尔历史文化节时，她想象的是一个充满服装、音乐和地方故事的愉快周末。这个村庄已经举办了三十多年文化节，但因为参观人数下降，市政会差点取消它。今年，一群学生着手让它重新恢复活力。
+
+玛雅为这个想法感到自豪，虽然并不完全自信。她在课堂上很能干，但公共活动会让她紧张。她必须在星期五前提交最终方案，而广告上已经承诺这会是一场“适合所有人的轻松历史步行活动”。后来证明，正是这句话带来了许多麻烦。
+
+原路线从古庙开始，穿过树篱后面的一条狭窄小巷，越过干涸的河床，最后到达一个已经变成自然区域的旧高尔夫球场。这个方案听起来很吸引人。它把地方历史和最近的旱灾联系起来，并解释村庄如何改变用水方式。学校大厅里还会有一个小展览，介绍污染、旧农具，以及学校自1952年以来保存的降雨记录。
+
+纸面上，一切都很清楚。但实际走起来，这条路线比海报暗示的更费力。小巷地面不平，河床上满是松动的石头，高尔夫球场旁的小路对一些老年游客来说体力要求过高。玛雅在试走时注意到了这一点，但那时传单已经印好了。她的助手诺亚说，要及时改变路线的可能性很小。
+
+然后，天气改变了一切。
+
+星期六早上，玛雅醒来时嗓子疼，还感冒了。志愿者会议上，她一直抽鼻子，听起来比实际感觉更没信心。到中午时，天空变暗，天气预报说会有雷暴。不久之后，旧小巷旁的自动门停止工作，两箱戏服和一套音响设备被锁在了里面。
+
+第一批游客已经到达。有些人戴着历史风格的帽子。一位餐馆老板为志愿者带来了汤。一名本地报刊记者来寻找一个愉快的故事，虽然玛雅怀疑他其实更想看到一场灾难。当人们发现原路线可能关闭时，愤怒很快蔓延开来。一名男子说学生误导了公众。另一个人说，因为干旱展览批评浪费用水，这个文化节正在变得政治化。
+
+就在这一片混乱中，一名叫艾拉的志愿者被指责弄丢了大门钥匙。她看起来快哭了。玛雅想赶快解决问题，但诺亚轻声提醒她，先查清楚再指责任何人。他们查看签到桌，最后在雨衣下面一个塑料盒里找到了钥匙。艾拉是清白的；她之前把钥匙放在那里，是为了防止它被雨淋湿。
+
+这个小错误改变了玛雅的心情。她意识到，每个人都急着找一个可以责怪的人，包括她自己。真正的问题不是一把不见的钥匙，而是文化节承诺了一种轻松体验，却准备了一条困难路线。
+
+玛雅召集了志愿者。她不再试图挽救原路线，而是制定了一个更简单的方案。步行活动改在村庄广场附近进行。游客会从外面看古庙，听老人们录下的回忆，并在学校大厅观看干旱展览。想徒步的人可以在雷暴过去、道路安全之后，参加一段短的可选路线。诺亚负责立刻确保所有标识都被更换。
+
+这是一个适度的解决方案，一开始有些人感到失望。但它起作用了。学校大厅保持干燥。录音让过去显得很近，尤其是一位老妇人讲述早年旱灾时挑水的经历时，很多人认真听着。孩子们可以试穿戏服，而不必穿过泥地。没有人受伤，而且这条较短的路线让游客提出了更好的问题。
+
+到下午晚些时候，雷暴过去了。那名报刊记者问玛雅，她是否觉得这一天是失败的。她看着拥挤的大厅、门边挂着的湿外套，以及艾拉正在古庙模型旁和两名游客笑着交谈。
+
+“不，”她说，“原计划失败了。文化节没有失败。”
+
+第二周，玛雅为市政会写了一份报告。她没有掩盖问题。她解释说，广告必须与现实相符，获得道路使用的合法许可并不等于真正方便人们通行；一个有效的公共活动应该根据谁能够参与来判断，而不只是看路线在地图上是否令人印象深刻。
+
+市政会祝贺学生们挽救了文化节，但玛雅知道，真正的成就更加安静。她明白了，领导力不是一味推进一个美丽的计划，而是注意到这个计划何时不再服务于人，并有勇气改变它。
+`,
+
+  questions: [
+    {
+      question: "The phrase “gentle historical walk for everyone” later becomes a problem because it",
+      options: {
+        A: "makes visitors expect a political discussion about water use.",
+        B: "suggests an experience that is easier and more accessible than the route really is.",
+        C: "promises that the temple will be opened to the public for the first time.",
+        D: "sounds too modest to attract attention from the local press."
+      },
+      answer: "B",
+      explanation: {
+        correct: "B是正确答案。这道题考 FCE 常见的同义替换。原文说路线 more demanding than the poster suggested，题目用 easier and more accessible 替换 gentle，考的是广告承诺与实际难度不一致。",
+        A: "A不对。有人后来把干旱展览说成political，但问题核心不是游客期待政治讨论。",
+        B: "B对。广告让人以为路线轻松、人人适合，但实际小巷、河床和高尔夫球场旁的小路都不容易走。",
+        C: "C不对。文章没有说寺庙会首次开放。",
+        D: "D不对。问题不是宣传太低调，而是宣传过度简化了真实体验。"
+      }
+    },
+    {
+      question: "What does Noah’s advice about the missing key show?",
+      options: {
+        A: "He is more interested in protecting Ella than saving the festival.",
+        B: "He believes the automatic gate is the main cause of the day’s problems.",
+        C: "He understands that quick blame can create unnecessary injustice.",
+        D: "He wants Maya to cancel the event before anyone gets injured."
+      },
+      answer: "C",
+      explanation: {
+        correct: "C是正确答案。Noah提醒Maya先检查再指责，后来证明Ella是innocent。这是FCE推理题，题目用 unnecessary injustice 替换原文中的 accusing anyone 和 innocent。",
+        A: "A不对。他确实保护了Ella免受不公平指责，但这不是说他不关心festival。",
+        B: "B不对。automatic gate是一个麻烦，但不是他建议的核心。",
+        C: "C对。他的建议体现了事实核查先于指责的判断。",
+        D: "D不对。他没有建议取消活动，而是帮助Maya更冷静处理问题。"
+      }
+    },
+    {
+      question: "Why does Maya decide not to “rescue the original route”?",
+      options: {
+        A: "She realises the main issue is not preserving the plan but making the event work for visitors.",
+        B: "She discovers that using the lane would not be legal under council rules.",
+        C: "She is too ill with a sore throat to continue managing the volunteers.",
+        D: "She wants the press to report that the first plan was a complete failure."
+      },
+      answer: "A",
+      explanation: {
+        correct: "A是正确答案。题目中的 preserving the plan 对应原文 rescue the original route，making the event work for visitors 对应后文 who can take part。Maya意识到活动要服务人，而不是死守路线。",
+        A: "A对。她从坚持漂亮路线，转向考虑参与者实际能否完成活动。",
+        B: "B不对。文章说legal permission不等于practical access，但没有说使用小巷违法。",
+        C: "C不对。她嗓子疼，但仍然管理活动。",
+        D: "D不对。她并不想让媒体报道失败，而是努力避免真正失败。"
+      }
+    },
+    {
+      question: "What is the effect of moving the event into the school hall?",
+      options: {
+        A: "It removes the historical focus from the festival completely.",
+        B: "It makes the event less adventurous but more inclusive and thoughtful.",
+        C: "It proves that visitors were never interested in hiking.",
+        D: "It allows the students to avoid discussing drought and pollution."
+      },
+      answer: "B",
+      explanation: {
+        correct: "B是正确答案。FCE很常考结果判断。学校大厅方案没有原路线那么impressive，但更安全、更适合不同人群，也让参观者提出更好的问题。",
+        A: "A不对。historical focus仍在：寺庙模型、老人录音、干旱展览都保留了历史内容。",
+        B: "B对。less adventurous 对应取消原来的远足路线，more inclusive and thoughtful 对应更多人能参与且提问更深入。",
+        C: "C不对。仍有人可以选择hiking，只是改成optional。",
+        D: "D不对。干旱展览和污染内容仍然存在。"
+      }
+    },
+    {
+      question: "Which statement best describes Maya’s final view of leadership?",
+      options: {
+        A: "A leader should press ahead with a plan once it has been advertised.",
+        B: "A leader’s achievement is measured mainly by public praise.",
+        C: "A leader should adjust a plan when it no longer meets people’s real needs.",
+        D: "A leader’s main duty is to avoid modest solutions."
+      },
+      answer: "C",
+      explanation: {
+        correct: "C是正确答案。题目用 adjust a plan 替换原文 change it，用 no longer meets people’s real needs 替换 no longer served people。这是典型FCE同义改写主旨题。",
+        A: "A不对。文章最后明确否定pressing ahead with a beautiful plan。",
+        B: "B不对。Maya认为真正achievement更安静，不是来自表扬。",
+        C: "C对。这正是她最后学到的leadership含义。",
+        D: "D不对。她采用的正是modest solution，而且它有效。"
+      }
+    }
+  ]
 }
 ];
