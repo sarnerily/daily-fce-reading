@@ -7830,5 +7830,409 @@ The council congratulated the students on saving the festival, but Maya knew the
       }
     }
   ]
+},
+{
+  date: "2026-08-17",
+  title: "The Harbour Museum After Hours",
+  level: "FCE / B2",
+
+  vocabulary: [
+    {
+      word: "poetry",
+      partOfSpeech: "n.",
+      meaning: "诗歌；诗意；诗集；诗作",
+      example: "The evening event included poetry written by local teenagers."
+    },
+    {
+      word: "clubbing",
+      partOfSpeech: "n.",
+      meaning: "泡夜总会",
+      example: "Some students thought museum work sounded less exciting than clubbing."
+    },
+    {
+      word: "sensible",
+      partOfSpeech: "adj.",
+      meaning: "明智的；合理的；切合实际的；朴素实用的",
+      example: "Mara suggested a sensible plan instead of a dramatic one."
+    },
+    {
+      word: "gymnast",
+      partOfSpeech: "n.",
+      meaning: "体操运动员",
+      example: "A former gymnast helped design the movement workshop."
+    },
+    {
+      word: "skiing",
+      partOfSpeech: "n.",
+      meaning: "滑雪运动",
+      example: "The museum had an old poster advertising skiing trips to the mountains."
+    },
+    {
+      word: "sand",
+      partOfSpeech: "n. / v.",
+      meaning: "沙；沙子；沙滩；打磨",
+      example: "Sand had blown under the museum door during the storm."
+    },
+    {
+      word: "harbour",
+      partOfSpeech: "n. / v.",
+      meaning: "港口；港湾；庇护；怀有",
+      example: "The museum stood beside the old harbour."
+    },
+    {
+      word: "sleeve",
+      partOfSpeech: "n.",
+      meaning: "袖子；套管；唱片套",
+      example: "A note was hidden inside the sleeve of an old record."
+    },
+    {
+      word: "living",
+      partOfSpeech: "adj. / n.",
+      meaning: "活着的；在使用的；生活方式；生计",
+      example: "The exhibition was about how families made a living by the sea."
+    },
+    {
+      word: "take time",
+      partOfSpeech: "phrase",
+      meaning: "需要时间",
+      example: "Understanding the town’s past would take time."
+    },
+    {
+      word: "current",
+      partOfSpeech: "adj. / n.",
+      meaning: "当前的；现在的；水流；趋势",
+      example: "The students compared old fishing work with the town’s current problems."
+    },
+    {
+      word: "relationship",
+      partOfSpeech: "n.",
+      meaning: "关系；联系；情爱关系",
+      example: "The project explored the relationship between tourism and local income."
+    },
+    {
+      word: "archaeology",
+      partOfSpeech: "n.",
+      meaning: "考古学",
+      example: "The museum had a small archaeology room with tools found near the coast."
+    },
+    {
+      word: "vast",
+      partOfSpeech: "adj.",
+      meaning: "辽阔的；巨大的；大量的",
+      example: "From the museum window, the sea looked vast and empty."
+    },
+    {
+      word: "accountant",
+      partOfSpeech: "n.",
+      meaning: "会计；会计师",
+      example: "The museum accountant worried about falling ticket sales."
+    },
+    {
+      word: "exist",
+      partOfSpeech: "v.",
+      meaning: "存在；生存；实际上有",
+      example: "Some visitors did not know the museum existed."
+    },
+    {
+      word: "abstract",
+      partOfSpeech: "adj. / n.",
+      meaning: "抽象的；摘要；概要",
+      example: "Mara found the first exhibition title too abstract."
+    },
+    {
+      word: "gossip",
+      partOfSpeech: "n. / v.",
+      meaning: "流言蜚语；闲话；传播流言；闲聊",
+      example: "A piece of gossip about the museum soon spread online."
+    },
+    {
+      word: "striped",
+      partOfSpeech: "adj.",
+      meaning: "有条纹的",
+      example: "Jon wore a striped scarf during the evening tour."
+    },
+    {
+      word: "coast",
+      partOfSpeech: "n.",
+      meaning: "海岸；海滨",
+      example: "The museum collected stories from families along the coast."
+    },
+    {
+      word: "nephew",
+      partOfSpeech: "n.",
+      meaning: "侄子；外甥",
+      example: "Mrs Bell brought her nephew to the poetry event."
+    },
+    {
+      word: "rise",
+      partOfSpeech: "v. / n.",
+      meaning: "上升；增长；提高；升起；增加",
+      example: "The rise in rent had forced some families away from the harbour."
+    },
+    {
+      word: "individual",
+      partOfSpeech: "adj. / n.",
+      meaning: "个人的；个别的；独特的；个人",
+      example: "Each individual story changed the way Mara saw the town."
+    },
+    {
+      word: "dressed",
+      partOfSpeech: "adj.",
+      meaning: "穿着衣服的；穿着……服装的",
+      example: "The volunteers were dressed as guides from different periods."
+    },
+    {
+      word: "suitcase",
+      partOfSpeech: "n.",
+      meaning: "手提箱",
+      example: "An old suitcase was used to display letters from sailors."
+    },
+    {
+      word: "checkout",
+      partOfSpeech: "n.",
+      meaning: "付款台；结账离开的时间",
+      example: "The museum shop moved the checkout closer to the entrance."
+    },
+    {
+      word: "jogging",
+      partOfSpeech: "n.",
+      meaning: "慢跑锻炼",
+      example: "A group of local runners passed the museum while jogging."
+    },
+    {
+      word: "feminine",
+      partOfSpeech: "adj.",
+      meaning: "女性的；阴性的",
+      example: "The old guidebook described sewing as a feminine skill, which annoyed Mara."
+    },
+    {
+      word: "DVD",
+      partOfSpeech: "n.",
+      meaning: "数字影碟；DVD",
+      example: "A dusty DVD showed interviews with retired fishermen."
+    },
+    {
+      word: "lively",
+      partOfSpeech: "adj.",
+      meaning: "有活力的；活泼的；生动的",
+      example: "The final evening was livelier than anyone expected."
+    },
+    {
+      word: "turn out",
+      partOfSpeech: "phrase",
+      meaning: "结果是；最后证明是；出现；参加",
+      example: "The rumour turned out to be wrong."
+    },
+    {
+      word: "income",
+      partOfSpeech: "n.",
+      meaning: "收入；收益；所得",
+      example: "The museum needed extra income to stay open."
+    },
+    {
+      word: "frightening",
+      partOfSpeech: "adj.",
+      meaning: "令人害怕的；骇人的",
+      example: "The storm outside sounded frightening."
+    },
+    {
+      word: "earn",
+      partOfSpeech: "v.",
+      meaning: "赢得；挣得；赚钱",
+      example: "Young people could earn a little money by working as guides."
+    },
+    {
+      word: "wool",
+      partOfSpeech: "n.",
+      meaning: "羊毛；毛线；羊毛织物",
+      example: "A display showed how wool was once traded through the harbour."
+    },
+    {
+      word: "service",
+      partOfSpeech: "n. / v.",
+      meaning: "服务；公共服务系统；维修；维护",
+      example: "The ferry service had once connected the town with nearby islands."
+    },
+    {
+      word: "weird",
+      partOfSpeech: "adj.",
+      meaning: "怪异的；不可思议的；奇怪的",
+      example: "Mara thought the empty museum felt weird at night."
+    },
+    {
+      word: "judo",
+      partOfSpeech: "n.",
+      meaning: "柔道",
+      example: "The community centre next door offered judo classes."
+    },
+    {
+      word: "at the moment",
+      partOfSpeech: "phrase",
+      meaning: "此刻；目前",
+      example: "At the moment, the museum could not afford more staff."
+    },
+    {
+      word: "bored",
+      partOfSpeech: "adj.",
+      meaning: "烦闷的；厌倦的",
+      example: "Mara expected teenagers to feel bored at the museum."
+    }
+  ],
+
+  passage: `
+The following article appeared in a local youth magazine.
+
+Mara used to pass the Harbour Museum almost every day without going in. It stood between a closed fish restaurant and a shop that sold beach towels, facing a vast grey sea. At the moment, the building looked more tired than historical. Sand gathered near the door, the paint was coming off the windows, and a sign in the shop window announced that the checkout had moved because the floorboards were weak.
+
+So when her English teacher suggested that students should help organise an evening event there, Mara was not enthusiastic. She imagined dusty glass cases, bored visitors and long speeches about objects that no longer mattered. Some classmates joked that they would prefer clubbing, skiing or even extra homework. Mara agreed, though she did not say so aloud.
+
+The museum had a real problem. Its income had fallen for three years, and the accountant warned that without new visitors it might have to close two rooms. The manager, Mrs Bell, wanted to attract teenagers, but her first idea was too abstract: “The Living Relationship Between Coast and Memory.” Even Mrs Bell admitted that it sounded like the title of a university lecture.
+
+Mara suggested something more sensible: an after-hours event called “Harbour Lives”. Instead of presenting history as a single grand story, students would collect individual memories from people who had made a living by the sea. There would be poetry readings, short recordings, a display of wool and fishing tools, and a guided walk through the archaeology room. It would take time to prepare, but it might make the museum feel less like a storage space.
+
+The plan was approved. Mara was put in charge of gathering stories, which turned out to be harder than expected. Some older residents were happy to talk, but others were suspicious. One man said museums only wanted “pretty sadness”. A retired ferry worker brought in a suitcase of letters but refused to let anyone open it until he was present. Mrs Bell’s nephew, a quiet boy who had been a gymnast before a knee injury, helped carry boxes but hardly spoke.
+
+Then gossip began to spread online. Someone claimed that the museum was using unpaid teenagers to replace trained staff. Another post said the event would make fun of old harbour families by dressing students in silly costumes. Neither claim was true, but the rumours were damaging. Mara felt angry and embarrassed. She had wanted the project to earn respect, not criticism.
+
+Mrs Bell told her not to answer immediately. “If we sound defensive, people will stop listening,” she said. “Let us show what we are doing.”
+
+On the evening of the event, the weather was almost frightening. Rain hit the windows, and the current in the harbour was strong enough to make the boats pull hard against their ropes. Mara wore a striped scarf and stood near the entrance, wondering whether anyone would come. For ten minutes, only three visitors appeared, all of them sheltering from the rain after jogging along the coast.
+
+Then people began to arrive.
+
+A woman brought a DVD of interviews with women who had repaired fishing nets in the 1970s. She pointed out that an old guidebook called the work “feminine patience”, but the women in the film were strong, funny and practical. A former sailor read a poem about leaving the harbour at dawn. A boy from the judo club next door asked whether the museum had anything about sport; Mrs Bell showed him photographs of swimmers training near the pier.
+
+The most surprising moment came from the retired ferry worker. He opened his suitcase and took out letters from passengers who had used the old island service. Some thanked the crew for carrying medicine during storms; others described coming home after years away. The ferry, Mara realised, had not simply moved people from one place to another. It had connected relationships, jobs and emergencies.
+
+Near the end, Mrs Bell’s nephew finally spoke. He said that after his injury, he had felt useless because he could no longer perform as a gymnast. Helping at the museum had shown him that physical ability was only one way to contribute. The room became very quiet.
+
+The evening was not perfect. One recording failed, and several visitors complained that the archaeology labels were too small. But nobody looked bored. The rumours also lost their force. The students were not replacing staff, and no one was laughing at harbour families. In fact, the event made those families seem more alive than any polished display had done.
+
+A week later, Mrs Bell showed Mara the visitor numbers. They were modest, but higher than expected. More importantly, three people had offered to donate material, and the community centre suggested a joint event with its judo class.
+
+Mara still did not think museums were automatically exciting. But she had learned that a place could exist for years in front of you without being understood. Sometimes what looked like a quiet building was really a living current of voices. You just had to stop passing it and listen.
+`,
+
+  translation: `
+以下文章发表于一本本地青年杂志。
+
+玛拉过去几乎每天都会经过港口博物馆，却从来没有进去过。它位于一家已经关门的鱼餐馆和一家卖沙滩毛巾的商店之间，面对着辽阔的灰色大海。此刻，这栋建筑看上去与其说有历史感，不如说只是疲惫破旧。门口堆着沙子，窗户上的油漆正在脱落，商店橱窗里还有一张告示，说因为地板不结实，付款台已经移到了别处。
+
+所以，当英语老师建议学生们帮忙在那里组织一场夜间活动时，玛拉并不热心。她想象中会是落满灰尘的玻璃柜、感到无聊的参观者，以及关于早已不重要的物品的冗长演讲。有些同学开玩笑说，他们宁愿去泡夜总会、滑雪，甚至做额外作业。玛拉也这么想，只是没有说出口。
+
+博物馆确实遇到了问题。它的收入已经连续三年下降，会计警告说，如果没有新的参观者，它可能不得不关闭两个展厅。经理贝尔夫人想吸引青少年，但她最初的想法过于抽象：“海岸与记忆之间活着的关系”。连贝尔夫人自己也承认，这听起来像大学讲座的题目。
+
+玛拉提出了一个更实际的方案：举办一场名为“港口人生”的闭馆后活动。学生们不再把历史讲成一个宏大的单一故事，而是收集那些靠海谋生的人们的个人记忆。活动会有诗歌朗读、短录音、羊毛和捕鱼工具展示，以及考古室导览。准备这些需要时间，但也许能让博物馆不再像一间储藏室。
+
+这个计划获得了批准。玛拉负责收集故事，但这件事后来证明比预想更难。一些年长居民很乐意讲述，但另一些人很怀疑。有位男士说，博物馆只想要“漂亮的悲伤”。一名退休渡轮工作人员带来了一只装满信件的手提箱，但坚持要等自己在场时，别人才可以打开。贝尔夫人的外甥是个安静的男孩，曾经是体操运动员，后来因为膝盖受伤不再训练。他帮忙搬箱子，但几乎不说话。
+
+接着，网上开始流传闲话。有人声称博物馆在利用无薪青少年代替受过训练的工作人员。另一条帖子说，这次活动会让学生穿着可笑的服装，取笑老港口家庭。这两种说法都不是真的，但这些流言很有破坏性。玛拉感到愤怒又尴尬。她原本想让项目赢得尊重，而不是招来批评。
+
+贝尔夫人告诉她不要立刻回应。“如果我们听起来像是在防御，大家就不会再听了，”她说，“让我们展示自己正在做的事。”
+
+活动当晚，天气几乎有些吓人。雨敲打着窗户，港口里的水流很强，让船只用力拉扯着绳索。玛拉戴着一条条纹围巾站在入口处，不知道是否会有人来。前十分钟，只来了三名参观者，而且他们都是沿海岸慢跑后为了躲雨才进来的。
+
+然后，人们开始陆续到达。
+
+一位女士带来了一张DVD，里面是20世纪70年代修补渔网的女性访谈。她指出，一本旧指南把这项工作称为“女性的耐心”，但影片里的女性其实强大、幽默而务实。一名曾经的水手朗读了一首关于黎明时离开港口的诗。隔壁柔道俱乐部的一个男孩问博物馆里有没有关于运动的东西；贝尔夫人给他看了过去人们在码头附近训练游泳的照片。
+
+最令人惊讶的时刻来自那名退休渡轮工作人员。他打开手提箱，拿出一些曾经乘坐旧岛屿渡轮服务的乘客写来的信。有些信感谢船员在暴风雨中运送药品；有些则描述多年后回家的经历。玛拉意识到，渡轮并不仅仅是把人从一个地方送到另一个地方。它连接着关系、工作和紧急时刻。
+
+接近尾声时，贝尔夫人的外甥终于开口了。他说，受伤之后，因为自己不能再作为体操运动员表演，他曾觉得自己毫无用处。在博物馆帮忙让他明白，身体能力只是贡献的一种方式。整个房间安静了下来。
+
+这个夜晚并不完美。一段录音出了故障，还有几位参观者抱怨考古展签上的字太小。但没有人显得无聊。那些流言也失去了力量。学生们并没有取代工作人员，也没有人嘲笑港口家庭。事实上，这场活动让那些家庭显得比任何精致的展陈都更加鲜活。
+
+一周后，贝尔夫人给玛拉看了参观人数。数字并不大，但比预期高。更重要的是，三个人表示愿意捐赠材料，社区中心也建议与柔道班合作举办一场联合活动。
+
+玛拉仍然不觉得博物馆会自动变得令人兴奋。但她明白了，一个地方可能在你面前存在很多年，却一直没有真正被理解。有时候，看似安静的建筑，其实是一股由各种声音组成的活水流。你只需要停止从它身边走过，然后去倾听。
+`,
+
+  questions: [
+    {
+      question: "What is Mara’s first impression of the Harbour Museum?",
+      options: {
+        A: "It is a lively place that already attracts many young people.",
+        B: "It is a building with great commercial potential.",
+        C: "It seems neglected and unlikely to interest students.",
+        D: "It appears too modern to represent local history."
+      },
+      answer: "C",
+      explanation: {
+        correct: "C是正确答案。这里考同义替换。原文说博物馆看起来 tired 而不是 historical，又提到 sand, paint coming off, weak floorboards，以及Mara想象中的 bored visitors。C中的 neglected 和 unlikely to interest students 概括了这些信息。",
+        A: "A不对。lively正好与Mara最初的印象相反。",
+        B: "B不对。文章没有说她一开始看到商业潜力，反而觉得它无聊、破旧。",
+        C: "C对。这个选项用 neglected 替换原文中的 tired、paint coming off 等描述。",
+        D: "D不对。博物馆不是太现代，而是显得老旧。"
+      }
+    },
+    {
+      question: "Why does Mara reject Mrs Bell’s original title for the event?",
+      options: {
+        A: "It sounds too academic and unlikely to attract teenagers.",
+        B: "It gives too much attention to archaeology.",
+        C: "It suggests the museum should focus only on the coast.",
+        D: "It makes the event sound more lively than it is."
+      },
+      answer: "A",
+      explanation: {
+        correct: "A是正确答案。原文说 Mrs Bell 的标题 too abstract，像 university lecture。题目用 too academic 替换 university lecture，用 unlikely to attract teenagers 概括它不适合吸引青少年的问题。",
+        A: "A对。这是FCE常见的近义表达考法。",
+        B: "B不对。原题目没有特别强调archaeology。",
+        C: "C不对。标题包含coast and memory，不是只关注海岸。",
+        D: "D不对。问题不是太活泼，而是太抽象。"
+      }
+    },
+    {
+      question: "What effect do the online rumours have on Mara?",
+      options: {
+        A: "They make her feel the project has lost its purpose completely.",
+        B: "They encourage her to cancel the costume part of the event.",
+        C: "They make her realise that museums should avoid using volunteers.",
+        D: "They leave her upset because they misrepresent what the students are trying to do."
+      },
+      answer: "D",
+      explanation: {
+        correct: "D是正确答案。原文说 rumours 不真实但 damaging，Mara felt angry and embarrassed。D中的 misrepresent 指流言歪曲了活动本意，upset 对应 angry and embarrassed。",
+        A: "A不对。她没有认为项目完全失去意义，而是继续做下去。",
+        B: "B不对。流言提到costumes，但文章没有说她因此取消服装部分。",
+        C: "C不对。问题不是志愿者制度本身，而是别人误解学生在替代员工。",
+        D: "D对。这个选项准确概括了流言对她的影响。"
+      }
+    },
+    {
+      question: "What does the ferry worker’s suitcase mainly reveal?",
+      options: {
+        A: "The museum has failed to store its objects safely.",
+        B: "The old ferry service had a deeper social role than Mara expected.",
+        C: "The town’s income depended entirely on island passengers.",
+        D: "The letters are more suitable for a poetry event than a museum display."
+      },
+      answer: "B",
+      explanation: {
+        correct: "B是正确答案。原文说Mara realised the ferry had not simply moved people, but connected relationships, jobs and emergencies。B中的 deeper social role 是对这句话的概括。",
+        A: "A不对。手提箱是退休渡轮工作人员带来的，不是博物馆保管失败。",
+        B: "B对。它显示渡轮服务不仅是交通，也与人际关系、工作和紧急需要有关。",
+        C: "C不对。文章没有说小镇收入完全依赖渡轮乘客。",
+        D: "D不对。信件可以进入展览，不只是诗歌活动材料。"
+      }
+    },
+    {
+      question: "Which statement best expresses the main idea of the passage?",
+      options: {
+        A: "Historical places become meaningful when people listen to the lives connected with them.",
+        B: "Teenagers should be trained before they work in public museums.",
+        C: "Small museums need entertainment more than careful research.",
+        D: "Old buildings should focus on sport if they want to attract young visitors."
+      },
+      answer: "A",
+      explanation: {
+        correct: "A是正确答案。全文讲Mara从觉得博物馆无聊，到通过个人记忆、诗歌、信件、DVD和故事理解它的意义。A中的 lives connected with them 对应文章中的 living current of voices。",
+        A: "A对。这是全文主旨。",
+        B: "B不对。training不是文章核心，流言中提到 trained staff 也不是作者最终观点。",
+        C: "C不对。活动成功不是因为单纯娱乐，而是因为真实故事。",
+        D: "D不对。judo和运动照片只是帮助一个男孩连接博物馆的细节，不是主旨。"
+      }
+    }
+  ]
 }
 ];
