@@ -8234,5 +8234,289 @@ Mara still did not think museums were automatically exciting. But she had learne
       }
     }
   ]
+},
+{
+  date: "2026-08-24",
+  title: "The Accountant Who Looked at the Stars Again",
+  level: "FCE / B2",
+
+  vocabulary: [
+    {
+      word: "rugby",
+      meaning: "橄榄球运动",
+      example: "He used to play rugby when he was younger."
+    },
+    {
+      word: "cope with",
+      meaning: "处理；应付；克服",
+      example: "She learned how to cope with pressure."
+    },
+    {
+      word: "embarrassed",
+      meaning: "尴尬的；难堪的",
+      example: "He felt embarrassed about his mistake."
+    },
+    {
+      word: "middle-aged",
+      meaning: "中年的",
+      example: "A middle-aged man joined the astronomy group."
+    },
+    {
+      word: "astronomy",
+      meaning: "天文学",
+      example: "Astronomy had always interested him."
+    },
+    {
+      word: "underground",
+      meaning: "地下的；秘密的",
+      example: "The underground station was crowded."
+    },
+    {
+      word: "processed",
+      meaning: "加工过的；处理过的",
+      example: "He reduced the amount of processed food he ate."
+    },
+    {
+      word: "project",
+      meaning: "项目；计划",
+      example: "The science project attracted many people."
+    },
+    {
+      word: "get on",
+      meaning: "相处；进展；登上",
+      example: "He quickly got on with the other members."
+    },
+    {
+      word: "hum",
+      meaning: "哼唱；嗡嗡声",
+      example: "The machine began to hum quietly."
+    },
+    {
+      word: "regret",
+      meaning: "后悔；遗憾",
+      example: "She regretted wasting so much time."
+    },
+    {
+      word: "attraction",
+      meaning: "吸引力；吸引人的事物",
+      example: "The stars were the main attraction."
+    },
+    {
+      word: "progress",
+      meaning: "进步；发展",
+      example: "The students made great progress."
+    },
+    {
+      word: "runner",
+      meaning: "跑步者",
+      example: "A runner stopped to watch the stars."
+    },
+    {
+      word: "ache",
+      meaning: "疼痛",
+      example: "His back began to ache after carrying equipment."
+    },
+    {
+      word: "stall",
+      meaning: "摊位；停顿",
+      example: "A small food stall stood outside the event."
+    },
+    {
+      word: "pour",
+      meaning: "倾倒；倾泻",
+      example: "Rain began to pour before midnight."
+    },
+    {
+      word: "winner",
+      meaning: "获胜者",
+      example: "The competition winner received a telescope."
+    },
+    {
+      word: "make up",
+      meaning: "组成；弥补；编造",
+      example: "The team was made up of volunteers."
+    },
+    {
+      word: "nursery school",
+      meaning: "幼儿园",
+      example: "Children from a nursery school visited the exhibition."
+    },
+    {
+      word: "factual",
+      meaning: "事实性的；真实的",
+      example: "The article needed factual information."
+    },
+    {
+      word: "narrow",
+      meaning: "狭窄的；有限的",
+      example: "They walked through a narrow street."
+    },
+    {
+      word: "party",
+      meaning: "聚会；一方；政党",
+      example: "A small birthday party was held after the event."
+    },
+    {
+      word: "discourage",
+      meaning: "使气馁；阻止",
+      example: "Failure should not discourage young learners."
+    },
+    {
+      word: "straight",
+      meaning: "直接地；笔直的",
+      example: "He went straight home after work."
+    },
+    {
+      word: "peel",
+      meaning: "果皮；剥皮",
+      example: "They peeled apples for the children."
+    },
+    {
+      word: "approximately",
+      meaning: "大约",
+      example: "Approximately fifty people attended."
+    },
+    {
+      word: "pupil",
+      meaning: "学生",
+      example: "Each pupil wrote a short report."
+    },
+    {
+      word: "technical",
+      meaning: "技术的；专业的",
+      example: "The telescope required technical knowledge."
+    },
+    {
+      word: "frost",
+      meaning: "霜；冰冻",
+      example: "The garden was covered with frost."
+    },
+    {
+      word: "athletics",
+      meaning: "田径运动",
+      example: "He preferred astronomy to athletics."
+    },
+    {
+      word: "keen",
+      meaning: "热衷的；渴望的",
+      example: "She was keen to learn more."
+    },
+    {
+      word: "jealous",
+      meaning: "嫉妒的",
+      example: "He was jealous of his friend's success."
+    },
+    {
+      word: "photograph",
+      meaning: "照片；拍照",
+      example: "The photograph showed a clear night sky."
+    },
+    {
+      word: "invade",
+      meaning: "侵入；大量涌入",
+      example: "Tourists began to invade the quiet village."
+    },
+    {
+      word: "believe",
+      meaning: "相信",
+      example: "Many people believe the universe is fascinating."
+    },
+    {
+      word: "slogan",
+      meaning: "口号；标语",
+      example: "The project created a simple slogan."
+    }
+  ],
+
+  passage: `
+The following article appeared in a science magazine.
+
+For most of his adult life, Daniel believed that hobbies belonged to young people. As a middle-aged accountant, he spent his weekdays checking numbers, preparing reports and dealing with financial problems. His friends knew him as a practical person who preferred facts to imagination.
+
+When Daniel was a teenager, however, things were different. He was extremely keen on astronomy. He spent nights looking at the stars and reading about distant planets. He even joined a science club at school. Later, university, work and family responsibilities changed his life. He did not stop loving space, but he gradually put that interest aside.
+
+Years later, he found an old photograph in a drawer. It showed him standing beside a homemade telescope. Looking at the picture, Daniel felt a strange mixture of happiness and regret.
+
+"I realised I had not lost my interest," he explained. "I had simply stopped making time for it."
+
+At first, returning to astronomy was not easy. Daniel felt embarrassed because he knew very little about current technology. Modern telescopes were more technical than the simple equipment he had used before. Some information was too abstract, and he worried that younger members of astronomy groups would think he was old-fashioned.
+
+However, he decided not to let this discourage him.
+
+Daniel joined a local astronomy project. The group was made up of students, teachers, retired workers and even a few children from a nearby nursery school. Their aim was to create a factual exhibition about the night sky.
+
+The project took place in an old building near an underground station. The room was narrow, but the members worked hard to improve it. They built display areas, created a slogan for the event and prepared photographs taken by local residents.
+
+At the beginning, progress was slow. The equipment sometimes failed, machines would suddenly hum loudly, and members had to cope with unexpected problems. Once, heavy rain began to pour while volunteers were carrying materials inside. Daniel's back started to ache after moving boxes.
+
+But the group continued.
+
+Daniel discovered that astronomy was not only about science. It was also about relationships. He got on well with younger members and enjoyed listening to their ideas. One pupil from the nursery school asked questions that even experienced adults had not considered.
+
+The exhibition finally opened on a cold morning covered with frost. Approximately two hundred people attended. A small food stall sold apple cakes, and volunteers peeled fruit for children. Outside, a few runners from a nearby athletics club stopped to look at the displays.
+
+The biggest attraction was a collection of photographs showing the same piece of sky over several years. Visitors could see how technology had improved and how individual people had recorded their own experiences.
+
+Not everyone was supportive. A former colleague joked that Daniel was having a "late-life crisis". Daniel admitted that he felt slightly jealous when he saw younger experts using advanced equipment. But he also understood that learning was not a competition.
+
+"The winner is not the person who knows the most," he said. "It is the person who keeps asking questions."
+
+The project changed Daniel's life. He still worked as an accountant, but astronomy became part of his living again. He even encouraged other adults to return to forgotten interests.
+
+Looking back, Daniel believed that people did not stop growing when they became older. Sometimes they simply needed the courage to begin again.
+`,
+
+  questions: [
+    {
+      question: "Why did Daniel initially hesitate to return to astronomy?",
+      options: {
+        A: "He no longer found space science interesting.",
+        B: "His family refused to support his hobby.",
+        C: "He felt behind others and worried about lacking modern knowledge.",
+        D: "He believed astronomy was only suitable for children."
+      },
+      answer: "C"
+    },
+    {
+      question: "What does the writer suggest by mentioning the nursery school pupil's questions?",
+      options: {
+        A: "Young learners can offer valuable ideas that adults may overlook.",
+        B: "Children should replace experienced science teachers.",
+        C: "The project was too difficult for professional researchers.",
+        D: "The exhibition was mainly designed for children."
+      },
+      answer: "A"
+    },
+    {
+      question: "The phrase 'The winner is not the person who knows the most' shows that Daniel",
+      options: {
+        A: "values curiosity and continuous learning more than competition.",
+        B: "believes experts should avoid using technology.",
+        C: "thinks young people have too much confidence.",
+        D: "wants to become the leader of the astronomy group."
+      },
+      answer: "A"
+    },
+    {
+      question: "Why does the writer describe problems during the preparation stage?",
+      options: {
+        A: "To prove the project was badly organised.",
+        B: "To show that success required patience and cooperation.",
+        C: "To explain why Daniel wanted to leave.",
+        D: "To suggest technical equipment is unnecessary."
+      },
+      answer: "B"
+    },
+    {
+      question: "Which of the following best summarises Daniel's experience?",
+      options: {
+        A: "Professional success is more important than personal interests.",
+        B: "Adults should avoid changing their lifestyle.",
+        C: "Old hobbies can become meaningful parts of life again.",
+        D: "Scientific projects are mainly useful for young students."
+      },
+      answer: "C"
+    }
+  ]
 }
 ];
