@@ -8518,5 +8518,315 @@ Looking back, Daniel believed that people did not stop growing when they became 
       answer: "C"
     }
   ]
+},
+{
+  date: "2026-08-25",
+  title: "The Cinema That Almost Disappeared",
+  level: "FCE / B2",
+
+  vocabulary: [
+    {
+      word: "ceiling",
+      meaning: "天花板；上限",
+      example: "The old cinema had a damaged ceiling."
+    },
+    {
+      word: "catch",
+      meaning: "抓住；赶上；理解",
+      example: "She caught the meaning of the old man's story."
+    },
+    {
+      word: "disaster",
+      meaning: "灾难",
+      example: "The fire was a disaster for the small town."
+    },
+    {
+      word: "put out",
+      meaning: "扑灭；发布；拿出",
+      example: "Firefighters quickly put out the fire."
+    },
+    {
+      word: "circle",
+      meaning: "圆圈；圈出；环绕",
+      example: "Visitors formed a circle around the old stage."
+    },
+    {
+      word: "forecast",
+      meaning: "预测；预报",
+      example: "The weather forecast warned people about storms."
+    },
+    {
+      word: "broad",
+      meaning: "宽广的；广泛的",
+      example: "The project had a broad influence."
+    },
+    {
+      word: "set",
+      meaning: "设置；安排；一组",
+      example: "The team set a clear goal."
+    },
+    {
+      word: "decay",
+      meaning: "腐烂；衰退",
+      example: "The building had suffered years of decay."
+    },
+    {
+      word: "consist",
+      meaning: "组成；构成",
+      example: "The programme consisted of several parts."
+    },
+    {
+      word: "deal out",
+      meaning: "分配",
+      example: "Volunteers dealt out information to visitors."
+    },
+    {
+      word: "nail",
+      meaning: "钉子；固定；抓获",
+      example: "Workers used nails to repair the wooden seats."
+    },
+    {
+      word: "point",
+      meaning: "观点；要点；指向",
+      example: "The main point was to save local history."
+    },
+    {
+      word: "practical",
+      meaning: "实际的；实用的",
+      example: "They needed a practical solution."
+    },
+    {
+      word: "million",
+      meaning: "百万；大量",
+      example: "The film had attracted millions of viewers."
+    },
+    {
+      word: "leave out",
+      meaning: "遗漏；省略",
+      example: "The article should not leave out important facts."
+    },
+    {
+      word: "advice",
+      meaning: "建议",
+      example: "She followed her teacher's advice."
+    },
+    {
+      word: "distribute",
+      meaning: "分发；分配",
+      example: "Students distributed tickets at the entrance."
+    },
+    {
+      word: "sustain",
+      meaning: "维持；支持",
+      example: "The community tried to sustain the cinema."
+    },
+    {
+      word: "necklace",
+      meaning: "项链",
+      example: "An old necklace was found behind the stage."
+    },
+    {
+      word: "contract",
+      meaning: "合同；签合同",
+      example: "The architect signed a contract."
+    },
+    {
+      word: "amount",
+      meaning: "数量；金额",
+      example: "A large amount of money was needed."
+    },
+    {
+      word: "tragedy",
+      meaning: "悲剧；灾难",
+      example: "The accident became a local tragedy."
+    },
+    {
+      word: "come back",
+      meaning: "回来；恢复",
+      example: "The cinema slowly came back to life."
+    },
+    {
+      word: "typical",
+      meaning: "典型的",
+      example: "It was a typical small-town cinema."
+    },
+    {
+      word: "scheme",
+      meaning: "计划；方案",
+      example: "The repair scheme attracted support."
+    },
+    {
+      word: "composition",
+      meaning: "构成；作品；作文",
+      example: "The composition of the building was unusual."
+    },
+    {
+      word: "look up",
+      meaning: "查找；改善；抬头看",
+      example: "She looked up information about the cinema."
+    },
+    {
+      word: "quarrelsome",
+      meaning: "爱争吵的",
+      example: "The committee was sometimes quarrelsome."
+    },
+    {
+      word: "loose",
+      meaning: "松的；不固定的",
+      example: "A loose piece of wood fell from the roof."
+    },
+    {
+      word: "up to",
+      meaning: "达到；取决于；胜任",
+      example: "The final decision was up to the residents."
+    },
+    {
+      word: "dependable",
+      meaning: "可靠的",
+      example: "They needed dependable workers."
+    },
+    {
+      word: "sort",
+      meaning: "种类；分类；整理",
+      example: "The team sorted old photographs."
+    },
+    {
+      word: "overcome",
+      meaning: "克服",
+      example: "They overcame many difficulties."
+    },
+    {
+      word: "publish",
+      meaning: "出版；发布",
+      example: "The newspaper published the story."
+    }
+  ],
+
+  passage: `
+The following article appeared in a local magazine.
+
+When Maya first walked into the old Riverside Cinema, she did not see a future. She saw a building slowly disappearing. The ceiling was damaged, several wooden seats were loose, and years of decay had changed what was once a popular meeting place into an empty room.
+
+For many residents, the cinema represented a tragedy. A small electrical fire years earlier had caused serious damage, although firefighters managed to put out the flames quickly. After that, the owner left the building unused. People believed the cinema would never come back.
+
+Maya disagreed.
+
+As a young architect, she was interested in buildings that told stories. She believed that restoring the cinema was not simply about repairing walls. It was about protecting a part of local memory. Her plan consisted of three stages: repairing the structure, collecting personal stories and creating new activities for visitors.
+
+At first, the project seemed impossible. The amount of money required was far beyond what the town could provide. Some residents were supportive, while others were more doubtful. The local committee was known for being quarrelsome, and meetings often lasted for hours.
+
+One member asked, "Is this really a practical idea, or just a dream?"
+
+Maya listened carefully. She did not want to leave out anyone's concerns. Following advice from older residents, she changed some parts of the scheme. Instead of making the cinema only a place for films, she designed a broader cultural space. It would include music performances, photography exhibitions and history talks.
+
+The project received unexpected help. A businessman offered to sign a contract that would support repairs. A group of volunteers distributed information throughout the town. The local newspaper decided to publish Maya's story.
+
+However, problems continued.
+
+A weather forecast predicted several storms during the construction period. Workers discovered that some parts of the roof were not safe. A loose metal piece had to be removed before anyone could enter. The team had to decide whether they were up to the challenge.
+
+Maya admitted that she sometimes felt worried. But she also knew that every large project faced difficulties. The important point was learning how to overcome them.
+
+Months later, the cinema reopened.
+
+The first event was not a typical movie night. Instead, visitors stood in a circle around the old stage while former residents shared memories. A musician performed a new composition inspired by sounds recorded inside the building. An elderly woman brought a necklace she had worn on her first cinema visit fifty years earlier.
+
+The atmosphere was completely different from before. The empty building had become a place where different generations could connect.
+
+The final cost of the project was still high, but the result proved valuable. The cinema did not become a huge commercial attraction visited by millions of people. Instead, it became something more meaningful: a dependable place for the community.
+
+Looking back, Maya said the most important lesson was simple. "Restoration is not about bringing back the past exactly as it was. It is about understanding what people need today."
+
+The Riverside Cinema survived because people were willing to change their ideas, work together and believe that old places could have new purposes.
+`,
+
+  translation: `
+以下文章刊登在一本地方杂志上。
+
+当玛雅第一次走进老河滨电影院时，她没有看到未来。她看到的是一座正在慢慢消失的建筑。天花板受损，几排木质座椅松动，多年的衰败让这个曾经受欢迎的聚会场所变成了一间空房。
+
+对于很多居民来说，电影院代表着一种悲剧。多年前的一场小型电气火灾造成了严重损害，虽然消防员很快扑灭了火焰。但之后，老板放弃了这栋建筑。人们认为电影院再也不会恢复。
+
+玛雅并不同意。
+
+作为年轻建筑师，她对能够讲述故事的建筑很感兴趣。她认为修复电影院并不只是修墙，而是在保护当地记忆。她的计划包括三个阶段：修复结构、收集个人故事，并创造新的活动。
+
+起初，这个项目看起来不可能完成。需要的钱远远超过小镇能够提供的数量。一些居民支持，也有人怀疑。当地委员会以容易争吵而闻名，会议经常持续几个小时。
+
+一名成员问：“这到底是一个实际计划，还是一个梦想？”
+
+玛雅认真听取意见。她不想遗漏任何人的担忧。在老居民建议下，她调整了方案。电影院不再只是看电影的地方，而是变成一个更广泛的文化空间。
+
+后来，项目获得了意外帮助。企业家签署合同支持修复工作，志愿者在镇上传播信息，当地报纸也发表了玛雅的故事。
+
+然而，问题仍然存在。
+
+天气预报显示施工期间会有几场暴风雨。工作人员发现部分屋顶不安全，一块松动的金属必须被移除。团队必须决定自己是否能够面对挑战。
+
+几个月后，电影院重新开放。
+
+第一次活动并不是普通电影之夜，而是人们围成一圈站在旧舞台周围，听老居民分享回忆。一位音乐家创作了一首受建筑声音启发的新作品。一位老妇人带来了五十年前第一次去电影院时佩戴的项链。
+
+这个地方完全改变了。空荡荡的建筑变成了连接不同年龄人群的空间。
+
+最终成本仍然很高，但结果证明非常值得。电影院没有成为每天吸引数百万游客的大型商业景点，而成为社区可靠的重要场所。
+
+玛雅说，最大的启示很简单：“修复不是完全复制过去，而是理解今天人们真正需要什么。”
+
+河滨电影院能够生存下来，是因为人们愿意改变想法、共同努力，并相信旧建筑也可以拥有新的用途。
+`,
+
+  questions: [
+    {
+      question: "Why did Maya disagree with residents who thought the cinema had no future?",
+      options: {
+        A: "She believed the building could become more modern than other cinemas.",
+        B: "She thought the cinema had value beyond simply showing films.",
+        C: "She wanted to prove that architects could earn more money.",
+        D: "She knew the government would pay for all repairs."
+      },
+      answer: "B"
+    },
+    {
+      question: "What does the writer suggest about the committee meetings?",
+      options: {
+        A: "They were unnecessary because everyone supported Maya.",
+        B: "They focused mainly on technical problems.",
+        C: "They prevented the project from receiving any support.",
+        D: "They showed that reaching agreement was difficult."
+      },
+      answer: "D"
+    },
+    {
+      question: "Why did Maya change the original scheme?",
+      options: {
+        A: "She wanted the cinema to serve a wider range of community needs.",
+        B: "She discovered films were no longer popular.",
+        C: "She lacked enough knowledge about architecture.",
+        D: "She wanted to reduce all cultural activities."
+      },
+      answer: "A"
+    },
+    {
+      question: "What is the purpose of mentioning the necklace in the article?",
+      options: {
+        A: "To show that visitors had expensive possessions.",
+        B: "To explain why the cinema needed better security.",
+        C: "To demonstrate how personal memories gave the place meaning.",
+        D: "To suggest the cinema should become a museum."
+      },
+      answer: "C"
+    },
+    {
+      question: "Which statement best summarises Maya's attitude towards restoration?",
+      options: {
+        A: "Old buildings should remain exactly unchanged.",
+        B: "Successful restoration requires adapting to present needs.",
+        C: "Large projects are only possible with huge amounts of money.",
+        D: "Communities should avoid changing traditional places."
+      },
+      answer: "B"
+    }
+  ]
 }
 ];
