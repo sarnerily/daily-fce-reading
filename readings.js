@@ -8828,5 +8828,391 @@ The Riverside Cinema survived because people were willing to change their ideas,
       answer: "B"
     }
   ]
+},
+{
+  date: "2026-08-26",
+  title: "The Dusk Train",
+  level: "FCE / B2+",
+
+  vocabulary: [
+    {
+      word: "point to",
+      meaning: "指向；表明；针对",
+      example: "Several details pointed to a deeper problem with the rail service."
+    },
+    {
+      word: "amend",
+      meaning: "修正；修改",
+      example: "The organiser had to amend the route after complaints."
+    },
+    {
+      word: "conclusive",
+      meaning: "确凿的；结论性的",
+      example: "There was no conclusive evidence that the event was unsafe."
+    },
+    {
+      word: "jumble",
+      meaning: "杂乱的一堆；混乱的一团",
+      example: "The old ticket office was a jumble of boxes, posters and cables."
+    },
+    {
+      word: "import",
+      meaning: "进口；引进；重要性",
+      example: "The town used to import wool through the harbour."
+    },
+    {
+      word: "shame",
+      meaning: "羞愧；遗憾；使羞愧",
+      example: "It would be a shame to lose the old railway."
+    },
+    {
+      word: "rail",
+      meaning: "铁轨；栏杆；扶手",
+      example: "The rail line connected several small villages."
+    },
+    {
+      word: "yearly",
+      meaning: "每年的；年度的",
+      example: "The dusk train had become a yearly tradition."
+    },
+    {
+      word: "cousin",
+      meaning: "堂兄弟姐妹；表兄弟姐妹",
+      example: "Mina came with her cousin, who loved trains."
+    },
+    {
+      word: "own",
+      meaning: "自己的；拥有；承认",
+      example: "Each passenger had their own reason for joining the journey."
+    },
+    {
+      word: "anyway",
+      meaning: "无论如何；反正；不管怎样",
+      example: "The weather was poor, but they decided to go anyway."
+    },
+    {
+      word: "dive",
+      meaning: "猛冲；跳水；潜水",
+      example: "A bird seemed to dive through the evening light."
+    },
+    {
+      word: "impatience",
+      meaning: "不耐烦；急切",
+      example: "Impatience spread when the train failed to move."
+    },
+    {
+      word: "video",
+      meaning: "视频；录像",
+      example: "A short video of the delay spread online."
+    },
+    {
+      word: "pattern",
+      meaning: "模式；图案；规律",
+      example: "The complaints followed a familiar pattern."
+    },
+    {
+      word: "regarding",
+      meaning: "关于；至于",
+      example: "There were strict rules regarding passenger safety."
+    },
+    {
+      word: "income",
+      meaning: "收入；收益",
+      example: "The railway needed extra income to survive."
+    },
+    {
+      word: "escape",
+      meaning: "逃离；摆脱；逃脱",
+      example: "For many visitors, the train offered an escape from city life."
+    },
+    {
+      word: "within",
+      meaning: "在……之内；不超过",
+      example: "The organiser promised a decision within an hour."
+    },
+    {
+      word: "experience",
+      meaning: "经历；体验；经验",
+      example: "The journey was meant to be an experience, not just transport."
+    },
+    {
+      word: "rest",
+      meaning: "休息；其余部分；剩余的人或物",
+      example: "The rest of the group waited on the platform."
+    },
+    {
+      word: "optician",
+      meaning: "眼镜商；验光师",
+      example: "An optician helped repair a passenger's broken glasses."
+    },
+    {
+      word: "blind",
+      meaning: "失明的；盲目的；视而不见的",
+      example: "One of the poets was blind and used sound to describe places."
+    },
+    {
+      word: "role",
+      meaning: "作用；角色",
+      example: "The old railway had played an important role in village life."
+    },
+    {
+      word: "poet",
+      meaning: "诗人",
+      example: "A local poet read during the journey."
+    },
+    {
+      word: "break down",
+      meaning: "出故障；崩溃；分解",
+      example: "The train appeared to break down before leaving the station."
+    },
+    {
+      word: "punishment",
+      meaning: "惩罚；处罚",
+      example: "The manager said blame and punishment would not fix the problem."
+    },
+    {
+      word: "move off",
+      meaning: "离开；出发",
+      example: "The train finally began to move off after dusk."
+    },
+    {
+      word: "pharmacist",
+      meaning: "药剂师；药房工作人员",
+      example: "A pharmacist on board helped a passenger who felt unwell."
+    },
+    {
+      word: "addition",
+      meaning: "增加；附加物；加法",
+      example: "The poetry reading was a new addition to the journey."
+    },
+    {
+      word: "strict",
+      meaning: "严格的；严厉的",
+      example: "The railway had strict rules about emergency exits."
+    },
+    {
+      word: "disabled",
+      meaning: "残疾的；丧失能力的",
+      example: "The organisers wanted the journey to be suitable for disabled passengers."
+    },
+    {
+      word: "send for",
+      meaning: "派人去叫；派人去拿；订购",
+      example: "They had to send for a mechanic from the next town."
+    },
+    {
+      word: "see off",
+      meaning: "为……送行；送别",
+      example: "Families came to see off the passengers."
+    },
+    {
+      word: "aware",
+      meaning: "知道的；意识到的",
+      example: "Mina became aware that the delay was not the real issue."
+    },
+    {
+      word: "fee",
+      meaning: "费用；报酬",
+      example: "Some passengers asked whether the ticket fee would be returned."
+    },
+    {
+      word: "refund",
+      meaning: "退款；退还",
+      example: "The organiser offered a refund to anyone who wanted to leave."
+    },
+    {
+      word: "in addition to",
+      meaning: "除……之外还",
+      example: "In addition to music, the event included local memories."
+    },
+    {
+      word: "curiosity",
+      meaning: "好奇心；求知欲",
+      example: "Curiosity kept most passengers on the platform."
+    },
+    {
+      word: "direct",
+      meaning: "直接的；指导；指路",
+      example: "The manager gave direct instructions to the volunteers."
+    },
+    {
+      word: "dusk",
+      meaning: "黄昏；傍晚",
+      example: "The train was supposed to leave at dusk."
+    },
+    {
+      word: "quiz",
+      meaning: "小测验；知识竞赛；询问",
+      example: "A short local-history quiz was planned for the return journey."
+    }
+  ],
+
+  passage: `
+The following feature article appeared in a regional travel magazine.
+
+The Dusk Train was never designed to be fast. It ran only once a year along the old North Valley rail line, leaving the harbour station just as the evening light began to fade. Its attraction was not speed, but atmosphere: the sound of wheels on old track, the darkening fields, and the feeling that ordinary villages could briefly become mysterious.
+
+For years, the event had helped support the railway. Ticket fees provided a small but useful income, and local businesses welcomed visitors who came for the yearly journey. In addition to the ride itself, there was usually a local-history quiz, tea served from a narrow stall, and a short talk about the line's former role in carrying wool, fish and imported goods between the coast and the inland towns.
+
+This year, however, the organisers wanted to change the programme. They invited two poets to read during the journey. One of them, Iris Bell, was blind and wrote mainly about sound, movement and memory. The other, a younger poet called Nathan, had grown up beside the line and had once described the railway as "a long sentence written across the valley".
+
+Not everyone liked the addition. Some regular passengers said poetry would make the event too serious. Others worried that the old carriages were not suitable for disabled travellers. The manager, Helen, amended the seating plan twice and introduced strict rules regarding access, emergency exits and platform movement. She also asked an optician, a pharmacist and several trained volunteers to travel on board, not because she expected danger, but because she wanted the event to be practical rather than merely romantic.
+
+At first, the evening seemed promising. Families came to see off the passengers, children pressed their faces against the windows, and a middle-aged man explained to his cousin that the original line had taken ten years to build. The ticket office, normally a jumble of old maps and broken signs, had been cleared. Outside, the sky was silver, and a bird seemed to dive through the air above the rails.
+
+Then the train failed to move off.
+
+For five minutes, people laughed. For ten minutes, they checked their watches. After twenty minutes, impatience began to spread. A rumour moved along the platform that the engine had broken down. Someone posted a video showing Helen speaking urgently into her phone, and within minutes online comments accused the organisers of selling tickets for an unsafe experience.
+
+The claim was not conclusive. In fact, no one yet knew what had happened. The driver had noticed an unusual sound and stopped the departure before the train moved. It could point to an engine fault, or it could be something minor. Helen refused to guess. She gave direct instructions: passengers could wait on the platform, receive a refund, or move to the station hall while the team sent for a mechanic.
+
+Some people were angry about the fee. One man said the delay was a disaster and demanded punishment for whoever had allowed an old train to be used. Iris Bell, standing near the rail with her guide dog resting beside her, listened quietly. Then she said, "It would be a shame if the first thing we did with uncertainty was look for someone to blame."
+
+Her words changed the mood, though not immediately. A few passengers still left anyway. The rest waited.
+
+Inside the station hall, the planned journey began to turn into something else. Nathan read a poem about a boy who wanted to escape his village, only to realise years later that the place he had rejected still shaped his own voice. Iris asked passengers to close their eyes while she described the sounds around them: the hum of the lights, rain beginning to tap the roof, the soft movement of people trying not to appear disappointed.
+
+A disabled passenger named Mark said the delay had made him aware of something most travellers ignored. "People talk about access as if it only matters when everything goes wrong," he said. "But access is part of the experience from the beginning." Helen asked if he would help review the event next year, and he agreed, provided his advice was not simply added as decoration.
+
+Meanwhile, the mechanic arrived. The problem was less dramatic than the online video had suggested: a loose cover near the engine had created a noise. It was repaired within half an hour. The train was safe to run, though later than planned.
+
+By then, dusk had deepened into night. Helen offered passengers another chance to take a refund, but most stayed. When the train finally moved off, no one cheered. They listened.
+
+The valley outside was almost invisible, but that made the sounds clearer: the rhythm of the rails, the rain on glass, Iris's voice reading about darkness not as absence, but as a different pattern of attention. The event no longer consisted of a simple ride plus entertainment. It had become a lesson in how people cope with uncertainty together.
+
+The next day, Helen published a statement. She did not pretend the evening had gone perfectly. She explained what had happened, corrected false claims and promised to amend future publicity so that passengers understood the age and limits of the railway. She also announced that next year's planning group would include disabled passengers from the start.
+
+Some online critics continued to complain. But the broader response was unexpectedly positive. The Dusk Train had not delivered the experience people had paid for. It had given them another one: less smooth, less predictable, but perhaps more honest.
+
+As Iris later said, "A journey does not always begin when the wheels turn. Sometimes it begins when a plan stops working, and people have to decide what kind of passengers they are."
+`,
+
+  translation: `
+以下特写文章发表于一本地区旅行杂志。
+
+“黄昏列车”从来不是为了追求速度而设计的。它每年只在北谷旧铁路线运行一次，在傍晚光线开始暗下去的时候，从港口车站出发。它的吸引力不在速度，而在氛围：旧铁轨上车轮的声音，逐渐变暗的田野，以及一种普通村庄短暂变得神秘的感觉。
+
+多年来，这项活动一直帮助维持这条铁路。车票费用带来了一小笔但有用的收入，当地商家也欢迎那些为年度旅程而来的游客。除了乘车本身，活动通常还包括一场地方历史小测验、从狭窄摊位供应的茶，以及一段简短讲解，介绍这条线路过去在海岸和内陆城镇之间运输羊毛、鱼类和进口货物时发挥的作用。
+
+然而，今年，组织者想改变节目。他们邀请了两位诗人在旅途中朗读作品。其中一位叫艾丽斯·贝尔，是一位盲人诗人，主要写声音、移动和记忆。另一位是年轻诗人内森，他在铁路沿线长大，曾把这条铁路形容为“写在山谷上的一条长句子”。
+
+并不是所有人都喜欢这个新增安排。一些常客说，诗歌会让活动变得过于严肃。另一些人担心旧车厢不适合残疾乘客。经理海伦两次修改座位安排，并制定了关于通行、紧急出口和站台移动的严格规则。她还请一名验光师、一名药剂师和几名受过训练的志愿者随车同行。这样做并不是因为她预料会有危险，而是因为她希望活动是实际可行的，而不只是浪漫的想象。
+
+起初，傍晚看起来很有希望。家人们来为乘客送行，孩子们把脸贴在车窗上，一位中年男子向自己的表弟解释说，最早修建这条铁路花了十年。售票处平时是一堆旧地图和破标牌的混乱空间，如今已经被清理干净。外面的天空呈银灰色，一只鸟像是从铁轨上方俯冲穿过空气。
+
+然后，火车没有开动。
+
+五分钟内，人们还在笑。十分钟后，他们开始看表。二十分钟后，不耐烦开始蔓延。站台上传出一个说法：发动机坏了。有人发布了一段视频，画面里海伦正在急切地打电话。几分钟之内，网上评论就指责组织者出售不安全体验的车票。
+
+这个说法并没有确凿证据。事实上，当时还没人知道到底发生了什么。司机注意到异常声音，所以在列车移动前停止了出发。它可能指向发动机故障，也可能只是小问题。海伦拒绝猜测。她给出直接指示：乘客可以在站台等候，可以领取退款，也可以去车站大厅休息，同时团队派人去叫下一镇的机械师。
+
+一些人对票价很生气。一名男子说，这次延误是一场灾难，并要求惩罚允许使用旧列车的人。艾丽斯·贝尔站在栏杆附近，导盲犬安静地卧在她身旁。她听了一会儿，然后说：“如果面对不确定性时，我们做的第一件事就是寻找责怪对象，那真是太遗憾了。”
+
+她的话改变了气氛，虽然并不是立刻见效。仍有几名乘客离开了。其余的人留下来等候。
+
+在车站大厅里，原定的旅程开始变成另一种东西。内森朗读了一首诗，讲一个男孩曾想逃离自己的村庄，却在多年后意识到，自己曾经拒绝的地方仍然塑造着自己的声音。艾丽斯请乘客闭上眼睛，听她描述周围的声音：灯光的嗡嗡声，雨开始敲打屋顶的声音，人们努力不让自己显得失望时轻微的移动声。
+
+一名叫马克的残疾乘客说，这次延误让他意识到一件大多数旅客忽略的事。“人们谈论无障碍通行，好像只有事情出错时它才重要，”他说，“但无障碍从一开始就是体验的一部分。”海伦问他是否愿意帮助审查明年的活动，他同意了，条件是他的建议不能只是作为装饰性的补充。
+
+与此同时，机械师到了。问题没有网上视频暗示得那么戏剧化：发动机附近一个松动的盖板发出了噪音。半小时内修好了。列车可以安全运行，只是比计划晚了。
+
+那时，黄昏已经变成黑夜。海伦再次提出，愿意退款给想离开的人，但大多数人留了下来。列车终于启动时，没有人欢呼。大家只是倾听。
+
+窗外的山谷几乎看不见了，但这让声音更加清晰：铁轨的节奏，雨打在玻璃上的声音，艾丽斯的声音。她朗读着黑暗并不是缺席，而是一种不同的注意力模式。这个活动不再只是一次乘车加娱乐节目。它变成了一堂课：人们如何共同面对不确定性。
+
+第二天，海伦发布了一份声明。她没有假装那天晚上完美无缺。她解释了发生的事，纠正了错误说法，并承诺今后的宣传会修改，让乘客了解这条铁路的年代和限制。她还宣布，明年的筹备小组将从一开始就包括残疾乘客。
+
+一些网上批评者继续抱怨。但更广泛的反应出人意料地积极。黄昏列车没有提供人们付费购买的那种体验。它给了他们另一种体验：不那么顺利，不那么可预测，但也许更加真实。
+
+正如艾丽斯后来所说：“旅程并不总是在车轮转动时开始。有时候，它开始于计划停止运转时，人们不得不决定自己要成为什么样的乘客。”
+`,
+
+  questions: [
+    {
+      question: "Why does the writer describe the Dusk Train as being valued for “atmosphere” rather than speed?",
+      options: {
+        A: "To suggest that the railway is too slow to be useful anymore.",
+        B: "To show that passengers mainly care about historical facts.",
+        C: "To establish that the event is meant to offer a mood and memory, not ordinary transport.",
+        D: "To explain why the railway earns very little income."
+      },
+      answer: "C",
+      explanation: {
+        correct: "C是正确答案。这是FCE常见的开头作用题。原文说attraction was not speed, but atmosphere，题目中的 mood and memory 是对 atmosphere、darkening fields、mysterious feeling 的同义概括。",
+        A: "A不对。文章不是说这条铁路已经没有用，而是说这项活动的价值不在速度。",
+        B: "B不对。历史事实是活动的一部分，但开头强调的是体验氛围。",
+        C: "C对。这个选项准确解释了作者为什么这样开篇。",
+        D: "D不对。income 后文出现，但不是这一句的主要作用。"
+      }
+    },
+    {
+      question: "Why does Helen include an optician, a pharmacist and trained volunteers on the train?",
+      options: {
+        A: "She wants the event to be prepared for real passenger needs rather than only looking attractive.",
+        B: "She expects serious medical problems to happen during the journey.",
+        C: "She wants to increase the ticket fee by adding professional services.",
+        D: "She believes poetry readings are unsafe without medical staff."
+      },
+      answer: "A",
+      explanation: {
+        correct: "A是正确答案。原文说她这样做不是因为预料危险，而是希望活动practical rather than merely romantic。题目中的 real passenger needs 和 only looking attractive 是对 practical / romantic 的同义替换。",
+        A: "A对。Helen关注的是实际可行性和乘客需要。",
+        B: "B不对。文章明确说 not because she expected danger。",
+        C: "C不对。没有说她借此提高票价。",
+        D: "D不对。安全安排不是因为诗歌本身危险。"
+      }
+    },
+    {
+      question: "What is the effect of the online video of Helen on the platform?",
+      options: {
+        A: "It gives conclusive proof that the train should not run.",
+        B: "It helps passengers understand the technical problem clearly.",
+        C: "It makes the delay seem less serious than it is.",
+        D: "It encourages people to judge the situation before enough facts are known."
+      },
+      answer: "D",
+      explanation: {
+        correct: "D是正确答案。这道题考事件作用。视频发布后，网上立刻有人指责活动不安全，但文章明确说claim was not conclusive。D中的 before enough facts are known 对应 no one yet knew what had happened。",
+        A: "A不对。文章明确说没有conclusive证据。",
+        B: "B不对。视频没有帮助解释技术问题，反而制造误判。",
+        C: "C不对。它让事情显得更严重，而不是更轻。",
+        D: "D对。视频推动了过早判断和指责。"
+      }
+    },
+    {
+      question: "What does Mark’s comment about access add to the article?",
+      options: {
+        A: "It shows that disabled passengers should avoid old railways.",
+        B: "It shifts attention from the delay itself to how the whole experience is designed.",
+        C: "It proves that Helen ignored all advice regarding disabled passengers.",
+        D: "It suggests that poetry is less important than practical information."
+      },
+      answer: "B",
+      explanation: {
+        correct: "B是正确答案。Mark指出access不是出问题时才重要，而是从一开始就是experience的一部分。这把问题从“列车延误”扩大到“活动如何设计才能让不同人参与”。",
+        A: "A不对。文章不是建议disabled passengers避免老铁路，而是要从一开始考虑他们。",
+        B: "B对。这个选项准确概括了Mark评论的逻辑作用。",
+        C: "C不对。Helen已经做了不少安排，并且邀请Mark参与明年评估。",
+        D: "D不对。文章没有把诗歌和实践信息简单对立。"
+      }
+    },
+    {
+      question: "Which statement best expresses the main idea of the passage?",
+      options: {
+        A: "Old railways can survive only by avoiding difficult changes.",
+        B: "A delayed event can still succeed if passengers receive a full refund.",
+        C: "A disrupted plan can reveal whether an experience is genuinely inclusive and meaningful.",
+        D: "Public criticism usually gives organisers the most accurate advice."
+      },
+      answer: "C",
+      explanation: {
+        correct: "C是正确答案。全文不是单纯写火车延误，而是写计划出问题后，人们如何面对不确定性、无障碍、误解和体验本身的意义。disrupted plan 对应 plan stops working，inclusive and meaningful 对应access和listening的主题。",
+        A: "A不对。文章恰恰说明老铁路需要改变和修正。",
+        B: "B不对。退款是一个处理选项，但不是活动成功的关键。",
+        C: "C对。这是全文最准确的概括。",
+        D: "D不对。网上批评很多并不准确，不能说public criticism usually most accurate。"
+      }
+    }
+  ]
 }
 ];
