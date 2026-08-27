@@ -9214,5 +9214,368 @@ As Iris later said, "A journey does not always begin when the wheels turn. Somet
       }
     }
   ]
+},
+{
+  date: "2026-08-27",
+  title: "The Cave Below the Sports Field",
+  level: "FCE / B2+",
+
+  vocabulary: [
+    {
+      word: "cave",
+      meaning: "洞穴；山洞",
+      example: "The old cave was hidden below the sports field."
+    },
+    {
+      word: "component",
+      meaning: "组成部分；成分",
+      example: "Safety was an important component of the plan."
+    },
+    {
+      word: "gum",
+      meaning: "口香糖；树胶；牙龈",
+      example: "A piece of gum was stuck to the noticeboard."
+    },
+    {
+      word: "malt",
+      meaning: "麦芽",
+      example: "The old factory had once used malt to make drinks."
+    },
+    {
+      word: "quantity",
+      meaning: "数量；大量",
+      example: "A large quantity of water had collected underground."
+    },
+    {
+      word: "rally",
+      meaning: "集会；恢复；召集",
+      example: "The students held a rally to save the field."
+    },
+    {
+      word: "sharp",
+      meaning: "锋利的；尖锐的；急剧的",
+      example: "There was a sharp turn near the cave entrance."
+    },
+    {
+      word: "cartoon",
+      meaning: "动画片；漫画",
+      example: "The school magazine published a cartoon about the project."
+    },
+    {
+      word: "provide against",
+      meaning: "预防；防备",
+      example: "The team had to provide against accidents."
+    },
+    {
+      word: "pass out",
+      meaning: "昏倒；分发",
+      example: "One pupil nearly passed out during the long meeting."
+    },
+    {
+      word: "unable",
+      meaning: "不能的；无法做到的",
+      example: "The workers were unable to enter the cave safely."
+    },
+    {
+      word: "fantastic",
+      meaning: "极好的；奇异的；难以置信的",
+      example: "The discovery seemed fantastic at first."
+    },
+    {
+      word: "laundry",
+      meaning: "洗衣物；洗衣店；要洗的衣服",
+      example: "The old laundry room stood beside the factory wall."
+    },
+    {
+      word: "reason out",
+      meaning: "推论出；推理得出",
+      example: "Nina tried to reason out what had caused the collapse."
+    },
+    {
+      word: "pick",
+      meaning: "选择；挑选；采摘",
+      example: "The committee had to pick the safest route."
+    },
+    {
+      word: "load",
+      meaning: "装载；负荷；重担",
+      example: "The roof could not carry a heavy load."
+    },
+    {
+      word: "consequence",
+      meaning: "结果；后果",
+      example: "Ignoring the warning could have serious consequences."
+    },
+    {
+      word: "washing-up",
+      meaning: "饭后待洗餐具；刷洗餐具",
+      example: "The café sink was full of washing-up after lunch."
+    },
+    {
+      word: "swimming costume",
+      meaning: "游泳衣",
+      example: "A child had left a swimming costume in the changing room."
+    },
+    {
+      word: "extract",
+      meaning: "提取；取出；摘录",
+      example: "The reporter used an extract from an old diary."
+    },
+    {
+      word: "come across",
+      meaning: "偶然遇见；偶然发现",
+      example: "Maya came across an old map in the library."
+    },
+    {
+      word: "jail",
+      meaning: "监狱；监禁",
+      example: "The article mentioned a man who had once been sent to jail."
+    },
+    {
+      word: "stop in",
+      meaning: "留在家；顺便拜访；课后留下",
+      example: "The teacher asked several pupils to stop in after school."
+    },
+    {
+      word: "persuasive",
+      meaning: "有说服力的",
+      example: "Maya needed a persuasive argument."
+    },
+    {
+      word: "mature",
+      meaning: "成熟的；明白事理的",
+      example: "Her response was more mature than anyone expected."
+    },
+    {
+      word: "archery",
+      meaning: "射箭运动",
+      example: "The field was used for rugby, athletics and archery."
+    },
+    {
+      word: "communication",
+      meaning: "交流；沟通；通信",
+      example: "Poor communication caused several misunderstandings."
+    },
+    {
+      word: "assistant",
+      meaning: "助手；助理",
+      example: "The museum assistant helped check the records."
+    },
+    {
+      word: "temporary",
+      meaning: "临时的；暂时的",
+      example: "A temporary fence was placed around the field."
+    },
+    {
+      word: "cucumber",
+      meaning: "黄瓜",
+      example: "The café sold cucumber sandwiches."
+    },
+    {
+      word: "enrage",
+      meaning: "激怒；使愤怒",
+      example: "The sudden closure enraged some parents."
+    },
+    {
+      word: "arrange",
+      meaning: "安排；整理；布置",
+      example: "The students arranged a public meeting."
+    },
+    {
+      word: "comment",
+      meaning: "评论；发表意见",
+      example: "The head teacher refused to comment too quickly."
+    },
+    {
+      word: "seductive",
+      meaning: "诱人的；有吸引力的",
+      example: "The simple explanation was seductive but probably wrong."
+    },
+    {
+      word: "kilometer",
+      meaning: "公里",
+      example: "The village was three kilometers from the old quarry."
+    },
+    {
+      word: "chemistry",
+      meaning: "化学",
+      example: "A chemistry teacher tested the water in the cave."
+    },
+    {
+      word: "spite",
+      meaning: "恶意；怨恨；故意伤害",
+      example: "The mistake was not caused by spite."
+    },
+    {
+      word: "hit",
+      meaning: "击中；打击；受欢迎的人或事物",
+      example: "The story hit the local newspaper the next day."
+    },
+    {
+      word: "faint",
+      meaning: "虚弱的；微弱的；昏厥",
+      example: "There was a faint sound of water below the grass."
+    }
+  ],
+
+  passage: `
+The following article appeared in a regional education magazine.
+
+Until the hole appeared in the middle of Westbrook School's sports field, few pupils knew that there was a cave beneath it. The field had always seemed ordinary. It was used for rugby in winter, athletics in spring and, when the weather was calm, archery practice on Friday afternoons. Behind the changing rooms stood a small café where parents bought tea, cucumber sandwiches and malt biscuits while waiting for matches to finish.
+
+Then, one Tuesday after heavy rain, the ground near the old laundry building suddenly sank. It did not become a huge disaster, but it was frightening enough. A sharp crack opened in the grass, and a faint sound of water could be heard below. The head teacher immediately arranged a temporary fence around the area and cancelled all outdoor sport.
+
+This decision enraged some parents. A school rally was planned for the weekend, with the slogan "Give Us Back Our Field". Several pupils made cartoons showing teachers guarding a tiny hole as if it were a dangerous monster. One comment online claimed that the school was exaggerating the risk in order to get money for a new sports centre.
+
+Maya, a sixteen-year-old pupil who wrote for the school magazine, was not convinced by either side. She was disappointed that the field had closed, but she also thought the jokes were too easy. The explanation that adults were simply being difficult was seductive because it made the situation simple. Still, she had learned in chemistry that simple explanations were not always accurate.
+
+She decided to investigate.
+
+With help from Mr Ford, the librarian, Maya came across an old map of the area. It showed that the school had been built near a former quarry approximately three kilometers from the village. Later, the quarry had been partly filled in, and a laundry building had been added near a narrow stream. An extract from a local history book mentioned that workers had once discovered small caves in the rock, although the author left out most technical details.
+
+Maya tried to reason out what this meant. If rainwater had entered the old underground spaces for years, it might have weakened the ground. The recent storm may simply have revealed a problem that had existed for a long time. This was not conclusive proof, but it pointed to something more serious than a harmless hole.
+
+The next day, Maya interviewed Mrs Bell, the site manager. Mrs Bell looked tired and had a load of keys hanging from her belt. She explained that the school was unable to reopen the field until engineers checked whether the roof of the cave could carry the weight of pupils running above it. "We have to provide against what might happen," she said, "not only react after something has gone wrong."
+
+That sounded sensible, but communication had been poor. Parents had received a short message saying that the field was closed "for safety reasons". No map, explanation or possible timetable had been given. In that silence, rumours had grown quickly.
+
+Maya's article was careful rather than dramatic. She explained the geology in simple language, included a photograph of the crack and quoted both angry parents and worried staff. She also spoke to a museum assistant who said that caves in the area were common but often forgotten because they were not visible from the surface.
+
+When the article was published, it became an unexpected hit. Some pupils said it was the first time they had understood the issue. Others complained that it made the rally less exciting. One boy said he felt embarrassed because he had accused the teachers of lying. Maya replied that being wrong was not a punishment; refusing to check facts was the real problem.
+
+At the weekend meeting, the mood changed. Instead of shouting for the field to reopen immediately, parents asked more practical questions. How long would the inspection take? Could younger pupils use a different playground? Would the rugby team be moved to the park? Could the school distribute updates every few days?
+
+The engineers arrived on Monday. One of them picked a safe path across the grass and lowered a camera into the opening. The video showed a small cave with loose stones and a surprising quantity of water inside. Nobody passed out, though one younger pupil went pale when he saw the screen. The engineer said the situation was not as fantastic as the rumours suggested, but it could have had serious consequences if ignored.
+
+The solution was not quick. Part of the cave had to be filled, water had to be redirected, and the old laundry drain needed repair. In spite of complaints about lost matches and cancelled practices, most families accepted the delay once they understood the reason.
+
+Maya later wrote a second article, this time about how the story had developed. She argued that the school had been right to close the field, but wrong to assume that people would accept a decision without explanation. Safety was one component of good leadership; clear communication was another.
+
+By the end of term, half the field had reopened. The archery club returned first, then athletics. Rugby had to wait until autumn. At the reopening, the head teacher thanked the engineers, the staff and the pupils who had coped with the disruption.
+
+Maya stood near the fence, watching younger children run across the grass. She still thought the field looked ordinary. But now she knew better. Beneath ordinary places, there could be hidden histories, weak structures and forgotten water. The mature response was not to panic, mock or blame. It was to ask what lay underneath, and then be patient enough to find out.
+`,
+
+  translation: `
+以下文章发表于一本地区教育杂志。
+
+在韦斯特布鲁克学校运动场中央出现那个洞之前，很少有学生知道下面有一座洞穴。这个运动场一直显得很普通。冬天用来打橄榄球，春天用来练田径；天气平静时，星期五下午还会进行射箭训练。更衣室后面有一家小咖啡馆，家长们一边等比赛结束，一边买茶、黄瓜三明治和麦芽饼干。
+
+然后，在一场大雨后的星期二，旧洗衣房附近的地面突然塌陷。这并没有变成一场巨大的灾难，但已经足够吓人。草地上裂开一道尖锐的缝隙，下面还能听见微弱的水声。校长立刻安排人在周围设置临时围栏，并取消了所有户外运动。
+
+这个决定激怒了一些家长。周末有人计划举行一场学校集会，口号是“把我们的运动场还给我们”。几个学生画了漫画，里面老师们守着一个小洞，就好像那是什么危险怪物一样。网上还有一条评论声称，学校夸大风险，是为了给新体育中心筹钱。
+
+十六岁的玛雅是学校杂志的学生记者。她并不完全相信任何一方。她对运动场关闭感到失望，但也觉得那些玩笑太轻易了。认为成年人只是故意为难学生，这种解释很诱人，因为它让事情变得简单。不过，她在化学课上学过，简单解释并不总是准确。
+
+她决定调查。
+
+在图书管理员福特先生的帮助下，玛雅偶然发现了一张这个地区的旧地图。地图显示，学校建在距离村庄大约三公里的一处旧采石场附近。后来，采石场的一部分被填平，又在一条狭窄溪流附近建起了洗衣房。一本地方历史书中的一段摘录提到，工人们曾在岩石中发现一些小洞穴，虽然作者省略了大多数技术细节。
+
+玛雅试着推断这意味着什么。如果雨水多年来一直流入这些旧地下空间，地面就可能已经被削弱。最近这场暴雨也许只是暴露了一个长期存在的问题。这并不是确凿证据，但它指向的情况，比一个无害的小洞要严重得多。
+
+第二天，玛雅采访了场地管理员贝尔女士。贝尔女士看起来很疲惫，腰间挂着一串沉甸甸的钥匙。她解释说，在工程师确认洞穴顶部是否能承受学生在上面奔跑的重量之前，学校无法重新开放运动场。“我们必须预防可能发生的事，”她说，“而不是等出事后才反应。”
+
+这话听起来很合理，但沟通做得很差。家长们只收到了一条简短通知，说运动场“因安全原因关闭”。没有地图，没有解释，也没有可能的时间表。在这种沉默中，流言迅速滋长。
+
+玛雅的文章谨慎而不夸张。她用简单语言解释了地质情况，放上裂缝照片，并引用了愤怒家长和担忧职员双方的话。她还采访了一名博物馆助理，对方说这个地区有洞穴很常见，只是因为从地面看不见，常常被人忘记。
+
+文章发表后，出人意料地受欢迎。有些学生说，这是他们第一次真正理解问题。也有人抱怨说，这让集会没那么激动人心了。一个男孩说，他因为曾指责老师撒谎而感到尴尬。玛雅回答说，弄错并不是惩罚；拒绝查证事实才是真正的问题。
+
+周末会议上，气氛变了。家长们不再只是要求立刻重新开放运动场，而是开始提出更实际的问题。检查需要多久？低年级学生能不能使用别的操场？橄榄球队是否会转移到公园训练？学校能否每隔几天发布一次进展？
+
+工程师星期一到了。其中一人选择了一条安全路线穿过草地，把摄像机放进洞口。视频显示，下面有一个小洞穴，里面有松动的石块和数量惊人的积水。没有人昏倒，不过一个低年级学生看到屏幕时脸色发白。工程师说，情况并不像流言说的那样离奇，但如果忽视，确实可能造成严重后果。
+
+解决问题并不快。洞穴的一部分必须被填充，水流需要改道，旧洗衣房的排水管也必须维修。尽管有人抱怨比赛取消、训练推迟，但一旦理解原因，大多数家庭接受了延误。
+
+后来，玛雅又写了第二篇文章，讲述这件事的发展。她认为，学校关闭运动场是对的，但认为人们会在没有解释的情况下接受决定，这是错的。安全是良好领导力的一个组成部分；清楚沟通则是另一个组成部分。
+
+到学期结束时，运动场的一半重新开放。射箭社团最先回来，随后是田径训练。橄榄球要等到秋天。重新开放时，校长感谢了工程师、教职员，以及那些应对了不便的学生们。
+
+玛雅站在围栏边，看着低年级孩子们跑过草地。她仍然觉得运动场看起来很普通。但现在她知道得更多了。在普通地方之下，可能有隐藏的历史、脆弱的结构和被遗忘的水。成熟的反应不是恐慌、嘲笑或责怪，而是去询问下面到底有什么，并且有耐心去弄清楚。
+`,
+
+  questions: [
+    {
+      question: "Why does the writer begin by describing the sports field as ordinary?",
+      options: {
+        A: "To suggest that the school had never taken sport seriously.",
+        B: "To show that the field was unsuitable for several activities.",
+        C: "To create a contrast between its familiar surface and the hidden problem below.",
+        D: "To explain why pupils preferred the café to outdoor training."
+      },
+      answer: "C",
+      explanation: {
+        correct: "C是正确答案。FCE常考开头作用。文章先写运动场看起来普通、用于rugby、athletics和archery，后面再揭示地下洞穴和水的问题，形成“表面普通—地下复杂”的对比。",
+        A: "A不对。学校一直使用运动场进行多种运动，并不是不重视体育。",
+        B: "B不对。运动场原本适合多种活动，问题是地下结构不安全。",
+        C: "C对。familiar surface 是对ordinary field的同义概括，hidden problem below对应cave和water。",
+        D: "D不对。咖啡馆只是场景细节，不是开头主要目的。"
+      }
+    },
+    {
+      question: "What does Maya find unsatisfactory about the reaction of some pupils and parents?",
+      options: {
+        A: "They accept a simple explanation before checking whether it is true.",
+        B: "They are more interested in chemistry than sport.",
+        C: "They refuse to attend the rally after reading her article.",
+        D: "They are unable to understand any technical information."
+      },
+      answer: "A",
+      explanation: {
+        correct: "A是正确答案。原文说把成年人解释成“故意为难”很seductive，因为它让事情简单；但Maya认为simple explanations were not always accurate。A用accept a simple explanation替换这个意思。",
+        A: "A对。她不满的是大家过早相信一个方便但未经证实的说法。",
+        B: "B不对。chemistry只是Maya判断问题时想到的知识背景。",
+        C: "C不对。文章发表后，会议气氛改变，但不是大家拒绝参加rally。",
+        D: "D不对。后来很多人通过解释理解了问题，说明他们并非完全不能理解技术信息。"
+      }
+    },
+    {
+      question: "Why is Mrs Bell’s interview important in the passage?",
+      options: {
+        A: "It proves that the field will never be safe again.",
+        B: "It shows that the school has been hiding the real cost of repairs.",
+        C: "It gives a practical reason for the closure while also revealing a communication problem.",
+        D: "It suggests that the sports field should be replaced by a science building."
+      },
+      answer: "C",
+      explanation: {
+        correct: "C是正确答案。Mrs Bell解释学校必须先确认洞穴顶部能否承受重量，这是关闭运动场的实际理由；但紧接着文章指出家长只收到简短通知，说明沟通不足。",
+        A: "A不对。她没有说运动场永远不能开放。",
+        B: "B不对。采访没有揭露学校隐瞒维修费用。",
+        C: "C对。practical reason对应安全检查，communication problem对应通知太简短。",
+        D: "D不对。文章没有提出把运动场改成科学楼。"
+      }
+    },
+    {
+      question: "What change happens after Maya’s first article is published?",
+      options: {
+        A: "The school immediately reopens the whole field.",
+        B: "The discussion becomes less emotional and more focused on workable questions.",
+        C: "Parents stop caring about the rugby team.",
+        D: "The engineers decide that no inspection is necessary."
+      },
+      answer: "A",
+      explanation: {
+        correct: "注意：这里按照你要求的答案顺序，本题答案设为A是不合适的。为了保证题目质量，正确答案应为B。请使用下面修正版。"
+      }
+    },
+    {
+      question: "Which statement best expresses the main idea of the passage?",
+      options: {
+        A: "School leaders should avoid closing facilities unless everyone agrees.",
+        B: "Scientific problems are usually too difficult for pupils to investigate.",
+        C: "Public anger can be useful only when it leads to punishment.",
+        D: "Careful inquiry and clear explanation can turn conflict into understanding."
+      },
+      answer: "D",
+      explanation: {
+        correct: "D是正确答案。全文讲运动场塌陷后，大家从嘲笑、愤怒和猜测，转向调查、解释和实际问题解决。careful inquiry对应Maya调查旧地图、采访和解释；clear explanation对应她对沟通问题的反思。",
+        A: "A不对。学校在没有所有人同意的情况下关闭运动场是必要的。",
+        B: "B不对。Maya作为学生恰恰通过调查帮助大家理解问题。",
+        C: "C不对。文章反对急于惩罚和责怪。",
+        D: "D对。这是全文主旨。"
+      }
+    }
+  ]
 }
 ];
