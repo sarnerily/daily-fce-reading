@@ -9577,5 +9577,191 @@ Maya stood near the fence, watching younger children run across the grass. She s
       }
     }
   ]
+},
+{
+  date: "2026-08-28",
+  title: "The Recording in Apartment 6B",
+  level: "FCE / B2",
+
+  vocabulary: [
+    { word: "apartment", meaning: "公寓；房间", example: "The recording was found in an old apartment." },
+    { word: "candle", meaning: "蜡烛", example: "A candle stood on the windowsill." },
+    { word: "tail", meaning: "尾巴；尾部；跟踪", example: "A small dog wagged its tail at the door." },
+    { word: "scratch", meaning: "划伤；抓痕", example: "There was a scratch on the wooden table." },
+    { word: "DVD", meaning: "数字影碟", example: "The DVD contained an interview from years before." },
+    { word: "recording", meaning: "录音；录像", example: "The old recording changed what people believed." },
+    { word: "correspondent", meaning: "记者；通讯员", example: "The local correspondent wrote about the case." },
+    { word: "write out", meaning: "完整写出", example: "Lena had to write out the interview notes." },
+    { word: "murder", meaning: "谋杀；凶杀", example: "The rumour described the accident as murder." },
+    { word: "set off", meaning: "出发；引起；触发", example: "One careless comment set off a chain of rumours." },
+    { word: "strive", meaning: "努力；力争", example: "Lena tried to strive for accuracy." },
+    { word: "suitable", meaning: "合适的；适宜的", example: "The story was not suitable for a sensational headline." },
+    { word: "euro", meaning: "欧元", example: "The repair cost several thousand euros." },
+    { word: "sink", meaning: "下沉；洗碗槽", example: "Water leaked under the kitchen sink." },
+    { word: "van", meaning: "厢式货车", example: "A white van stopped outside the building." },
+    { word: "none", meaning: "没有一个；毫无", example: "None of the neighbours had seen everything." },
+    { word: "psychological", meaning: "心理的；精神上的", example: "The old story had a psychological effect on the residents." },
+    { word: "check", meaning: "检查；核查", example: "Lena wanted to check every detail." },
+    { word: "proficiency", meaning: "熟练；精通", example: "Her language proficiency helped her understand the interview." },
+    { word: "tramline", meaning: "电车轨道；网球场边线", example: "The apartment stood near the old tramline." },
+    { word: "terrified", meaning: "非常害怕的", example: "The neighbour had been terrified by the noise." },
+    { word: "bid", meaning: "出价；投标；努力争取", example: "A developer made a bid to buy the building." },
+    { word: "blonde", meaning: "金发的", example: "The witness remembered a blonde woman leaving the hall." },
+    { word: "notepaper", meaning: "信纸；便笺", example: "The message was written on blue notepaper." },
+    { word: "permanently", meaning: "永久地；长期地", example: "Some residents feared they would be moved permanently." },
+    { word: "escape from", meaning: "逃脱；摆脱", example: "The building could not escape from its reputation." },
+    { word: "dressing", meaning: "敷料；调料；穿戴", example: "A pharmacist changed the dressing on the old man's hand." },
+    { word: "cruise", meaning: "乘船游览；航行", example: "The postcard showed a river cruise." },
+    { word: "link", meaning: "联系；连接", example: "Lena found a link between the rumour and the property bid." },
+    { word: "put into effect", meaning: "实行；使生效", example: "The new housing rules were put into effect in June." },
+    { word: "employment", meaning: "工作；就业", example: "Several residents depended on nearby employment." },
+    { word: "figure", meaning: "数字；人物；身影；认为", example: "A shadowy figure appeared in the hallway video." },
+    { word: "research", meaning: "研究；调查", example: "Lena's research showed the story was incomplete." },
+    { word: "look out for", meaning: "留心；注意寻找", example: "She told residents to look out for official notices." },
+    { word: "anatomy", meaning: "解剖；剖析；结构分析", example: "The article became an anatomy of how rumours grow." },
+    { word: "relation", meaning: "关系；关联；亲属", example: "There was no direct relation between the noise and the death." },
+    { word: "reputation", meaning: "声誉；名声", example: "The building had a terrible reputation." },
+    { word: "protest against", meaning: "抗议；反对", example: "Residents decided to protest against the sale." }
+  ],
+
+  passage: `
+The following article appeared in a student journalism magazine.
+
+When Lena first visited Apartment 6B, she expected a simple housing story. A developer had made a bid to buy the old Moreton Building, and several residents were planning to protest against the sale. They believed the apartments would be repaired only on paper, then emptied permanently so that more expensive flats could be built.
+
+The building already had a bad reputation. It stood beside a disused tramline, with cracked windows, a broken front light and a lift that rarely worked. In the entrance hall, someone had left a candle after the power failed the previous week. A small dog followed Lena up the stairs, its tail brushing against the wall.
+
+Lena was a student correspondent for the local college website. She had good language proficiency and wanted to strive for careful reporting, but she was also under pressure. Her editor wanted a dramatic article about ordinary people being pushed out of their homes. It was a strong angle, and perhaps a suitable one. But Lena knew that a strong angle could still leave out important facts.
+
+The story became more complicated when Mrs Novak, who lived in 6B, showed her an old DVD. It contained a recording from the corridor camera on the night a former resident, Mr Vale, had died two years earlier. Local gossip had turned the death into a murder story. Some people claimed a blonde woman had been seen leaving the hallway. Others said a white van had arrived just before midnight.
+
+Mrs Novak looked terrified as she explained it. "That story never went away," she said. "It set off everything. People stopped visiting. Then the building became easier to call hopeless."
+
+Lena watched the recording three times. The video was unclear. A figure did pass the stairs, but none of the images proved who it was. The so-called van appeared to be an ambulance, reflected in the glass of the front door. Later, Lena checked hospital records with Mr Vale's nephew and learned that he had collapsed after a long illness. A pharmacist who lived downstairs had tried to help, changing a dressing on his arm before the ambulance arrived.
+
+There was no conclusive evidence of murder. But the rumour had had a real psychological effect. It had damaged the building's reputation, frightened older residents and made outsiders less willing to question the sale.
+
+Lena began to see a link between fear and profit. The developer had not created the rumour, but the rumour made the bid easier to accept. If a place was seen as dangerous, fewer people would defend it.
+
+Her final article was not the one her editor expected. Instead of writing a simple protest story, Lena wrote out the anatomy of a rumour: a noise in the hallway, a poor recording, a frightened neighbour, a comment repeated too often, and a community slowly losing confidence. She included the housing issue too, but she made clear that residents were not only fighting for cheaper rent. They were also trying to escape from a false story about where they lived.
+
+Some readers complained that the article was not angry enough. Others said it was stronger because it was fair. Within a week, the council delayed the sale and asked for a full check of the building's condition before any contract could be put into effect.
+
+For Lena, the lesson was uncomfortable but useful. Journalism was not just about exposing villains. Sometimes it was about slowing down a story that had moved too quickly, and asking whether the facts really supported the fear.
+`,
+
+  translation: `
+以下文章发表于一本学生新闻杂志。
+
+莉娜第一次来到6B公寓时，以为自己要写的是一个简单的住房故事。一家开发商已经出价购买老旧的莫顿大楼，几位住户正计划抗议这次出售。他们认为，公寓只会在文件上被维修，随后住户会被永久迁走，以便建造更昂贵的公寓。
+
+这栋楼本来名声就很差。它位于一条废弃的电车轨道旁，窗户开裂，门前的灯坏了，电梯也很少能正常运行。入口大厅里，有人因为前一周停电留下了一支蜡烛。一只小狗跟着莉娜上楼，尾巴擦过墙壁。
+
+莉娜是本地学院网站的学生通讯员。她语言能力不错，也努力追求谨慎报道，但她同样有压力。编辑希望她写一篇戏剧性的文章，讲普通人如何被赶出自己的家。这个角度很有力量，也许也合适。但莉娜知道，一个有力的角度仍然可能遗漏重要事实。
+
+当住在6B的诺瓦克夫人给她看一张旧DVD时，事情变得更复杂了。DVD里有两年前一位前住户维尔先生去世当晚走廊摄像头的录像。本地传言早已把这起死亡事件变成了谋杀故事。有些人说，一名金发女子曾被看到离开走廊。也有人说，午夜前有一辆白色厢式货车到过楼下。
+
+诺瓦克夫人解释时显得十分害怕。“那个故事从来没有消失，”她说，“它引发了一切。人们不再来拜访。然后，这栋楼就更容易被说成没有希望。”
+
+莉娜把录像看了三遍。视频并不清楚。确实有一个人影经过楼梯，但没有任何画面能证明那是谁。所谓的厢式货车似乎是一辆救护车，只是映在了前门玻璃上。后来，莉娜通过维尔先生的侄子核查了医院记录，得知他是在长期患病后倒下的。住在楼下的一名药剂师曾试图帮忙，还替他处理过手臂上的敷料，直到救护车到来。
+
+没有确凿证据证明这是谋杀。但这个传言确实造成了真实的心理影响。它损害了大楼的声誉，吓坏了年长住户，也让外人更不愿质疑出售计划。
+
+莉娜开始看到恐惧和利益之间的联系。开发商并没有制造这个传言，但这个传言让出价收购更容易被接受。如果一个地方被认为危险，就很少有人愿意保护它。
+
+她最终写出的文章并不是编辑预期中的那种文章。她没有写一篇简单的抗议报道，而是完整剖析了一个流言如何形成：走廊里的一个声响，一段模糊的录像，一个受惊的邻居，一句被反复重复的评论，以及一个社区如何慢慢失去信心。她也写到了住房问题，但明确指出，住户们并不只是为了更便宜的租金而抗争。他们也在努力摆脱一个关于自己居住地的错误故事。
+
+一些读者抱怨这篇文章不够愤怒。另一些人说，它正因为公平才更有力量。一周之内，市政会推迟了出售，并要求在任何合同生效前，对大楼状况进行全面检查。
+
+对莉娜来说，这个教训并不轻松，但很有用。新闻报道并不只是揭露坏人。有时候，它也意味着让一个传播得太快的故事慢下来，并追问事实是否真的支持那种恐惧。
+`,
+
+  questions: [
+    {
+      question: "Why is Lena cautious about the article her editor wants?",
+      options: {
+        A: "She thinks the residents are exaggerating their financial problems.",
+        B: "She knows a powerful storyline may still miss details that matter.",
+        C: "She wants to protect the developer from public criticism.",
+        D: "She believes the housing issue is unsuitable for student journalism."
+      },
+      answer: "B",
+      explanation: {
+        correct: "B是正确答案。原文说编辑想要dramatic article，但Lena知道strong angle could still leave out important facts。题目用powerful storyline和miss details替换strong angle与leave out facts。",
+        A: "A不对。她没有认为住户夸大经济困难。",
+        B: "B对。她担心报道角度太强会简化事实。",
+        C: "C不对。她不是保护开发商，而是追求准确。",
+        D: "D不对。她并没有否定住房议题的新闻价值。"
+      }
+    },
+    {
+      question: "What does the old recording mainly show Lena?",
+      options: {
+        A: "The evidence behind the murder story is much weaker than people believe.",
+        B: "Mrs Novak has deliberately invented a false story.",
+        C: "The blonde woman was clearly responsible for Mr Vale’s death.",
+        D: "The white van was linked directly to the developer’s bid."
+      },
+      answer: "A",
+      explanation: {
+        correct: "A是正确答案。录像里确实有模糊身影，但无法证明身份；所谓van也可能是救护车倒影。说明传言证据薄弱。",
+        A: "A对。weaker than people believe 是对 video was unclear 和 no conclusive evidence 的概括。",
+        B: "B不对。Mrs Novak害怕，并不等于她故意编造。",
+        C: "C不对。录像不能证明金发女子身份，更不能证明责任。",
+        D: "D不对。van不是开发商车辆，而似乎是救护车倒影。"
+      }
+    },
+    {
+      question: "Why does the writer mention the pharmacist downstairs?",
+      options: {
+        A: "To suggest that Mr Vale’s death had a more ordinary explanation.",
+        B: "To show that the apartment building had no social problems.",
+        C: "To prove that pharmacists should work with journalists.",
+        D: "To explain why Mrs Novak wanted a refund."
+      },
+      answer: "A",
+      explanation: {
+        correct: "A是正确答案。药剂师曾帮助Mr Vale处理伤口，直到救护车来，这支持了“长期患病后倒下”的解释，而不是谋杀传闻。",
+        A: "A对。ordinary explanation对应collapse after illness和ambulance。",
+        B: "B不对。大楼仍然有住房、声誉和维修问题。",
+        C: "C不对。文章没有讨论药剂师与记者合作。",
+        D: "D不对。文中没有退款情节。"
+      }
+    },
+    {
+      question: "What connection does Lena notice between the rumour and the property sale?",
+      options: {
+        A: "The rumour was invented by residents to stop the sale.",
+        B: "The rumour made the building seem less worth defending.",
+        C: "The sale proved that the murder story was true.",
+        D: "The developer used the recording as official research."
+      },
+      answer: "B",
+      explanation: {
+        correct: "B是正确答案。原文说如果一个地方被认为危险，就更少有人愿意保护它。也就是说，传言降低了外界保护大楼的意愿。",
+        A: "A不对。传言不是住户为了阻止出售而编造。",
+        B: "B对。less worth defending是对fewer people would defend it的同义替换。",
+        C: "C不对。出售与谋杀传言真假没有因果关系。",
+        D: "D不对。开发商没有把录像作为正式研究材料。"
+      }
+    },
+    {
+      question: "Which sentence best describes the purpose of Lena’s final article?",
+      options: {
+        A: "It tries to turn a housing dispute into an entertaining murder mystery.",
+        B: "It uses careful investigation to show how fear can shape public judgement.",
+        C: "It argues that old apartment blocks should always be replaced.",
+        D: "It focuses mainly on Lena’s personal ambition as a correspondent."
+      },
+      answer: "B",
+      explanation: {
+        correct: "B是正确答案。全文核心是Lena通过调查放慢流言传播，说明恐惧如何影响大楼声誉和出售判断。",
+        A: "A不对。她不是制造murder mystery，而是拆解它。",
+        B: "B对。careful investigation对应check、research和recording分析；fear shape judgement对应rumour对reputation和sale的影响。",
+        C: "C不对。文章并不支持一律替换老楼。",
+        D: "D不对。Lena的记者身份重要，但不是文章主旨。"
+      }
+    }
+  ]
 }
 ];
