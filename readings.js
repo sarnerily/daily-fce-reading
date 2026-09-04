@@ -9763,5 +9763,191 @@ For Lena, the lesson was uncomfortable but useful. Journalism was not just about
       }
     }
   ]
+},
+{
+  date: "2026-09-04",
+  title: "The Runway Walk",
+  level: "FCE / B2",
+
+  vocabulary: [
+    { word: "admire", meaning: "钦佩；欣赏；赞赏", example: "Visitors came to admire the old airfield." },
+    { word: "faithfully", meaning: "忠实地；如实地；准确地", example: "Maya wanted to report the story faithfully." },
+    { word: "traffic lights", meaning: "交通灯；红绿灯", example: "Temporary traffic lights controlled the road crossing." },
+    { word: "thumb", meaning: "拇指；用拇指示意", example: "He raised his thumb to show that he was fine." },
+    { word: "battery", meaning: "电池", example: "Maya's camera battery was almost empty." },
+    { word: "enthusiast", meaning: "爱好者；热心者", example: "A local history enthusiast gave the opening talk." },
+    { word: "victim", meaning: "受害者；遇难者；牺牲品", example: "The tourist thought he had become the victim of theft." },
+    { word: "custom", meaning: "风俗；习惯；定制的", example: "The event introduced an old local custom." },
+    { word: "briefcase", meaning: "公文包；手提包", example: "A missing briefcase caused confusion." },
+    { word: "inspect", meaning: "检查；视察；审视", example: "The volunteers had to inspect the route before visitors arrived." },
+    { word: "confirm", meaning: "证实；确认；批准", example: "The manager confirmed that no one had been injured." },
+    { word: "injure", meaning: "伤害；使受伤", example: "The organisers worried that someone might injure themselves on the slope." },
+    { word: "waist", meaning: "腰；腰部", example: "The performer tied a red cloth around her waist." },
+    { word: "biologist", meaning: "生物学家", example: "A biologist explained why the grassland was protected." },
+    { word: "performance", meaning: "表演；表现；性能", example: "The evening performance began later than planned." },
+    { word: "cupboard", meaning: "橱柜；柜子", example: "The briefcase was eventually found in a cupboard." },
+    { word: "call in", meaning: "召来；叫来；顺路拜访", example: "They had to call in an electrician." },
+    { word: "invite", meaning: "邀请；招致", example: "The council invited students to help with the event." },
+    { word: "slope", meaning: "斜坡；坡地；倾斜", example: "The old runway had a slight slope near the hangar." },
+    { word: "mad", meaning: "非常生气的；发疯的；痴迷的", example: "Some visitors were mad when the route changed." },
+    { word: "tourist", meaning: "游客；旅游者", example: "One tourist complained about the delay." },
+    { word: "despite", meaning: "尽管；虽然", example: "Despite the problems, the event continued." },
+    { word: "clockwise", meaning: "顺时针方向地", example: "Visitors were asked to walk clockwise around the runway." },
+    { word: "phobia", meaning: "恐惧症", example: "One volunteer had a phobia of large crowds." },
+    { word: "additional", meaning: "附加的；另外的", example: "Additional signs were placed near the entrance." },
+    { word: "cultural", meaning: "文化的；与文化有关的", example: "The runway was turned into a cultural walking route." },
+    { word: "toilet", meaning: "厕所；洗手间", example: "The nearest toilet was behind the food tent." },
+    { word: "spill", meaning: "泼出；洒出；溢出", example: "Someone spilled curry on the timetable." },
+    { word: "curry", meaning: "咖喱菜", example: "The food stall sold vegetable curry." },
+    { word: "jeans", meaning: "牛仔裤", example: "Maya wore jeans because she expected to move equipment." },
+    { word: "eventually", meaning: "最终；终于", example: "The problem was eventually solved." },
+    { word: "runway", meaning: "飞机跑道；T台", example: "The old runway had not been used by planes for years." },
+    { word: "absolutely", meaning: "完全地；绝对地；当然", example: "The guide was absolutely sure the route was safe." },
+    { word: "plug", meaning: "插头；塞子；堵塞", example: "A loose plug stopped the sound system from working." },
+    { word: "deal with", meaning: "处理；对付；讨论", example: "Maya had to deal with several problems at once." },
+    { word: "weapon", meaning: "武器；手段", example: "A rumour can become a weapon if people repeat it carelessly." },
+    { word: "search out", meaning: "找出；查出；发现", example: "Maya tried to search out the facts before blaming anyone." },
+    { word: "either", meaning: "两者之一；也；要么", example: "Either route would work if the signs were clear." }
+  ],
+
+  passage: `
+The following article appeared in a local student magazine.
+
+When the old Eastford runway was opened to the public for one evening, Maya expected a simple cultural event. The airfield had closed twenty years earlier, and most people knew it only as a wide strip of cracked concrete beyond the traffic lights. Now the council wanted to turn it into a walking route, with food stalls, music and short talks about local customs.
+
+Maya had been invited to help as a student reporter. Her job was to write faithfully about the event, not simply to make it sound successful. She admired the idea, especially because her grandfather had once worked at the airfield, but she also knew that old places often came with old problems.
+
+The plan looked clear. Visitors would walk clockwise around the runway, stopping at numbered points. A history enthusiast would explain how the airfield had once connected the town with other parts of the country. A biologist would describe the rare plants growing between the concrete and the grass. Later, a dance performance would take place beside the old hangar. The performers wore plain jeans with coloured cloth tied around the waist, to suggest workers rather than pilots.
+
+The first difficulty appeared before the event had properly begun. A tourist from Germany said his briefcase had disappeared near the information desk. He was sure he had left it beside a cupboard while buying curry from the food stall. Within minutes, two people suggested that he was the victim of theft. Someone else pointed to a group of teenagers and said they had been standing nearby.
+
+Maya felt uncomfortable. The accusation spread quickly, and in her mind it became almost like a weapon. It could injure someone's reputation before anyone had checked the facts. She decided to search out what had actually happened.
+
+The answer was less dramatic. A volunteer had moved the briefcase into the cupboard to protect it after someone spilled curry on the table. She had meant to tell the tourist, but then the sound system failed because of a loose plug, and she had rushed away to call in an electrician. When the briefcase was found, the tourist raised his thumb in apology, embarrassed but relieved.
+
+That should have settled the evening, but another problem followed. The biologist asked the organisers to close one side of the route. The recent rain had softened the ground near a slope, and too many feet might damage the plants. Some visitors were mad. They had paid to see the whole runway, and additional barriers made the place feel less open.
+
+Maya could understand their frustration. Despite the change, however, the biologist was right. The event was not only about admiring a historic site; it was also about learning how to protect it. Either the route had to change, or the plants would suffer.
+
+The manager asked Maya to help rewrite the signs. She checked the new path, confirmed where the nearest toilet was, and helped inspect the darker corners before the performance began. Her camera battery was low by then, so she stopped filming and took notes instead.
+
+The evening eventually became quieter than planned, but not worse. The shorter route made people slow down. The biologist’s talk drew more questions than expected, and one volunteer who had a phobia of crowds said the calmer path helped her continue working. The dancers performed at dusk, their movements set against the empty runway and the last orange light in the sky.
+
+In her article, Maya did not hide the missing briefcase, the spilled curry or the angry comments. But she also did not turn them into a disaster. She wrote that the event had shown something useful: public history is not just about opening a place and letting people admire it. It is about learning what a place can bear, who might be harmed by careless judgement, and how quickly a good plan must change when reality asks it to.
+`,
+
+  translation: `
+以下文章发表于一本本地学生杂志。
+
+当旧东福德跑道在一个傍晚向公众开放时，玛雅以为这会是一场简单的文化活动。这座机场二十年前就关闭了，大多数人只知道它是红绿灯外面一条宽阔而开裂的混凝土地面。现在，市政会想把它变成一条步行路线，配上食物摊位、音乐和关于本地习俗的简短讲解。
+
+玛雅受邀以学生记者的身份帮忙。她的任务是如实记录这场活动，而不是单纯把它写得很成功。她很欣赏这个想法，尤其是因为她的祖父曾经在这座机场工作过。但她也知道，老地方往往伴随着老问题。
+
+计划看起来很清楚。参观者会沿着跑道顺时针行走，在编号点停下。一位地方历史爱好者会讲解这座机场过去如何把小镇和外部地区连接起来。一位生物学家会介绍混凝土和草地之间生长的稀有植物。稍晚些时候，旧机库旁还会有一场舞蹈表演。表演者穿着普通牛仔裤，腰间系着彩色布条，象征工人而不是飞行员。
+
+第一个困难在活动真正开始前就出现了。一名德国游客说，他的公文包在信息台附近不见了。他确信自己买咖喱时把它放在一个柜子旁边。几分钟内，两个人就说他可能成了盗窃的受害者。还有人指向一群青少年，说他们刚才一直站在附近。
+
+玛雅感到不舒服。这个指责传播得很快，在她看来，它几乎像一件武器。它可能在任何人查明事实之前，就伤害某个人的名誉。她决定先查清到底发生了什么。
+
+答案没有那么戏剧化。一个志愿者看到有人把咖喱洒在桌上，于是把公文包移进柜子里保护起来。她本来想告诉那名游客，但随后音响系统因为一个松动的插头出了故障，她便赶去叫电工了。公文包被找到后，那名游客竖起拇指表示歉意，既尴尬又松了一口气。
+
+这本该让这个夜晚安定下来，但另一个问题接着出现了。生物学家要求组织者关闭路线的一侧。最近的雨水让斜坡附近的地面变软，太多人踩踏可能会伤害那些植物。一些游客非常生气。他们付了钱想看完整跑道，而新增的隔离栏让这个地方显得不那么开放。
+
+玛雅能理解他们的失望。可是，尽管路线改变了，生物学家是对的。这次活动并不只是让人欣赏一处历史场地，也是在学习如何保护它。要么改变路线，要么那些植物就会受损。
+
+经理请玛雅帮忙重写标识。她检查了新路线，确认了最近的厕所位置，并在表演开始前帮助检查较暗的角落。那时她的相机电池快没电了，所以她停止拍摄，改为记笔记。
+
+这个夜晚最终比原计划安静了一些，但并不更糟。较短的路线让人们放慢了脚步。生物学家的讲解吸引了比预想更多的问题。一位有拥挤恐惧症的志愿者说，平静一些的路线帮助她继续工作。黄昏时，舞者们开始表演，她们的动作映衬着空旷的跑道和天空中最后一片橙色光。
+
+在文章里，玛雅没有隐瞒丢失的公文包、洒出的咖喱或愤怒的评论。但她也没有把这些写成一场灾难。她写道，这次活动展示了一件有用的事：公共历史并不只是开放一个地方，让人们欣赏它。它还意味着学习一个地方能够承受什么，谁可能被轻率判断伤害，以及当现实提出要求时，一个好计划必须多快地改变。
+`,
+
+  questions: [
+    {
+      question: "What does the writer suggest about Maya’s role as a student reporter?",
+      options: {
+        A: "She is expected to praise the council’s plan without question.",
+        B: "She is mainly interested in making the event sound dramatic.",
+        C: "She wants to avoid mentioning anything that goes wrong.",
+        D: "She feels responsible for giving an accurate account of the evening."
+      },
+      answer: "D",
+      explanation: {
+        correct: "D是正确答案。题目中的 accurate account 对应原文 write faithfully。Maya不是负责宣传，而是要如实记录活动。",
+        A: "A不对。她admire这个想法，但并不是无条件赞美。",
+        B: "B不对。她没有追求戏剧化，反而避免把问题写成disaster。",
+        C: "C不对。她最后写到了briefcase、spill和angry comments。",
+        D: "D对。她的角色核心是准确、公正地报道。"
+      }
+    },
+    {
+      question: "Why does Maya compare the accusation to a weapon?",
+      options: {
+        A: "Because it is connected with a dangerous object found near the runway.",
+        B: "Because it can harm people before the truth has been established.",
+        C: "Because the tourist uses it to threaten the organisers.",
+        D: "Because the teenagers have already admitted they took the briefcase."
+      },
+      answer: "B",
+      explanation: {
+        correct: "B是正确答案。这里考同义替换和比喻理解。原文说accusation could injure someone's reputation before facts were checked，B中的 harm people before the truth has been established 正好概括这个意思。",
+        A: "A不对。weapon在这里是比喻，不是真的危险物品。",
+        B: "B对。Maya担心的是未经查证的指责伤害名誉。",
+        C: "C不对。游客没有威胁组织者，只是误以为东西被偷。",
+        D: "D不对。青少年没有承认拿走公文包，事实上也没有偷。"
+      }
+    },
+    {
+      question: "What is the main effect of discovering the briefcase in the cupboard?",
+      options: {
+        A: "It shows that the problem resulted from confusion rather than crime.",
+        B: "It proves that the tourist deliberately invented the story.",
+        C: "It makes the organisers cancel the rest of the event.",
+        D: "It confirms that the volunteers failed to inspect the route."
+      },
+      answer: "A",
+      explanation: {
+        correct: "A是正确答案。公文包不是被偷，而是志愿者为避免咖喱弄脏而放进柜子。问题来自混乱和沟通中断，而不是犯罪。",
+        A: "A对。confusion rather than crime 是对整件事的准确概括。",
+        B: "B不对。游客只是误会，并不是故意编造。",
+        C: "C不对。活动继续进行。",
+        D: "D不对。这个事件和检查路线没有直接关系。"
+      }
+    },
+    {
+      question: "Why is the route changed after the biologist’s warning?",
+      options: {
+        A: "The organisers want to make the event feel more exclusive.",
+        B: "The visitors have complained that the runway is too long.",
+        C: "The organisers realise that protecting the site matters as much as displaying it.",
+        D: "The performance can only take place on the closed side of the runway."
+      },
+      answer: "C",
+      explanation: {
+        correct: "C是正确答案。生物学家提醒人们，雨后地面和植物可能受损。题目中的 protecting the site matters as much as displaying it 对应原文 not only about admiring a historic site; also about learning how to protect it。",
+        A: "A不对。路线改变不是为了制造高级感，而是为了保护植物。",
+        B: "B不对。游客不是嫌路线太长，而是不满不能看完整跑道。",
+        C: "C对。这个选项抓住了活动目标的深化。",
+        D: "D不对。表演仍在旧机库旁进行，与关闭一侧路线没有这种因果关系。"
+      }
+    },
+    {
+      question: "Which statement best expresses the main idea of the passage?",
+      options: {
+        A: "Cultural events succeed only when they avoid unexpected problems.",
+        B: "A historical place should be admired without changing any plans.",
+        C: "Tourists usually misunderstand the purpose of local events.",
+        D: "Opening a public place requires accuracy, care and readiness to adapt."
+      },
+      answer: "D",
+      explanation: {
+        correct: "D是正确答案。全文通过公文包误会、路线调整和Maya的报道说明：公共活动不仅要吸引人，还要准确判断事实、保护人和地方，并根据现实调整计划。",
+        A: "A不对。活动中出现了问题，但仍然有意义。",
+        B: "B不对。文章强调计划必须根据现实改变。",
+        C: "C不对。德国游客有误会，但不能概括为游客通常误解。",
+        D: "D对。accuracy, care and readiness to adapt 概括了全文主旨。"
+      }
+    }
+  ]
 }
 ];
