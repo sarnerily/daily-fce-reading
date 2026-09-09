@@ -9949,5 +9949,253 @@ In her article, Maya did not hide the missing briefcase, the spilled curry or th
       }
     }
   ]
+},
+{
+  date: "2026-09-08",
+  title: "The Carnival on the Imperial Star",
+  level: "FCE / B2+",
+
+  vocabulary: [
+    { word: "medium", meaning: "适中的；中等的；媒介", example: "The Imperial Star was a medium-sized river boat." },
+    { word: "wonder", meaning: "想知道；感到惊奇；奇观", example: "I began to wonder whether the carnival would feel artificial." },
+    { word: "peace", meaning: "和平；平静；宁静", example: "The upper deck offered a few moments of peace." },
+    { word: "efficient", meaning: "高效的；效率高的", example: "The boarding system was surprisingly efficient." },
+    { word: "policy", meaning: "政策；方针；原则", example: "The museum had a strict safety policy." },
+    { word: "office", meaning: "办公室；办事处", example: "The missing disk was eventually found in the manager's office." },
+    { word: "appear", meaning: "出现；显得；似乎", example: "The event appeared more commercial than I had expected." },
+    { word: "carnival", meaning: "狂欢节；嘉年华", example: "The annual river carnival attracted hundreds of visitors." },
+    { word: "camel", meaning: "骆驼", example: "A giant camel puppet represented the town's old trading links." },
+    { word: "presenter", meaning: "节目主持人；演讲人", example: "A television presenter was filming a programme about the event." },
+    { word: "condition", meaning: "状态；条件；环境", example: "The restored boat was in excellent condition." },
+    { word: "imperial", meaning: "帝国的；皇帝的", example: "The ship had once carried imperial officials." },
+    { word: "craft", meaning: "工艺；手艺；手工艺品", example: "Local craft workers demonstrated traditional skills." },
+    { word: "firefighter", meaning: "消防队员", example: "A retired firefighter gave a safety demonstration." },
+    { word: "description", meaning: "描述；说明", example: "The guidebook's description made the event sound rather grand." },
+    { word: "talk of", meaning: "谈及；说到；考虑", example: "There had been talk of cancelling the event the previous year." },
+    { word: "method", meaning: "方法；办法", example: "The presenter used a simple method to check the story." },
+    { word: "throughout", meaning: "遍及；自始至终", example: "Music could be heard throughout the boat." },
+    { word: "servant", meaning: "仆人；服务人员", example: "One room showed how servants had worked on the vessel." },
+    { word: "hike", meaning: "徒步旅行；上涨", example: "Visitors could join a short riverside hike after the cruise." },
+    { word: "stateroom", meaning: "特等客舱；会客厅", example: "The imperial stateroom had been carefully restored." },
+    { word: "gain", meaning: "获得；增加；赢得", example: "The museum hoped to gain younger visitors." },
+    { word: "Mr.", meaning: "先生", example: "Mr. Hale was responsible for the historical displays." },
+    { word: "blank", meaning: "空白的；茫然的；突然想不起来", example: "One display card was completely blank." },
+    { word: "see through", meaning: "看穿；识破；坚持到底", example: "The presenter quickly saw through the most dramatic rumour." },
+    { word: "get back", meaning: "取回；回来；恢复", example: "The team wanted to get back the missing recording." },
+    { word: "brain", meaning: "大脑；脑力；智力", example: "The puzzle required more brain than luck." },
+    { word: "theft", meaning: "偷窃；盗窃", example: "Someone suggested that the missing disk was a case of theft." },
+    { word: "next to", meaning: "紧靠；在……旁边", example: "The disk had been left next to a computer." },
+    { word: "invent", meaning: "发明；编造；捏造", example: "Visitors began to invent explanations before the facts were known." },
+    { word: "protein", meaning: "蛋白质", example: "The food stall advertised high-protein bean dishes." },
+    { word: "neither", meaning: "两者都不", example: "Neither explanation turned out to be correct." },
+    { word: "disk", meaning: "磁盘；圆盘", example: "The disk contained interviews with former crew members." },
+    { word: "muscular", meaning: "肌肉发达的；强壮的", example: "A muscular volunteer helped move the heavy display." },
+    { word: "purpose", meaning: "目的；用途；意图", example: "The purpose of the carnival was not simply entertainment." },
+    { word: "collapse", meaning: "倒塌；崩溃", example: "Part of a temporary display collapsed during the afternoon." },
+    { word: "innocent", meaning: "无辜的；清白的；天真的", example: "The volunteer accused of taking the disk was completely innocent." },
+    { word: "disagree", meaning: "不同意；有分歧", example: "The organisers disagreed about how much history visitors wanted." },
+    { word: "gesture", meaning: "手势；姿态", example: "Mr. Hale made a small gesture towards the old photographs." },
+    { word: "front", meaning: "前面；正面；前部", example: "A crowd gathered at the front of the boat." }
+  ],
+
+  passage: `
+The following feature appeared in a regional travel magazine.
+
+When I first read the description of the Riverlight Carnival, I was doubtful. The annual event took place on the Imperial Star, a medium-sized paddle steamer that had once carried government officials along the river. According to the guidebook, visitors could "step into the imperial past while enjoying the energy of the present". I wondered whether that meant genuine history or simply people in costumes selling expensive food.
+
+I was therefore surprised by the condition of the boat. Its wooden floors had been repaired without looking new, the brass fittings still showed their age, and the old stateroom had been restored using photographs rather than guesswork. Throughout the lower deck, small displays explained how sailors, cooks and servants had worked on board.
+
+Mr. Hale, the museum historian, told me there had been talk of closing the carnival the previous year because visitor numbers were falling. The museum needed to gain a younger audience, but he and the events team disagreed about the best method.
+
+"Some people wanted more music, more food and more colour," he said. "I kept asking what all that had to do with the boat."
+
+They eventually reached a compromise. The carnival included craft stalls, local music and a large camel puppet based on the animals once brought through the town by traders. But each activity had to have some connection with local history. Even the food stalls followed the idea: one served dishes based on nineteenth-century recipes, while another offered modern high-protein meals for hikers.
+
+A television presenter named Eva Cole was also there to make a short programme. She was efficient, cheerful and almost permanently surrounded by people. Near the front of the boat, she interviewed a retired firefighter about the fire-safety policy used on old wooden vessels. Later, she joined a group setting off on a short riverside hike.
+
+By lunchtime, the event appeared to be working. Families wandered between displays, children followed a history quiz, and the upper deck provided a little peace away from the music.
+
+Then a problem developed.
+
+The museum had prepared a new digital display based on interviews with former crew members. The recordings were stored on a disk, but when a technician went to start the presentation, the disk was missing. At almost the same time, a temporary craft display near the entrance collapsed. Nobody was injured, but a muscular volunteer named Leo had been standing beside both areas shortly before the problems occurred.
+
+Within minutes, people had begun to invent a story.
+
+One visitor suggested theft. Another claimed that Leo had been angry after disagreeing with a manager. Someone else remembered seeing him enter the office. Neither detail proved anything, but the story travelled quickly.
+
+When Eva heard what was happening, I expected her to enjoy the drama. A missing disk and a suspicious volunteer would certainly make better television than a discussion of old cooking methods.
+
+Instead, she asked three questions: Who had last used the disk? Who had moved the display? And why had Leo gone into the office?
+
+It was a simple method, but it slowed everybody down.
+
+The technician remembered giving the disk to Mr. Hale after checking the recordings. Mr. Hale went blank for a moment, then made a gesture towards the office.
+
+"I put it next to the computer so that it wouldn't get damaged," he said.
+
+There it was.
+
+As for the collapsed display, a broken support had caused it to fall. Leo had actually noticed that it was unstable and gone into the office to ask for tools. He had been trying to prevent the accident, not cause it.
+
+The supposed thief was completely innocent.
+
+Eva later told me that this was the most interesting part of the carnival, although she did not mean the missing disk itself.
+
+"People like stories with clear villains," she said. "Our brains are very good at filling blank spaces. The trouble is that what we invent can appear more convincing than what actually happened."
+
+She could easily have turned the incident into a dramatic television sequence. Instead, her programme showed only a short section about it, using the event to discuss how historical stories are checked before they become museum displays.
+
+By evening, the disk had been returned, the presentation had begun, and Leo was helping repair the fallen stand. Visitors stayed longer than expected. Some even signed up for next year's programme.
+
+On my way home, I realised that I had been guilty of a similar mistake. Before arriving, I had assumed the carnival would be shallow entertainment hiding behind history. I had been looking for evidence to confirm that judgement.
+
+The event was not perfect, and neither was every display. But its real purpose was clearer to me now. History is not kept alive by pretending the past was simple. It survives when people are prepared to question attractive stories, search for evidence and change their minds when the facts disagree with them.
+`,
+
+  translation: `
+以下特写发表于一本地区旅行杂志。
+
+我第一次看到“河光嘉年华”的介绍时，其实很怀疑。这个年度活动在“帝国之星”号上举行，那是一艘中型明轮船，过去曾载着政府官员沿河往来。按照指南的说法，游客可以“走进帝国时代的过去，同时感受当下的活力”。我不禁怀疑，这到底是真正的历史体验，还是只不过有人穿着戏服卖昂贵食物。
+
+因此，我真正登船后，反而对船只的保存状态感到惊讶。木地板经过修复，但没有故意弄得崭新；黄铜配件仍保留着岁月的痕迹；旧特等客舱也是根据历史照片而不是凭想象恢复的。在下层甲板各处，小型展览介绍了过去水手、厨师和仆役如何在船上工作。
+
+博物馆历史研究员黑尔先生告诉我，上一年曾有人谈到取消这场嘉年华，因为游客人数一直下降。博物馆需要吸引更年轻的观众，但他和活动团队对于最好的方法意见并不一致。
+
+“有人想要更多音乐、更多食物、更多颜色，”他说，“而我总是在问，这些到底和这艘船有什么关系？”
+
+最终，他们达成了折中。嘉年华里有手工艺摊位、本地音乐，还有一只大型骆驼木偶，它来自过去商人把骆驼带进这座城镇的历史。不过，每项活动都必须和地方历史存在某种联系。甚至食物摊位也遵循这一原则：一家提供以19世纪食谱为基础的菜肴，另一家则给徒步游客准备现代高蛋白餐食。
+
+一位名叫伊娃·科尔的电视主持人也在那里拍摄一档短节目。她工作效率很高，性格开朗，而且几乎总是被人群包围。在船头附近，她采访了一位退休消防员，谈论老式木船采用的防火政策。后来，她还和一群游客一起出发参加河边短途徒步。
+
+到午饭时，整个活动看起来运转得不错。家庭游客在各个展览之间穿行，孩子们做着历史知识问答，而上层甲板则为人们提供了一个暂时远离音乐、享受宁静的地方。
+
+然后，问题出现了。
+
+博物馆准备了一项新的数字展示，内容来自对过去船员的采访。录音存储在一个磁盘中，但技术人员准备开始播放时，发现磁盘不见了。几乎与此同时，入口附近的一个临时手工艺展架倒塌了。没有人受伤，但是一名叫利奥的强壮志愿者在两个地点出问题之前都曾经出现在附近。
+
+几分钟之内，人们就开始编出一个故事。
+
+一名游客说可能发生了盗窃。另一人说，利奥之前因为和经理意见不合而很生气。还有人记得看到他进过办公室。这两个细节都不能证明任何事情，但故事却迅速传播开来。
+
+伊娃听说之后，我原以为她会喜欢这种戏剧性。一张消失的磁盘加一个可疑志愿者，显然比讨论老式烹饪方法更适合电视节目。
+
+但她只问了三个问题：最后是谁使用了磁盘？是谁移动过那个展架？利奥为什么进入办公室？
+
+方法非常简单，却让所有人都慢了下来。
+
+技术人员想起，自己检查完录音后曾把磁盘交给黑尔先生。黑尔先生有一瞬间大脑一片空白，随后朝办公室做了个手势。
+
+“我把它放在电脑旁边了，免得它被弄坏。”他说。
+
+磁盘就在那里。
+
+至于倒塌的展架，是因为一个支撑部件损坏。事实上，利奥已经注意到展架不稳定，于是到办公室去找工具。他原本是在试图防止事故，而不是制造事故。
+
+这个所谓的小偷完全是无辜的。
+
+伊娃后来告诉我，这反而是整场嘉年华中最有意思的部分，虽然她指的并不是“磁盘失踪”这件事本身。
+
+“人们喜欢有明确坏人的故事，”她说，“我们的大脑非常擅长填补空白。问题是，我们编出来的故事有时会比真正发生过的事情显得更可信。”
+
+她完全可以把这次事件拍成一段戏剧化电视内容。可是，她的节目只用了很短一部分，并借此讨论：历史故事在变成博物馆展示之前，应该如何得到核实。
+
+到了傍晚，磁盘已经拿了回来，展示也开始播放，利奥正在帮忙修复倒下的架子。游客停留的时间比预计更长。有些人甚至报名参加了下一年的活动。
+
+回家的路上，我意识到，其实自己也犯过类似的错误。在来到这里之前，我已经认定这场嘉年华只是披着历史外衣的肤浅娱乐。我一直在寻找证据来证实自己的判断。
+
+这场活动并不完美，每一个展览也并非都做得很好。但现在，我更明白它真正的目的了。历史之所以能够保持生命力，并不是因为我们假装过去很简单，而是因为人们愿意质疑那些很吸引人的故事，寻找证据，并在事实与原有判断不一致时改变自己的想法。
+`,
+
+  questions: [
+    {
+      question: "What does the writer admit about her attitude before attending the carnival?",
+      options: {
+        A: "She expected the historical material to be too difficult for ordinary visitors.",
+        B: "She believed the boat itself would be in poor physical condition.",
+        C: "She had already formed a negative judgement before seeing how the event actually worked.",
+        D: "She was mainly worried that the carnival would attract too few young people."
+      },
+      answer: "C",
+      explanation: {
+        correct: "C是正确答案。原文结尾承认自己在到达之前已经 assumed the carnival would be shallow entertainment。题目中的 formed a negative judgement before seeing how the event actually worked 是典型FCE式同义改写。",
+        A: "A不对。她没有认为历史内容太难。",
+        B: "B有一定迷惑性，因为她后来惊讶于船的condition，但开头真正的怀疑是活动是否肤浅，而不是船会不会破旧。",
+        C: "C对。她先下结论，然后才去寻找能够支持这个结论的证据。",
+        D: "D不对。年轻游客数量是博物馆管理方的问题，不是作者最初的主要担忧。"
+      }
+    },
+
+    {
+      question: "Why does the writer describe the organisers' disagreement about the carnival?",
+      options: {
+        A: "To show that Mr. Hale wanted to remove entertainment from the event completely.",
+        B: "To explain why the museum almost decided to sell the Imperial Star.",
+        C: "To suggest that young visitors were less interested in history than expected.",
+        D: "To show the difficulty of making an event attractive without losing its connection with the past."
+      },
+      answer: "D",
+      explanation: {
+        correct: "D是正确答案。Mr. Hale和活动团队争论的是如何既吸引年轻人，又不能让音乐、食物、色彩与历史毫无关系。题目用 attractive without losing its connection with the past 概括了这一冲突。",
+        A: "A不对。Mr. Hale没有反对所有娱乐，而是要求娱乐和船的历史有关。",
+        B: "B不对。文章没有出售船只的情节。",
+        C: "C不对。年轻人的兴趣是背景问题，但不是这一段的逻辑重点。",
+        D: "D对。它表现的是历史真实性和现代吸引力之间的平衡。"
+      }
+    },
+
+    {
+      question: "What is the main significance of Eva's three questions after the disk disappears?",
+      options: {
+        A: "They replace speculation with a process of checking what can actually be established.",
+        B: "They allow her to identify Leo as the person responsible for both incidents.",
+        C: "They prove that the museum's safety policy is ineffective.",
+        D: "They give her enough material to make the television programme more dramatic."
+      },
+      answer: "A",
+      explanation: {
+        correct: "A是正确答案。Eva没有跟着大家猜，而是追问最后谁拿过disk、谁动过display、Leo为什么进office。replace speculation with checking facts 对应全文核心逻辑。",
+        A: "A对。这三问把讨论从rumour转回evidence。",
+        B: "B不对。结果证明Leo是innocent。",
+        C: "C不对。问题并不证明安全政策失效。",
+        D: "D不对。她反而没有利用事件制造戏剧效果。"
+      }
+    },
+
+    {
+      question: "Why does Eva say that people's brains are good at 'filling blank spaces'?",
+      options: {
+        A: "People often remember events more accurately when information is missing.",
+        B: "When facts are incomplete, people may create explanations that feel convincing.",
+        C: "Historical research depends mainly on imagination rather than evidence.",
+        D: "Visitors are unable to understand a story unless it has a clear villain."
+      },
+      answer: "B",
+      explanation: {
+        correct: "B是正确答案。这里考隐喻理解和同义替换。filling blank spaces 指当信息缺失时，人会自动编出一个看似合理的解释。feel convincing 对应 appear more convincing than what actually happened。",
+        A: "A不对。缺失信息不会让记忆更准确。",
+        B: "B对。这正是Leo被误认为偷窃者的原因。",
+        C: "C不对。文章强调历史研究应该检查证据，而不是依赖想象。",
+        D: "D过于绝对。人们确实喜欢clear villains，但不能说没有坏人就完全无法理解故事。"
+      }
+    },
+
+    {
+      question: "Which statement best reflects the main idea of the passage?",
+      options: {
+        A: "Historical attractions need dramatic incidents if they want to gain younger visitors.",
+        B: "Traditional events should avoid modern entertainment in order to remain authentic.",
+        C: "Understanding the past requires people to question convincing stories and revise their views when evidence challenges them.",
+        D: "Television presenters are usually better at investigating problems than museum staff."
+      },
+      answer: "C",
+      explanation: {
+        correct: "C是正确答案。全文既写Leo事件，也写作者自己的预设，最终都落到同一逻辑：不要因为一个故事听起来合理就相信它，而要寻找证据，并在事实不同意原有判断时改变观点。",
+        A: "A不对。文章并不鼓励制造drama。",
+        B: "B不对。音乐、食物和craft都可以存在，只要与历史有关。",
+        C: "C对。question convincing stories + evidence + revise views 是全文最核心的思想。",
+        D: "D不对。Eva的处理很专业，但文章不是比较presenter和museum staff谁更优秀。"
+      }
+    }
+  ]
 }
 ];
