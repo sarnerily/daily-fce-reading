@@ -10197,5 +10197,246 @@ The event was not perfect, and neither was every display. But its real purpose w
       }
     }
   ]
+},
+{
+  date: "2026-09-11",
+  title: "The Island That Refused an Easy Story",
+  level: "FCE / B2+",
+
+  vocabulary: [
+    { word: "correspondence", meaning: "通信；来往信件；相关", example: "Anna discovered old correspondence between island families and customs officers." },
+    { word: "because of", meaning: "因为；由于", example: "The path was changed because of heavy rain." },
+    { word: "resource", meaning: "资源；资料；财力", example: "Old letters became an important historical resource." },
+    { word: "off shore", meaning: "离岸；在离岸不远处", example: "Bell Island lies several kilometres off shore." },
+    { word: "triumph", meaning: "巨大成功；重大胜利", example: "Anna refused to describe the opening as a triumph." },
+    { word: "rational", meaning: "合理的；理性的", example: "She argued for a rational solution rather than an impressive one." },
+    { word: "ton", meaning: "吨", example: "A storm once ruined nearly a ton of flour." },
+    { word: "robber", meaning: "强盗；抢劫犯", example: "A supposed robber had become part of island folklore." },
+    { word: "shabby", meaning: "破旧的；破烂的", example: "The customs warehouse looked shabby from the harbour." },
+    { word: "simplify", meaning: "简化；使易懂", example: "Anna did not want to simplify the story until it became false." },
+    { word: "goods", meaning: "商品；货物；财产", example: "The harbour once handled food, timber and other goods." },
+    { word: "burglarize", meaning: "闯入……行窃", example: "The warehouse had been burglarized many years earlier." },
+    { word: "burst", meaning: "破裂；爆发；突发", example: "A water pipe burst during the repairs." },
+    { word: "sunscreen", meaning: "防晒霜；防晒油", example: "Visitors were advised to bring sunscreen." },
+    { word: "weekly", meaning: "每周的；周刊", example: "A weekly newspaper had repeated the crime story." },
+    { word: "celery", meaning: "芹菜", example: "The food stall served celery salad." },
+    { word: "read up", meaning: "研究；攻读；认真阅读", example: "Anna had to read up on the island's history." },
+    { word: "tolerable", meaning: "尚可的；可接受的", example: "The warehouse was in tolerable condition." },
+    { word: "breathtaking", meaning: "惊人的；壮丽的", example: "The view from the hill was breathtaking." },
+    { word: "shade", meaning: "阴凉处；阴影；遮挡光线", example: "The original path offered almost no shade." },
+    { word: "opportunity", meaning: "机会；时机", example: "The project gave Anna an opportunity to rethink museum design." },
+    { word: "except", meaning: "除……之外", example: "Except for a few labels, most information was provided through sound." },
+    { word: "reserve", meaning: "保护区；储备；预订；保留", example: "Bell Island is now a nature reserve." },
+    { word: "be made of", meaning: "由……制成", example: "Several signs were made of old harbour wood." },
+    { word: "bull", meaning: "公牛；雄兽", example: "Visitors were kept away from a field containing a protective bull." },
+    { word: "generation", meaning: "一代；一代人", example: "The exhibition connected one generation with another." },
+    { word: "topic", meaning: "话题；题目", example: "The robber story became a favourite topic among tour guides." },
+    { word: "shift", meaning: "转移；改变；轮班", example: "Several displays had to be shifted to another room." },
+    { word: "think over", meaning: "仔细考虑；重新考虑", example: "Anna thought over whether to keep the dramatic crime story." },
+    { word: "consist of", meaning: "由……组成；包含", example: "The exhibition would consist of letters, objects and recorded memories." },
+    { word: "stranger", meaning: "陌生人；外地人", example: "An unexpected stranger helped Anna see a weakness in the plan." },
+    { word: "shout at", meaning: "对……大声叫喊", example: "One councillor shouted at Anna during a meeting." },
+    { word: "wash away", meaning: "冲走；洗掉；消除", example: "Heavy rain could wash away the loose path surface." },
+    { word: "deaf", meaning: "耳聋的；不愿听的", example: "A deaf visitor pointed out that the audio displays were inaccessible." },
+    { word: "disgusted", meaning: "厌恶的；反感的", example: "Anna was disgusted by the councillor's behaviour." },
+    { word: "cross out", meaning: "划掉", example: "She crossed out the words 'island robber' from her draft." },
+    { word: "photocopy", meaning: "复印件；复印", example: "A police photocopy revealed what had actually happened." },
+    { word: "till", meaning: "收银机；直到", example: "Volunteers operated the till at the food stall." },
+    { word: "enormously", meaning: "非常；极其", example: "The project changed enormously during its development." },
+    { word: "command", meaning: "掌握；指挥；命令", example: "Anna had a good command of the historical evidence." },
+    { word: "politician", meaning: "政治家；从政者", example: "A local politician wanted a dramatic viewing platform." },
+    { word: "pianist", meaning: "钢琴家；钢琴演奏者", example: "A local pianist performed music based on sea songs." },
+    { word: "spectacular", meaning: "壮观的；令人惊叹的", example: "The proposed viewing platform would have been spectacular." },
+    { word: "turn over", meaning: "翻转；翻阅；仔细考虑", example: "Visitors could turn over copies of old letters." },
+    { word: "diploma", meaning: "毕业文凭；学位证书", example: "Anna had a diploma in heritage studies." }
+  ],
+
+  passage: `
+The following feature appeared in a weekend travel and culture magazine.
+
+When the council announced plans to turn a shabby customs warehouse on Bell Island into a visitor centre, the reaction on the mainland was mixed. Bell Island lies three kilometres off shore and is now a nature reserve, but for more than a century its small harbour handled timber, food and other goods. Some residents saw the project as a chance to protect local history. Others thought the building should simply be pulled down.
+
+Anna Reed, a 24-year-old guide with a diploma in heritage studies, was asked to help design the exhibition. Her first task was to read up on the island's past. In the council office she found boxes of correspondence between customs officers, fishermen and local families. One letter described a winter storm that had burst several windows; another complained that nearly a ton of flour had been ruined by seawater.
+
+There were also more dramatic stories. According to an article in a popular weekly newspaper from the 1980s, the warehouse had once been burglarized by a mysterious robber who escaped by boat. The story became a favourite topic among local tour guides and was repeated for years.
+
+Anna soon discovered, however, that the truth was less spectacular. A photocopy of the original police report showed that two local teenagers had broken in, taken a small quantity of goods and returned most of them the following day. Neither had been a professional criminal.
+
+Anna was tempted to keep the robber story in the exhibition anyway. It was colourful, and colourful stories attract tourists. But after thinking it over, she crossed out the phrase "the island robber" from her draft.
+
+"If our purpose is to explain the past," she said, "we shouldn't simplify it until it becomes false."
+
+That decision shaped the rest of the project. Rather than consist of dramatic objects behind glass, the exhibition would use letters, recorded memories and ordinary working tools as a resource for understanding how island life had changed from one generation to the next.
+
+The work was not easy. The warehouse was in tolerable condition, but the roof leaked, one wall leaned slightly, and a pipe burst during the first week of repairs. Because of the water damage, the team had to shift several displays to a temporary room. Some signs were made of old harbour wood, while others had to be printed cheaply because the budget was limited.
+
+There was another problem: access. The path from the ferry to the warehouse crossed an open slope with almost no shade. On sunny days visitors needed sunscreen; after heavy rain, water could wash away the loose surface.
+
+A local politician had a different concern. He wanted a spectacular viewing platform at the top of the hill, where the view of the sea was breathtaking. He argued that it would give tourists a reason to stay longer.
+
+Anna disagreed. The platform would be expensive, and she believed the first priority should be a safer path and places where visitors could rest.
+
+The debate became surprisingly heated. At one meeting the politician shouted at Anna, accusing her of lacking ambition. She was disgusted by the tone but remained calm.
+
+"A rational plan," she replied, "is not the same as a boring one."
+
+Her strongest support came from an unexpected stranger. Mr Lewis, a deaf retired teacher visiting the island, explained through an interpreter that the proposed exhibition would be difficult for people like him. Except for a few written labels, almost all the personal stories were available only as audio recordings.
+
+Anna had thought carefully about history, cost and safety, but not enough about communication. She changed the plan immediately. Every recording would have a transcript, and photographs and maps would provide additional visual information.
+
+The project changed enormously after that conversation.
+
+The reserve staff also asked that visitors be kept away from the eastern field, where an old breed of cattle grazed. One bull had recently become protective of the herd. It was not dangerous without reason, but the staff did not want tourists moving close to it simply for photographs.
+
+By opening day, the project looked very different from the original design. The route began beside the ferry, passed under a simple wooden shelter and ended inside the warehouse. In front of the entrance stood a small food stall selling sandwiches, soup and celery salad. Volunteers operated the till, with profits going towards the reserve.
+
+Inside, visitors could turn over copies of old correspondence, compare photographs, and either listen to or read family memories. A local pianist performed short pieces based on traditional sea songs, but the music was only one part of the experience.
+
+The politician who had wanted the viewing platform attended the opening. To Anna's surprise, he admitted that the simpler plan worked better. Visitor numbers were strong, but more importantly, people stayed longer than expected and asked detailed questions.
+
+Anna did not call the opening a triumph. She said the real opportunity had been learning when to defend an idea and when to change it.
+
+"You need enough command of the facts to know what matters," she said, "but you also need enough humility to notice when somebody else sees what you missed."
+
+For a project that had begun with a crumbling warehouse and an exaggerated crime story, that seemed achievement enough.
+`,
+
+  translation: `
+以下特写发表于一本周末旅行与文化杂志。
+
+当市政会宣布计划把贝尔岛上一座破旧的海关仓库改造成游客中心时，大陆居民的反应并不一致。贝尔岛位于离岸约三公里处，如今是一处自然保护区。不过，一个多世纪以来，它的小港口一直用于装卸木材、食品和其他货物。有些居民认为，这个项目是保护地方历史的机会；另一些人则认为，这座建筑干脆应该拆掉。
+
+24岁的导游安娜·里德拥有文化遗产研究方面的文凭，并受邀参与展览设计。她的第一项工作就是认真研究这座岛的过去。在市政会办公室里，她发现了几箱海关官员、渔民和当地家庭之间的来往信件。其中一封信描述了一场冬季暴风雨如何震破了几扇窗户；另一封则抱怨近一吨面粉被海水毁掉了。
+
+还有一些更加戏剧化的故事。根据20世纪80年代一家受欢迎的周报报道，这座仓库曾经被一名神秘强盗闯入盗窃，那个人随后乘船逃走。这个故事成了当地导游喜欢谈论的话题，多年来一直被反复讲述。
+
+然而，安娜很快发现，真实情况没有那么精彩。一份原始警方报告的复印件显示，当时其实是两名本地青少年闯入仓库，拿走了少量货物，并在第二天归还了其中大部分。两个人都不是什么职业罪犯。
+
+安娜一度想继续把“强盗故事”放进展览。毕竟，这个故事很有趣，而有趣的故事会吸引游客。但仔细考虑后，她从草稿中划掉了“岛上强盗”几个字。
+
+她说：“如果我们的目的是解释过去，就不应该为了简洁，把故事简化到失真的程度。”
+
+这个决定影响了整个项目接下来的方向。展览不再只是由玻璃柜里的戏剧性物品组成，而是会利用信件、录音回忆和普通劳动工具作为资料，帮助人们理解岛上生活如何从一代人变化到下一代人。
+
+工作并不容易。仓库的总体状况还算可以，但屋顶漏水，一面墙微微倾斜，而且维修第一周一根水管就爆裂了。由于水害，团队不得不把几个展区移到一个临时房间。有些标牌用旧港口木材制成，另一些则因为预算有限，只能低成本打印。
+
+另一个问题是通行条件。从渡轮到仓库的小路要穿过一个开阔斜坡，几乎没有阴凉处。晴天时游客需要防晒霜；大雨之后，水甚至可能冲走松散的路面。
+
+一名本地政治家关心的是另一件事。他希望在山顶建一座壮观的观景台，那里的海景确实令人惊叹。他认为，这会给游客一个停留更久的理由。
+
+安娜不同意。观景台花费太高，而她认为第一优先事项应该是修建一条更安全的道路，并设置供游客休息的地方。
+
+争论出人意料地激烈。在一次会议上，那名政治家甚至冲安娜大声喊叫，指责她缺乏雄心。安娜很反感这种态度，但仍保持冷静。
+
+她回答：“一个理性的方案，并不等于一个无聊的方案。”
+
+最有力的支持却来自一位意想不到的陌生人。刘易斯先生是一名来岛旅行的退休教师，也是聋人。他通过手语翻译解释说，目前的展览方案对像他这样的人并不友好。除了一些文字说明外，几乎所有个人故事都只能通过录音获得。
+
+安娜曾经认真考虑历史、成本和安全，却没有充分考虑沟通方式。她立刻修改方案：每一段录音都要配文字稿，同时加入照片和地图等视觉信息。
+
+那次谈话之后，整个项目发生了很大的变化。
+
+保护区工作人员还要求游客不要进入东边的牧场，那里饲养着一种古老牛种。其中一头公牛最近对牛群表现出了很强的保护性。它并不会无缘无故攻击人，但工作人员不希望游客仅仅为了拍照而靠得太近。
+
+到开幕当天时，这个项目与最初设计已经有了很大不同。参观路线从渡轮旁开始，经过一处简单的木制遮棚，最后进入仓库。入口前有一个小食物摊，出售三明治、汤和芹菜沙拉。收银台由志愿者负责，收入用于支持自然保护区。
+
+进入展馆后，游客可以翻阅旧信件的复制品，对比照片，并选择听取或阅读当地家庭的回忆。一名本地钢琴家演奏了根据传统海洋歌曲创作的短曲，但音乐只是整个体验中的一部分。
+
+那位曾主张建设观景台的政治家也参加了开幕式。出乎安娜意料的是，他承认，更简单的方案反而效果更好。游客人数不错，但更重要的是，人们停留的时间比预期更长，而且提出了很多具体的问题。
+
+安娜没有把这次开幕称作一场“巨大胜利”。她说，真正的机会在于学会什么时候应该坚持自己的想法，又什么时候应该改变。
+
+她说：“你必须对事实有足够的掌握，才能知道什么真正重要；但你也必须足够谦逊，才能意识到别人可能看到了你忽略的东西。”
+
+对于一个最初从一座摇摇欲坠的仓库和一个被夸大的犯罪故事开始的项目来说，这样的结果已经足够称得上成就了。
+`,
+
+  questions: [
+    {
+      question: "What did Anna discover when she investigated the story of the 'island robber'?",
+      options: {
+        A: "The newspaper had completely invented an event that never happened.",
+        B: "The widely repeated version made the incident seem more dramatic than the evidence justified.",
+        C: "Professional criminals had returned most of the stolen property voluntarily.",
+        D: "The police had deliberately hidden the real identity of the robber."
+      },
+      answer: "B",
+      explanation: {
+        correct: "B是正确答案。原文中的故事是“mysterious robber escaped by boat”，但警方记录显示实际是两名当地青少年，拿走少量物品后又归还大部分。题目用 made the incident seem more dramatic than the evidence justified 来替换这种意思。",
+        A: "A不对。确实发生过闯入和拿走物品的事情，并不是完全捏造。",
+        B: "B对。被长期传播的版本比真实情况戏剧化得多。",
+        C: "C不对。原文明确说 neither had been a professional criminal。",
+        D: "D不对。警方材料恰恰帮助Anna查明了真实情况。"
+      }
+    },
+    {
+      question: "What does the disagreement about the viewing platform reveal about Anna's priorities?",
+      options: {
+        A: "She believes visitors should be discouraged from enjoying the scenery.",
+        B: "She is mainly concerned about reducing the politician's influence.",
+        C: "She thinks historical accuracy matters more than visitor safety.",
+        D: "She gives practical access greater importance than creating an impressive attraction."
+      },
+      answer: "D",
+      explanation: {
+        correct: "D是正确答案。politician强调spectacular、breathtaking和吸引游客，而Anna优先考虑safer path和resting places。题目把这种对比改写为 practical access 与 impressive attraction。",
+        A: "A不对。Anna并不反对游客欣赏景色。",
+        B: "B不对。她的判断基于项目需要，而不是政治关系。",
+        C: "C不对。她恰恰高度重视实际安全。",
+        D: "D对。这准确体现了她的优先顺序。"
+      }
+    },
+    {
+      question: "Why is Mr Lewis important to the development of the project?",
+      options: {
+        A: "He makes Anna aware that a plan may exclude people even when its designers believe they have considered visitors' needs.",
+        B: "He persuades Anna to remove all recorded material from the exhibition.",
+        C: "He demonstrates that written information is always more effective than audio.",
+        D: "He offers professional advice on the cost of improving the path."
+      },
+      answer: "A",
+      explanation: {
+        correct: "A是正确答案。Anna已经考虑了history, cost and safety，却忽略了deaf visitors。Mr Lewis让她意识到，一个看似周全的方案仍可能无意中排除某类人。",
+        A: "A对。这里考的是Mr Lewis这一人物在文章结构中的作用，而不仅是事实定位。",
+        B: "B不对。录音没有被删除，而是增加transcripts。",
+        C: "C不对。文章没有说文字总比声音有效，而是强调多种方式并存。",
+        D: "D不对。道路费用和设计不是Mr Lewis提供的意见。"
+      }
+    },
+    {
+      question: "What is suggested by the politician's reaction on opening day?",
+      options: {
+        A: "He still believes the viewing platform should be built later.",
+        B: "He is mainly impressed by the unexpectedly high visitor numbers.",
+        C: "He accepts that changing the original ambition produced a more successful result.",
+        D: "He feels embarrassed because visitors criticise his earlier behaviour."
+      },
+      answer: "C",
+      explanation: {
+        correct: "C是正确答案。原文说他承认 the simpler plan worked better。题目没有重复 simpler plan，而用 changing the original ambition produced a more successful result 来进行FCE式同义改写。",
+        A: "A不对。文中没有说他仍准备建设观景台。",
+        B: "B有迷惑性。visitor numbers strong确实出现了，但作者马上强调 more importantly，人们停留更久、提问更多。",
+        C: "C对。他接受了原先更加宏大的设想并不是最佳方案。",
+        D: "D不对。文章没有说他因之前的行为感到尴尬。"
+      }
+    },
+    {
+      question: "Which statement best expresses the main idea of the passage?",
+      options: {
+        A: "Tourist attractions become successful mainly by removing dramatic stories from their exhibitions.",
+        B: "Good public history depends on evidence, practical judgement and willingness to revise an apparently strong plan.",
+        C: "Historic buildings should always be preserved even when repair costs are high.",
+        D: "Visitors learn more when entertainment is kept separate from serious historical information."
+      },
+      answer: "B",
+      explanation: {
+        correct: "B是正确答案。全文有三次重要修正：Anna根据police evidence修改强盗故事；根据实际通行条件放弃观景台优先方案；根据Mr Lewis的意见修改展示方式。因此核心并不是单一的“保护历史”，而是 evidence + practical judgement + willingness to revise。",
+        A: "A不对。文章并不是反对dramatic stories本身，而是反对没有证据的夸张。",
+        B: "B对。这一选项概括了Anna整个过程中的判断原则。",
+        C: "C不对。文章没有提出任何历史建筑都必须保存的绝对观点。",
+        D: "D不对。钢琴演奏等娱乐内容仍然存在，并且与展览共存。"
+      }
+    }
+  ]
 }
 ];
