@@ -10438,5 +10438,273 @@ For a project that had begun with a crumbling warehouse and an exaggerated crime
       }
     }
   ]
+},
+{
+  date: "2026-09-15",
+  title: "A Night at the Fear Factory",
+  level: "FCE / B2+",
+
+  vocabulary: [
+    { word: "activity", meaning: "活动；活跃状态", example: "The building was full of activity after dark." },
+    { word: "Mrs.", meaning: "夫人", example: "Mrs. Bell had worked at the factory forty years earlier." },
+    { word: "amateur", meaning: "业余的；业余爱好者", example: "An amateur photographer recorded the event." },
+    { word: "curly", meaning: "卷曲的；有鬈发的", example: "A boy with curly hair asked the first question." },
+    { word: "kid", meaning: "孩子；年轻人；开玩笑", example: "Several kids stayed until midnight." },
+    { word: "display", meaning: "展示；陈列；显示", example: "One display explained how people judge danger." },
+    { word: "civilization", meaning: "文明；文化", example: "The exhibition asked how modern civilization deals with risk." },
+    { word: "behave", meaning: "表现；举止得体", example: "Visitors did not always behave as the designers expected." },
+    { word: "wardrobe", meaning: "衣柜；全部衣物", example: "Old factory uniforms were stored in a wardrobe." },
+    { word: "edition", meaning: "版本；版次；一期", example: "I had read about the festival in the weekend edition." },
+    { word: "overnight", meaning: "通宵的；一夜之间", example: "The museum organised an overnight event." },
+    { word: "sour", meaning: "酸的；变酸的；令人不快的", example: "Visitors compared fresh and sour cocoa mixtures." },
+    { word: "whilst", meaning: "当……的时候；与此同时", example: "Some people listened whilst others explored the factory." },
+    { word: "awful", meaning: "糟糕的；可怕的", example: "A loud alarm produced an awful sound." },
+    { word: "loneliness", meaning: "孤独；孤独感", example: "One room examined loneliness as a health issue." },
+    { word: "celebrate", meaning: "庆祝；赞美", example: "The event was designed to celebrate curiosity rather than fear." },
+    { word: "employ", meaning: "雇用；使用；采用", example: "The museum employed several qualified guides." },
+    { word: "pound", meaning: "英镑；连续猛击", example: "Rain began to pound against the roof." },
+    { word: "fright", meaning: "惊吓；恐怖经历", example: "One demonstration gave younger visitors a fright." },
+    { word: "neutral", meaning: "中立的；中性的", example: "The presenter tried to keep her tone neutral." },
+    { word: "department", meaning: "部门；系；处", example: "The university chemistry department provided expert advice." },
+    { word: "shoplifter", meaning: "商店扒手；商店窃贼", example: "A display used a shoplifter example to discuss quick judgement." },
+    { word: "qualified", meaning: "有资格的；具备专业能力的", example: "Only qualified staff handled dangerous materials." },
+    { word: "be conscious of", meaning: "意识到", example: "The organisers wanted people to be conscious of how fear affects decisions." },
+    { word: "vital", meaning: "极重要的；必不可少的", example: "Clear information is vital during an emergency." },
+    { word: "cyanide", meaning: "氰化物", example: "A locked display discussed the history of cyanide in industry." },
+    { word: "column", meaning: "柱；栏；专栏", example: "I later wrote about the event in my weekly column." },
+    { word: "nuclear", meaning: "核能的；核武器的", example: "Another section examined public attitudes towards nuclear power." },
+    { word: "irritable", meaning: "易怒的；暴躁的", example: "People became irritable after several hours without sleep." },
+    { word: "pan", meaning: "平底锅；严厉批评", example: "A cook heated cocoa in a large metal pan." },
+    { word: "demonstration", meaning: "示范；演示；证明；示威", example: "A demonstration showed how warning systems work." },
+    { word: "factory", meaning: "工厂", example: "The museum occupied a former cocoa factory." },
+    { word: "cocoa", meaning: "可可粉；热可可", example: "Hot cocoa was served after midnight." },
+    { word: "length", meaning: "长度；篇幅；一段", example: "The length of the event surprised many visitors." },
+    { word: "lorry", meaning: "卡车；货运汽车", example: "An old delivery lorry stood beside the entrance." },
+    { word: "trap", meaning: "陷阱；圈套；使陷入困境", example: "The final exhibit warned against the trap of believing dramatic stories too quickly." },
+    { word: "thirst", meaning: "口渴；渴望", example: "Visitors could refill water bottles whenever thirst became a problem." },
+    { word: "clear", meaning: "清楚的；明确的；清除", example: "The best explanations were clear without being simplistic." },
+    { word: "sculpture", meaning: "雕塑；雕塑品", example: "A huge sculpture made from old machinery stood in the central hall." },
+    { word: "suit", meaning: "西装；适合", example: "A formal lecture would not have suited the festival." }
+  ],
+
+  passage: `
+The following article appeared in the weekend edition of a city magazine.
+
+At eleven o'clock on Saturday night, most museums are dark. The Calder Factory Museum was doing the opposite. Music drifted through the entrance, hot cocoa was being served from a large metal pan, and an amateur photographer was trying to capture the shadow of a huge sculpture made from old machinery.
+
+I had come to report on an unusual overnight activity called The Fear Factory. The building had once produced cocoa products and employed more than four hundred people. Now its purpose was different: for one night, scientists, artists and museum staff would explore why human beings are so attracted to frightening things.
+
+The title worried me. Museums sometimes use danger simply to entertain. A dramatic story about cyanide, nuclear accidents or murder may attract an audience, but it does not necessarily help anyone understand the subject.
+
+Dr Leila Hammond, from the university chemistry department, was conscious of this problem.
+
+"If people leave more frightened but not better informed," she told me, "we've failed."
+
+Her team had helped design several displays. One dealt with poisonous industrial chemicals, including cyanide, but no dangerous substance was available to visitors; only qualified staff could enter the laboratory area. Another examined attitudes towards nuclear power by comparing newspaper headlines with actual risk figures. The aim was not to persuade people to support or oppose nuclear energy, but to make clear how language can influence judgement.
+
+Elsewhere, the tone was lighter. Children could explore a dark room containing ordinary objects and guess which sounds they were hearing. A boy with curly hair gave a shout when an automatic cupboard door opened beside him. His friends laughed, and he laughed too once the fright had passed.
+
+Not every demonstration worked so well.
+
+Shortly after midnight, an alarm sounded during a safety exercise. It was an awful noise, loud enough to make conversation impossible. Visitors were supposed to follow green lights towards the nearest exit. Instead, several people stopped to film the alarm on their phones. Others followed the crowd without checking where it was going.
+
+Mrs. Bell, a retired factory employee, watched with interest. She had spent thirty years in the building when it was still producing cocoa.
+
+"When I worked here, you behaved differently when an alarm sounded," she said. "You didn't ask whether it was interesting."
+
+Her comment was funny, but it also revealed the point of the exercise. Knowing a safety rule and following it under pressure are not the same thing.
+
+Later, I joined a discussion about fear in everyday life. The presenter remained deliberately neutral. She moved from obvious topics such as crime to less dramatic ones: loneliness, financial insecurity and the fear of looking foolish in public.
+
+One example concerned a shoplifter. Participants were shown a photograph of a young man leaving a store with something hidden under his coat. Most immediately assumed he had stolen it. Only later were they told that he was a store employee carrying a damaged product to a rubbish container.
+
+The exercise was simple, perhaps even unfair, but effective. We had been given too little information and had filled the gap ourselves.
+
+That pattern appeared throughout the night. Dramatic details attracted attention; missing details allowed imagination to take control.
+
+At about two in the morning, tiredness became part of the experiment without anyone planning it. Children grew quiet, adults became irritable, and the line for coffee was longer than the line for any scientific display. Rain began to pound against the high factory windows. Visitors who had celebrated the idea of staying awake all night began checking train times home.
+
+I almost left too.
+
+Then I entered one of the smallest rooms.
+
+It contained no alarms, chemicals or frightening photographs. Instead, old factory workers had recorded memories of night shifts. They talked about the length of the working day, the smell of cocoa, heavy lorries arriving before sunrise and the strange loneliness of walking home whilst the rest of the city was waking up.
+
+In a wardrobe stood several old uniforms. Next to them was a photograph of workers drinking cocoa together during a break. Nothing in the room was spectacular, yet it held my attention longer than anything else.
+
+By four o'clock, I understood why.
+
+The strongest part of The Fear Factory was not really about fear. It was about attention. Fear narrows attention; curiosity widens it. A frightening headline invites a quick reaction. A good explanation asks us to stay long enough to notice what has been left out.
+
+Before leaving, I asked Dr Hammond whether the event had been a success.
+
+She refused to celebrate too quickly.
+
+"Ask people next week," she said. "If all they remember is the alarm, then no. If they remember to ask one more question before making a judgement, perhaps."
+
+I later used that sentence in my magazine column.
+
+The event had not removed fear, nor should it have tried to. Fear can be vital. It may tell us to step away from danger or seek help. The trap is assuming that the strongest feeling must also provide the clearest information.
+
+By sunrise, the factory was almost silent again. Outside, the old delivery lorry stood under a pale sky, and the last few visitors crossed the yard towards home.
+
+For an event designed around fright, it had ended in a surprisingly thoughtful way.
+`,
+
+  translation: `
+以下文章刊登在一本城市杂志的周末版上。
+
+星期六晚上十一点，大多数博物馆都已经一片漆黑。但卡尔德工厂博物馆正好相反。音乐从入口处传来，人们用一只大型金属平底锅制作热可可，一名业余摄影爱好者正试图拍下一座用旧机器制成的巨大雕塑投下的影子。
+
+我是来报道一项不同寻常的通宵活动——“恐惧工厂”的。这座建筑过去是一家可可制品工厂，曾经雇用过四百多人。如今它的用途已经不同：在这个夜晚，科学家、艺术家和博物馆工作人员将一起探讨，人类为什么如此容易被令人恐惧的事物吸引。
+
+这个名字让我有些担心。有些博物馆只是利用危险来制造娱乐效果。关于氰化物、核事故或谋杀的戏剧性故事确实可以吸引观众，但并不一定能帮助人理解这些问题。
+
+来自大学化学系的莱拉·哈蒙德博士也意识到了这一问题。
+
+她对我说：“如果人们离开时更害怕，却没有理解得更多，那我们就失败了。”
+
+她的团队帮助设计了几个展区。其中一个介绍工业有毒化学品，包括氰化物，不过游客接触不到任何危险物质；只有具备专业资格的工作人员才能进入实验区。另一个展区则通过比较新闻标题和实际风险数据，讨论公众对核能的态度。其目的并不是说服人们支持或反对核能，而是让大家看清楚语言如何影响判断。
+
+其他地方的气氛则轻松一些。孩子们可以进入一个黑暗房间，听各种普通物品发出的声音并猜测它们是什么。一个卷发男孩看到身旁的自动柜门突然打开，吓得叫了起来。朋友们笑了，等惊吓过去以后，他自己也笑了。
+
+但并不是每一个演示都进行得如此顺利。
+
+午夜过后不久，一场安全演习中响起了警报。声音糟糕而刺耳，大到根本无法交谈。按计划，游客应该沿着绿色指示灯前往最近的出口。但实际上，有几个人停下来用手机拍警报；另一些人只是跟着人群走，根本没有确认大家到底走向哪里。
+
+退休工人贝尔夫人在旁边饶有兴趣地看着。工厂还生产可可的时候，她曾经在那里工作了三十年。
+
+她说：“我在这里工作时，警报响起来，你的表现可不是这样的。你不会先想它有没有意思。”
+
+她的话有点好笑，但也揭示了这次演习的真正意义。知道一条安全规定，与在压力下真正按照规定行动，并不是同一件事。
+
+后来，我参加了一场关于日常生活中恐惧的讨论。主持人刻意保持中立。话题从犯罪等明显的恐惧对象，逐渐转向不那么戏剧化的问题：孤独、经济上的不安全感，以及害怕在公众面前显得可笑。
+
+其中一个例子与商店窃贼有关。参与者看到一张照片，一个年轻男子从商店走出来，大衣下面藏着什么东西。大多数人立即认为他偷了东西。直到后来大家才被告知，他其实是商店员工，正把一件损坏的商品拿到垃圾箱去。
+
+这个测试很简单，也许甚至有一点“不公平”，但很有效。因为得到的信息太少，我们自己补全了故事。
+
+这样的情况整夜都在重复。戏剧性的细节会吸引注意；缺失的信息则会让想象开始控制判断。
+
+凌晨两点左右，疲劳在没有人计划的情况下，也变成了实验的一部分。孩子们安静下来，成年人开始变得易怒，买咖啡的队伍比任何科学展项前的队伍都长。雨开始咚咚地敲打工厂高大的玻璃窗。那些一开始还庆祝“通宵不睡”这个想法的人，已经开始查询回家的火车时间。
+
+我也差点离开。
+
+然后，我走进了最小的一个房间。
+
+那里没有警报，没有化学品，也没有恐怖照片。只有以前的工厂工人录下的夜班记忆。他们谈到工作时间有多长、空气中的可可味、黎明前抵达的重型卡车，以及当整个城市正在苏醒、自己却独自走回家时那种奇怪的孤独感。
+
+一个衣柜里放着几套旧制服。旁边有一张照片，是工人们休息时一起喝热可可。这个房间里没有任何壮观的东西，可我在那里停留的时间，却比其他任何展区都长。
+
+到了凌晨四点，我明白了原因。
+
+“恐惧工厂”最精彩的部分其实并不真正关于恐惧，而是关于“注意力”。恐惧让注意力变窄，而好奇心让它扩大。一个令人恐惧的标题会邀请我们立即做出反应；一个好的解释则要求我们停留得足够久，去注意那些被遗漏的信息。
+
+离开之前，我问哈蒙德博士，她是否认为活动成功了。
+
+她拒绝过早庆祝。
+
+她说：“下周再去问这些人。如果他们只记得警报声，那就不算成功。如果他们记得在下判断之前多问一个问题，也许就算。”
+
+后来，我把这句话写进了自己的杂志专栏。
+
+这个活动没有消除恐惧，也不应该这样做。恐惧有时非常重要。它可能提醒我们远离危险，或者寻求帮助。真正的陷阱，是以为最强烈的感觉一定也能提供最清晰的信息。
+
+太阳升起时，工厂几乎再次安静下来。外面，那辆旧货运卡车停在苍白的天空下，最后几名游客穿过院子回家。
+
+对于一场围绕“惊吓”设计的活动来说，它最终以一种出人意料的、令人深思的方式结束了。
+`,
+
+  questions: [
+    {
+      question: "What concern does the writer have before experiencing The Fear Factory?",
+      options: {
+        A: "The scientific material may be too advanced for ordinary visitors.",
+        B: "The former factory may be unsuitable for a public event held overnight.",
+        C: "Visitors may behave irresponsibly around genuinely dangerous chemicals.",
+        D: "The organisers may use frightening subjects to attract attention without improving understanding."
+      },
+      answer: "D",
+      explanation: {
+        correct: "D是正确答案。原文说 dramatic stories about cyanide or nuclear accidents may attract an audience but do not necessarily help anyone understand。题目用 attract attention without improving understanding 做了同义改写。",
+        A: "A不对。作者并没有担心内容过难。",
+        B: "B不对。建筑是否适合通宵开放不是作者最初的核心顾虑。",
+        C: "C有一定迷惑性，但危险物质事实上由qualified staff控制，作者担忧的不是游客直接接触危险品。",
+        D: "D对。作者担心的是把恐惧变成娱乐，而缺少真正的信息价值。"
+      }
+    },
+
+    {
+      question: "What does the safety exercise mainly demonstrate?",
+      options: {
+        A: "People may understand instructions in theory but react differently when placed under pressure.",
+        B: "Visitors are more interested in recording emergencies than protecting themselves.",
+        C: "Modern museum visitors are less disciplined than former factory workers.",
+        D: "Emergency lights are not an effective method of directing large crowds."
+      },
+      answer: "A",
+      explanation: {
+        correct: "A是正确答案。原文明确总结 Knowing a safety rule and following it under pressure are not the same thing。题目中的 understand instructions in theory / react differently under pressure 是FCE常见的同义改写。",
+        A: "A对。这是整个演习的核心作用。",
+        B: "B只描述部分人的行为，但不是演习说明的主要问题。",
+        C: "C不对。Mrs Bell做了对比，但作者并没有整体评价现代游客更差。",
+        D: "D不对。问题主要在人们的行为，而不是绿色指示灯本身失效。"
+      }
+    },
+
+    {
+      question: "Why does the writer include the example involving the supposed shoplifter?",
+      options: {
+        A: "To show how quickly people can construct an explanation when important information is missing.",
+        B: "To prove that photographs are unreliable evidence in criminal investigations.",
+        C: "To suggest that the presenter deliberately tricks visitors for entertainment.",
+        D: "To demonstrate that shop employees are often mistaken for criminals."
+      },
+      answer: "A",
+      explanation: {
+        correct: "A是正确答案。参与者只看到一个年轻人衣服下藏着东西，就自动推断他偷窃。原文总结为 we had been given too little information and had filled the gap ourselves。",
+        A: "A对。construct an explanation 对应 fill the gap ourselves。",
+        B: "B太绝对。文章不是讨论刑事调查中照片是否可靠。",
+        C: "C不对。虽然测试有意隐藏信息，但目的在于展示判断机制，不只是娱乐。",
+        D: "D不对。这只是一个实验例子，不能推广为普遍现象。"
+      }
+    },
+
+    {
+      question: "Why is the room containing workers' memories particularly important to the writer?",
+      options: {
+        A: "It provides stronger scientific evidence than the other displays.",
+        B: "Its quiet, ordinary material holds his attention without relying on dramatic fear.",
+        C: "It reminds him that factory work was physically more dangerous in the past.",
+        D: "It is the only part of the event that gives information about the building's history."
+      },
+      answer: "B",
+      explanation: {
+        correct: "B是正确答案。这个房间没有alarms, chemicals or frightening photographs，却让作者停留最久，直接推动他理解 fear narrows attention; curiosity widens it。",
+        A: "A不对。这里主要是个人记忆，不是更强的科学证据。",
+        B: "B对。quiet, ordinary material 是对old uniforms、memories、cocoa photograph等内容的概括。",
+        C: "C不对。夜班辛苦出现了，但不是作者特别被吸引的核心原因。",
+        D: "D不对。其他展区同样涉及工厂历史。"
+      }
+    },
+
+    {
+      question: "Which statement best expresses the main idea of the article?",
+      options: {
+        A: "Fear should be removed from science communication whenever possible.",
+        B: "Museums need dramatic activities if they want visitors to remember scientific information.",
+        C: "People make their best decisions when they trust their strongest emotional reaction.",
+        D: "Strong reactions can be useful, but understanding requires people to look beyond them and seek fuller information."
+      },
+      answer: "D",
+      explanation: {
+        correct: "D是正确答案。文章最后明确说 fear can be vital，但陷阱是把 strongest feeling 当成 clearest information。因此文章不是否定恐惧，而是强调不能止步于情绪反应。",
+        A: "A不对。作者明确说 fear can be vital。",
+        B: "B不对。最打动作者的恰恰是最安静的房间。",
+        C: "C与全文观点相反。",
+        D: "D对。look beyond strong reactions + seek fuller information 概括了全文逻辑。"
+      }
+    }
+  ]
 }
 ];
