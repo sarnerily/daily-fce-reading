@@ -10706,5 +10706,338 @@ For an event designed around fright, it had ended in a surprisingly thoughtful w
       }
     }
   ]
+},
+{
+  date: "2026-09-18",
+  title: "Beyond the Perfect Winter Picture",
+  level: "FCE / B2+",
+
+  vocabulary: [
+    { word: "simple", meaning: "简单的；易懂的；易做的", example: "The editor gave Nora a simple-sounding assignment." },
+    { word: "boarding pass", meaning: "登机牌；登机证", example: "Nora checked her boarding pass for the third time." },
+    { word: "urgent", meaning: "紧急的；急迫的", example: "An urgent message arrived just before the flight." },
+    { word: "pray", meaning: "祈祷；企盼", example: "She prayed that the snow would not delay the plane." },
+    { word: "abroad", meaning: "在国外；到国外", example: "It was Nora's first reporting trip abroad." },
+    { word: "sparkle", meaning: "闪耀；闪烁；生气勃勃", example: "Snow sparkled under the festival lights." },
+    { word: "revenge", meaning: "报复；报仇；雪耻", example: "One online headline joked that the reindeer had taken revenge on tourists." },
+    { word: "maybe", meaning: "也许；可能", example: "Maybe the story was more complicated than she had expected." },
+    { word: "lately", meaning: "最近；近来", example: "The festival had lately attracted more foreign visitors." },
+    { word: "horrible", meaning: "极坏的；可怕的；令人震惊的", example: "Nora thought frightening the animals for a photograph would be a horrible idea." },
+    { word: "vocabulary", meaning: "词汇；词汇量；词汇表", example: "Her local-language vocabulary was limited." },
+    { word: "respect", meaning: "尊敬；尊重；重视", example: "Mira said that tourism should show respect for local traditions." },
+    { word: "sell", meaning: "出售；销售；推销", example: "The tourism board wanted to sell the town as a winter destination." },
+    { word: "put down", meaning: "放下；贬低；批评", example: "The guide put down the microphone and walked towards the frightened animal." },
+    { word: "schedule", meaning: "时间表；日程安排；安排", example: "The festival schedule was changed after lunch." },
+    { word: "tablecloth", meaning: "桌布", example: "A red tablecloth covered the café table." },
+    { word: "vision", meaning: "视野；远见；设想", example: "The mayor had a clear vision of a more successful tourist economy." },
+    { word: "church", meaning: "教堂；教会", example: "A folk concert was held in the wooden church." },
+    { word: "grateful", meaning: "感激的；感谢的", example: "Nora was grateful to the local guide for explaining the disagreement." },
+    { word: "turn down", meaning: "拒绝；调低；关小", example: "The disc jockey was asked to turn down the music." },
+    { word: "reindeer", meaning: "驯鹿", example: "The reindeer had been part of local life for generations." },
+    { word: "police", meaning: "警方；警察部门", example: "Police helped keep the crowd away from the road." },
+    { word: "folk", meaning: "民间的；民俗的；人们", example: "Local folk music was performed in the evening." },
+    { word: "dwell", meaning: "居住；栖身", example: "Most of the herd normally dwelt in woodland beyond the town." },
+    { word: "perfume", meaning: "香水；香料；芳香", example: "A shop sold perfume made with pine and berry scents." },
+    { word: "saleswoman", meaning: "女店员；女推销员", example: "The saleswoman said the festival provided much of her winter income." },
+    { word: "beyond", meaning: "超出；在……较远的一边", example: "Nora wanted to understand the town beyond its postcard image." },
+    { word: "duty", meaning: "责任；职责；义务", example: "The organisers had a duty to protect both visitors and animals." },
+    { word: "exploitation", meaning: "开发；利用；剥削", example: "Some residents worried that tourism was becoming exploitation." },
+    { word: "race", meaning: "比赛；竞争；赛跑", example: "The reindeer race was the most popular event." },
+    { word: "modeling", meaning: "模特；造型；建模", example: "A clothing company had arranged a modeling shoot at the festival." },
+    { word: "take off", meaning: "起飞；脱掉；开始流行", example: "Nora's flight finally took off two hours late." },
+    { word: "contrast", meaning: "对比；差异；形成对比", example: "The quiet church concert contrasted with the crowded market." },
+    { word: "cameraman", meaning: "摄影师；摄像师", example: "A cameraman stepped too close to one of the animals." },
+    { word: "disc jockey", meaning: "唱片节目主持人；DJ", example: "A disc jockey played music near the main square." },
+    { word: "coach", meaning: "教练；长途客车；辅导教师", example: "Tourists arrived by coach from the airport." },
+    { word: "pleasure", meaning: "快乐；愉快；乐事", example: "Watching the folk musicians was one of Nora's greatest pleasures." },
+    { word: "summarise", meaning: "总结；概括", example: "Her editor asked her to summarise the festival in one sentence." },
+    { word: "panic", meaning: "恐慌；惊慌失措", example: "There was a brief moment of panic when a reindeer ran towards the road." }
+  ],
+
+  passage: `
+The following feature appeared in a youth travel magazine.
+
+The assignment sounded simple: fly abroad, spend three days at the Karsvik Winter Festival, and write something that would make readers want to go there.
+
+"Give me snow, lights and sparkle," my editor said. "And don't make it too serious."
+
+At the airport, I checked my boarding pass for the third time and prayed that the heavy snow would not cancel the flight. An urgent message from the editor arrived just before boarding: a clothing company had organised a modeling shoot at the festival, and he wanted photographs.
+
+My plane eventually took off two hours late.
+
+Karsvik was smaller than I had imagined. Beyond the airport, a coach carried us through dark woodland towards a town of wooden houses, a white church and a frozen river. Reindeer normally dwelt several kilometres away, but during the festival some were brought into town for demonstrations and an annual race.
+
+The tourism board's vision was easy to understand. Karsvik had lately been losing young people, and winter tourism created employment when other work was limited. Hotels, cafés and shops all depended on visitors.
+
+A saleswoman in a small perfume shop told me the festival made an enormous difference.
+
+"January used to be almost empty," she said. "Now people buy gifts, eat in restaurants and stay overnight. We are grateful for them."
+
+Her words made it difficult to accept the simple argument that tourism was destroying local life.
+
+That afternoon I met Mira, a twenty-year-old student helping with the festival. Her English was excellent, which was useful because my local vocabulary consisted of about six words.
+
+Mira's view was more complicated.
+
+"Tourism is not the problem," she said. "The question is what we are prepared to sell."
+
+She showed me the main square, where stalls stood beneath coloured lights. One table, covered with a red tablecloth, sold cakes and hot drinks. Nearby, a disc jockey was preparing for the evening programme. In complete contrast, a few streets away, musicians were rehearsing folk songs inside the church.
+
+Mira was especially concerned about the reindeer race.
+
+For generations, she explained, families in the area had worked with reindeer. The animals were not decorations. Yet some visitors treated them as if they existed only for photographs.
+
+"If people come with respect, that's fine," she said. "But when an animal becomes only a background for social media, it starts to feel like exploitation."
+
+I asked whether she wanted the race cancelled.
+
+She shook her head.
+
+"That would simplify the issue too much."
+
+The race, she explained, was organised by experienced handlers, and the animals were trained gradually. It also attracted money that helped support herders throughout the winter. Her objection was not to the tradition itself, but to turning it into something it was not.
+
+The following morning showed me exactly what she meant.
+
+A television crew arrived to film the race. One cameraman wanted a close shot of a reindeer beside a teenage model wearing a bright folk-style coat. The handler said no. The cameraman moved closer anyway.
+
+The animal suddenly pulled away.
+
+For perhaps ten seconds there was panic. The reindeer ran across the edge of the square towards the road. Police stopped pedestrians, while the handler put down his microphone and followed calmly. No one was injured, and the animal stopped near a fence.
+
+Within minutes, however, videos were online.
+
+"REINDEER TAKES REVENGE ON TOURISTS!" announced one post.
+
+Another called the festival "horrible cruelty".
+
+Neither description seemed right.
+
+The reindeer had not taken revenge; it had been frightened. But the incident did not prove that the whole festival was cruel either.
+
+The organisers changed the schedule. The second race was postponed, and the modeling shoot was cancelled. The disc jockey was asked to turn down the music near the animals. Some tourists were disappointed, but most accepted the decision.
+
+The cameraman apologised.
+
+Mira did not put him down or call him irresponsible. She simply said, "You were thinking about the picture. The handler was thinking about the animal."
+
+That sentence stayed with me.
+
+Later, I watched the race under much quieter conditions. It lasted only a few minutes. What interested me most was not who won, but the relationship between the handlers and the animals. Commands were mostly spoken softly, and there was far less drama than the online videos suggested.
+
+That evening I returned to the church. The folk concert had no television cameras and no fashionable clothing campaign. An elderly musician played a slow violin tune whilst children sang beside him. It was, unexpectedly, the greatest pleasure of my trip.
+
+On my final morning, my editor called.
+
+"Can you summarise the festival in one sentence?" he asked.
+
+I looked out at the snow-covered square.
+
+I could have said it was beautiful. It was.
+
+I could have said tourism was damaging the town. Sometimes it probably was.
+
+But neither answer seemed sufficient.
+
+"The difficult part," I finally said, "isn't deciding whether tourism is good or bad. It's deciding what visitors, businesses and local people owe one another."
+
+There was a pause.
+
+"Not exactly sparkle," he said.
+
+Maybe not.
+
+But by then I had begun to think that travelling abroad should do more than confirm the picture we had already planned to bring home.
+`,
+
+  translation: `
+以下特写刊登在一本青年旅行杂志上。
+
+这个任务听起来很简单：出国，去卡尔斯维克冬季节待三天，然后写一篇能让读者产生旅行冲动的文章。
+
+编辑对我说：“给我雪、灯光和闪耀的感觉。还有，别写得太严肃。”
+
+在机场，我第三次检查登机牌，并祈祷大雪不要让航班取消。登机前，编辑又发来一条紧急消息：一家服装公司将在冬季节上进行模特拍摄，他希望我弄些照片回来。
+
+飞机最终晚了两个小时起飞。
+
+卡尔斯维克比我想象中小。从机场出来后，一辆长途客车载着我们穿过昏暗的林地，来到一座由木屋、白色教堂和冰封河流组成的小镇。驯鹿平时栖息在几公里外，不过冬季节期间会有一些被带进镇里参加展示和一年一度的比赛。
+
+旅游局的设想很容易理解。近些年来，卡尔斯维克不断有年轻人离开，而冬季旅游能够在其他工作机会有限的时候创造就业。旅馆、咖啡馆和商店都依赖游客。
+
+一家小香水店的女店员告诉我，冬季节给她带来的影响非常大。
+
+“过去一月份几乎没人，”她说，“现在人们会买礼物、去餐馆吃饭、留下来过夜。我们真的很感谢他们。”
+
+她的话让我很难接受那种简单的说法——旅游业正在摧毁当地生活。
+
+那天下午，我遇到了米拉，一名二十岁的学生，也是冬季节的志愿者。她英语很好，这对我很有帮助，因为我的当地语言词汇量大概只有六个词。
+
+米拉的看法复杂得多。
+
+她说：“旅游本身并不是问题。问题是，我们愿意拿什么去卖。”
+
+她带我参观主广场。彩灯下面摆着各种摊位，一张铺着红色桌布的桌子出售蛋糕和热饮。附近，一位DJ正在为晚上的节目做准备。与之形成鲜明对比的是，几条街之外，一群音乐家正在教堂里排练民间歌曲。
+
+米拉尤其担心驯鹿比赛。
+
+她解释说，几代人以来，这个地区的家庭一直与驯鹿一起生活和工作。这些动物并不是装饰品。然而，一些游客却把它们当成只为了拍照而存在的背景。
+
+“如果人们带着尊重来到这里，那当然没问题，”她说，“但如果一只动物只变成社交媒体照片的背景，我就觉得那开始有点像利用和剥削了。”
+
+我问她是不是希望取消比赛。
+
+她摇了摇头。
+
+“那样就把问题想得太简单了。”
+
+她解释说，比赛由有经验的饲养者组织，动物也是逐渐训练的。而且这项活动带来的收入能够帮助饲养者度过冬季。她反对的不是传统本身，而是把传统变成它原本不是的东西。
+
+第二天早上，我亲眼看到了她所说的问题。
+
+一个电视摄制组来到现场拍摄比赛。其中一名摄影师想拍一个近距离镜头：一只驯鹿站在一名穿着鲜艳民俗风格外套的少女模特旁边。驯鹿饲养员拒绝了。
+
+但摄影师还是走得更近了。
+
+那只动物突然挣脱开来。
+
+大约十秒钟里，现场出现了恐慌。驯鹿沿着广场边缘向公路跑去。警方拦住行人，而饲养员放下麦克风，平静地跟了过去。没有人受伤，驯鹿最后停在一道围栏附近。
+
+然而几分钟内，视频已经传到了网上。
+
+一条帖子写道：“驯鹿向游客复仇！”
+
+另一条则称这场冬季节是“可怕的虐待”。
+
+两种说法在我看来都不准确。
+
+驯鹿并不是在报复，它只是受到了惊吓。但这件事也不能证明整个冬季节都很残酷。
+
+组织者修改了日程。第二场比赛被推迟，模特拍摄被取消。DJ也被要求把动物附近的音乐调低一些。有些游客感到失望，但大多数人接受了这个决定。
+
+那名摄影师后来道了歉。
+
+米拉没有贬低他，也没有骂他不负责任。她只是说：“你想的是照片。饲养员想的是动物。”
+
+这句话一直留在我的脑海里。
+
+后来，我在安静得多的条件下观看了比赛。比赛只持续了几分钟。真正让我感兴趣的，并不是谁获胜，而是饲养者和动物之间的关系。指令大多是很轻声地说出的，现场的戏剧性远没有网络视频里那么强。
+
+那天晚上，我又去了教堂。民间音乐会没有电视摄像机，也没有时尚服装宣传。一名年长音乐家拉着一首缓慢的小提琴曲，孩子们在他身边唱歌。出乎意料的是，这反而成为我整趟旅行中最愉快的经历。
+
+最后一天早上，编辑给我打来电话。
+
+“你能不能用一句话总结这个冬季节？”他问。
+
+我望着窗外被积雪覆盖的广场。
+
+我当然可以说它很美。确实很美。
+
+我也可以说旅游业正在伤害这座小镇。有时候可能确实如此。
+
+但两个答案似乎都不够。
+
+最后我说：“真正困难的，不是判断旅游到底是好还是坏，而是决定游客、商家和当地人彼此应该承担什么责任。”
+
+电话那头停了一下。
+
+“这可不太‘闪耀’。”编辑说。
+
+也许确实不闪耀。
+
+但到那时，我已经开始觉得，出国旅行不应该只是去证实我们出发前就已经准备好的那幅图景。
+`,
+
+  questions: [
+    {
+      question: "Why does the writer find the saleswoman's comments significant?",
+      options: {
+        A: "They prove that most local people are satisfied with the growth of tourism.",
+        B: "They suggest that visitors spend more on perfume than on other local products.",
+        C: "They challenge the idea that tourism has only negative effects on the town.",
+        D: "They explain why younger residents have recently begun returning to Karsvik."
+      },
+      answer: "C",
+      explanation: {
+        correct: "C是正确答案。女店员说明冬季节给淡季带来了顾客和收入，这使作者无法简单接受“tourism was destroying local life”的说法。题目用 has only negative effects 替换了这种单一判断。",
+        A: "A不对。一个店员的态度不能代表most local people。",
+        B: "B不对。perfume只是她经营的商品，并没有和其他消费进行比较。",
+        C: "C对。她的经历说明旅游同时也给当地经济带来实际好处。",
+        D: "D不对。文章没有说年轻居民因此开始回流。"
+      }
+    },
+
+    {
+      question: "What does Mira mean when she says cancelling the reindeer race would 'simplify the issue too much'?",
+      options: {
+        A: "The race is too popular with tourists for cancellation to be realistic.",
+        B: "She believes criticism of the festival comes mainly from outsiders who lack knowledge.",
+        C: "She thinks animal welfare matters less than maintaining local traditions.",
+        D: "She sees both value and potential harm in the event, so a simple yes-or-no judgement would miss part of the picture."
+      },
+      answer: "D",
+      explanation: {
+        correct: "D是正确答案。Mira既承认race为饲养者提供收入、具有传统价值，又担心动物被当成拍照背景。题目用 both value and potential harm 概括这种双重性。",
+        A: "A有迷惑性。race确实吸引游客，但这不是她反对取消的主要逻辑。",
+        B: "B不对。她并没有把所有批评归因于外来者无知。",
+        C: "C不对。她明显非常重视animal welfare。",
+        D: "D对。她拒绝把复杂问题处理成简单的支持或反对。"
+      }
+    },
+
+    {
+      question: "Why is the incident involving the cameraman important to the article?",
+      options: {
+        A: "It turns an abstract disagreement about tourism into a concrete example of competing priorities.",
+        B: "It proves that television crews are mainly responsible for problems at cultural festivals.",
+        C: "It shows that reindeer racing itself is too dangerous to continue.",
+        D: "It gives the writer the dramatic story her editor originally wanted."
+      },
+      answer: "A",
+      explanation: {
+        correct: "A是正确答案。之前的争论是tourism、tradition、exploitation之间的抽象问题；摄影师靠近驯鹿后，Mira用“你想的是picture，handler想的是animal”把两种priority具体化了。",
+        A: "A对。competing priorities指宣传画面与动物福利之间的冲突。",
+        B: "B不对。这是一个cameraman的行为，不能推广到所有电视摄制组。",
+        C: "C不对。之后race仍在更安静的条件下进行。",
+        D: "D有一定迷惑性。事件确实很dramatic，但作者没有按编辑期待把它包装成简单戏剧。"
+      }
+    },
+
+    {
+      question: "What is suggested by the writer's reaction to the evening folk concert?",
+      options: {
+        A: "She decides that modern entertainment should be removed from the festival.",
+        B: "She discovers that a less obviously marketable experience can be more meaningful than the highly promoted attractions.",
+        C: "She feels disappointed that television crews did not record the performance.",
+        D: "She begins to believe that the church should become the festival's main tourist site."
+      },
+      answer: "B",
+      explanation: {
+        correct: "B是正确答案。folk concert没有camera、fashion campaign，也没有强烈的商业包装，却成为她旅途中greatest pleasure。less obviously marketable 是对这一对比的概括。",
+        A: "A不对。她没有要求取消DJ或其他现代内容。",
+        B: "B对。这个安静体验反而比高度宣传的活动更打动她。",
+        C: "C不对。她并没有遗憾没有电视摄制组。",
+        D: "D不对。文章没有提出把church变成主要旅游景点。"
+      }
+    },
+
+    {
+      question: "Which statement best reflects the writer's final view?",
+      options: {
+        A: "Tourism is successful only when visitors experience a place exactly as local people do.",
+        B: "Commercial promotion inevitably turns cultural traditions into exploitation.",
+        C: "Travellers should avoid judging unfamiliar customs until local people agree on their meaning.",
+        D: "Responsible tourism requires looking beyond attractive images and recognising the different interests involved."
+      },
+      answer: "D",
+      explanation: {
+        correct: "D是正确答案。全文从编辑要求的snow, lights and sparkle开始，最后作者认为核心不是tourism good or bad，而是visitors, businesses and local people owe one another。题目用 looking beyond attractive images 和 different interests involved 对这一观点进行同义改写。",
+        A: "A不对。游客不可能也没有必要完全复制当地人的生活。",
+        B: "B过于绝对。文章明确展示tourism也带来就业和收入。",
+        C: "C有一定合理性，但文章并不要求等待当地所有人达成一致，而是强调理解复杂利益。",
+        D: "D对。这最完整地概括了文章最终观点。"
+      }
+    }
+  ]
 }
 ];
