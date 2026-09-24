@@ -11039,5 +11039,320 @@ But by then I had begun to think that travelling abroad should do more than conf
       }
     }
   ]
+},
+{
+  date: "2026-09-22",
+  title: "Opening the Abbey Gates",
+  level: "FCE / B2+",
+
+  vocabulary: [
+    { word: "cling", meaning: "紧握；粘住；依恋；坚持", example: "Ivy clung to the walls of the ruined abbey." },
+    { word: "mushroom", meaning: "蘑菇；迅速增长", example: "Bookings mushroomed after the first advert appeared online." },
+    { word: "currency", meaning: "货币；通货；流通", example: "Several foreign coins showed that travellers had once visited the abbey." },
+    { word: "reduce", meaning: "减少；降低；减轻", example: "The estate wanted to reduce the number of cars near the ruins." },
+    { word: "think of", meaning: "想到；考虑；认为", example: "Most people thought of the abbey as a romantic ruin." },
+    { word: "vehicle", meaning: "交通工具；车辆；媒介", example: "A small electric vehicle carried luggage from the gate." },
+    { word: "creation", meaning: "创造；创作；作品", example: "The new visitor route was the creation of several different specialists." },
+    { word: "share", meaning: "分享；分担；份额", example: "Guides were encouraged to share several interpretations of the site." },
+    { word: "puzzle over", meaning: "对……苦苦思索", example: "Historians continued to puzzle over the meaning of several objects." },
+    { word: "reasonable", meaning: "合理的；明智的；通情达理的", example: "The entrance fee seemed more reasonable after I saw the repair costs." },
+    { word: "ring back", meaning: "回电话", example: "I rang back immediately when the estate manager left a message." },
+    { word: "essay", meaning: "短文；文章；尝试", example: "Applicants had to write a short essay about heritage tourism." },
+    { word: "abbey", meaning: "修道院", example: "The abbey had been closed to ordinary visitors for decades." },
+    { word: "incident", meaning: "事件；意外事件", example: "One minor incident caused the climbing activity to be reviewed." },
+    { word: "fascinate", meaning: "深深吸引；迷住", example: "The everyday objects fascinated me more than the grand stone halls." },
+    { word: "vacancy", meaning: "职位空缺；空缺", example: "I applied for a six-week summer vacancy." },
+    { word: "luggage", meaning: "行李", example: "Visitors could leave heavy luggage at the entrance." },
+    { word: "pilot", meaning: "飞行员；试点；试行", example: "The summer opening was a pilot project." },
+    { word: "chain", meaning: "链条；一系列；连锁", example: "A chain blocked visitors from entering an unstable tower." },
+    { word: "imagine", meaning: "想象；设想；认为", example: "It was easy to imagine monks walking through the courtyard." },
+    { word: "forbid", meaning: "禁止；阻止", example: "Visitors were forbidden to enter the north tower." },
+    { word: "dye", meaning: "染料；染色", example: "The abbey had once produced cloth dyed with local plants." },
+    { word: "significance", meaning: "意义；重要性", example: "The significance of a group of coins was still debated." },
+    { word: "carry on", meaning: "继续；进行下去", example: "The tour could carry on even when one section was closed." },
+    { word: "tights", meaning: "紧身裤；紧身衣裤", example: "Actors wore brightly dyed tights during a short historical performance." },
+    { word: "company", meaning: "公司；剧团；陪伴；一群人", example: "A heritage company managed the visitor programme." },
+    { word: "accurate", meaning: "准确的；精确的", example: "The guides were expected to give accurate information." },
+    { word: "abseil", meaning: "绕绳下降", example: "Visitors could abseil down part of the sea cliff." },
+    { word: "forgive", meaning: "原谅；宽恕", example: "Most visitors forgave the change once the reason was explained." },
+    { word: "image", meaning: "图像；形象；印象", example: "The advertising created a dramatic image of the estate." },
+    { word: "wind", meaning: "风；气流；缠绕", example: "Strong wind forced the climbing team to stop." },
+    { word: "leopard", meaning: "豹", example: "A stone leopard appeared on the estate's old family symbol." },
+    { word: "estate", meaning: "庄园；地产；财产", example: "The estate included the abbey, farmland and several cottages." },
+    { word: "advert", meaning: "广告", example: "The first advert made the abbey look mysterious and adventurous." },
+    { word: "according to", meaning: "根据；按照；据……所说", example: "According to the records, pilgrims once stayed there overnight." },
+    { word: "pretty", meaning: "相当；很；漂亮的", example: "The job sounded pretty unusual for a summer vacancy." },
+    { word: "vet", meaning: "兽医；审查", example: "A local vet advised the estate on its rare sheep." },
+    { word: "coin", meaning: "硬币；创造新词", example: "One medieval coin came from much farther away than expected." },
+    { word: "invoice", meaning: "发票；发货单", example: "An invoice for safety work changed my view of the ticket price." }
+  ],
+
+  passage: `
+The following feature appeared in a travel and culture magazine.
+
+When I first saw the advert for a summer vacancy at Greyhaven Abbey Estate, I imagined six peaceful weeks among old stone buildings and sea views. The job sounded pretty unusual: help with the estate's first public opening, answer visitors' questions and write short reports about what worked and what did not.
+
+Applicants also had to submit a 300-word essay on the question: “Should historic places be preserved exactly as they are, or adapted for modern visitors?”
+
+I wrote confidently about balance, although at the time I had very little idea what that actually meant.
+
+Two weeks later, the manager left me a message. I rang back immediately.
+
+Greyhaven Abbey stood on the coast, surrounded by farmland and cliffs. Ivy clung to parts of the ruined church, while a chain prevented visitors from entering the unstable north tower. According to local records, the abbey had once welcomed travellers from across Europe. Archaeologists had found foreign currency, pieces of dyed cloth and several coins whose significance historians still puzzled over.
+
+The summer opening was a pilot project. For decades, only researchers and invited groups had visited the estate. Now a heritage company wanted to discover whether ordinary tourism could provide enough income to support repairs without damaging the character of the place.
+
+At first, the idea seemed to be working brilliantly. Bookings mushroomed after the company released a dramatic advert showing waves crashing beneath the abbey and a stone leopard above the words:
+
+FOLLOW THE LEOPARD TO GREYHAVEN.
+
+The leopard was real, but not in the way some tourists assumed. It was a carving from the family symbol of the people who had owned the estate centuries earlier. Nobody seriously believed wild leopards had lived there, but several visitors arrived asking about “the famous Greyhaven leopard”.
+
+The publicity manager found this amusing.
+
+“It gets people interested,” she said.
+
+The historian was less enthusiastic.
+
+“Our information should be accurate,” he replied. “Interesting does not have to mean misleading.”
+
+That disagreement appeared again and again during my six weeks.
+
+The visitor programme consisted of several activities. There were guided tours of the abbey, a small exhibition on medieval dye-making, and a short performance in which actors wore brightly coloured tights and demonstrated how cloth might have been produced. A local vet also gave weekly talks about the rare sheep that still grazed on the estate.
+
+The most popular attraction, however, had little to do with monks.
+
+Visitors could abseil down part of the sea cliff with trained instructors.
+
+The activity fascinated teenagers and produced excellent photographs. It also worried some of the historians, who thought the adventure element might dominate the site.
+
+I initially disagreed. If abseiling encouraged people to visit the abbey, I reasoned, perhaps they would learn some history while they were there.
+
+Then came the Tuesday afternoon incident.
+
+Nobody was injured. A visitor had begun an abseil when the wind suddenly became stronger. The instructor stopped the activity and helped her back up. The whole thing lasted less than five minutes.
+
+Even so, the instructors closed the cliff for the rest of the day.
+
+Several visitors complained. One family had driven for three hours specifically for the activity. A boy asked why they could not carry on if the equipment was safe.
+
+The instructor's reply was simple.
+
+“Safe equipment does not make unsafe weather safe.”
+
+The sentence stayed with me.
+
+The climbing team later introduced a stricter wind limit, which reduced the number of sessions. Surprisingly, complaints soon fell too. Once the policy was explained clearly when people booked, most visitors accepted it. They could forgive a closed activity more easily than an unexplained disappointment.
+
+The same lesson applied elsewhere.
+
+At first, I thought the £18 entrance fee was rather high. The abbey had no expensive interactive displays, and much of the estate still looked unfinished.
+
+Then I spent an afternoon in the office.
+
+There were invoices for roof repairs, path maintenance, safety inspections and the electric vehicle used to carry luggage for visitors who could not manage the steep walk from the car park. The estate also had to pay specialist guides and reduce the number of cars allowed near the ruins.
+
+Suddenly, £18 seemed more reasonable.
+
+I also began to think differently about what made the place interesting. The advertising image focused on cliffs, storms and the stone leopard. Yet the objects that fascinated me most were less dramatic: a damaged cooking pot, a child's shoe, and a coin carried hundreds of kilometres before being lost at the abbey.
+
+They were ordinary things, but they allowed me to imagine ordinary people.
+
+By the end of the pilot season, visitor numbers were higher than expected. The company called the project a success and planned to open again the following year.
+
+But when my manager asked me what should change, I did not suggest more attractions.
+
+I suggested that some of the advertising should change.
+
+“People will come for the dramatic image,” I said. “But we should make sure that image leads them towards the real place rather than replacing it.”
+
+Before leaving, I read my original application essay again.
+
+I had written that historic places needed “a balance between preservation and modern use”. It sounded intelligent but vague.
+
+Six weeks later, I could finally explain what I meant.
+
+Opening an old place to the public is not simply a choice between protecting history and entertaining visitors. It is a chain of smaller decisions: what to allow, what to forbid, what to explain, what to change, and sometimes what not to sell at all.
+`,
+
+  translation: `
+以下特写发表于一本旅行与文化杂志。
+
+我第一次看到格雷黑文修道院庄园暑期职位空缺的广告时，想象的是在古老石建筑和海景之间度过六个安静的星期。这份工作听起来相当特别：帮助庄园完成首次公众开放，回答游客的问题，并写简短报告，总结哪些地方做得好、哪些地方没有达到预期。
+
+申请者还必须提交一篇300词短文，讨论一个问题：“历史遗址应该完全保持原貌，还是应该为了现代游客进行调整？”
+
+我很自信地写了“二者需要平衡”，但当时其实并不真正明白这种平衡意味着什么。
+
+两周后，经理给我留言。我马上回了电话。
+
+格雷黑文修道院位于海岸边，周围是农田和悬崖。常春藤附着在废弃教堂的一些墙面上，一条锁链则阻止游客进入结构不稳定的北塔。根据地方记录，这座修道院过去曾经接待来自欧洲各地的旅行者。考古学家发现了外国货币、染过色的布料，以及几枚历史意义仍让学者们苦苦思索的硬币。
+
+这个暑期开放计划是一项试点。几十年来，只有研究人员和受邀团体能够进入庄园。现在，一家文化遗产公司想了解，普通旅游是否能够带来足够收入支持修缮，同时又不破坏这里原有的特点。
+
+一开始，计划似乎效果非常好。公司发布了一则戏剧化广告之后，预约人数迅速增加。广告画面是海浪拍打修道院下方的悬崖，上方有一只石雕豹子，并写着：
+
+“跟随豹子来到格雷黑文。”
+
+豹子确实存在，但和一些游客理解的不太一样。它是几个世纪前庄园所有者家族标志上的雕刻。当然，没有人真的认为这里曾经生活着野生豹子，但还是有不少游客一到这里就询问“著名的格雷黑文豹子”。
+
+宣传负责人觉得这很好笑。
+
+她说：“至少它让人产生兴趣。”
+
+历史学家就没那么高兴了。
+
+他说：“我们的信息应该准确。有趣并不意味着必须误导。”
+
+在我工作的六个星期中，这种矛盾不断出现。
+
+游客项目包括几项活动：修道院导览、中世纪染色小展览，还有一段短表演，演员们穿着色彩鲜艳的紧身裤，演示当时的人可能如何制作和染色布料。一名本地兽医每周还会介绍庄园中至今仍饲养的一种稀有绵羊。
+
+然而，最受欢迎的活动却和修道士没有太大关系。
+
+游客可以在专业教练指导下，从一段海边悬崖绕绳下降。
+
+这项活动深受青少年喜欢，也非常适合拍照。但有些历史研究人员对此感到担心，因为他们认为冒险活动可能会盖过遗址本身。
+
+一开始我并不同意。如果绕绳下降能够吸引人们来到修道院，我想，也许他们顺便就会学到一些历史。
+
+然后，星期二下午发生了一起小事件。
+
+没有人受伤。一名游客刚刚开始下降时，风突然变强了。教练中止了活动，并帮助她重新回到上方。整个过程不到五分钟。
+
+即便如此，教练们还是决定当天剩余时间关闭悬崖项目。
+
+几名游客抱怨起来。有一家人为了这个活动专门开了三个小时的车。一个男孩问，既然设备是安全的，为什么不能继续？
+
+教练的回答很简单：
+
+“设备安全，并不能让不安全的天气变得安全。”
+
+这句话一直留在我脑中。
+
+之后，团队设置了更加严格的风速限制，因此能够开展活动的时段减少了。令人意外的是，投诉反而很快减少。只要在订票时清楚解释相关规定，多数游客都会接受。人们更容易原谅一个有明确理由而关闭的项目，而不是面对一个没有解释的失望。
+
+同样的道理也适用于其他事情。
+
+一开始，我觉得18英镑的门票相当贵。修道院里没有昂贵的互动设施，庄园很多地方看起来甚至还没有完全修整好。
+
+后来，我在办公室待了一个下午。
+
+那里有屋顶维修、道路维护、安全检查的发票，还有一辆小型电动车的费用。这辆车负责为无法走完停车场到修道院陡坡的游客运送行李。庄园还需要支付专业导游的工资，并限制进入遗址附近的车辆数量。
+
+突然之间，18英镑似乎合理得多了。
+
+我也开始重新思考，究竟什么让这里真正有趣。广告中的形象强调悬崖、风暴和那只石雕豹子。但真正让我着迷的却是不那么戏剧化的东西：一只破损的锅、一只儿童鞋，以及一枚从几百公里外被带到这里、最后又遗失在修道院里的硬币。
+
+它们都是普通物品，却让我能够想象曾经生活在这里的普通人。
+
+试点开放季结束时，游客数量超过了预期。公司认为这个项目很成功，并计划第二年继续开放。
+
+不过，当经理问我下一年应该改变什么时，我并没有建议增加更多项目。
+
+我建议修改一部分广告宣传。
+
+我说：“人们可能会被戏剧化的形象吸引过来。但是，我们必须保证那个形象把他们带向真实的地方，而不是取代真实的地方。”
+
+离开前，我又读了一遍自己的申请短文。
+
+我当时写道，历史场所需要“在保护与现代使用之间取得平衡”。这句话听起来很聪明，但其实很模糊。
+
+六个星期以后，我终于能够解释自己真正想表达什么。
+
+向公众开放一个历史场所，并不只是“保护历史”与“娱乐游客”之间的简单选择。它是由一连串更小的判断组成的：允许什么、禁止什么、解释什么、改变什么，以及有些时候，什么根本不应该拿来出售。
+`,
+
+  questions: [
+    {
+      question: "What does the writer suggest about the original advertising campaign?",
+      options: {
+        A: "It failed because visitors misunderstood the historical information completely.",
+        B: "It attracted mainly people who were interested in extreme sports.",
+        C: "It was effective at gaining attention, but risked creating expectations that did not accurately reflect the site.",
+        D: "It focused too heavily on the cost of maintaining the estate."
+      },
+      answer: "C",
+      explanation: {
+        correct: "C是正确答案。广告确实使bookings mushroomed，因此在吸引注意方面成功；但“FOLLOW THE LEOPARD”使一些游客产生了并不准确的想象。题目用 creating expectations that did not accurately reflect the site 对此进行了同义改写。",
+        A: "A过于绝对。游客并没有完全误解历史。",
+        B: "B不对。冒险活动确实很受欢迎，但广告本身并不是只吸引极限运动爱好者。",
+        C: "C对。它概括了advertising effectiveness和historical accuracy之间的矛盾。",
+        D: "D不对。广告没有强调维护费用。"
+      }
+    },
+
+    {
+      question: "What is the main purpose of describing the Tuesday afternoon abseiling incident?",
+      options: {
+        A: "To show that an activity can be popular and well managed but still need limits when circumstances change.",
+        B: "To suggest that adventure activities do not belong at historical sites.",
+        C: "To prove that the instructors had underestimated the danger of their equipment.",
+        D: "To explain why the company later removed abseiling from the programme."
+      },
+      answer: "A",
+      explanation: {
+        correct: "A是正确答案。equipment本身安全，真正改变的是wind。团队根据条件停止活动并设置更严格限制，说明良好管理也包括知道何时不能继续。",
+        A: "A对。well managed but still need limits 是对事件作用的概括。",
+        B: "B不对。作者后来并没有认为abseiling必须取消。",
+        C: "C不对。问题不是equipment不安全。",
+        D: "D不对。项目并没有被永久取消，只是受更严格的wind limit控制。"
+      }
+    },
+
+    {
+      question: "Why does the writer's opinion of the £18 entrance fee change?",
+      options: {
+        A: "She learns that visitors receive more entertainment than she had first noticed.",
+        B: "She discovers that the estate earns very little money from each ticket.",
+        C: "She realises that most of the money is used to pay the actors and guides.",
+        D: "She becomes aware of necessary costs that are largely invisible to visitors."
+      },
+      answer: "D",
+      explanation: {
+        correct: "D是正确答案。作者在office看到roof repairs、path maintenance、safety inspections、electric vehicle等invoice后，才理解门票背后的成本。largely invisible to visitors 是典型FCE式同义改写。",
+        A: "A不对。她改变看法并不是因为娱乐项目更多。",
+        B: "B不对。文章没有计算每张票利润。",
+        C: "C不对。专业人员工资只是成本的一部分，并不是most of the money。",
+        D: "D对。她看到了游客表面上看不到的维护和无障碍成本。"
+      }
+    },
+
+    {
+      question: "What is suggested by the writer's preference for the ordinary objects found at the abbey?",
+      options: {
+        A: "She thinks archaeological objects should replace all modern visitor activities.",
+        B: "She finds personal, everyday evidence can create a stronger connection with the past than dramatic publicity does.",
+        C: "She believes the estate should advertise its collection of coins instead of the leopard.",
+        D: "She has lost interest in the architecture of the abbey."
+      },
+      answer: "B",
+      explanation: {
+        correct: "B是正确答案。广告强调cliffs, storms, leopard，而作者真正被damaged pot, child's shoe和coin吸引，因为它们让她imagine ordinary people。题目把这种关系改写成 everyday evidence creates a stronger connection with the past。",
+        A: "A过于绝对。她没有要求用考古物件替代所有现代活动。",
+        B: "B对。这里考的是作者态度背后的意义，而不是简单问她喜欢什么。",
+        C: "C不对。她没有建议把coin变成新的营销噱头。",
+        D: "D不对。文章没有说她不再喜欢建筑本身。"
+      }
+    },
+
+    {
+      question: "Which statement best expresses the main idea of the article?",
+      options: {
+        A: "Historic sites should avoid commercial tourism because visitors usually misunderstand the past.",
+        B: "Successful heritage tourism depends mainly on providing enough activities to satisfy different visitors.",
+        C: "Making a historic place accessible involves balancing attraction with accuracy, safety and the character of the site.",
+        D: "Modern visitors value adventure more highly than historical information."
+      },
+      answer: "C",
+      explanation: {
+        correct: "C是正确答案。全文的多个事件都围绕同一问题：leopard advert涉及attraction与accuracy；abseiling涉及attraction与safety；门票和交通涉及access；普通历史物件涉及site character。因此C最完整。",
+        A: "A不对。文章并不反对commercial tourism。",
+        B: "B不对。增加activity不是作者最后建议的方向。",
+        C: "C对。balance attraction with accuracy, safety and character 是全文主线。",
+        D: "D不对。有些游客喜欢adventure，但作者不能据此得出对所有modern visitors的判断。"
+      }
+    }
+  ]
 }
 ];
