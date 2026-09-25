@@ -11354,5 +11354,332 @@ Opening an old place to the public is not simply a choice between protecting his
       }
     }
   ]
+},
+{
+  date: "2026-09-25",
+  title: "What Is Worth Saving?",
+  level: "FCE / B2+",
+
+  vocabulary: [
+    { word: "sensible", meaning: "明智的；合理的；切合实际的", example: "The centre needed a sensible plan rather than an expensive one." },
+    { word: "fuel", meaning: "燃料；推动力；加剧", example: "Rising fuel costs had created serious problems for the workshop." },
+    { word: "relationship", meaning: "关系；联系", example: "The exhibition explored the relationship between craft and local life." },
+    { word: "establish", meaning: "建立；创立；查实", example: "The weaving centre was established more than thirty years ago." },
+    { word: "tableware", meaning: "餐具", example: "The shop sold locally made tableware beside the textiles." },
+    { word: "seek", meaning: "寻找；寻求", example: "The organisers were seeking new ways to attract visitors." },
+    { word: "while", meaning: "当……时；虽然；然而", example: "Some visitors shopped while others joined the workshop." },
+    { word: "dig", meaning: "挖；发掘；考古发掘", example: "A small archaeological dig revealed part of the old mill floor." },
+    { word: "valuable", meaning: "贵重的；有价值的；有益的", example: "The documents were historically valuable rather than expensive." },
+    { word: "keen", meaning: "热衷的；渴望的", example: "I was keen to discover whether the centre was genuinely sustainable." },
+    { word: "chest", meaning: "胸部；大箱子", example: "An old wooden chest contained cloth samples and letters." },
+    { word: "furniture", meaning: "家具", example: "Several pieces of furniture had been made by local craftspeople." },
+    { word: "variation", meaning: "变化；变体", example: "Visitors could choose from several variations of a traditional pattern." },
+    { word: "increase", meaning: "增加；增长", example: "Visitor numbers increased after the new shop opened." },
+    { word: "quest", meaning: "探索；寻找；追求", example: "My visit became a quest to understand what preservation really meant." },
+    { word: "select", meaning: "选择；挑选", example: "Participants selected their own colours before beginning to weave." },
+    { word: "drop", meaning: "下降；减少；落下", example: "Ticket sales had dropped during three difficult winters." },
+    { word: "statute", meaning: "法规；章程；条例", example: "Under the trust's statute, profits had to support education and conservation." },
+    { word: "weave", meaning: "编织；组合", example: "Visitors were taught how to weave a narrow strip of cloth." },
+    { word: "renewable", meaning: "可再生的；可更新的", example: "A grant helped the centre move towards renewable energy." },
+    { word: "successive", meaning: "连续的；接连的", example: "Three successive winters had placed the centre under financial pressure." },
+    { word: "adulthood", meaning: "成年", example: "Ms Carter had learned weaving as a child and returned to it in adulthood." },
+    { word: "grant", meaning: "拨款；授予；准予", example: "The centre received a grant to improve the building." },
+    { word: "aspirin", meaning: "阿司匹林", example: "I took an aspirin after developing a headache on the bus journey." },
+    { word: "sequence", meaning: "一系列；顺序；序列", example: "The guide demonstrated the sequence of actions needed to produce cloth." },
+    { word: "Ms.", meaning: "女士", example: "Ms Carter managed the weaving centre." },
+    { word: "priest", meaning: "神父；牧师；祭司", example: "One letter had been written by a local priest in 1911." },
+    { word: "whichever", meaning: "无论哪一个；究竟哪一个", example: "Whichever pattern visitors chose, they had to work slowly." },
+    { word: "region", meaning: "地区；区域", example: "The region had once been famous for wool production." },
+    { word: "obvious", meaning: "明显的；显然的", example: "It soon became obvious that the shop was essential to the centre's survival." },
+    { word: "bank balance", meaning: "银行存款余额", example: "The centre's bank balance had fallen dangerously low." },
+    { word: "feel sick", meaning: "感到恶心；不舒服", example: "The twisting road made one visitor feel sick." },
+    { word: "take part in", meaning: "参加", example: "Visitors could take part in a forty-minute weaving session." },
+    { word: "track suit", meaning: "运动服", example: "A teenager in a track suit joined the afternoon workshop." },
+    { word: "realise", meaning: "意识到；了解；实现", example: "I gradually realised that the gift shop served a larger purpose." },
+    { word: "checkout", meaning: "付款台；退房时间", example: "A queue formed at the checkout before closing time." },
+    { word: "breeze", meaning: "微风；轻而易举的事情", example: "A cool breeze entered through the open mill windows." },
+    { word: "purchase", meaning: "购买；所购之物", example: "Every purchase helped pay for teaching and repairs." },
+    { word: "take away", meaning: "带走；拿走；外带", example: "The café also sold soup and cakes to take away." }
+  ],
+
+  passage: `
+The following feature appeared in a regional travel magazine.
+
+I arrived at Northmere Weaving House with a headache and a suspicion.
+
+The headache came from the twisting bus journey through the hills. I took an aspirin at the café and waited for the room to stop moving. My suspicion was harder to deal with.
+
+Northmere had been established more than thirty years earlier to protect the weaving traditions of a region once famous for wool. Yet its website now advertised designer tableware, modern furniture, a café, children's activities and an enormous gift shop.
+
+Was this really preservation, I wondered, or simply another attractive shopping centre with history added as decoration?
+
+My visit became a small quest to find out.
+
+The manager, Ms Carter, did not appear offended by the question.
+
+"If we only displayed old cloth," she said, "we would have closed years ago."
+
+That sounded defensive until she showed me the figures.
+
+Three successive winters had been difficult. Heating fuel had become much more expensive, ticket sales had dropped, and the centre's bank balance had reached a worrying level. Visitor numbers had later increased, but mainly after the café and shop were expanded.
+
+The centre had received a government grant to install better insulation and begin replacing its old heating system with renewable energy. Even that money, however, could not be spent freely. Under the trust's statute, income from commercial activity had to support conservation, education and the building itself.
+
+"So when somebody buys a bowl," Ms Carter said, pointing towards the tableware display, "part of that purchase keeps the looms running."
+
+The relationship between shopping and preservation was already less simple than I had imagined.
+
+We entered the oldest part of the building, where a small archaeological dig had recently exposed sections of the original mill floor. During the work, staff had discovered a wooden chest beneath a staircase.
+
+I immediately imagined coins or jewellery.
+
+Instead, the chest contained cloth samples, workers' notes and several letters. One had been written by a local priest in 1911, asking the mill owner to employ two families whose income had disappeared after a fire.
+
+None of the objects was financially valuable. Historically, however, they told a story that a silver coin could hardly improve.
+
+"This is what people sometimes miss," Ms Carter said. "They seek treasure and ignore evidence."
+
+The afternoon workshop made the same point in a different way.
+
+Visitors were invited to take part in a forty-minute introduction to weaving. Each person could select a variation of an old Northmere pattern and choose three colours.
+
+I joined a group that included a retired teacher, two tourists and a teenage boy in a track suit who had clearly been brought there by his parents.
+
+At first, he looked bored.
+
+Then the instructor demonstrated the sequence: prepare the threads, keep the tension even, pass one line through another, then repeat.
+
+"Whichever pattern you've chosen," she said, "the machine won't rescue you if your hands stop paying attention."
+
+The boy smiled.
+
+Ten minutes later, he was completely absorbed.
+
+I was not. My threads kept tightening in the wrong places. What looked obvious when the instructor did it became surprisingly difficult when I tried. A cool breeze entered through the open windows while I struggled to produce a strip of cloth that became narrower every few centimetres.
+
+The teenager finished first.
+
+"I thought this would be easy," he said.
+
+"So did I," I admitted.
+
+That small failure changed the way I looked at the displays downstairs. Until then, I had treated finished cloth mainly as an object. Now I could see time and skill inside it.
+
+But I still had one question.
+
+If the centre's purpose was education, why devote so much space to selling fashionable objects that had never existed in the historic mill?
+
+Ms Carter took me to the shop.
+
+Some products were traditional. Others were not. There were woven bags, lamps, modern chairs and brightly coloured tableware. Many had been created by younger designers from the region.
+
+"Tradition isn't a rule saying everything must stay the same," she said. "If nobody is allowed to change a pattern, eventually nobody will use it."
+
+Her own story explained the point. She had learned to weave from her grandmother as a child, abandoned it during university, and returned to it in adulthood. What brought her back was not a desire to copy the past exactly, but curiosity about what the old methods could still create.
+
+Near closing time, a queue formed at the checkout. For a moment, it did look like an ordinary shop.
+
+Then I noticed something.
+
+Beside nearly every object was a card explaining who had made it, what materials had been used and which older technique had influenced the design. Several customers carried their purchases straight back to the workshop windows to compare them with traditional examples.
+
+The commercial part had not replaced the historical one. At its best, it was sending people back towards it.
+
+Before leaving, I bought a small woven case that I did not really need and a cake to take away.
+
+My suspicion had not completely disappeared. Heritage centres can certainly turn history into a product, and increasing visitor numbers is not proof that something has been preserved well.
+
+But the opposite idea was too simple as well.
+
+A tradition that cannot support the people who teach, practise and develop it may survive in a display case, but not necessarily in life.
+
+What Northmere was trying to preserve, I realised, was not a fixed collection of objects. It was a relationship: between old methods and new uses, between skill and income, and between one generation and the next.
+`,
+
+  translation: `
+以下特写发表于一本地区旅行杂志。
+
+我来到诺斯米尔织造中心时，带着一阵头痛，也带着一个疑问。
+
+头痛来自一路弯弯曲曲的山路。我在咖啡馆吃了一片阿司匹林，等着房间不再仿佛转动。那个疑问则没有这么容易消失。
+
+诺斯米尔三十多年前成立，目的在于保护这个曾以羊毛闻名地区的传统织造技艺。然而，如今它的网站上宣传的却是设计师餐具、现代家具、咖啡馆、儿童活动，以及一个巨大的礼品商店。
+
+我不禁怀疑：这真的还是文化保护吗？还是只不过一家漂亮的购物中心，外面套上了一层历史包装？
+
+于是，我这次参观变成了一场小小的探索。
+
+经理卡特女士听到我的问题，并没有表现出不快。
+
+“如果我们只展示旧布料，”她说，“我们几年前就关门了。”
+
+一开始，这听起来像是在为自己辩护。直到她给我看了那些数字。
+
+连续三个冬天，中心的日子都很困难。供暖燃料价格大幅上涨，门票销售下降，银行余额已经低到令人担心。后来游客人数有所增加，但主要是在咖啡馆和商店扩建之后。
+
+中心得到了一笔政府拨款，用于改善建筑保温，并开始把旧供暖系统更换成可再生能源。不过，即使这笔钱也不能随意使用。按照基金会章程，商业活动产生的收入必须用于文物保护、教育以及建筑本身。
+
+“所以，当有人买一个碗的时候，”卡特女士指着餐具展区说，“其中一部分钱就在帮助这些织机继续运转。”
+
+商业销售和文化保护之间的关系，已经不像我原先想象的那么简单了。
+
+我们来到建筑最古老的部分。最近的一次小型考古发掘在那里发现了原工厂地面的一部分。工作过程中，工作人员还在楼梯下面发现了一只旧木箱。
+
+我马上想到了硬币和珠宝。
+
+但箱子里装的是布料样本、工人留下的笔记，以及几封旧信。其中一封是1911年一名当地牧师写给工厂老板的，请求他雇用两个因为火灾失去收入的家庭。
+
+这些东西从金钱角度看都不贵重。但从历史角度看，它们讲述的故事，是一枚银币未必能够增加的。
+
+卡特女士说：“这就是人们有时会忽略的地方。他们寻找的是宝藏，却忽略了证据。”
+
+下午的体验课，用另一种方式说明了同样的问题。
+
+游客可以参加一个40分钟的织造入门体验。每个人可以选择一种传统诺斯米尔图案的变体，并选择三种颜色。
+
+我加入的小组中，有一名退休教师、两名游客，还有一个穿运动服的少年。他显然是被父母带来的。
+
+一开始，他看起来很无聊。
+
+然后，老师演示了操作顺序：准备好线，保持张力一致，让一排线穿过另一排，然后不断重复。
+
+她说：“无论你选哪种图案，如果你的手不集中注意力，机器都救不了你。”
+
+男孩笑了。
+
+十分钟后，他已经完全投入其中。
+
+我却没有。我总是把线拉错。老师做起来显而易见的动作，轮到自己做时却出乎意料地困难。微风从敞开的工厂窗户吹进来，而我费尽力气编出的一条布，却每隔几厘米就变窄一点。
+
+那个少年最先完成。
+
+他说：“我原来以为这很容易。”
+
+“我也是。”我承认。
+
+这个小小的失败改变了我看楼下展品的方式。在这之前，我主要把成品布料当作一个物品。现在，我能够看见其中包含的时间和技能。
+
+但我仍然还有一个问题。
+
+如果中心的目的是教育，为什么还要拿出这么大的空间去卖那些过去的工厂里根本没有出现过的时尚物品？
+
+卡特女士带我来到商店。
+
+有些商品很传统，另一些则不是。有织物包、灯具、现代椅子和彩色餐具。很多都是本地区年轻设计师的作品。
+
+她说：“传统并不是一条规定，要求所有东西永远不变。如果任何人都不允许改变一种图案，最后也许就没人再使用它了。”
+
+她自己的经历也说明了这一点。她小时候跟祖母学习织布，上大学后放弃了，成年以后又重新开始。让她回来织布的，并不是想要完全复制过去，而是想知道老方法今天还能创造出什么。
+
+快闭馆时，付款台前排起了队。有那么一刻，这里的确看起来就是一家普通商店。
+
+然后，我注意到了一件事。
+
+几乎每件商品旁边都有一张卡片，说明是谁制作的、使用了什么材料，以及它受到哪种传统技法影响。几名顾客甚至拿着刚买的东西重新走到织造教室的窗边，把它们与传统样品进行对照。
+
+商业部分并没有取代历史部分。至少在它发挥最好作用的时候，它反而把人重新引回了历史。
+
+离开之前，我买了一个其实并不需要的小织物套，以及一块外带蛋糕。
+
+我的疑问并没有完全消失。文化遗产中心当然可能把历史变成商品，而且游客数量增加也绝不等于文化得到了很好的保护。
+
+但相反的观点同样太简单。
+
+如果一种传统无法支持那些教授它、实践它并继续发展它的人，它也许能够活在玻璃展柜中，却未必能够继续活在生活里。
+
+我最终意识到，诺斯米尔真正想保存的，并不是一套固定不变的物品，而是一种关系：旧方法与新用途之间的关系，技能与收入之间的关系，以及一代人与下一代人之间的关系。
+`,
+
+  questions: [
+    {
+      question: "Why is the writer initially doubtful about Northmere Weaving House?",
+      options: {
+        A: "She thinks traditional weaving has little relevance to modern visitors.",
+        B: "She suspects the government grant has been spent mainly on the shop.",
+        C: "She believes the centre charges too much for activities that should be educational.",
+        D: "She is unsure whether commercial expansion is supporting the tradition or replacing it."
+      },
+      answer: "D",
+      explanation: {
+        correct: "D是正确答案。文章开头作者看到designer tableware、furniture、café和gift shop，因此怀疑这里究竟是preservation还是shopping centre with history added。题目用 supporting the tradition or replacing it 对这种怀疑进行了同义改写。",
+        A: "A不对。作者并没有认为weaving对现代人毫无意义，而是质疑商业化方式。",
+        B: "B不对。她后来才了解到grant的用途，而且没有发现拨款主要用于商店。",
+        C: "C不对。作者最初并没有重点质疑活动收费。",
+        D: "D对。这正是全文开头的问题，也是后文不断重新审视的问题。"
+      }
+    },
+
+    {
+      question: "What does the discovery of the wooden chest mainly help the writer understand?",
+      options: {
+        A: "Objects become historically important only when they are rare or expensive.",
+        B: "Apparently ordinary material can reveal more about people's lives than a spectacular treasure might.",
+        C: "The centre should concentrate more heavily on archaeological excavation.",
+        D: "Written documents are more reliable than physical objects when studying history."
+      },
+      answer: "B",
+      explanation: {
+        correct: "B是正确答案。木箱中没有珠宝，而是cloth samples、workers' notes和letters。它们financially并不valuable，却能讲述普通人的生活。题目用 apparently ordinary material 和 reveal more about people's lives 对原文进行了概括。",
+        A: "A与原文意思相反。",
+        B: "B对。作者原本期待treasure，最终认识到ordinary evidence也具有更深的历史价值。",
+        C: "C不对。考古发掘只是材料来源之一，并不是文章主张未来应重点扩大dig。",
+        D: "D不对。文章没有把documents和physical objects进行可靠性高低的绝对比较。"
+      }
+    },
+
+    {
+      question: "What is the main effect of the writer taking part in the weaving workshop?",
+      options: {
+        A: "It makes her appreciate the skill and labour hidden behind finished products.",
+        B: "It convinces her that machines have made traditional skills unnecessary.",
+        C: "It shows her that younger visitors are naturally better at practical work.",
+        D: "It persuades her that all visitors should be required to join a workshop."
+      },
+      answer: "A",
+      explanation: {
+        correct: "A是正确答案。作者亲手织布失败后说，过去只把finished cloth当object，现在能看到time and skill inside it。题目用 skill and labour hidden behind finished products 进行了FCE式同义替换。",
+        A: "A对。这是该段在全文中的主要作用。",
+        B: "B不对。体验恰恰让她更加重视traditional skill。",
+        C: "C不对。少年比她做得快只是故事细节，不能推导为年轻人天生更擅长。",
+        D: "D不对。文章没有提出强制体验。"
+      }
+    },
+
+    {
+      question: "Why does the writer mention customers returning to the workshop windows after making a purchase?",
+      options: {
+        A: "To show that the shop layout creates unnecessary confusion.",
+        B: "To suggest that visitors are mainly interested in copying traditional designs.",
+        C: "To provide evidence that commercial products can encourage further interest in the centre's historical work.",
+        D: "To demonstrate that customers are uncertain whether they have bought authentic goods."
+      },
+      answer: "C",
+      explanation: {
+        correct: "C是正确答案。顾客买完商品后又去与traditional examples比较，支持作者随后所说 commercial part had not replaced the historical one; it was sending people back towards it。",
+        A: "A不对。没有证据说明shop layout造成混乱。",
+        B: "B不对。顾客比较设计，不等于想复制。",
+        C: "C对。这个细节是作者“商业活动也可能把人引向历史”的直接证据。",
+        D: "D不对。他们不是因为怀疑商品真假而返回。"
+      }
+    },
+
+    {
+      question: "Which statement best reflects the writer's final view of preserving a tradition?",
+      options: {
+        A: "A tradition should be protected from commercial influence whenever possible.",
+        B: "Increasing visitor numbers is the clearest sign that a tradition remains healthy.",
+        C: "Changing traditional designs risks destroying the history they represent.",
+        D: "Preservation may require allowing a tradition to develop while continuing to support the people and skills behind it."
+      },
+      answer: "D",
+      explanation: {
+        correct: "D是正确答案。结尾明确区分了“放在display case里存在”和“活在生活中”。作者最终认为真正保存的是old methods and new uses、skill and income、one generation and the next之间的relationship。",
+        A: "A不对。全文最终否定了“商业必然破坏传统”的简单判断。",
+        B: "B不对。作者明确说increasing visitor numbers is not proof that something has been preserved well。",
+        C: "C不对。Ms Carter认为variation和发展恰恰可能帮助传统继续使用。",
+        D: "D对。它最完整地概括了全文最终观点。"
+      }
+    }
+  ]
 }
 ];
