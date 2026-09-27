@@ -99,7 +99,7 @@
     elements.readingDate.textContent = reading.date;
     elements.readingLevel.textContent = reading.level;
     elements.readingTitle.textContent = reading.title;
-    elements.questionCount.textContent = `${reading.questions.length} questions`;
+    elements.questionCount.textContent = `${reading.questions.length} questions / ${getSectionCount(reading)} parts`;
     elements.passageText.textContent = normalizeText(reading.passage);
     elements.translationText.textContent = normalizeText(reading.translation);
 
@@ -170,44 +170,50 @@
 
   function renderQuestions(reading) {
     elements.questionsContainer.innerHTML = "";
+    let currentSection = "";
 
     reading.questions.forEach((question, index) => {
       const questionNumber = index + 1;
+
+      if (question.sectionTitle && question.sectionTitle !== currentSection) {
+        currentSection = question.sectionTitle;
+        const section = document.createElement("div");
+        section.className = "question-section-heading";
+
+        const sectionTitle = document.createElement("h3");
+        sectionTitle.textContent = question.sectionTitle;
+        section.appendChild(sectionTitle);
+
+        if (question.sectionInstructions) {
+          const instructions = document.createElement("p");
+          instructions.className = "question-instructions";
+          instructions.textContent = question.sectionInstructions;
+          section.appendChild(instructions);
+        }
+
+        if (question.sectionText) {
+          const sectionText = document.createElement("p");
+          sectionText.className = "question-section-text";
+          sectionText.textContent = normalizeText(question.sectionText);
+          section.appendChild(sectionText);
+        }
+
+        elements.questionsContainer.appendChild(section);
+      }
+
       const block = document.createElement("section");
       block.className = "question-block";
 
       const title = document.createElement("p");
       title.className = "question-title";
-      title.textContent = `${questionNumber}. ${question.question}`;
+      title.textContent = `${questionNumber}. ${question.question || ""}`;
       block.appendChild(title);
 
-      const options = document.createElement("div");
-      options.className = "options";
-
-      Object.entries(question.options).forEach(([letter, optionText]) => {
-        const label = document.createElement("label");
-        label.className = "option-label";
-
-        const input = document.createElement("input");
-        input.type = "radio";
-        input.name = `question-${index}`;
-        input.value = letter;
-        input.checked = state.answers[index] === letter;
-        input.disabled = state.submitted;
-        input.addEventListener("change", () => {
-          state.answers[index] = letter;
-          saveState();
-        });
-
-        const span = document.createElement("span");
-        span.textContent = `${letter}. ${optionText}`;
-
-        label.appendChild(input);
-        label.appendChild(span);
-        options.appendChild(label);
-      });
-
-      block.appendChild(options);
+      if (question.type === "multiple-choice") {
+        block.appendChild(createChoiceOptions(question, index));
+      } else {
+        block.appendChild(createTextAnswer(question, index));
+      }
 
       if (state.submitted) {
         block.appendChild(createFeedback(question, index));
@@ -222,13 +228,105 @@
     });
   }
 
+  function createChoiceOptions(question, index) {
+    const options = document.createElement("div");
+    options.className = "options";
+
+    Object.entries(question.options).forEach(([letter, optionText]) => {
+      const label = document.createElement("label");
+      label.className = "option-label";
+
+      const input = document.createElement("input");
+      input.type = "radio";
+      input.name = `question-${index}`;
+      input.value = letter;
+      input.checked = state.answers[index] === letter;
+      input.disabled = state.submitted;
+      input.addEventListener("change", () => {
+        state.answers[index] = letter;
+        saveState();
+      });
+
+      const span = document.createElement("span");
+      span.textContent = `${letter}. ${optionText}`;
+
+      label.appendChild(input);
+      label.appendChild(span);
+      options.appendChild(label);
+    });
+
+    return options;
+  }
+
+  function createTextAnswer(question, index) {
+    const answerArea = document.createElement("div");
+    answerArea.className = "text-answer-area";
+
+    if (question.original) {
+      const original = document.createElement("p");
+      original.className = "transform-original";
+      original.textContent = `Original: ${question.original}`;
+      answerArea.appendChild(original);
+    }
+
+    if (question.keyword) {
+      const keyword = document.createElement("p");
+      keyword.className = "keyword-line";
+      keyword.textContent = `Key word: ${question.keyword}`;
+      answerArea.appendChild(keyword);
+    }
+
+    const sentence = document.createElement("p");
+    sentence.className = "answer-sentence";
+    renderSentenceWithInput(sentence, question.sentence, index);
+    answerArea.appendChild(sentence);
+
+    if (question.promptWord) {
+      const prompt = document.createElement("p");
+      prompt.className = "prompt-word";
+      prompt.textContent = `Word given: ${question.promptWord}`;
+      answerArea.appendChild(prompt);
+    }
+
+    return answerArea;
+  }
+
+  function renderSentenceWithInput(container, sentenceText, index) {
+    const parts = String(sentenceText || "").split(/_{3,}/);
+    parts.forEach((part, partIndex) => {
+      container.appendChild(document.createTextNode(part));
+      if (partIndex < parts.length - 1) {
+        const input = document.createElement("input");
+        input.className = "answer-input";
+        input.type = "text";
+        input.autocomplete = "off";
+        input.value = state.answers[index] || "";
+        input.disabled = state.submitted;
+        input.setAttribute("aria-label", `Answer for question ${index + 1}`);
+        input.addEventListener("input", () => {
+          state.answers[index] = input.value;
+          saveState();
+        });
+        container.appendChild(input);
+      }
+    });
+  }
+
   function createFeedback(question, index) {
     const selected = state.answers[index];
-    const isCorrect = selected === question.answer;
+    const isCorrect = isAnswerCorrect(question, selected);
     const feedback = document.createElement("div");
     feedback.className = `answer-feedback ${isCorrect ? "correct" : "wrong"}`;
-    feedback.textContent = `Your answer: ${selected}. Correct answer: ${question.answer}. ${isCorrect ? "Correct." : "Not correct."}`;
+    feedback.textContent = `Your answer: ${selected || "No answer"}. Correct answer: ${question.answer}. ${isCorrect ? "Correct." : "Not correct."}`;
     return feedback;
+  }
+
+  function isAnswerCorrect(question, answer) {
+    return normalizeAnswer(answer) === normalizeAnswer(question.answer);
+  }
+
+  function normalizeAnswer(answer) {
+    return String(answer || "").trim().replace(/\s+/g, " ").toLowerCase();
   }
 
   function createExplanationToggle(question, index) {
@@ -252,10 +350,17 @@
     correct.innerHTML = `<strong>Correct answer: ${question.answer}</strong>`;
     card.appendChild(correct);
 
-    ["correct", "A", "B", "C", "D"].forEach((key) => {
+    const keys = typeof question.explanation === "string"
+      ? ["correct"]
+      : ["correct", "A", "B", "C", "D"];
+    keys.forEach((key) => {
       const p = document.createElement("p");
-      p.textContent = question.explanation[key];
-      card.appendChild(p);
+      p.textContent = typeof question.explanation === "string"
+        ? question.explanation
+        : question.explanation[key];
+      if (p.textContent) {
+        card.appendChild(p);
+      }
     });
 
     return card;
@@ -265,14 +370,14 @@
     event.preventDefault();
     const reading = getCurrentReading();
 
-    if (Object.keys(state.answers).length < reading.questions.length) {
+    if (reading.questions.some((question, index) => !normalizeAnswer(state.answers[index]))) {
       showNotice("Please answer all questions before submitting.", true);
       return;
     }
 
     let score = 0;
     reading.questions.forEach((question, index) => {
-      if (state.answers[index] === question.answer) {
+      if (isAnswerCorrect(question, state.answers[index])) {
         score += 1;
       }
     });
@@ -289,6 +394,10 @@
     renderQuestions(reading);
     renderReviewState(reading);
     renderArchive();
+  }
+
+  function getSectionCount(reading) {
+    return new Set(reading.questions.map((question) => question.sectionTitle || "Questions")).size;
   }
 
   function saveProgress(date, score, total) {

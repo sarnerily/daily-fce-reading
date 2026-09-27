@@ -258,6 +258,33 @@ h3 {
   background: #fbfdfd;
 }
 
+.question-section-heading {
+  margin: 26px 0 12px;
+  padding: 16px;
+  border-left: 5px solid var(--accent);
+  background: var(--accent-soft);
+}
+
+.question-section-heading h3 {
+  color: var(--accent-strong);
+}
+
+.question-instructions,
+.question-section-text,
+.transform-original,
+.keyword-line,
+.prompt-word {
+  margin: 8px 0 0;
+  color: var(--muted);
+}
+
+.question-section-text {
+  margin-top: 14px;
+  white-space: pre-line;
+  color: var(--ink);
+  line-height: 1.75;
+}
+
 .question-title {
   margin: 0 0 14px;
   font-weight: 700;
@@ -292,6 +319,41 @@ h3 {
   height: 22px;
   margin: 3px 0 0;
   accent-color: var(--accent);
+}
+
+.text-answer-area {
+  display: grid;
+  gap: 8px;
+}
+
+.answer-sentence {
+  margin: 0;
+  line-height: 2.2;
+}
+
+.answer-input {
+  width: min(100%, 260px);
+  min-height: 42px;
+  margin: 0 4px;
+  padding: 6px 10px;
+  border: 2px solid var(--accent);
+  border-radius: 6px;
+  background: #ffffff;
+  color: var(--ink);
+}
+
+.answer-input:disabled {
+  border-color: var(--border);
+  background: #f4f7f6;
+}
+
+.keyword-line,
+.prompt-word {
+  width: fit-content;
+  padding: 5px 9px;
+  border-radius: 6px;
+  background: #ffffff;
+  font-weight: 700;
 }
 
 .answer-feedback {
