@@ -16,12 +16,14 @@
     readingDate: document.getElementById("readingDate"),
     readingLevel: document.getElementById("readingLevel"),
     readingTitle: document.getElementById("readingTitle"),
+    vocabPreview: document.querySelector(".vocab-preview"),
     vocabPreviewList: document.getElementById("vocabPreviewList"),
     passageText: document.getElementById("passageText"),
     translationSection: document.getElementById("translationSection"),
     translationText: document.getElementById("translationText"),
     quizForm: document.getElementById("quizForm"),
     questionsContainer: document.getElementById("questionsContainer"),
+    part6Container: document.getElementById("part6Container"),
     questionCount: document.getElementById("questionCount"),
     submitButton: document.getElementById("submitButton"),
     tryAgainButton: document.getElementById("tryAgainButton"),
@@ -99,7 +101,9 @@
     elements.readingDate.textContent = reading.date;
     elements.readingLevel.textContent = reading.level;
     elements.readingTitle.textContent = reading.title;
-    elements.questionCount.textContent = `${reading.questions.length} questions / ${getSectionCount(reading)} parts`;
+    elements.questionCount.textContent = isPart6(reading)
+      ? `${getQuestionTotal(reading)} gaps / ${reading.totalScore} points`
+      : `${getQuestionTotal(reading)} questions / ${getSectionCount(reading)} parts`;
     elements.passageText.textContent = normalizeText(reading.passage);
     elements.translationText.textContent = normalizeText(reading.translation);
 
@@ -130,7 +134,10 @@
       score: 0,
       showVocabulary: false,
       showTranslation: false,
-      openExplanations: {}
+      openExplanations: {},
+      showCompleteArticle: false,
+      activeGap: null,
+      correctCount: 0
     };
   }
 
@@ -161,6 +168,7 @@
 
   function renderVocabPreview(reading) {
     elements.vocabPreviewList.innerHTML = "";
+    elements.vocabPreview.classList.toggle("hidden", isPart6(reading));
     reading.vocabulary.forEach((item) => {
       const li = document.createElement("li");
       li.textContent = item.word;
@@ -169,6 +177,14 @@
   }
 
   function renderQuestions(reading) {
+    const part6 = isPart6(reading);
+    elements.questionsContainer.classList.toggle("hidden", part6);
+    elements.part6Container.classList.toggle("hidden", !part6);
+    if (part6) {
+      renderPart6(reading);
+      return;
+    }
+
     elements.questionsContainer.innerHTML = "";
     let currentSection = "";
 
@@ -226,6 +242,180 @@
 
       elements.questionsContainer.appendChild(block);
     });
+  }
+
+  function isPart6(reading) {
+    return reading && reading.type === "part6";
+  }
+
+  function getQuestionTotal(reading) {
+    return isPart6(reading) ? Object.keys(reading.answers).length : reading.questions.length;
+  }
+
+  function renderPart6(reading) {
+    elements.part6Container.innerHTML = "";
+
+    const instructions = document.createElement("p");
+    instructions.className = "question-instructions";
+    instructions.textContent = "Read the article and choose a sentence for each gap. Click a gap, then click a sentence. On a computer, you can also drag a sentence to a gap.";
+    elements.part6Container.appendChild(instructions);
+
+    const article = document.createElement("article");
+    article.className = "part6-article";
+    appendPart6Text(article, reading.passage, false, reading);
+    elements.part6Container.appendChild(article);
+
+    const optionsHeading = document.createElement("h3");
+    optionsHeading.className = "part6-options-heading";
+    optionsHeading.textContent = "Sentences A–G";
+    elements.part6Container.appendChild(optionsHeading);
+
+    const options = document.createElement("div");
+    options.className = "part6-options";
+    Object.entries(reading.options).forEach(([letter, sentence]) => {
+      const option = document.createElement("button");
+      option.type = "button";
+      option.className = `part6-option ${Object.values(state.answers).includes(letter) ? "is-used" : ""}`;
+      option.draggable = !state.submitted;
+      option.dataset.letter = letter;
+      option.innerHTML = `<strong>${letter}.</strong> <span>${sentence}</span>`;
+      option.addEventListener("click", () => assignPart6Answer(letter, reading));
+      option.addEventListener("dragstart", (event) => {
+        event.dataTransfer.setData("text/plain", letter);
+      });
+      options.appendChild(option);
+    });
+    elements.part6Container.appendChild(options);
+
+    if (state.submitted) {
+      const review = document.createElement("div");
+      review.className = "part6-review";
+      Object.keys(reading.answers).forEach((gap) => {
+        const row = document.createElement("div");
+        row.className = `part6-feedback ${normalizeAnswer(state.answers[gap]) === normalizeAnswer(reading.answers[gap]) ? "correct" : "wrong"}`;
+        const selected = state.answers[gap];
+        row.innerHTML = `<strong>Question ${gap}: ${selected}. Correct answer: ${reading.answers[gap]}.</strong><span>${reading.options[selected] || ""}</span><span>Correct sentence: ${reading.options[reading.answers[gap]]}</span>`;
+
+        const toggle = document.createElement("button");
+        toggle.type = "button";
+        toggle.className = "secondary-button explanation-toggle";
+        toggle.textContent = state.openExplanations[gap] ? "Hide Explanation" : "View Explanation";
+        toggle.addEventListener("click", () => {
+          state.openExplanations[gap] = !state.openExplanations[gap];
+          saveState();
+          renderPart6(reading);
+        });
+        row.appendChild(toggle);
+        if (state.openExplanations[gap]) {
+          const explanation = document.createElement("p");
+          explanation.className = "part6-explanation";
+          explanation.textContent = reading.explanations[gap];
+          row.appendChild(explanation);
+        }
+        review.appendChild(row);
+      });
+
+      const completeButton = document.createElement("button");
+      completeButton.type = "button";
+      completeButton.className = "primary-button";
+      completeButton.textContent = state.showCompleteArticle ? "Hide Complete English Article" : "View Complete English Article";
+      completeButton.addEventListener("click", () => {
+        state.showCompleteArticle = !state.showCompleteArticle;
+        saveState();
+        renderPart6(reading);
+      });
+      review.appendChild(completeButton);
+
+      if (state.showCompleteArticle) {
+        const complete = document.createElement("article");
+        complete.className = "part6-complete-article";
+        appendPart6Text(complete, reading.passage, true, reading);
+        review.appendChild(complete);
+      }
+      const extra = document.createElement("p");
+      extra.className = "part6-extra-option";
+      extra.textContent = `Extra sentence: E. ${reading.extraOptionExplanation}`;
+      review.appendChild(extra);
+      elements.part6Container.appendChild(review);
+    }
+  }
+
+  function appendPart6Text(container, text, complete, reading) {
+    const parts = String(text).split(/\[(37|38|39|40|41|42)\]/g);
+    parts.forEach((part, index) => {
+      if (index % 2 === 0) {
+        container.appendChild(document.createTextNode(part));
+        return;
+      }
+      const gap = part;
+      if (complete) {
+        const sentence = document.createElement("span");
+        sentence.className = "part6-complete-sentence";
+        sentence.textContent = reading.options[reading.answers[gap]];
+        container.appendChild(sentence);
+        return;
+      }
+      const button = document.createElement("button");
+      button.type = "button";
+      button.className = `part6-gap ${state.answers[gap] ? "is-filled" : ""}`;
+      button.dataset.gap = gap;
+      button.textContent = state.answers[gap]
+        ? `${gap}: ${state.answers[gap]} — ${reading.options[state.answers[gap]]}`
+        : `Gap ${gap} — choose a sentence`;
+      button.addEventListener("click", () => {
+        state.activeGap = gap;
+        saveState();
+        renderPart6(reading);
+      });
+      button.addEventListener("dragover", (event) => event.preventDefault());
+      button.addEventListener("drop", (event) => {
+        event.preventDefault();
+        const letter = event.dataTransfer.getData("text/plain");
+        assignPart6Answer(letter, reading, gap);
+      });
+      if (state.answers[gap]) {
+        const clear = document.createElement("span");
+        clear.className = "part6-clear";
+        clear.textContent = " Clear";
+        clear.addEventListener("click", (event) => {
+          event.stopPropagation();
+          clearPart6Answer(gap, reading);
+        });
+        button.appendChild(clear);
+      }
+      container.appendChild(button);
+    });
+  }
+
+  function assignPart6Answer(letter, reading, gap) {
+    if (state.submitted || !reading.options[letter]) {
+      return;
+    }
+    const targetGap = gap || state.activeGap;
+    if (!targetGap) {
+      showNotice("Choose a gap first, then choose a sentence.", true);
+      return;
+    }
+    Object.keys(state.answers).forEach((key) => {
+      if (state.answers[key] === letter) {
+        delete state.answers[key];
+      }
+    });
+    state.answers[targetGap] = letter;
+    state.activeGap = targetGap;
+    saveState();
+    clearNotice();
+    renderPart6(reading);
+  }
+
+  function clearPart6Answer(gap, reading) {
+    if (state.submitted) {
+      return;
+    }
+    delete state.answers[gap];
+    state.activeGap = gap;
+    saveState();
+    renderPart6(reading);
   }
 
   function createChoiceOptions(question, index) {
@@ -370,6 +560,29 @@
     event.preventDefault();
     const reading = getCurrentReading();
 
+    if (isPart6(reading)) {
+      const gaps = Object.keys(reading.answers);
+      const selected = gaps.map((gap) => state.answers[gap]).filter(Boolean);
+      if (selected.length !== gaps.length || new Set(selected).size !== selected.length) {
+        showNotice("Please choose one different sentence for each gap before submitting.", true);
+        return;
+      }
+      state.correctCount = gaps.filter((gap) => state.answers[gap] === reading.answers[gap]).length;
+      state.score = state.correctCount * reading.pointsPerQuestion;
+      state.submitted = true;
+      state.showVocabulary = false;
+      state.showTranslation = false;
+      state.openExplanations = {};
+      state.showCompleteArticle = false;
+      saveState();
+      saveProgress(reading.date, state.score, reading.totalScore);
+      clearNotice();
+      renderQuestions(reading);
+      renderReviewState(reading);
+      renderArchive();
+      return;
+    }
+
     if (reading.questions.some((question, index) => !normalizeAnswer(state.answers[index]))) {
       showNotice("Please answer all questions before submitting.", true);
       return;
@@ -397,6 +610,9 @@
   }
 
   function getSectionCount(reading) {
+    if (isPart6(reading)) {
+      return 1;
+    }
     return new Set(reading.questions.map((question) => question.sectionTitle || "Questions")).size;
   }
 
@@ -411,7 +627,9 @@
   }
 
   function renderReviewState(reading) {
-    elements.scoreResult.textContent = `You got ${state.score} out of ${reading.questions.length} correct.`;
+    elements.scoreResult.textContent = isPart6(reading)
+      ? `Your score: ${state.score} / ${reading.totalScore}. Correct answers: ${state.correctCount || 0} / ${getQuestionTotal(reading)}.`
+      : `You got ${state.score} out of ${reading.questions.length} correct.`;
     elements.scoreResult.classList.toggle("hidden", !state.submitted);
 
     elements.submitButton.classList.toggle("hidden", state.submitted);

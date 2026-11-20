@@ -250,6 +250,124 @@ h3 {
   line-height: 1.85;
 }
 
+.part6-layout {
+  display: grid;
+  grid-template-columns: minmax(0, 1.55fr) minmax(280px, 1fr);
+  gap: 16px;
+}
+
+.part6-layout > .question-instructions,
+.part6-layout > .part6-review {
+  grid-column: 1 / -1;
+}
+
+.part6-article,
+.part6-complete-article {
+  padding: 18px;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  background: #fbfdfd;
+  white-space: pre-line;
+  line-height: 1.85;
+}
+
+.part6-options-heading {
+  margin-top: 4px;
+  grid-column: 2;
+}
+
+.part6-options {
+  display: grid;
+  gap: 10px;
+  grid-column: 2;
+}
+
+.part6-option {
+  display: grid;
+  grid-template-columns: 28px 1fr;
+  gap: 8px;
+  width: 100%;
+  min-height: 58px;
+  padding: 12px 14px;
+  border: 2px solid var(--border);
+  border-radius: 8px;
+  background: #ffffff;
+  color: var(--ink);
+  text-align: left;
+}
+
+.part6-option:hover,
+.part6-option.is-used {
+  border-color: var(--accent);
+  background: var(--accent-soft);
+}
+
+.part6-gap {
+  min-height: 42px;
+  margin: 4px 2px;
+  padding: 6px 10px;
+  border: 2px dashed var(--accent);
+  border-radius: 6px;
+  background: var(--accent-soft);
+  color: var(--accent-strong);
+  font-weight: 700;
+  vertical-align: middle;
+}
+
+.part6-gap.is-filled {
+  border-style: solid;
+  background: #eef8f0;
+}
+
+.part6-clear {
+  display: inline-block;
+  margin-left: 8px;
+  color: var(--wrong-text);
+  font-size: 0.9rem;
+}
+
+.part6-review {
+  display: grid;
+  gap: 12px;
+}
+
+.part6-feedback {
+  display: grid;
+  gap: 6px;
+  padding: 14px;
+  border-radius: 8px;
+}
+
+.part6-feedback.correct {
+  border: 1px solid var(--correct-border);
+  background: var(--correct-bg);
+  color: var(--correct-text);
+}
+
+.part6-feedback.wrong {
+  border: 1px solid var(--wrong-border);
+  background: var(--wrong-bg);
+  color: var(--wrong-text);
+}
+
+.part6-feedback .explanation-toggle {
+  width: fit-content;
+}
+
+.part6-explanation,
+.part6-extra-option {
+  margin: 6px 0 0;
+  color: var(--ink);
+}
+
+.part6-complete-sentence {
+  padding: 3px 5px;
+  border-radius: 4px;
+  background: var(--accent-soft);
+  color: var(--accent-strong);
+  font-weight: 700;
+}
+
 .question-block {
   margin: 18px 0;
   padding: 18px;
@@ -484,6 +602,27 @@ h3 {
 
   .card {
     padding: 18px;
+  }
+
+  .part6-article,
+  .part6-complete-article {
+    padding: 14px;
+  }
+
+  .part6-layout {
+    grid-template-columns: 1fr;
+  }
+
+  .part6-options-heading,
+  .part6-options {
+    grid-column: 1;
+  }
+
+  .part6-gap {
+    display: inline-block;
+    width: 100%;
+    margin: 8px 0;
+    text-align: left;
   }
 
   .section-heading {
