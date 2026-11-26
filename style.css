@@ -271,15 +271,15 @@ h3 {
   line-height: 1.85;
 }
 
-.part6-options-heading {
-  margin-top: 4px;
+.part6-options-panel {
   grid-column: 2;
+  align-self: start;
 }
 
 .part6-options {
   display: grid;
   gap: 10px;
-  grid-column: 2;
+  margin-top: 12px;
 }
 
 .part6-option {
@@ -613,8 +613,7 @@ h3 {
     grid-template-columns: 1fr;
   }
 
-  .part6-options-heading,
-  .part6-options {
+  .part6-options-panel {
     grid-column: 1;
   }
 

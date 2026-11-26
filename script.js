@@ -265,10 +265,13 @@
     appendPart6Text(article, reading.passage, false, reading);
     elements.part6Container.appendChild(article);
 
+    const optionsPanel = document.createElement("aside");
+    optionsPanel.className = "part6-options-panel";
+
     const optionsHeading = document.createElement("h3");
     optionsHeading.className = "part6-options-heading";
     optionsHeading.textContent = "Sentences A–G";
-    elements.part6Container.appendChild(optionsHeading);
+    optionsPanel.appendChild(optionsHeading);
 
     const options = document.createElement("div");
     options.className = "part6-options";
@@ -285,7 +288,8 @@
       });
       options.appendChild(option);
     });
-    elements.part6Container.appendChild(options);
+    optionsPanel.appendChild(options);
+    elements.part6Container.appendChild(optionsPanel);
 
     if (state.submitted) {
       const review = document.createElement("div");
