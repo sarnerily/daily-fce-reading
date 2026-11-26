@@ -254,6 +254,18 @@
 
   function renderPart6(reading) {
     elements.part6Container.innerHTML = "";
+    elements.part6Container.ondragover = (event) => {
+      if (state.submitted) {
+        return;
+      }
+      const edge = 110;
+      const distanceFromBottom = window.innerHeight - event.clientY;
+      if (event.clientY < edge) {
+        window.scrollBy({ top: -Math.ceil((edge - event.clientY) / 4), behavior: "auto" });
+      } else if (distanceFromBottom < edge) {
+        window.scrollBy({ top: Math.ceil((edge - distanceFromBottom) / 4), behavior: "auto" });
+      }
+    };
 
     const instructions = document.createElement("p");
     instructions.className = "question-instructions";
