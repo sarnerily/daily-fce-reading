@@ -274,10 +274,8 @@ h3 {
 .part6-options-panel {
   grid-column: 2;
   align-self: start;
-  position: fixed;
-  top: 50%;
-  right: max(24px, calc((100vw - 1180px) / 2 + 24px));
-  width: clamp(280px, 26vw, 350px);
+  position: sticky;
+  top: 50vh;
   z-index: 2;
   transform: translateY(-50%);
 }
@@ -624,7 +622,6 @@ h3 {
   .part6-options-panel {
     grid-column: 1;
     position: static;
-    width: auto;
     transform: none;
   }
 

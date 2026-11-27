@@ -101,6 +101,7 @@
     elements.readingDate.textContent = reading.date;
     elements.readingLevel.textContent = reading.level;
     elements.readingTitle.textContent = reading.title;
+    elements.passageText.classList.toggle("hidden", isPart6(reading));
     elements.questionCount.textContent = isPart6(reading)
       ? `${getQuestionTotal(reading)} gaps / ${reading.totalScore} points`
       : `${getQuestionTotal(reading)} questions / ${getSectionCount(reading)} parts`;
