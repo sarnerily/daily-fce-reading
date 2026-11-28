@@ -280,6 +280,7 @@
 
     const optionsPanel = document.createElement("aside");
     optionsPanel.className = "part6-options-panel";
+    optionsPanel.classList.toggle("hidden", state.submitted);
 
     const optionsHeading = document.createElement("h3");
     optionsHeading.className = "part6-options-heading";
